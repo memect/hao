@@ -1,10 +1,7 @@
-hao
-===
-
-好东西传送门
+好东西传送门: 微博上的轻问答
 
 
-历史问题
+最近的问题
 
 * 2014-07-21 问：@如果起居录 语义网用于GIS、RS领域 答：OGC在2000年制定GML1.0时就有RDFS版（不过后来给放弃了）。目前有W3C的Geospatial Semantic Web Community Group，几个国际工作会议，很多项目都与开放政府数据有关；GeoSPARQL, LinkedGeoData；数据库空间索引。合集传送门：http://t.cn/RPLGgIh [ [讨论](https://github.com/memect/hao/issues/3) ] [ [微博](http://www.weibo.com/5220650532/BeBCPyrVV) ]
  
