@@ -5,6 +5,7 @@
 
 * 2014-07-25 @shirleyChou1 问：**请问有没有Python + machine learning 从入门到进阶的完整link list呢**? 答: @52nlp 有个很好的总结，推荐去看 http://t.cn/RPboC0p 他提到的17个工具的开源代码按火爆程度列表在这里 http://t.cn/RPG2U0H。还有更多的机器学习包看这里 http://t.cn/RPGqlmf 入选的都是几百上千星的 [ [讨论](https://github.com/memect/hao/issues/8) ] [ [微博](http://www.weibo.com/5220650532/BfbXodqda) ]
 
+* 2014-07-22 问：@北冥渔翁:**日常维护管理的有吗？dba方面**？ 答：oracle dba在学习官方文档外，可以跟踪大神的博客，篇幅都不长且能很快掌握很多有用的实战经验。此外面试问题也反映了dba的技术要点。合集传送门 http://t.cn/RPLRu9v 推荐资深dba微博 @yangtingkun 有很多好文摘 http://t.cn/RPLRu9P [ [讨论](https://github.com/memect/hao/issues/10) ] [ [微博](http://www.weibo.com/5220650532/BeFY0AW0V) ]
 
 * 2014-07-21 问：@apple2811 **我需要Linux的资料** 答：不太清楚具体需要哪一类，先推荐些通用的：1）六篇入门导读，包括Linux的基本知识，学习Linux的攻略，以及在线学习资源列表 http://t.cn/RPLyqp0 2) 六个社区网站（中英文各半），包括官方网站，流量最大的社区，以及问答论坛 http://t.cn/RPLyqpO  [ [讨论](https://github.com/memect/hao/issues/9) ] [ [微博](http://www.weibo.com/5220650532/BeBaq8acb) ]
 
