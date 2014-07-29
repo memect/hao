@@ -13,4 +13,8 @@ hao
 
 * 2014-07-18 问：@曲线救己的fighter 求hive 答：正好有一组经大数据专家 @ShangguanRPI 整理的Hive资源（2012至今已经有27个帖子了） http://t.cn/RPwI2lO 在这个比较贴里，作者详细比较了Hive和其他的Hadoop上的SQL工具 http://www.weibo.com/1932835417/BaukhlfIT  [ [讨论](https://github.com/memect/hao/issues/4) ] [ [微博](http://www.weibo.com/5220650532/Be9Uxd5QX) ]
 
+* 2014-07-18 问： @apple2811 我需要找js的资料？ 答：见 http://t.cn/RPwtZB0 进阶主题包括 jquery, node.js, pattern, functional, closures, 性能优化 、可视化等。 推荐进阶阅读： 1、90页例程覆盖JS技术要点。 2、纽约大学的JS进阶课 3、原Yahoo大牛 Douglas Crockford的书，被无数人推重  [ [讨论](https://github.com/memect/hao/issues/5) ] [ [微博](http://www.weibo.com/5220650532/Be9tM2Iuj) ]
+
+
+
 * 2014-07-16 @跛嘞盖儿蹭马路牙子上卡秃噜皮了 问：数据具有统计分析的价值么？请问能不能结合链数据的特点和R来谈谈。简答如下：Linked Data作为数据的一种，当然也可以做统计分析。可以看作Statistical relational learning的扩展。全文 http://t.cn/RP7oQxk 推荐资源的合集 http://t.cn/RP7oQxF  [ [讨论](https://github.com/memect/hao/issues/1) ] [ [微博](http://www.weibo.com/3161813504/BdMlxjDb0) ]
