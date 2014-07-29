@@ -5,7 +5,7 @@
 
 * 2014-07-25 @shirleyChou1 问：**请问有没有Python + machine learning 从入门到进阶的完整link list呢**? 答: @52nlp 有个很好的总结，推荐去看 http://t.cn/RPboC0p 他提到的17个工具的开源代码按火爆程度列表在这里 http://t.cn/RPG2U0H。还有更多的机器学习包看这里 http://t.cn/RPGqlmf 入选的都是几百上千星的 [ [讨论](https://github.com/memect/hao/issues/8) ] [ [微博](http://www.weibo.com/5220650532/BfbXodqda) ]
 
-* 2014-07-25 @AngelZywei 问：推荐一下图像模糊检测的一些开源项目和资料吧。答：图像失焦和清晰度检测，有梯度检测，边缘检测等原理，具体的实现有拉普拉斯变换，Hough变换，小波变换等方法。这一组推荐资源13个，分为5篇经典论文，5个开源项目 (bash, python,C,C++, Clojure)和3篇问答 http://t.cn/RPGfOkO  [ [讨论](https://github.com/memect/hao/issues/13) ] [ [微博](http://www.weibo.com/5220650532/Bfcp2DVON) ]
+* 2014-07-25 @AngelZywei 问：**推荐一下图像模糊检测的一些开源项目和资料吧**。答：图像失焦和清晰度检测，有梯度检测，边缘检测等原理，具体的实现有拉普拉斯变换，Hough变换，小波变换等方法。这一组推荐资源13个，分为5篇经典论文，5个开源项目 (bash, python,C,C++, Clojure)和3篇问答 http://t.cn/RPGfOkO  [ [讨论](https://github.com/memect/hao/issues/13) ] [ [微博](http://www.weibo.com/5220650532/Bfcp2DVON) ]
 
 
 * 2014-07-24 @国产哈利波特007 问：**能帮我找下数据挖掘方面的算法吗**？答：推荐从这几本免费的数据挖掘与数据分析书开始。其中A Programmer’s Guide to Data Mining简明扼要，适合入门。Data Mining Algorithms In R解释了基本概念。Mining of Massive Datasets 可以进阶阅读。 http://t.cn/RP4Wmhu  [ [讨论](https://github.com/memect/hao/issues/11) ] [ [微博](http://www.weibo.com/5220650532/Bf1Pe5Re3) ]
