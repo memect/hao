@@ -10,7 +10,7 @@
 
 * 2014-07-24 @国产哈利波特007 问：**能帮我找下数据挖掘方面的算法吗**？答：推荐从这几本免费的数据挖掘与数据分析书开始。其中A Programmer’s Guide to Data Mining简明扼要，适合入门。Data Mining Algorithms In R解释了基本概念。Mining of Massive Datasets 可以进阶阅读。 http://t.cn/RP4Wmhu [ [讨论](https://github.com/memect/hao/issues/11) ] [ [微博](http://www.weibo.com/5220650532/Bf1Pe5Re3) ]
 
-* 2014-07-23 @tang_Kaka_back 问:有没有时间序列分析的相关资料？答：这里收集了一组时间序列分析入门资源。分为三组：第一组是三本电子书，都是经典，其中两本免费 http://t.cn/RPUHGWb 第二组是9个教程，来自博客和中外大学课件 http://t.cn/RPUHGWL 第三组是维基百科上的核心概念介绍 http://t.cn/RPUHGW2 [ [讨论](https://github.com/memect/hao/issues/14) ] [ [微博](http://www.weibo.com/5220650532/BeTczsXJx) ]
+* 2014-07-23 @tang_Kaka_back 问:**有没有时间序列分析的相关资料**？答：这里收集了一组时间序列分析入门资源。分为三组：第一组是三本电子书，都是经典，其中两本免费 http://t.cn/RPUHGWb 第二组是9个教程，来自博客和中外大学课件 http://t.cn/RPUHGWL 第三组是维基百科上的核心概念介绍 http://t.cn/RPUHGW2 [ [讨论](https://github.com/memect/hao/issues/14) ] [ [微博](http://www.weibo.com/5220650532/BeTczsXJx) ]
 
 
 * 2014-07-22 @呯呀么呯 问：**识别交通标志，怎么确定图片里有交通标志，具体在哪里**？答：这个应该算目标识别和物体识别，CV的经典教程都有object recognition的内容可以参考。具体到交通标志识别，Github上有些开源代码 Matlab C++ Java的都有http://t.cn/RPLR99i 计算机视觉@DeepGlint赵勇 是专家，推荐关注  [ [讨论](https://github.com/memect/hao/issues/12) ] [ [微博](http://www.weibo.com/5220650532/BeFSRtUKj) ]
