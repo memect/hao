@@ -3,6 +3,8 @@
 
 最近的问题
 
+* 2014-07-29 @娄琦天天刷围脖: **请问有没有Python集成Fortran项目的实例**？答：历史上有F2Py作为Python的Fortran接口，现在已经集成到Numpy里了。numpy底层很多计算都是Fortran的，所以大量Python项目已经在间接用Fortran。具体的语法例子看这里 http://t.cn/RPVqpLo [ [讨论](https://github.com/memect/hao/issues/15) ] [ [微博](http://www.weibo.com/5220650532/BfOOplhPX) ]
+
 * 2014-07-25 @shirleyChou1 问：**请问有没有Python + machine learning 从入门到进阶的完整link list呢**? 答: @52nlp 有个很好的总结，推荐去看 http://t.cn/RPboC0p 他提到的17个工具的开源代码按火爆程度列表在这里 http://t.cn/RPG2U0H。还有更多的机器学习包看这里 http://t.cn/RPGqlmf 入选的都是几百上千星的 [ [讨论](https://github.com/memect/hao/issues/8) ] [ [微博](http://www.weibo.com/5220650532/BfbXodqda) ]
 
 * 2014-07-25 @AngelZywei 问：**推荐一下图像模糊检测的一些开源项目和资料吧**。答：图像失焦和清晰度检测，有梯度检测，边缘检测等原理，具体的实现有拉普拉斯变换，Hough变换，小波变换等方法。这一组推荐资源13个，分为5篇经典论文，5个开源项目 (bash, python,C,C++, Clojure)和3篇问答 http://t.cn/RPGfOkO  [ [讨论](https://github.com/memect/hao/issues/13) ] [ [微博](http://www.weibo.com/5220650532/Bfcp2DVON) ]
