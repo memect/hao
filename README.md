@@ -7,6 +7,7 @@
 
 * 2014-07-24 @国产哈利波特007 问：**能帮我找下数据挖掘方面的算法吗**？答：推荐从这几本免费的数据挖掘与数据分析书开始。其中A Programmer’s Guide to Data Mining简明扼要，适合入门。Data Mining Algorithms In R解释了基本概念。Mining of Massive Datasets 可以进阶阅读。 http://t.cn/RP4Wmhu  [ [讨论](https://github.com/memect/hao/issues/11) ] [ [微博](http://www.weibo.com/5220650532/Bf1Pe5Re3) ]
 
+* 2014-07-22 @呯呀么呯 问：**识别交通标志，怎么确定图片里有交通标志，具体在哪里**？答：这个应该算目标识别和物体识别，CV的经典教程都有object recognition的内容可以参考。具体到交通标志识别，Github上有些开源代码 Matlab C++ Java的都有http://t.cn/RPLR99i 计算机视觉@DeepGlint赵勇 是专家，推荐关注  [ [讨论](https://github.com/memect/hao/issues/12) ] [ [微博](http://www.weibo.com/5220650532/BeFSRtUKj) ]
 
 * 2014-07-22 问：@北冥渔翁:**日常维护管理的有吗？dba方面**？ 答：oracle dba在学习官方文档外，可以跟踪大神的博客，篇幅都不长且能很快掌握很多有用的实战经验。此外面试问题也反映了dba的技术要点。合集传送门 http://t.cn/RPLRu9v 推荐资深dba微博 @yangtingkun 有很多好文摘 http://t.cn/RPLRu9P [ [讨论](https://github.com/memect/hao/issues/10) ] [ [微博](http://www.weibo.com/5220650532/BeFY0AW0V) ]
 
