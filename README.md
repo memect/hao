@@ -8,6 +8,8 @@
 
 <hr/>
 
+还没有回答的问题，欢迎留言、认领 https://github.com/memect/hao/issues
+
 最近的问题
 
 * 2014-07-29 @鱼片的小露宝 问：**希望大数据分析和机器学习方向推荐一些书,最好是java而且比较基础容易上手的**。答: Kirk Borne推荐过15本书 http://t.cn/RPcpSHG 用Java入门可以先学Weka Mahout和MLTK。这有一组入门资源 http://t.cn/RPcpSHb @朝花夕拾录 推荐过的CMU机器学习暑期班也非常好 http://t.cn/RPcpSHq [ [讨论](https://github.com/memect/hao/issues/20) ] [ [微博](http://www.weibo.com/5220650532/BfKdEzlLP) ]
