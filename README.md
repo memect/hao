@@ -2,6 +2,7 @@
 
 好东西传送门: 微博上的轻问答
 * 关注微博  http://www.weibo.com/haoawesome/
+* 微信号：好东西传送门
 * 网站 http://hao.memect.com/
 
 还没有回答的问题，欢迎留言、认领 https://github.com/memect/hao/issues
