@@ -28,7 +28,7 @@
   * 2014-07-27 [续http://t.cn/RP5WYnt ] @小飞鱼_露 问：**能否推荐一些关于 Learning to Rank 的相关论文，教程，应用呢**？答2：前次推荐了25篇文章，主要是相关算法。@刘知远THU 和 @老师木 进一步推荐了 @刘铁岩 和 @李航博士 的综述和专著，更适合入门 http://t.cn/RP5WYn5 全部LTR资源 http://t.cn/RP5WYnc  [ [讨论](https://github.com/memect/hao/issues/17) ] [ [微博](http://www.weibo.com/5220650532/Bfvpro1Kq) ]
 
 
-* 2014-07-26 @姚鹏鹏YPP 问：能不能推荐深度学习或者机器学习在图像检索中的应用的论文？答：最权威的索引可以说是最近CVPR 2014上的深度学习在计算机视觉上的教程，主讲人全是本领域的大拿，一共13个讲稿，基础/进阶/实践全有，顺着每个后面附的文献列表可以把领域内重要论文一网打尽了。http://t.cn/RPqzoPJ [ [讨论](https://github.com/memect/hao/issues/31) ] [ [微博](http://www.weibo.com/5220650532/BfibJnVlU) ]
+* 2014-07-26 @姚鹏鹏YPP 问：**能不能推荐深度学习或者机器学习在图像检索中的应用的论文**？答：最权威的索引可以说是最近CVPR 2014上的深度学习在计算机视觉上的教程，主讲人全是本领域的大拿，一共13个讲稿，基础/进阶/实践全有，顺着每个后面附的文献列表可以把领域内重要论文一网打尽了。http://t.cn/RPqzoPJ [ [讨论](https://github.com/memect/hao/issues/31) ] [ [微博](http://www.weibo.com/5220650532/BfibJnVlU) ]
 
 
 * 2014-07-25 @shirleyChou1 问：**请问有没有Python + machine learning 从入门到进阶的完整link list呢**? 答: @52nlp 有个很好的总结，推荐去看 http://t.cn/RPboC0p 他提到的17个工具的开源代码按火爆程度列表在这里 http://t.cn/RPG2U0H。还有更多的机器学习包看这里 http://t.cn/RPGqlmf 入选的都是几百上千星的 [ [讨论](https://github.com/memect/hao/issues/8) ] [ [微博](http://www.weibo.com/5220650532/BfbXodqda) ]
