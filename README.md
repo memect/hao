@@ -123,6 +123,11 @@
 
 ## 文摘
 
+* 2014-07-22  @龙星计划 计算机方面的经典资料可以参见这个博客。http://t.cn/Rv6rzrj 维护者@52cs [ [微博](http://www.weibo.com/1830516311/BeNwacwCd) ]
+
+
+* 2014-07-22 @AixinSG 推荐大数据综述文章 Toward Scalable Systems for Big Data Analytics: A Technology Tutorial 36页长文免费下载 http://t.cn/RPLDPNK 文章引用接近300篇文献，涵盖数据生成，获取，存储，及分析等主要技术综述 @云教授之云媒体  [ [微博](http://www.weibo.com/1025887594/BeI3I8mMZ) ]
+
 
 * 2014-07-21 @城市数据派-UDParty(城市规划)
 【全球 55 个城市数据分享平台（ Urban Observatory）】城市瞭望台（ Urban Observatory）项目：全球 55 个大城市在此分享城市数据，这将是世界上第一个真正意义上的公共瞭望台。同步对比影响世界城市的重要因素，交通、人口、道路速度、开放空间、年轻人口、老年人口等。详见：http://t.cn/RPLqc8T [ [微博](http://www.weibo.com/3926512618/BeBFodmIo) ]
