@@ -138,7 +138,13 @@ Probabilistic Programming summer school 在Portland顺利结束 教学资料见 
 * 2014-07-19 @AixinSG 大牛给的信息检索方面综述文章列表，涵盖IR方向N多问题 http://t.cn/RPAL69M  [ [微博](http://www.weibo.com/1025887594/Behxw9itr) ]
 
 
+* 2014-07-18 @我爱机器学习 【Awesome Machine Learning】http://t.cn/RPZ80gD 一个超级完整的机器学习开源库总结，如果你认为这个碉堡了，那后面这个列表会更让你惊讶：【Awesome Awesomeness】http://t.cn/RPZ80gk 各种编程语言等都有汇总，值得收藏以备不时之需。 [ [微博](http://www.weibo.com/5066241201/Be5JrDaVM) ]
+
+
 * 2014-07-17 @朝花夕拾录 [资源贴] cassendra 2.1 beta rc3新特性：1、 用户自定义数据类型(UDT)：支持集合类型Set和Map，以及其上的二级索引； 2、读写速度提高超过50%；3、行数据的聚集(cluster)与缓存(cache)；4、counter设计优化，提高安全和一致性；5、更好的压缩机制,用commit log绕过直接读写 http://t.cn/RPzKcaH [ [微博](http://www.weibo.com/3204614242/BdUTtkSrl) ]
+
+
+* 2014-07-17 @hbyido 大量的专业书 数学书下载，推荐 万千合集站 一个专注于资源整理、分类和提供免费下载服务的网站 http://t.cn/RvUYeY7 http://t.cn/RvUYeY7  [ [微博](http://www.weibo.com/1646706835/Be1wvuzmc) ]
 
 
 * 2014-07-16 @西瓜大丸子汤 Jim Hendler今天的视频和PPT: Semantic Web: The Inside Story 强烈推荐搞人工智能的同仁都看看 http://t.cn/RP7CLin 语义网作为符号主义走向应用的尝试，也曾获得与深度学习类似的投资与眼球。结合前两天关于AI winter的讨论，其在今天尤其有参考意义 http://t.cn/RP7CLim @王海勋haixun @Gary南京 [ [微博](http://www.weibo.com/1932835417/BdMYzDNz6) ]
