@@ -4,13 +4,16 @@
 * 关注微博  http://www.weibo.com/haoawesome/
 * 网站 http://hao.memect.com/
 
+还没有回答的问题，欢迎留言、认领 https://github.com/memect/hao/issues
+
+目录* auto-gen TOC:
+{:toc}
 
 本站内容许可证：[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
 <hr/>
 
-还没有回答的问题，欢迎留言、认领 https://github.com/memect/hao/issues
 
 ## 最近的问答
 
