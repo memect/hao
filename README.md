@@ -9,7 +9,7 @@
 
 目录
 * [最近的问答](README.md#最近的问答)
-* [推荐资源](README.md#推荐资源)
+* [文摘](README.md#文摘)
 
 本站内容许可证：[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
@@ -121,7 +121,7 @@
 
 * 2014-07-16 @跛嘞盖儿蹭马路牙子上卡秃噜皮了 问：**数据具有统计分析的价值么？请问能不能结合链数据的特点和R来谈谈**。简答如下：Linked Data作为数据的一种，当然也可以做统计分析。可以看作Statistical relational learning的扩展。全文 http://t.cn/RP7oQxk 推荐资源的合集 http://t.cn/RP7oQxF  [ [讨论](https://github.com/memect/hao/issues/1) ] [ [微博](http://www.weibo.com/3161813504/BdMlxjDb0) ]
 
-## Digest
+## 文摘
 
 * 2014-07-17 @朝花夕拾录 [资源贴] cassendra 2.1 beta rc3新特性：1、 用户自定义数据类型(UDT)：支持集合类型Set和Map，以及其上的二级索引； 2、读写速度提高超过50%；3、行数据的聚集(cluster)与缓存(cache)；4、counter设计优化，提高安全和一致性；5、更好的压缩机制,用commit log绕过直接读写 http://t.cn/RPzKcaH [ [微博](http://www.weibo.com/3204614242/BdUTtkSrl) ]
 
