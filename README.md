@@ -1,6 +1,9 @@
 好东西传送门: 微博上的轻问答
 
 
+许可证：[Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+
 最近的问题
 
 * 2014-07-29 问：@北冥渔翁 **我要找windows服务器维护管理进阶的资料** 答：服务器管理进阶通常是由新需求触发的，例如系统升级，效率优化，安全补丁，软件安装。这里 http://t.cn/RPcOYXo 罗列了一本免费书，几个博客与论坛， 希望微软专家（尤其是MVP）补充指正 @肥九叔 @曾经胖哥 @月光博客 @Edi_Wang  [ [讨论](https://github.com/memect/hao/issues/19) ] [ [微博](http://www.weibo.com/5220650532/BfKMJFqJM) ]
