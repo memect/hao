@@ -3,6 +3,8 @@
 
 最近的问题
 
+* 2014-07-29 @norvid 问:**求数据仓库的元数据的相关综述资料**。 答：数据仓库自2000年起逐渐从学术研究转到工业应用。热点是大数据挖掘，但元数据仍是数据链接聚合之关键。http://t.cn/RPV4wmy 罗列几个综述。推荐看uzh的幻灯片和Gartner分析报告。搜索词：logical data warehouse, Ontology-based Data Warehouse   [ [讨论](https://github.com/memect/hao/issues/16) ] [ [微博](http://www.weibo.com/5220650532/BfOvkc0cq) ]
+
 * 2014-07-29 @娄琦天天刷围脖: **请问有没有Python集成Fortran项目的实例**？答：历史上有F2Py作为Python的Fortran接口，现在已经集成到Numpy里了。numpy底层很多计算都是Fortran的，所以大量Python项目已经在间接用Fortran。具体的语法例子看这里 http://t.cn/RPVqpLo [ [讨论](https://github.com/memect/hao/issues/15) ] [ [微博](http://www.weibo.com/5220650532/BfOOplhPX) ]
 
 * 2014-07-25 @shirleyChou1 问：**请问有没有Python + machine learning 从入门到进阶的完整link list呢**? 答: @52nlp 有个很好的总结，推荐去看 http://t.cn/RPboC0p 他提到的17个工具的开源代码按火爆程度列表在这里 http://t.cn/RPG2U0H。还有更多的机器学习包看这里 http://t.cn/RPGqlmf 入选的都是几百上千星的 [ [讨论](https://github.com/memect/hao/issues/8) ] [ [微博](http://www.weibo.com/5220650532/BfbXodqda) ]
