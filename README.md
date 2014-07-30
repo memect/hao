@@ -144,12 +144,19 @@ Probabilistic Programming summer school 在Portland顺利结束 教学资料见 
 * 2014-07-17 @朝花夕拾录 [资源贴] cassendra 2.1 beta rc3新特性：1、 用户自定义数据类型(UDT)：支持集合类型Set和Map，以及其上的二级索引； 2、读写速度提高超过50%；3、行数据的聚集(cluster)与缓存(cache)；4、counter设计优化，提高安全和一致性；5、更好的压缩机制,用commit log绕过直接读写 http://t.cn/RPzKcaH [ [微博](http://www.weibo.com/3204614242/BdUTtkSrl) ]
 
 
+* 2014-07-17 @唐杰THU 推荐密歇根的H V Jagadish、康奈尔及微软Partner Scientist JOHANNES GEHRKE, Fellow RAGHU RAMAKRISHNAN等数据库专家在Communication of  ACM上关于《大数据技术挑战》，从数据获取、抽取、清洗、集成和建模几个过程阐述其中的数据不一致、不完整、动态、隐私等面临的挑战。http://t.cn/RPzk8wG [ [微博](http://www.weibo.com/2126427211/BdYGPBxV8) ]
+
+
 * 2014-07-17 @hbyido 大量的专业书 数学书下载，推荐 万千合集站 一个专注于资源整理、分类和提供免费下载服务的网站 http://t.cn/RvUYeY7 http://t.cn/RvUYeY7  [ [微博](http://www.weibo.com/1646706835/Be1wvuzmc) ]
 
 
 * 2014-07-16 @西瓜大丸子汤 Jim Hendler今天的视频和PPT: Semantic Web: The Inside Story 强烈推荐搞人工智能的同仁都看看 http://t.cn/RP7CLin 语义网作为符号主义走向应用的尝试，也曾获得与深度学习类似的投资与眼球。结合前两天关于AI winter的讨论，其在今天尤其有参考意义 http://t.cn/RP7CLim @王海勋haixun @Gary南京 [ [微博](http://www.weibo.com/1932835417/BdMYzDNz6) ]
 
 * 2014-07-16 @西瓜大丸子汤 http://t.cn/RP7Q1pR 深度学习70+条学习资源。这70多条是从Memect用户过去两年的阅读列表里精选出来的，每一条都经过了人工的过滤。从入门到进阶，各大个公司的应用案例，各种软件包的介绍，实战汇报，基本都是实用内容，理论联系实际。随后我们还会特约专家加以导读和点评。[ [微博](http://www.weibo.com/1932835417/BdOlKoAE0) ]
+
+
+* 2014-07-16 @52nlp "线性代数的学习及相关资源" http://t.cn/zOQBTSC , 这个里面汇集了资源，包括电子版教材, “找到一个不错的电子版，非扫描版并且是第4版：Introduction to Linear Algebra_4ED_Strang” ，昨天有同学私信说爱问的已经废了，刚才上传到百度网盘并做了私密分享，感兴趣的同学请在该文尾部找答案。 [ [微博](http://www.weibo.com/2104931705/BdOSF3lrP) ]
+
 
 * 2014-07-16 @朝花夕拾录 ［资源贴］续上文 http://t.cn/RP7N6AS 目前整理出了80多个大数据可视化工具：http://t.cn/RP7N6AK javascript类51个，地图类有21个 ，图表类34个，svg类15个；继续增补中，欢迎指正。 －－题外话，大数据可视化也要用美女打广告。猜猜那个帅哥是哪个工具的“代言人”，期待大数据展会的“数模” [ [微博](http://www.weibo.com/3204614242/BdNc7rpSB) ]
 
