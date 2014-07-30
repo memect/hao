@@ -10,6 +10,9 @@
 
 最近的问题
 
+* 2014-07-29 @鱼片的小露宝 问：**希望大数据分析和机器学习方向推荐一些书,最好是java而且比较基础容易上手的**。答: Kirk Borne推荐过15本书 http://t.cn/RPcpSHG 用Java入门可以先学Weka Mahout和MLTK。这有一组入门资源 http://t.cn/RPcpSHb @朝花夕拾录 推荐过的CMU机器学习暑期班也非常好 http://t.cn/RPcpSHq [ [讨论](https://github.com/memect/hao/issues/20) ] [ [微博](http://www.weibo.com/5220650532/BfKdEzlLP) ]
+
+
 * 2014-07-29 问：@北冥渔翁 **我要找windows服务器维护管理进阶的资料** 答：服务器管理进阶通常是由新需求触发的，例如系统升级，效率优化，安全补丁，软件安装。这里 http://t.cn/RPcOYXo 罗列了一本免费书，几个博客与论坛， 希望微软专家（尤其是MVP）补充指正 @肥九叔 @曾经胖哥 @月光博客 @Edi_Wang  [ [讨论](https://github.com/memect/hao/issues/19) ] [ [微博](http://www.weibo.com/5220650532/BfKMJFqJM) ]
 
 * 2014-07-29 @norvid 问:**求数据仓库的元数据的相关综述资料**。 答：数据仓库自2000年起逐渐从学术研究转到工业应用。热点是大数据挖掘，但元数据仍是数据链接聚合之关键。http://t.cn/RPV4wmy 罗列几个综述。推荐看uzh的幻灯片和Gartner分析报告。搜索词：logical data warehouse, Ontology-based Data Warehouse  [ [讨论](https://github.com/memect/hao/issues/16) ] [ [微博](http://www.weibo.com/5220650532/BfOvkc0cq) ]
