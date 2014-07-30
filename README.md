@@ -123,6 +123,11 @@
 
 ## 文摘
 
+
+* 2014-07-21 @城市数据派-UDParty(城市规划)
+【全球 55 个城市数据分享平台（ Urban Observatory）】城市瞭望台（ Urban Observatory）项目：全球 55 个大城市在此分享城市数据，这将是世界上第一个真正意义上的公共瞭望台。同步对比影响世界城市的重要因素，交通、人口、道路速度、开放空间、年轻人口、老年人口等。详见：http://t.cn/RPLqc8T [ [微博](http://www.weibo.com/3926512618/BeBFodmIo) ]
+
+
 * 2014-07-17 @朝花夕拾录 [资源贴] cassendra 2.1 beta rc3新特性：1、 用户自定义数据类型(UDT)：支持集合类型Set和Map，以及其上的二级索引； 2、读写速度提高超过50%；3、行数据的聚集(cluster)与缓存(cache)；4、counter设计优化，提高安全和一致性；5、更好的压缩机制,用commit log绕过直接读写 http://t.cn/RPzKcaH [ [微博](http://www.weibo.com/3204614242/BdUTtkSrl) ]
 
 
@@ -210,3 +215,6 @@
 * 2014-06-19 @朝花夕拾录 #大数据专题# 12个与#2014世界杯#相关的在线资源:（1）总结如何预测冠军得主；（2）大数据应用例程（bing, sas, rapidminner)； （3）免费在线数据库，可下载（football.io, json api)。 http://t.cn/Rv0OOd2 [ [微博](http://www.weibo.com/3204614242/B9EtcxrE4) ]
 
 * 2013-09-20 @developerWorks 免费电子书《面向程序员的数据挖掘实战指南》，侧重实例，以 Python 语言讲解。目前已完成6章，仍在更新中，并且提供 PDF 下载。http://t.cn/zWQEQH8 作者：Ron Zacharski cc @ResysChina [ [微博](http://www.weibo.com/1894238970/Aai5HCiWx) ]
+
+
+* 2013-1-28 @陈利人 【机器学习中的数学系列】回归、梯度下降 http://t.cn/hDoULu ；线性回归，偏差、方差权衡 http://t.cn/Sxppf2 ；模型组合之Boosting与Gradient Boosting http://t.cn/SP05f3 ；线性判别分析, 主成分分析 http://t.cn/SAeY2U ；强大的矩阵奇异值分解及其应用 http://t.cn/akJxgj  [ [微博](http://www.weibo.com/1915548291/zgzoTcvzL) ]
