@@ -7,8 +7,8 @@
 还没有回答的问题，欢迎留言、认领 https://github.com/memect/hao/issues
 
 目录
-* [#最近的问答](最近的问答)
-* [#推荐资源](推荐资源)
+* [README.md#最近的问答](最近的问答)
+* [README.md#推荐资源](推荐资源)
 
 本站内容许可证：[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
