@@ -12,7 +12,7 @@
 
 还没有回答的问题，欢迎留言、认领 https://github.com/memect/hao/issues
 
-最近的问题
+## 最近的问答
 
 * 2014-07-29 @鱼片的小露宝 问：**希望大数据分析和机器学习方向推荐一些书,最好是java而且比较基础容易上手的**。答: Kirk Borne推荐过15本书 http://t.cn/RPcpSHG 用Java入门可以先学Weka Mahout和MLTK。这有一组入门资源 http://t.cn/RPcpSHb @朝花夕拾录 推荐过的CMU机器学习暑期班也非常好 http://t.cn/RPcpSHq [ [讨论](https://github.com/memect/hao/issues/20) ] [ [微博](http://www.weibo.com/5220650532/BfKdEzlLP) ]
 
@@ -62,3 +62,7 @@
 * 2014-07-18 @lovesherlock 问：**有没有可以保存自己微博信息的软件或者代码什么的**？ 答：我们现在小范围开放个人微博信息的保存, 例如此前推荐的大牛骆逸的微博合集收藏 http://t.cn/RPZdL42 我们也提供单条微博的收藏，把微博变成可引用的卡片，例如 http://t.cn/RPZdL4y 纯图片 http://t.cn/RPZdL4L 图文   [ [讨论](https://github.com/memect/hao/issues/6) ] [ [微博](http://www.weibo.com/5220650532/Be6UJpAkm) ]
 
 * 2014-07-16 @跛嘞盖儿蹭马路牙子上卡秃噜皮了 问：**数据具有统计分析的价值么？请问能不能结合链数据的特点和R来谈谈**。简答如下：Linked Data作为数据的一种，当然也可以做统计分析。可以看作Statistical relational learning的扩展。全文 http://t.cn/RP7oQxk 推荐资源的合集 http://t.cn/RP7oQxF  [ [讨论](https://github.com/memect/hao/issues/1) ] [ [微博](http://www.weibo.com/3161813504/BdMlxjDb0) ]
+
+## 推荐资源
+
+* 2014-07-30　感谢@北京-小武 推荐的云计算白皮书，已收录到大数据精华区 http://t.cn/RPfx7P7 为方便大家快速浏览，文中所有的图表已摘出来单列，更加节约略读时间  [ [微博](http://www.weibo.com/5220650532/BfWFKh91b) ]
