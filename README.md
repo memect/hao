@@ -52,7 +52,7 @@
 
 * 2014-07-25 [资源合集] **欧洲python大会（7月21到 27号）50多个视频与十多个幻灯片**。最火话题：Python能从Haskell学到什么 http://t.cn/RPbBxX5 其他一些热点PPT：Pypy编译器进展, 图数据库，消息传递与并发，用pymc3和Scikit-learn做机器学习，OpenStack云计算平台。更多好东西见 http://t.cn/RPbBxXq [ [微博](http://www.weibo.com/5220650532/Bf9Rfwjpq?mod=weibotime) ]
 
-* 2014-07-25 [资源合集] http://t.cn/RPb1ewQ Github上13个最热门的NoSQL数据库排名。第一的是键值数据库Redis，近万颗星。第二,三是RethinkDB和MongoDB，两大竞争的文档数据库。第四是pouchdb，2800星，一个Javascript的可以跑在浏览器的数据库。图数据库Titan第五。其他有flockdb couchdb riak ravendb orientdb等 [ [微博](http://www.weibo.com/5220650532/Bf9MHlbQA?mod=weibotime) ]
+* 2014-07-25 [资源合集] http://t.cn/RPb1ewQ **Github上13个最热门的NoSQL数据库排名**。第一的是键值数据库Redis，近万颗星。第二,三是RethinkDB和MongoDB，两大竞争的文档数据库。第四是pouchdb，2800星，一个Javascript的可以跑在浏览器的数据库。图数据库Titan第五。其他有flockdb couchdb riak ravendb orientdb等 [ [微博](http://www.weibo.com/5220650532/Bf9MHlbQA?mod=weibotime) ]
 
 * 2014-07-25 @AngelZywei 问：**推荐一下图像模糊检测的一些开源项目和资料吧**。答：图像失焦和清晰度检测，有梯度检测，边缘检测等原理，具体的实现有拉普拉斯变换，Hough变换，小波变换等方法。这一组推荐资源13个，分为5篇经典论文，5个开源项目 (bash, python,C,C++, Clojure)和3篇问答 http://t.cn/RPGfOkO  [ [讨论](https://github.com/memect/hao/issues/13) ] [ [微博](http://www.weibo.com/5220650532/Bfcp2DVON) ]
 
@@ -68,7 +68,7 @@
   * 第三组基本概念，也推荐看这个博客上的图 http://t.cn/RPUmVGK , 简明扼要，要搞懂什么概念一目了然。基础概念有时域分析，频域分析，ARIMA模型和各种变种。英文维基介绍的很清楚  [ [微博](http://www.weibo.com/5220650532/BeTKjzWXc?mod=weibotime) ]
   * 续时间序列分析入门24个资源 http://t.cn/RPUuHJU 再推荐更多进阶内容。Memect大数据精华区有很多Hadoop上的时间序列分析文章 http://t.cn/RPUmu9T Python精华区有统计实战和StatsModels等包的介绍 http://t.cn/RPUmu9H 最后推荐一个统计专家的专辑，有很多有趣的统计文章 http://t.cn/RPUmu9Q [完] [ [微博](http://www.weibo.com/5220650532/BeTRQs0iB?mod=weibotime) ]
 
-* 2014-07-23 http://t.cn/RPUxwc6 万维网科学暑期学校的PPT上线了 Web Science Summer School 2014: Age of Data 院士级巨头Wendy Hall (ACM前主席)，Nigel Shadbolt （英国政府公开数据领导者），Jim Hendler（语义网之父）等主讲。内容涉及链接数据，开放数据，数据分析等。共41个资源 感谢@lidingpku 推荐 [ [微博](http://www.weibo.com/5220650532/BeRusDWdT?mod=weibotime) ]
+* 2014-07-23 http://t.cn/RPUxwc6 **万维网科学暑期学校的PPT上线了** Web Science Summer School 2014: Age of Data 院士级巨头Wendy Hall (ACM前主席)，Nigel Shadbolt （英国政府公开数据领导者），Jim Hendler（语义网之父）等主讲。内容涉及链接数据，开放数据，数据分析等。共41个资源 感谢@lidingpku 推荐 [ [微博](http://www.weibo.com/5220650532/BeRusDWdT?mod=weibotime) ]
 
 * 2014-07-22 @呯呀么呯 问：**识别交通标志，怎么确定图片里有交通标志，具体在哪里**？答：这个应该算目标识别和物体识别，CV的经典教程都有object recognition的内容可以参考。具体到交通标志识别，Github上有些开源代码 Matlab C++ Java的都有http://t.cn/RPLR99i 计算机视觉@DeepGlint赵勇 是专家，推荐关注  [ [讨论](https://github.com/memect/hao/issues/12) ] [ [微博](http://www.weibo.com/5220650532/BeFSRtUKj) ]
   ** @朝花夕拾录: 正好发现一篇学术界的综述文，An overview of traffic sign detection methods http://t.cn/RPLdXUw  [ [微博](http://www.weibo.com/3204614242/BeHKUs2la) ]
@@ -76,7 +76,7 @@
 * 2014-07-22 问：@北冥渔翁:**日常维护管理的有吗？dba方面**？ 答：oracle dba在学习官方文档外，可以跟踪大神的博客，篇幅都不长且能很快掌握很多有用的实战经验。此外面试问题也反映了dba的技术要点。合集传送门 http://t.cn/RPLRu9v 推荐资深dba微博 @yangtingkun 有很多好文摘 http://t.cn/RPLRu9P [ [讨论](https://github.com/memect/hao/issues/10) ] [ [微博](http://www.weibo.com/5220650532/BeFY0AW0V) ]
   ** @老熊的三分地 (Jun Xiong) 也是Oracle DBA的资深专家，特别推荐他的同名的中文博客 laoxiong.net http://t.cn/a9OBev 很多干货  [ [微博](http://www.weibo.com/5220650532/BeHz6bKWo?mod=weibotime) ]
 
-* 2014-07-21 @AixinSG 昨天推荐了CommonCrawl ．这是Google Adsense之父Gil Elbaz离开Google后，为了实现开放数据的理想创立的（他另一个项目是Factual）项目理想是解决大搜索引擎对数据的垄断，鼓励中小企业利用Web数据创业．最新的数据有50亿页面，541T．这里搜集CC相关资源 http://t.cn/RP2Hwxp 待续 [ [微博](http://www.weibo.com/5220650532/BexYIu4TO?mod=weibotime) ]
+* 2014-07-21 @AixinSG 昨天推荐了**CommonCrawl** ．这是Google Adsense之父Gil Elbaz离开Google后，为了实现开放数据的理想创立的（他另一个项目是Factual）项目理想是解决大搜索引擎对数据的垄断，鼓励中小企业利用Web数据创业．最新的数据有50亿页面，541T．这里搜集CC相关资源 http://t.cn/RP2Hwxp 待续 [ [微博](http://www.weibo.com/5220650532/BexYIu4TO?mod=weibotime) ]
   ** 续１ 这么大的数据显然没法下载处理 好在AWS提供了存储 http://t.cn/RP2Hn6t 可以直接跑Elastic MapReduce http://t.cn/RP2Hn6c 这里有示范代码 [ [微博](http://www.weibo.com/5220650532/Bey6WuG8B?mod=weibotime) ]
   ** http://t.cn/RP2D8XL 续2 CommonCrawl提供了MapReduce的示范教程 http://t.cn/RP2QGbz 更实战的例子来自Web Data Commons项目 http://t.cn/RP2QGbZ 综合使用了S3 EC2 SQS ElasticMapReduce 他们利用了100个EC2实例．在另一个例子里Lucky Oyster的工程师只用100美元，１４个小时完成了4亿实体的索引 [ [微博](http://www.weibo.com/5220650532/BezJGC9aO?mod=weibotime) ]
   ** 续３ 为了从这么大的数据里找到有用的信息，CC也提供了搜索引擎．如果想自己构造搜索引擎，它的数据格式也是公开的 http://t.cn/RP2RC0c [ [微博](http://www.weibo.com/5220650532/BeyvP1oY7?mod=weibotime) ]
@@ -84,7 +84,7 @@
   ** 续5 CC更强大的应用在于提取结构化数据．正如Wikipedia培育了DBPedia和Freebase，CC在两个方向培养了更大的潜在市场：RDFa, Microdata等网页内嵌语义数据(至少30%的网页已经有这种数据)，和网页链接结构图．Web Data Commons只是开始，工业应用前途无量 http://t.cn/RP2EXuC [ [微博](http://www.weibo.com/5220650532/BeyCm6821?mod=weibotime) ]
   ** 续6，最后提一下CC项目的关键人物Gil Elbaz,Nova Spivack等，他们都是用结构化数据改造现有的Web的传道士和战士，为此奋斗十年以上了．在学术界，这就是语义网的研究，如Jim Hendler也在CC顾问委员会里．http://t.cn/RP2n7vp CC的出现，可以说为语义网走向现实又提供了一个有力的武器 [ [微博](http://www.weibo.com/5220650532/BeyGAdEcQ?mod=weibotime) ]
 
-* 2014-07-21 18个最热深度学习Github项目逐一介绍（合集） http://t.cn/RPLwc9n 有 convnetjs, DeepLearnToolbox, Yusuke Sugomori's code, Lisa Lab's DeepLearningTutorials, deepnet, rbm-mnist 等。主流深度学习模型如DBN RBM CNN等都有，实现语言包括Python, C/C++, Matlab, Javascript, Java, Scala [ [微博](http://www.weibo.com/5220650532/BeANTBes5?mod=weibotime) ]
+* 2014-07-21 **18个最热深度学习Github项目逐一介绍（合集）** http://t.cn/RPLwc9n 有 convnetjs, DeepLearnToolbox, Yusuke Sugomori's code, Lisa Lab's DeepLearningTutorials, deepnet, rbm-mnist 等。主流深度学习模型如DBN RBM CNN等都有，实现语言包括Python, C/C++, Matlab, Javascript, Java, Scala [ [微博](http://www.weibo.com/5220650532/BeANTBes5?mod=weibotime) ]
   ** 1）DeepLearningBenchmarks http://t.cn/RP2ZJi9 29星， 比较了Theano和其他几个实现的性能：eblearn, python numpy, torch5, torch 7。 不过列表有些老，都是2011年前的，新的项目没有加进去。 [ [微博](http://www.weibo.com/5220650532/BerraaXiZ?mod=weibotime) ]
   ** 2） n42 ，21星，一个nodejs的实现，可以直接npm install n42。实现了4个算法：Newral Network，Logistics Regressio，Stacked denoised Autoencodern，Deep Belief Nets。代码不长，适合学习。 [ [微博](http://www.weibo.com/5220650532/BeruFnfUA?mod=weibotime) ]
   ** 3）宗师Hinton的代码，23星，是Matlab的。实现了autoencoder，Restricted Boltzmann Machine（RBM） 。这个应用在图像领域。宗师出品，重要性不用解释。 [ [微博](http://www.weibo.com/5220650532/BerwWAQkE?mod=weibotime) ]
