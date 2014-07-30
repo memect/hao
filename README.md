@@ -23,9 +23,7 @@
 
 * 2014-07-30　感谢@北京-小武 推荐的**云计算白皮书**，已收录到大数据精华区 http://t.cn/RPfx7P7 为方便大家快速浏览，文中所有的图表已摘出来单列，更加节约略读时间  [ [微博](http://www.weibo.com/5220650532/BfWFKh91b) ]
 
-
 * 2014-07-29 @鱼片的小露宝 问：**希望大数据分析和机器学习方向推荐一些书,最好是java而且比较基础容易上手的**。答: Kirk Borne推荐过15本书 http://t.cn/RPcpSHG 用Java入门可以先学Weka Mahout和MLTK。这有一组入门资源 http://t.cn/RPcpSHb @朝花夕拾录 推荐过的CMU机器学习暑期班也非常好 http://t.cn/RPcpSHq [ [讨论](https://github.com/memect/hao/issues/20) ] [ [微博](http://www.weibo.com/5220650532/BfKdEzlLP) ]
-
 
 * 2014-07-29 问：@北冥渔翁 **我要找windows服务器维护管理进阶的资料** 答：服务器管理进阶通常是由新需求触发的，例如系统升级，效率优化，安全补丁，软件安装。这里 http://t.cn/RPcOYXo 罗列了一本免费书，几个博客与论坛， 希望微软专家（尤其是MVP）补充指正 @肥九叔 @曾经胖哥 @月光博客 @Edi_Wang  [ [讨论](https://github.com/memect/hao/issues/19) ] [ [微博](http://www.weibo.com/5220650532/BfKMJFqJM) ]
 
@@ -133,6 +131,13 @@
 【全球 55 个城市数据分享平台（ Urban Observatory）】城市瞭望台（ Urban Observatory）项目：全球 55 个大城市在此分享城市数据，这将是世界上第一个真正意义上的公共瞭望台。同步对比影响世界城市的重要因素，交通、人口、道路速度、开放空间、年轻人口、老年人口等。详见：http://t.cn/RPLqc8T [ [微博](http://www.weibo.com/3926512618/BeBFodmIo) ]
 
 
+* 2014-07-19 @LiLei-Berkeley
+Probabilistic Programming summer school 在Portland顺利结束 教学资料见 http://t.cn/RPAURgG 来自Berkeley，MIT, Stanford等大学企业的教授和研究员讲解了 BLOG, Church, Figaro, Venture 等概率程序语言。 @jxwuyi  [ [微博](http://www.weibo.com/5068751438/BehRmyljr) ]
+
+
+* 2014-07-19 @AixinSG 大牛给的信息检索方面综述文章列表，涵盖IR方向N多问题 http://t.cn/RPAL69M  [ [微博](http://www.weibo.com/1025887594/Behxw9itr) ]
+
+
 * 2014-07-17 @朝花夕拾录 [资源贴] cassendra 2.1 beta rc3新特性：1、 用户自定义数据类型(UDT)：支持集合类型Set和Map，以及其上的二级索引； 2、读写速度提高超过50%；3、行数据的聚集(cluster)与缓存(cache)；4、counter设计优化，提高安全和一致性；5、更好的压缩机制,用commit log绕过直接读写 http://t.cn/RPzKcaH [ [微博](http://www.weibo.com/3204614242/BdUTtkSrl) ]
 
 
@@ -222,4 +227,4 @@
 * 2013-09-20 @developerWorks 免费电子书《面向程序员的数据挖掘实战指南》，侧重实例，以 Python 语言讲解。目前已完成6章，仍在更新中，并且提供 PDF 下载。http://t.cn/zWQEQH8 作者：Ron Zacharski cc @ResysChina [ [微博](http://www.weibo.com/1894238970/Aai5HCiWx) ]
 
 
-* 2013-1-28 @陈利人 【机器学习中的数学系列】回归、梯度下降 http://t.cn/hDoULu ；线性回归，偏差、方差权衡 http://t.cn/Sxppf2 ；模型组合之Boosting与Gradient Boosting http://t.cn/SP05f3 ；线性判别分析, 主成分分析 http://t.cn/SAeY2U ；强大的矩阵奇异值分解及其应用 http://t.cn/akJxgj  [ [微博](http://www.weibo.com/1915548291/zgzoTcvzL) ]
+* 2013-01-28 @陈利人 【机器学习中的数学系列】回归、梯度下降 http://t.cn/hDoULu ；线性回归，偏差、方差权衡 http://t.cn/Sxppf2 ；模型组合之Boosting与Gradient Boosting http://t.cn/SP05f3 ；线性判别分析, 主成分分析 http://t.cn/SAeY2U ；强大的矩阵奇异值分解及其应用 http://t.cn/akJxgj  [ [微博](http://www.weibo.com/1915548291/zgzoTcvzL) ]
