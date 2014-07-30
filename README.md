@@ -1,3 +1,5 @@
+<img src="http://u.memect.com/shared/image/hao.png"/>
+
 好东西传送门: 微博上的轻问答
 * 关注微博  http://www.weibo.com/haoawesome/
 * 网站 http://hao.memect.com/
