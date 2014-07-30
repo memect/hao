@@ -7,6 +7,9 @@
 
 * 2014-07-29 @娄琦天天刷围脖: **请问有没有Python集成Fortran项目的实例**？答：历史上有F2Py作为Python的Fortran接口，现在已经集成到Numpy里了。numpy底层很多计算都是Fortran的，所以大量Python项目已经在间接用Fortran。具体的语法例子看这里 http://t.cn/RPVqpLo [ [讨论](https://github.com/memect/hao/issues/15) ] [ [微博](http://www.weibo.com/5220650532/BfOOplhPX) ]
 
+* 2014-07-29 @心心xi 问：**可否推荐一些关于recommendation的相关论文呢**？ 答：有三组不错的资源 @小飞鱼_露 推荐了20多篇论文 http://t.cn/RPcWrNz 其中有@唐杰THU 的工作。@清风运文 列举过推荐系统的19个开源工具 http://t.cn/RPcWrN7 @朝花夕拾录 刚分享了大数据上的推荐系统 http://t.cn/RPcWrNP [ [讨论](https://github.com/memect/hao/issues/18) ] [ [微博](http://www.weibo.com/5220650532/BfL4N1XKw) ]
+
+
 * 2014-07-27 @小飞鱼露 问：**能否推荐一些关于 Learning to Rank 的相关论文，教程，以及一些应用呢**？答：我们咨询了相关专家 @梁斌penny 并得到@白硕SH @熊辰炎 @ICT朱亚东 等精彩讨论，总结在这里 http://t.cn/RP50MiI 根据他们的推荐，我们收集了25篇重要论文 http://t.cn/RP50Mif 可根据专家推荐选读 [ [讨论](https://github.com/memect/hao/issues/17) ] [ [微博](http://www.weibo.com/5220650532/Bfv7TnT6Y) ]
   * 2014-07-27 [续http://t.cn/RP5WYnt ] @小飞鱼_露 问：**能否推荐一些关于 Learning to Rank 的相关论文，教程，应用呢**？答2：前次推荐了25篇文章，主要是相关算法。@刘知远THU 和 @老师木 进一步推荐了 @刘铁岩 和 @李航博士 的综述和专著，更适合入门 http://t.cn/RP5WYn5 全部LTR资源 http://t.cn/RP5WYnc   [ [讨论](https://github.com/memect/hao/issues/17) ] [ [微博](http://www.weibo.com/5220650532/Bfvpro1Kq) ]
 
