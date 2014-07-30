@@ -5,7 +5,9 @@
 * 微信号：好东西传送门
 * 网站 http://hao.memect.com/
 
-还没有回答的问题，欢迎留言、认领 https://github.com/memect/hao/issues
+还没有回答的问题，欢迎认领 https://github.com/memect/hao/issues
+
+[给我们提建议](https://github.com/memect/hao/issues/new)
 
 目录
 * [最近的问答](README.md#最近的问答)
