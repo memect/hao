@@ -21,6 +21,8 @@
 
 ## 最近的问答
 
+* 2014-07-31 @认知计算_Watson 推荐IBM Watson系统最新的介绍文章：Watson在医疗的应用，Watson中的关系提取，多尺度流形学习(Manifold Learning)方法 http://t.cn/RPIxcVY [流形学习两篇文章也供@uso小驴酱 参考] 大数据专区现在有93篇Watson的论文和报导。http://t.cn/RPIxcVl  [ [讨论](https://github.com/memect/hao/issues/26) ] [ [微博](http://www.weibo.com/5220650532/Bg4PA3tOC) ]
+
 * 2014-07-30 @noavailableAccount 问：**有没有KVM(kernel-based Virtual Machine)的学习资料** 答：http://t.cn/RPfGM0H 有个cmu课程(24~27)覆盖了虚拟化的重要文献。最相关的有两篇经典论文；几个幻灯片与短教程；一个英文社区。几个中文博客的对比类概述。还有一本国内风评不错的教科书   [ [讨论](https://github.com/memect/hao/issues/21) ] [ [微博](http://www.weibo.com/5220650532/BfW1Su1ou) ]
 
 * 2014-07-30　感谢@北京-小武 推荐的**云计算白皮书**，已收录到大数据精华区 http://t.cn/RPfx7P7 为方便大家快速浏览，文中所有的图表已摘出来单列，更加节约略读时间  [ [微博](http://www.weibo.com/5220650532/BfWFKh91b) ]
