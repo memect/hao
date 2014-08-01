@@ -23,6 +23,9 @@
 
 ## 最近的问答
 
+* 2014-08-02 世界级专家精选讲义第一组，今天推出RPI的James Hendler （维基百科介绍 http://t.cn/RPxlN6p ）研究领域人工智能和Web科学，前IEEE Intelligent Systems主编。合集有40个讲义 http://t.cn/RPxlN60 17个视频 http://t.cn/RPxlN6W 特别推荐3个 http://t.cn/RPxlN6O 全集 http://t.cn/RPxlN6l [ [微博](http://www.weibo.com/5220650532/Bgmqdh2r2?ref=home) ]
+
+
 * 2014-08-01 问：wechat:泡泡龙: 我想知道**query意图分析（query分类）有哪些方法**？ 答：搜索关键词： query意图分析 ，query intent，query classification，user intent。 2009 年的一个综述（有幻灯片）。淘宝搜索Query的15个类型；本地搜索（微软专家）；图像搜索（雅虎专家）。卡片合集：http://t.cn/RPxPp13  [ [讨论](https://github.com/memect/hao/issues/40) ] [ [微博](http://www.weibo.com/5220650532/BggTn4qtw?mod=weibotime) ]
 
  
