@@ -1,16 +1,22 @@
-# Top reading
+Tesseract 是目前应用最广泛的免费开源OCR工具（背后有Google的支持）。商业产品有ABBYY的finereader，还有Adobe;国产的有文通和汉王。除了常规电脑的应用，Tesseract也被移植到智能手机上。资料卡片流： http://hao.memect.com/?tag=ocr-tools
+
+[![Tesseract](http://img.memect.com/oUIxHRW73dnQAGhE1yegF_Pxy5o=/400x0/t/152cea1252fb8d0606873ab38b61b1be8bacba3bc21aaaec78171c241dd42371)](http://hao.memect.com/?tag=ocr-tools)
+
+# Top Reading - Market Survey
+http://lifehacker.com/5624781/five-best-text-recognition-tools
+
+http://www.zhihu.com/question/19593313  
+
+http://www.perfectgeeks.com/list/top-best-free-ocr-software/13
+
+
+# best OCR tools
 https://code.google.com/p/tesseract-ocr/  mostly used open source ocr software. apache 2.0. It has been improved extensively by Google
 
 http://finereader.abbyy.com/   one of the best commercial product
 
 http://www.wintone.com.cn/en/  one of the best commercial product for Chinese
 
-# comparison
-http://lifehacker.com/5624781/five-best-text-recognition-tools
-
-http://www.zhihu.com/question/19593313  
-
-http://www.perfectgeeks.com/list/top-best-free-ocr-software/13
 
 # Tesseract related applications
 https://github.com/gali8/Tesseract-OCR-iOS
@@ -20,3 +26,7 @@ https://github.com/rmtheis/android-ocr
 https://github.com/rmtheis/tess-two
 
 http://benschmidt.org/dighist13/?page_id=129
+
+# misc
+
+https://developer.vuforia.com/resources/sample-apps/text-recognition
