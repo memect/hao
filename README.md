@@ -4,6 +4,7 @@
 * 关注微博  http://www.weibo.com/haoawesome/
 * 微信号：好东西传送门
 * 网站 http://hao.memect.com/
+* Github https://github.com/memect/hao
 
 还没有回答的问题，欢迎认领 https://github.com/memect/hao/issues
 
