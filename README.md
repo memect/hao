@@ -29,7 +29,7 @@
 * 2014-08-01 @小77you 问：**关于graph DB有哪些开源的东东**。@昊奋 答：Graph DB有两个分支，一个来自SW，以RDF triple store起家，括Jena， Virtuoso， AllegroGraph等 。另一个分支来自NoSQL，以Property Graph作为底层数据模型，包括Neo4J，Titan等，导读http://t.cn/RPxPAnt 15个数据库 http://t.cn/RPxPAn5 [ [讨论](https://github.com/memect/hao/issues/37) ] [ [微博](http://www.weibo.com/5220650532/BggQIrfwF?mod=weibotime) ]
 
 
-* 2014-08-01 讲一下Facebook新的开源Javascript类库immutable.js http://t.cn/RPMDhro 此项目受David Nolen (ClojureScript大神)的Mori影响，支持多种Immutable数据结构（如哈希映射）并超出目前很火的react.js ,支持微软的TypeScript。immutable数据结构在javascript中利于降低存储代价，提高数据版本控制的效率 [ [微博](http://www.weibo.com/5220650532/Bggnuc9sC?mod=weibotime) ]
+* 2014-08-01 讲一下**Facebook新的开源Javascript类库immutable.js** http://t.cn/RPMDhro 此项目受David Nolen (ClojureScript大神)的Mori影响，支持多种Immutable数据结构（如哈希映射）并超出目前很火的react.js ,支持微软的TypeScript。immutable数据结构在javascript中利于降低存储代价，提高数据版本控制的效率 [ [微博](http://www.weibo.com/5220650532/Bggnuc9sC?mod=weibotime) ]
 
 * 2014-08-01 **社会机器Social Machine**是Web发明人Berners-Lee和语义网领袖Hendler提出的概念：人与机器/人工智能如何协同工作，完成复杂问题？中国的人肉搜索是他们认为最好的例子，与中国学者合作做了大量研究。@QPCN 教授提供了该主题精炼导读 http://t.cn/RPMNDa5 并列出最重要的文献与讲义http://t.cn/RPMNDaq [ [微博](http://www.weibo.com/5220650532/BgeheoG89) ] 
 
