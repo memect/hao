@@ -11,3 +11,5 @@ http://dl.acm.org/citation.cfm?id=1507510 Survey and evaluation of query intent 
 http://www.slideshare.net/daniel.gayo/survey-and-evaluation-of-query-intent-detection-methods
 
 http://www.ijarce.com/downloads/may-2014/IJARCE-13201416.pdf Survey and Analysis for User Intention Refined Internet Image Search
+
+http://gesterling.wordpress.com/2010/03/03/local-queries-vs-local-intent/  Local Queries vs. ‘Local Intent’
