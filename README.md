@@ -22,6 +22,9 @@
 
 ## 最近的问答
 
+* 2014-08-01 **社会机器Social Machine**是Web发明人Berners-Lee和语义网领袖Hendler提出的概念：人与机器/人工智能如何协同工作，完成复杂问题？中国的人肉搜索是他们认为最好的例子，与中国学者合作做了大量研究。@QPCN 教授提供了该主题精炼导读 http://t.cn/RPMNDa5 并列出最重要的文献与讲义http://t.cn/RPMNDaq [ [微博](http://www.weibo.com/5220650532/BgeheoG89) ] 
+
+
 * 2014-08-01 @瀟灑小弟 问：**有木有深度学习在文本挖掘或者自然语言处理(NLP)方面的好的资源**？ @panjf1987 提供答案：被推荐过最多是Richard Socher 的Deep Learning for Natural Language Processing (without Magic) 这个tutorial在NAACL 2013和ACL 2012都做过。讲稿，视频，参考文献整理如下http://t.cn/RPMSxHq  [ [讨论](https://github.com/memect/hao/issues/30) ] [ [微博](http://www.weibo.com/5220650532/BgdnWpEmo) ]
 
 * 2014-07-31 **知识图谱的构建离不开人的参与，众包**作为一种新兴的方式来获取廉价的标注，评测甚至群体智慧会发挥越来越重要的作用。国内这领域的权威专家 @昊奋 推荐了一组必读文章，有概述、医疗领域知识库众包、众包的链接数据管理、概率推理和众包结合、考虑用户模式的众包、实体链接的众包 http://t.cn/RPI33jW [ [微博](http://www.weibo.com/5220650532/Bg7zDv1UR) ]
