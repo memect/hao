@@ -23,9 +23,9 @@
 
 ## 最近的问答
 
-* 2014-08-02 @理想主义de患者 问：有没有垃圾邮件检测的项目啊。答：比较有效的方法都是结合机器学习与人工知识的。最有名的开源项目是SpamAssassin，可以从很多语言调用如Python 。另有个开源项目Stopspam也值得关注。更早基于机器学习的项目合集中也有个列表 http://t.cn/RPxTJgO  [ [讨论](https://github.com/memect/hao/issues/44) ] [ [微博](http://www.weibo.com/5220650532/BgnagiCeE?mod=weibotime) ]
+* 2014-08-02 @理想主义de患者 问：**有没有垃圾邮件检测的项目啊**。答：比较有效的方法都是结合机器学习与人工知识的。最有名的开源项目是SpamAssassin，可以从很多语言调用如Python 。另有个开源项目Stopspam也值得关注。更早基于机器学习的项目合集中也有个列表 http://t.cn/RPxTJgO  [ [讨论](https://github.com/memect/hao/issues/44) ] [ [微博](http://www.weibo.com/5220650532/BgnagiCeE?mod=weibotime) ]
 
-* 2014-08-02 @羊_o羊o羊爱小破厂 问：需要tornado的资料。答：Tornado是一个非阻塞式Python网络框架，并发性能优于大多数其他Python框架。这组资料是基本介绍，中英文都有 http://t.cn/RPxYjIs 更多见Python精华区Tornado资料 http://t.cn/RPxYjMv 稍后我们会分期介绍它与Gevent, Nodejs, Flask的比较 [ [讨论](https://github.com/memect/hao/issues/24) ] [ [微博](http://www.weibo.com/5220650532/Bgn0l5KPA?mod=weibotime) ]
+* 2014-08-02 @羊_o羊o羊爱小破厂 问：**需要tornado的资料**。答：Tornado是一个非阻塞式Python网络框架，并发性能优于大多数其他Python框架。这组资料是基本介绍，中英文都有 http://t.cn/RPxYjIs 更多见Python精华区Tornado资料 http://t.cn/RPxYjMv 稍后我们会分期介绍它与Gevent, Nodejs, Flask的比较 [ [讨论](https://github.com/memect/hao/issues/24) ] [ [微博](http://www.weibo.com/5220650532/Bgn0l5KPA?mod=weibotime) ]
 
 
 * 2014-08-02 世界级专家精选讲义第一组，今天推出RPI的**James Hendler** （维基百科介绍 http://t.cn/RPxlN6p ）**研究领域人工智能和Web科学**，前IEEE Intelligent Systems主编。合集有40个讲义 http://t.cn/RPxlN60 17个视频 http://t.cn/RPxlN6W 特别推荐3个 http://t.cn/RPxlN6O 全集 http://t.cn/RPxlN6l [ [微博](http://www.weibo.com/5220650532/Bgmqdh2r2?ref=home) ]
