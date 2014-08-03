@@ -3,6 +3,11 @@
 [![Tesseract](http://img.memect.com/05jtNcF8k5Kgc3Euvqf5rfZCinM=/400x0/t/1b014ddddc07c435ce3775f3ba85199e706d69456870b9fcb24b5d8ce8c684da)](http://hao.memect.com/?tag=ocr-tools)
 
 # Top Reading - Market Survey
+http://lib.psnc.pl/Content/358/PSNC_Tesseract-FineReader-report.pdf  Report on the comparison of Tesseract and 
+ABBYY FineReader OCR engines (2012)
+
+https://tesseract-ocr.googlecode.com/files/TesseractOSCON.pdf  Tesseract features and key issues (2007)
+
 http://lifehacker.com/5624781/five-best-text-recognition-tools
 
 http://www.zhihu.com/question/19593313  
