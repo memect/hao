@@ -30,6 +30,16 @@ http://finereader.abbyy.com/   one of the best commercial product
 
 http://www.wintone.com.cn/en/  one of the best commercial product for Chinese
 
+# Tesseract in action and Q/A
+http://benschmidt.org/dighist13/?page_id=129
+
+http://stackoverflow.com/questions/13511102/ios-tesseract-ocr-image-preperation
+
+http://stackoverflow.com/questions/9480013/image-processing-to-improve-tesseract-ocr-accuracy?rq=1
+
+http://www.sk-spell.sk.cx/tesseract-ocr-parameters-in-302-version
+
+
 
 # Tesseract related applications
 https://github.com/gali8/Tesseract-OCR-iOS
@@ -38,9 +48,10 @@ https://github.com/rmtheis/android-ocr
 
 https://github.com/rmtheis/tess-two
 
-http://benschmidt.org/dighist13/?page_id=129
 
 # misc
 
 https://developer.vuforia.com/resources/sample-apps/text-recognition
 https://www.youtube.com/watch?v=KLqFQ2u52iU
+
+http://blog.ayoungprogrammer.com/2013/01/equation-ocr-part-1-using-contours-to.html
