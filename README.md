@@ -14,6 +14,8 @@
 * [最近的问答](README.md#最近的问答)
 * [文摘](README.md#文摘)
 
+### 许可证
+
 本站内容许可证：[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
