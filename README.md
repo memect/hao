@@ -23,9 +23,9 @@
 
 ## 最近的问答
 
-* 2014-08-03 @孙明明_SmarterChina 特别推荐@李航博士 和@徐君_ 的新书《Semantic Matching in Search》该书阐述了搜索中语义匹配的基本方法，如查询重写，关键词依赖，翻译，主题模型， 潜在空间模型Latent Space Model, 学习匹配Learning to Matching等。作者提供了电子版下载。预览与目录 http://t.cn/RPiq2hc [ [微博](http://www.weibo.com/5220650532/BgAwzD3LJ?mod=weibotime) ]
+* 2014-08-03 @孙明明_SmarterChina 特别推荐@李航博士 和@徐君_ 的新书**《Semantic Matching in Search》该书阐述了搜索中语义匹配的基本方法**，如查询重写，关键词依赖，翻译，主题模型， 潜在空间模型Latent Space Model, 学习匹配Learning to Matching等。作者提供了电子版下载。预览与目录 http://t.cn/RPiq2hc [ [微博](http://www.weibo.com/5220650532/BgAwzD3LJ?mod=weibotime) ]
 
-* 2014-08-03 [微综述] 搜索专家 @孙明明_SmarterChina 在"知识图谱与搜索引擎"中推荐了建立知识图谱和利用知识图谱的12篇重要文献，涵盖利用百科数据，挖掘生成知识图谱，搜索引擎页面排序，利用实体标注、语义匹配，查询中的实体映射等前沿话题。导读 http://t.cn/RPiGS3l 文献列表 http://t.cn/RPiGS3O [ [微博](http://www.weibo.com/5220650532/BgArxBPIn?mod=weibotime) ]
+* 2014-08-03 [微综述] 搜索专家 @孙明明_SmarterChina **在"知识图谱与搜索引擎"中推荐了建立知识图谱和利用知识图谱的12篇重要文献**，涵盖利用百科数据，挖掘生成知识图谱，搜索引擎页面排序，利用实体标注、语义匹配，查询中的实体映射等前沿话题。导读 http://t.cn/RPiGS3l 文献列表 http://t.cn/RPiGS3O [ [微博](http://www.weibo.com/5220650532/BgArxBPIn?mod=weibotime) ]
 
 * 2014-08-02 产品设计的死循环（参见高尔定律第二原则）。附：高尔定律（Gall's law） 1、成功复杂系统是从已经成功的简单系统演进而来；2、凭空设计出来的复杂系统不会成功、再怎么打补丁也不行，只能推倒重来；3，简单系统未必成功。 [ [微博](http://www.weibo.com/5220650532/BgshmzO5g?mod=weibotime) ]
 
