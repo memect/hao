@@ -13,6 +13,8 @@
 目录
 * [最近的问答](README.md#最近的问答)
 * [文摘](README.md#文摘)
+* [声明](README.md#声明)
+
 
 ### 许可证
 
@@ -281,5 +283,22 @@ Probabilistic Programming summer school 在Portland顺利结束 教学资料见 
 
 * 2013-09-20 @developerWorks 免费电子书《面向程序员的数据挖掘实战指南》，侧重实例，以 Python 语言讲解。目前已完成6章，仍在更新中，并且提供 PDF 下载。http://t.cn/zWQEQH8 作者：Ron Zacharski cc @ResysChina [ [微博](http://www.weibo.com/1894238970/Aai5HCiWx) ]
 
-
 * 2013-01-28 @陈利人 【机器学习中的数学系列】回归、梯度下降 http://t.cn/hDoULu ；线性回归，偏差、方差权衡 http://t.cn/Sxppf2 ；模型组合之Boosting与Gradient Boosting http://t.cn/SP05f3 ；线性判别分析, 主成分分析 http://t.cn/SAeY2U ；强大的矩阵奇异值分解及其应用 http://t.cn/akJxgj  [ [微博](http://www.weibo.com/1915548291/zgzoTcvzL) ]
+
+## 声明
+
+* 2014-08-04 @好东西传送门 开源5天，已经有了88颗星。这里解释一下开源政策：为了鼓励好东西的传播，我们采用了Creative Commons Attribution-NonCommercial-ShareAlike 4.0许可证：Github上的内容可以被自由分享和改编，但需用同样的许可证发布，致谢@好东西传送门 并不得用于商用 http://t.cn/RPiYr2f  [ [微博](http://www.weibo.com/5220650532/BgEucqeEz?ref=) ]
+
+* 2014-07-31 开源的好东西传送门：今天我们已经把所有的问答和文摘都整理到Github上了，查看别人已经问过的问题更加容易。你可以一键复制，拥有自己不会丢失的好东西列表。也可以关注项目获得更新通知。如果你关心大数据、机器学习、数据库、Web、Python（话题增长中）去加星收藏吧 http://t.cn/RPfAgNg  [ [微博](http://www.weibo.com/5220650532/Bg436jjPL?mod=weibotime) ]
+
+* 2014-07-31 这样认领问题：去Github Issue列表下面 http://t.cn/RPI5jaZ 找一个感兴趣的问题，回复你想分享的资源链接，也可附简单评语。请留下你的微博帐号(或其他联系方式)，好东西传送门会整理后贴出你的答案并注明贡献者是你  [ [微博](http://www.weibo.com/5220650532/Bg3zxFnR5?mod=weibotime) ]
+
+* 2014-07-30 传送门也有微信了，去扫描吧。或者按名字直接加“好东西传送门”。微信会更多承载每日精华整理的功能。如果错过了微博上的好东西，微信上还会看到。转发一下，让更多人看到最精彩的技术好东西！ [ [微博](http://www.weibo.com/5220650532/BfXB5Esip?mod=weibotime) ]
+
+* 2014-07-30 http://t.cn/RPfAgNg 好东西传送门所有问答和推荐资源合集现在都放在Github上了！每个问题都有自己的讨论页，可讨论增补。目前还有十多条未完成问题，欢迎各位专家帮忙认领回答！8月5日前转发最多的两条答案将获赠 @TechCrunch中国 国际创新北京峰会双日VIP票，本来3200一张哦！ [ [微博](http://www.weibo.com/5220650532/BfVwN1Q2a?mod=weibotime) ]  
+
+* 2014-07-28 回复@silverhawk_ny:轻问答就是相对知乎这样的“重”问答工具而言，利用机器生成大量的知识卡片，问答时回答问题的人只要利用自己的知识，快速组织卡片。一般这个过程不需要写长文，几分钟就可以完成，所以叫“轻”//@silverhawk_ny:轻问答是什么意思？ [ [微博](http://www.weibo.com/5220650532/BfE4rFyXR?mod=weibotime) ]  
+
+* 2014-07-28 《好东西传送门到底是什么？》 很多人问这个帐号到底是什么？答：它是一个网上资料的人肉搜索引擎。它集成了一群微博上的好人，以最简练的方式，帮大家找到最精华的资源。达到这个目的手段有三：知识卡片，人肉知识桥梁，轻问答。这是不是你想要的“好东西传送门”？欢迎讨论！http://t.cn/RPtMEmu [ [微博](http://www.weibo.com/5220650532/BfCrt3FO2?mod=weibotime) ]  
+
+
