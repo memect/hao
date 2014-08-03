@@ -27,7 +27,7 @@
 
 ## 最近的问答
 
-* 2014-08-04 @zbyufei 问:基于python开发的Code online系统有哪些。类似于Cloud9 IDE的。@登州知府 答：开源Online IDE的开发语言比较常见的是Node.js, Java和PHP，python的真没怎么见过。支持Python的IDE，@南京话zen好听 推荐 koding.com @康积华_绩点侠 推荐codeskulptor，所有IDE列表见 http://t.cn/RPxOOPE [讨论](https://github.com/memect/hao/issues/22) ] [ [微博](http://www.weibo.com/5220650532/BgEQUaeo2?ref=) ]
+* 2014-08-04 @zbyufei 问:**基于python开发的Code online系统有哪些。类似于Cloud9 IDE的**。@登州知府 答：开源Online IDE的开发语言比较常见的是Node.js, Java和PHP，python的真没怎么见过。支持Python的IDE，@南京话zen好听 推荐 koding.com @康积华_绩点侠 推荐codeskulptor，所有IDE列表见 http://t.cn/RPxOOPE [ [讨论](https://github.com/memect/hao/issues/22) ] [ [微博](http://www.weibo.com/5220650532/BgEQUaeo2?ref=) ]
 
 * 2014-08-03 @孙明明_SmarterChina 特别推荐@李航博士 和@徐君_ 的新书**《Semantic Matching in Search》该书阐述了搜索中语义匹配的基本方法**，如查询重写，关键词依赖，翻译，主题模型， 潜在空间模型Latent Space Model, 学习匹配Learning to Matching等。作者提供了电子版下载。预览与目录 http://t.cn/RPiq2hc [ [微博](http://www.weibo.com/5220650532/BgAwzD3LJ?mod=weibotime) ]
 
