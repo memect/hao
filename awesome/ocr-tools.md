@@ -30,3 +30,4 @@ http://benschmidt.org/dighist13/?page_id=129
 # misc
 
 https://developer.vuforia.com/resources/sample-apps/text-recognition
+https://www.youtube.com/watch?v=KLqFQ2u52iU
