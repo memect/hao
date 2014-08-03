@@ -27,9 +27,9 @@
 
 * 2014-08-03 [微综述] 搜索专家 @孙明明_SmarterChina **在"知识图谱与搜索引擎"中推荐了建立知识图谱和利用知识图谱的12篇重要文献**，涵盖利用百科数据，挖掘生成知识图谱，搜索引擎页面排序，利用实体标注、语义匹配，查询中的实体映射等前沿话题。导读 http://t.cn/RPiGS3l 文献列表 http://t.cn/RPiGS3O [ [微博](http://www.weibo.com/5220650532/BgArxBPIn?mod=weibotime) ]
 
-* 2014-08-02 产品设计的死循环（参见高尔定律第二原则）。附：高尔定律（Gall's law） 1、成功复杂系统是从已经成功的简单系统演进而来；2、凭空设计出来的复杂系统不会成功、再怎么打补丁也不行，只能推倒重来；3，简单系统未必成功。 [ [微博](http://www.weibo.com/5220650532/BgshmzO5g?mod=weibotime) ]
+* 2014-08-02 产品设计的死循环（参见高尔定律第二原则）。附：**高尔定律（Gall's law）** 1、成功复杂系统是从已经成功的简单系统演进而来；2、凭空设计出来的复杂系统不会成功、再怎么打补丁也不行，只能推倒重来；3，简单系统未必成功。 [ [微博](http://www.weibo.com/5220650532/BgshmzO5g?mod=weibotime) ]
 
-* 2014-08-02 Sibyl是Google正在使用的分布式机器学习平台。它于2010年在大规模分布系统论坛（LADIS）就做过主题报告，今年又到DSN做了一次主题报告（视频林大原则讲得很清楚）。到底这四年有什么变化，看看下图（含四个关键幻灯片）就明白了。相关资料合集传送门： http://t.cn/RPxQZIN  [ [微博](http://www.weibo.com/5220650532/BgnsoEEqV?mod=weibotime) ]
+* 2014-08-02 **Sibyl是Google正在使用的分布式机器学习平台**。它于2010年在大规模分布系统论坛（LADIS）就做过主题报告，今年又到DSN做了一次主题报告（视频林大原则讲得很清楚）。到底这四年有什么变化，看看下图（含四个关键幻灯片）就明白了。相关资料合集传送门： http://t.cn/RPxQZIN  [ [微博](http://www.weibo.com/5220650532/BgnsoEEqV?mod=weibotime) ]
 
 * 2014-08-02 @理想主义de患者 问：**有没有垃圾邮件检测的项目啊**。答：比较有效的方法都是结合机器学习与人工知识的。最有名的开源项目是SpamAssassin，可以从很多语言调用如Python 。另有个开源项目Stopspam也值得关注。更早基于机器学习的项目合集中也有个列表 http://t.cn/RPxTJgO  [ [讨论](https://github.com/memect/hao/issues/44) ] [ [微博](http://www.weibo.com/5220650532/BgnagiCeE?mod=weibotime) ]
 
