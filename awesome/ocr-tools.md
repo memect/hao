@@ -6,7 +6,7 @@
 https://tesseract-ocr.googlecode.com/files/TesseractOSCON.pdf  Tesseract features and key issues (2007)
 
 http://www.assistivetechnology.vcu.edu/files/2013/09/pxc3882784.pdf Optical Character Recognition by Open Source OCR 
-Tool Tesseract: A Case Study
+Tool Tesseract: A Case Study (2012)
 
 http://lifehacker.com/5624781/five-best-text-recognition-tools 
 
