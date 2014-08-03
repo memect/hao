@@ -29,6 +29,8 @@
 
 * 2014-08-02 产品设计的死循环（参见高尔定律第二原则）。附：高尔定律（Gall's law） 1、成功复杂系统是从已经成功的简单系统演进而来；2、凭空设计出来的复杂系统不会成功、再怎么打补丁也不行，只能推倒重来；3，简单系统未必成功。 [ [微博](http://www.weibo.com/5220650532/BgshmzO5g?mod=weibotime) ]
 
+* 2014-08-02 Sibyl是Google正在使用的分布式机器学习平台。它于2010年在大规模分布系统论坛（LADIS）就做过主题报告，今年又到DSN做了一次主题报告（视频林大原则讲得很清楚）。到底这四年有什么变化，看看下图（含四个关键幻灯片）就明白了。相关资料合集传送门： http://t.cn/RPxQZIN  [ [微博](http://www.weibo.com/5220650532/BgnsoEEqV?mod=weibotime) ]
+
 * 2014-08-02 @理想主义de患者 问：**有没有垃圾邮件检测的项目啊**。答：比较有效的方法都是结合机器学习与人工知识的。最有名的开源项目是SpamAssassin，可以从很多语言调用如Python 。另有个开源项目Stopspam也值得关注。更早基于机器学习的项目合集中也有个列表 http://t.cn/RPxTJgO  [ [讨论](https://github.com/memect/hao/issues/44) ] [ [微博](http://www.weibo.com/5220650532/BgnagiCeE?mod=weibotime) ]
 
 * 2014-08-02 @羊_o羊o羊爱小破厂 问：**需要tornado的资料**。答：Tornado是一个非阻塞式Python网络框架，并发性能优于大多数其他Python框架。这组资料是基本介绍，中英文都有 http://t.cn/RPxYjIs 更多见Python精华区Tornado资料 http://t.cn/RPxYjMv 稍后我们会分期介绍它与Gevent, Nodejs, Flask的比较 [ [讨论](https://github.com/memect/hao/issues/24) ] [ [微博](http://www.weibo.com/5220650532/Bgn0l5KPA?mod=weibotime) ]
