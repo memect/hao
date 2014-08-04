@@ -27,6 +27,12 @@
 
 ## 最近的问答
 
+
+* 2014-08-04 **SSDB是一个高性能 NoSQL 数据库**, 支持哈希表，集合，列表等数据结构。它作为redis的替代或补充，可以用很小的内存代价实现十亿级别数据的存储。工具与生态系统生长非常迅速，已为众多互联网企业所使用。核心推荐资源 http://t.cn/RPi1q47 所有资源http://t.cn/RPi1q4h 作者是@ideawu [ [微博](http://www.weibo.com/5220650532/BgGtV6K6H?mod=weibotime) ]
+
+* 2014-08-04 **极客杨的OCR工具箱**：Tesseract 是目前应用最广泛的免费开源OCR工具（背后有Google的支持）。商业产品有ABBYY的finereader，还有Adobe;国产的有文通和汉王。当前热点是将OCR移植到智能手机上拓展新的输入渠道、IOS有基于Tesseract的实现，Android有高通vuforia API。资料卡片流： http://t.cn/RPiRyYc  [ [讨论](https://github.com/memect/hao/issues/43) ] [ [微博](http://www.weibo.com/5220650532/BgFEdjQG7?mod=weibotime) ]
+
+
 * 2014-08-04 @zbyufei 问:**基于python开发的Code online系统有哪些。类似于Cloud9 IDE的**。@登州知府 答：开源Online IDE的开发语言比较常见的是Node.js, Java和PHP，python的真没怎么见过。支持Python的IDE，@南京话zen好听 推荐 koding.com @康积华_绩点侠 推荐codeskulptor，所有IDE列表见 http://t.cn/RPxOOPE [ [讨论](https://github.com/memect/hao/issues/22) ] [ [微博](http://www.weibo.com/5220650532/BgEQUaeo2?ref=) ]
 
 * 2014-08-03 @孙明明_SmarterChina 特别推荐@李航博士 和@徐君_ 的新书**《Semantic Matching in Search》该书阐述了搜索中语义匹配的基本方法**，如查询重写，关键词依赖，翻译，主题模型， 潜在空间模型Latent Space Model, 学习匹配Learning to Matching等。作者提供了电子版下载。预览与目录 http://t.cn/RPiq2hc [ [微博](http://www.weibo.com/5220650532/BgAwzD3LJ?mod=weibotime) ]
