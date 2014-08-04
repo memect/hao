@@ -28,7 +28,7 @@
 ## 最近的问答
 
 
-* 2014-08-04 **SSDB是一个高性能 NoSQL 数据库**, 支持哈希表，集合，列表等数据结构。它作为redis的替代或补充，可以用很小的内存代价实现十亿级别数据的存储。工具与生态系统生长非常迅速，已为众多互联网企业所使用。核心推荐资源 http://t.cn/RPi1q47 所有资源http://t.cn/RPi1q4h 作者是@ideawu [ [微博](http://www.weibo.com/5220650532/BgGtV6K6H?mod=weibotime) ]
+* 2014-08-04 **SSDB是一个高性能 NoSQL 数据库**, 支持哈希表，集合，列表等数据结构。它作为redis的替代或补充，可以用很小的内存代价实现十亿级别数据的存储。工具与生态系统生长非常迅速，已为众多互联网企业所使用。核心推荐资源 http://t.cn/RPi1q47 所有资源http://t.cn/RPi1q4h 作者是@ideawu  [ [讨论](https://github.com/memect/hao/issues/51) ] [ [微博](http://www.weibo.com/5220650532/BgGtV6K6H?mod=weibotime) ]
 
 * 2014-08-04 **极客杨的OCR工具箱**：Tesseract 是目前应用最广泛的免费开源OCR工具（背后有Google的支持）。商业产品有ABBYY的finereader，还有Adobe;国产的有文通和汉王。当前热点是将OCR移植到智能手机上拓展新的输入渠道、IOS有基于Tesseract的实现，Android有高通vuforia API。资料卡片流： http://t.cn/RPiRyYc  [ [讨论](https://github.com/memect/hao/issues/43) ] [ [微博](http://www.weibo.com/5220650532/BgFEdjQG7?mod=weibotime) ]
 
