@@ -32,6 +32,7 @@
 
 * 2014-08-04 **极客杨的OCR工具箱**：Tesseract 是目前应用最广泛的免费开源OCR工具（背后有Google的支持）。商业产品有ABBYY的finereader，还有Adobe;国产的有文通和汉王。当前热点是将OCR移植到智能手机上拓展新的输入渠道、IOS有基于Tesseract的实现，Android有高通vuforia API。资料卡片流： http://t.cn/RPiRyYc  [ [讨论](https://github.com/memect/hao/issues/43) ] [ [微博](http://www.weibo.com/5220650532/BgFEdjQG7?mod=weibotime) ]
 
+* 2014-08-04 @AOzil 问：**可否推荐一些创意自适应的资料** 答：Creative Optimization是一种面向用户自动优化广告内容与展示的技术。斯坦福大学计算广告学入门 http://t.cn/RPiQ6Zn 阐述了基本概念 10个相关厂家从不同侧面的介绍与宣传 http://t.cn/RPiQ6Zm 新闻 和国内专家@刘铁岩 的评论 http://t.cn/RPiQ6ZR  [ [讨论](https://github.com/memect/hao/issues/23) ] [ [微博](http://www.weibo.com/5220650532/BgFbclmQD?mod=weibotime) ]
 
 * 2014-08-04 @zbyufei 问:**基于python开发的Code online系统有哪些。类似于Cloud9 IDE的**。@登州知府 答：开源Online IDE的开发语言比较常见的是Node.js, Java和PHP，python的真没怎么见过。支持Python的IDE，@南京话zen好听 推荐 koding.com @康积华_绩点侠 推荐codeskulptor，所有IDE列表见 http://t.cn/RPxOOPE [ [讨论](https://github.com/memect/hao/issues/22) ] [ [微博](http://www.weibo.com/5220650532/BgEQUaeo2?ref=) ]
 
@@ -47,6 +48,7 @@
 
 * 2014-08-02 @羊_o羊o羊爱小破厂 问：**需要tornado的资料**。答：Tornado是一个非阻塞式Python网络框架，并发性能优于大多数其他Python框架。这组资料是基本介绍，中英文都有 http://t.cn/RPxYjIs 更多见Python精华区Tornado资料 http://t.cn/RPxYjMv 稍后我们会分期介绍它与Gevent, Nodejs, Flask的比较 [ [讨论](https://github.com/memect/hao/issues/24) ] [ [微博](http://www.weibo.com/5220650532/Bgn0l5KPA?mod=weibotime) ]
 
+* 2014-08-02 @钱知易 问有没有机器学习和深度学习在多媒体信息检索领域的资源？答：机器学习应用太广，本条只涉及深度学习。其中图像检索@姚鹏鹏YPP 已问过，见答案http://t.cn/RPxj0Y6 语音检索，Google语音组和微软邓力等是领先的，他们主页上的文章基本代表了前沿，一些教程在此 http://t.cn/RPxj0Yi [ [讨论](https://github.com/memect/hao/issues/39) ] [ [微博](http://www.weibo.com/5220650532/BgmM3uZBv?mod=weibotime) ]
 
 * 2014-08-02 世界级专家精选讲义第一组，今天推出RPI的**James Hendler** （维基百科介绍 http://t.cn/RPxlN6p ）**研究领域人工智能和Web科学**，前IEEE Intelligent Systems主编。合集有40个讲义 http://t.cn/RPxlN60 17个视频 http://t.cn/RPxlN6W 特别推荐3个 http://t.cn/RPxlN6O 全集 http://t.cn/RPxlN6l [ [微博](http://www.weibo.com/5220650532/Bgmqdh2r2?ref=home) ]
 
