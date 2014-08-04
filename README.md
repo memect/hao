@@ -48,7 +48,7 @@
 
 * 2014-08-02 @羊_o羊o羊爱小破厂 问：**需要tornado的资料**。答：Tornado是一个非阻塞式Python网络框架，并发性能优于大多数其他Python框架。这组资料是基本介绍，中英文都有 http://t.cn/RPxYjIs 更多见Python精华区Tornado资料 http://t.cn/RPxYjMv 稍后我们会分期介绍它与Gevent, Nodejs, Flask的比较 [ [讨论](https://github.com/memect/hao/issues/24) ] [ [微博](http://www.weibo.com/5220650532/Bgn0l5KPA?mod=weibotime) ]
 
-* 2014-08-02 @钱知易 问有没有机器学习和深度学习在多媒体信息检索领域的资源？答：机器学习应用太广，本条只涉及深度学习。其中图像检索@姚鹏鹏YPP 已问过，见答案http://t.cn/RPxj0Y6 语音检索，Google语音组和微软邓力等是领先的，他们主页上的文章基本代表了前沿，一些教程在此 http://t.cn/RPxj0Yi [ [讨论](https://github.com/memect/hao/issues/39) ] [ [微博](http://www.weibo.com/5220650532/BgmM3uZBv?mod=weibotime) ]
+* 2014-08-02 @钱知易 问有没有**机器学习和深度学习在多媒体信息检索领域的资源**？答：机器学习应用太广，本条只涉及深度学习。其中图像检索@姚鹏鹏YPP 已问过，见答案http://t.cn/RPxj0Y6 语音检索，Google语音组和微软邓力等是领先的，他们主页上的文章基本代表了前沿，一些教程在此 http://t.cn/RPxj0Yi [ [讨论](https://github.com/memect/hao/issues/39) ] [ [微博](http://www.weibo.com/5220650532/BgmM3uZBv?mod=weibotime) ]
 
 * 2014-08-02 世界级专家精选讲义第一组，今天推出RPI的**James Hendler** （维基百科介绍 http://t.cn/RPxlN6p ）**研究领域人工智能和Web科学**，前IEEE Intelligent Systems主编。合集有40个讲义 http://t.cn/RPxlN60 17个视频 http://t.cn/RPxlN6W 特别推荐3个 http://t.cn/RPxlN6O 全集 http://t.cn/RPxlN6l [ [微博](http://www.weibo.com/5220650532/Bgmqdh2r2?ref=home) ]
 
