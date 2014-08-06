@@ -35,7 +35,7 @@ http://www.dblab.ntua.gr/~bikakis/SPARQL-RW.html
 http://www.dblab.ntua.gr/~bikakis/SPARQL2XQuery.html
 
 ## Commerial Rools
-OpenLink Virtuoso:  http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VirtR2RML
+http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VirtR2RML  OpenLink Virtuoso
 
-Oracle database:  http://docs.oracle.com/database/121/RDFRM/sem_relational_views.htm
+http://docs.oracle.com/database/121/RDFRM/sem_relational_views.htm  Oracle database
 
