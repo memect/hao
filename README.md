@@ -1,4 +1,5 @@
 <img align="left" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/>
+![好东西传送门Logo](http://u.memect.com/shared/image/hao.png =100x100)
 好东西传送门: 微博上的轻问答 Crowd-sourced LiteQA 
 * 关注微博  http://www.weibo.com/haoawesome/
 * 微信号：好东西传送门
