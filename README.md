@@ -27,15 +27,22 @@
 
 ## 最近的问答
 
+<div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://hao.memect.com/wp-content/uploads/2014/08/ILr63BUa4sJ88khTjH5zezzoDFcSRbaiuqhmKMqLCOjhyd7ZqZKL2Lpivi55dbmS_f6eb680eb6ed2d5859ea747e54c0e76d6b79236e101a7005edeb28864f499dc5.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-06 @uso小驴酱 问sparse representation for computer vision CV领域教授Lyu回答： ECCV2012有计算机视觉稀疏表示的教程 。主讲人Yi Ma, Allen Yang, John Wright均是该领域核心专家。讲座包括了理论基础与实践。合集中还包括相关的Fast l-1和Convex Optimization方法 http://t.cn/RPam664 [ [讨论](https://github.com/memect/hao/issues/25) ] [ [微博](http://www.weibo.com/5220650532/Bh2vHlUlG?mod=weibotime) ]
- 
 
+<div style="clear: both;"></div>
+<img align="left" width=100 height=100  src="http://semanticweb.memect.com/wp-content/uploads/2014/08/irnMishjlEBlar7AtxB3bWIyZ74wZ1sdkt4YOG4uHoEOqpRvmrkTVBoHkATQeVLC_b33b18b21eecf4d024e114ca92281479d797032837b49667e5bf22b418df2040.jpeg"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-06 W3C研究员@吴伟1st 推荐: 关系数据库RDB转RDF的工具。RDF是网页元数据交换的国际标准，是知识图谱和链数据发布的首选语言。从传统的关系数据库到互联、有丰富语义的数据，已有大量转化和查询工具。这一组推荐包括了Oracle和Virtuoso工业实现和很多开源、研究项目、R2ML语言 http://t.cn/RPaNM6h
+
+<div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://semanticweb.memect.com/wp-content/uploads/2014/08/SSHqkNYpunUhclQqXx32v9ReQnJe2VLUg3b9nkvtyHZhNZ7y5yfwdgzacFk2gMay_361e08231714006c28e8d01dbd54909cb3a7900e5357c15b78856c40bfde27be-300x291.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-06  @昊奋 推荐：在这个机器学习大行其道的年代，了解规则系统，以及他们之间的结合是很有必要的。推荐纽约州立大学Stonybrook分校Senlin Liang的工作**OpenRuleBench：比较了5种不同类型的规则系统**，演绎数据库, 语义规则引擎, 基于Prolog系统等，如jena， dlv jess xsb owlim http://t.cn/RPaGJHV  [ [微博](http://www.weibo.com/5220650532/BgZ9CtRHL?mod=weibotime) ] 
 
+<div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://hao.memect.com/wp-content/uploads/2014/08/SKtjJlSF2dRs7uTzfjxvIdcEGo7MO2ISeAKkPatGz8507OXXOF0oQJZakAkerxHw_df0fc2b1627fb9e21e3cb36a611b250d641161cd21b747d7fc9ba900d2ff8d93.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-06 [经典资料] **Google云计算的7个里程碑**: GFS(文件系统), MapReduce(计算模型), BigTable(结构数据存储NoSQL), Dremel(大数据查询分析), Colossus(GFS第2版), Spanner(BigTable＋分布式事务管理), Compute Engine(云计算平台，AWS竞争对手)。含原论文、幻灯片、短教程以及业内风评 http://t.cn/RPaU89N [ [微博](http://www.weibo.com/5220650532/BgYHoimrP?mod=weibotime) ]
@@ -317,7 +324,7 @@ Probabilistic Programming summer school 在Portland顺利结束 教学资料见 
 
 ## 声明
 
-<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=100 height=100  src="http://semanticweb.memect.com/wp-content/uploads/2014/08/hao-rdb-rdf.md-at-master-%C2%B7-memect-hao1.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-06 @好东西传送门 是开源的，任何人都可以贡献好的文献、代码或商业产品。你可以fork一份github库，并在awesome目录下建立一个文件，内容就是链接（文字描述可选）例 http://t.cn/RPal5fW 提交一个pull请求，剩下的就交给传送门了。您的贡献会被署名  [ [微博](http://www.weibo.com/5220650532/Bh2oIc33V?mod=weibotime) ]
 
