@@ -1,7 +1,7 @@
 # Relational Databases to RDF (RDB2RDF)
 摘要：[经典收藏]如何将关系数据库数据映射到语义万维网RDF表达方式并支持SPARQL查询语言。
 
-editor(s): [Wu Wei](https://github.com/wwumit) [@haoawesome](https://github.com/haoawesome)
+editor(s): [吴伟](https://github.com/wwumit), [好东西传送门](https://github.com/haoawesome)
 
 
 # Overview
