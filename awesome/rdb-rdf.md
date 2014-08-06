@@ -34,7 +34,7 @@ http://www.dblab.ntua.gr/~bikakis/SPARQL-RW.html
 
 http://www.dblab.ntua.gr/~bikakis/SPARQL2XQuery.html
 
-## Commerial Rools
+## Commerial Tools
 http://virtuoso.openlinksw.com/dataspace/doc/dav/wiki/Main/VirtR2RML  OpenLink Virtuoso
 
 http://docs.oracle.com/database/121/RDFRM/sem_relational_views.htm  Oracle database
