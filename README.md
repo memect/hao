@@ -30,12 +30,12 @@
 <div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://hao.memect.com/wp-content/uploads/2014/08/ILr63BUa4sJ88khTjH5zezzoDFcSRbaiuqhmKMqLCOjhyd7ZqZKL2Lpivi55dbmS_f6eb680eb6ed2d5859ea747e54c0e76d6b79236e101a7005edeb28864f499dc5.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
-2014-08-06 @uso小驴酱 问sparse representation for computer vision CV领域教授Lyu回答： ECCV2012有计算机视觉稀疏表示的教程 。主讲人Yi Ma, Allen Yang, John Wright均是该领域核心专家。讲座包括了理论基础与实践。合集中还包括相关的Fast l-1和Convex Optimization方法 http://t.cn/RPam664 [ [讨论](https://github.com/memect/hao/issues/25) ] [ [微博](http://www.weibo.com/5220650532/Bh2vHlUlG?mod=weibotime) ]
+2014-08-06 @uso小驴酱 问**sparse representation for computer vision** CV领域教授Lyu回答： ECCV2012有计算机视觉稀疏表示的教程 。主讲人Yi Ma, Allen Yang, John Wright均是该领域核心专家。讲座包括了理论基础与实践。合集中还包括相关的Fast l-1和Convex Optimization方法 http://t.cn/RPam664 [ [讨论](https://github.com/memect/hao/issues/25) ] [ [微博](http://www.weibo.com/5220650532/Bh2vHlUlG?mod=weibotime) ]
 
 <div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://semanticweb.memect.com/wp-content/uploads/2014/08/irnMishjlEBlar7AtxB3bWIyZ74wZ1sdkt4YOG4uHoEOqpRvmrkTVBoHkATQeVLC_b33b18b21eecf4d024e114ca92281479d797032837b49667e5bf22b418df2040.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
-2014-08-06 W3C研究员@吴伟1st 推荐: 关系数据库RDB转RDF的工具。RDF是网页元数据交换的国际标准，是知识图谱和链数据发布的首选语言。从传统的关系数据库到互联、有丰富语义的数据，已有大量转化和查询工具。这一组推荐包括了Oracle和Virtuoso工业实现和很多开源、研究项目、R2ML语言 http://t.cn/RPaNM6h
+2014-08-06 W3C研究员@吴伟1st 推荐: **关系数据库RDB转RDF的工具**。RDF是网页元数据交换的国际标准，是知识图谱和链数据发布的首选语言。从传统的关系数据库到互联、有丰富语义的数据，已有大量转化和查询工具。这一组推荐包括了Oracle和Virtuoso工业实现和很多开源、研究项目、R2ML语言 http://t.cn/RPaNM6h
 
 <div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://semanticweb.memect.com/wp-content/uploads/2014/08/SSHqkNYpunUhclQqXx32v9ReQnJe2VLUg3b9nkvtyHZhNZ7y5yfwdgzacFk2gMay_361e08231714006c28e8d01dbd54909cb3a7900e5357c15b78856c40bfde27be-300x291.jpeg"/>
