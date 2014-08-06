@@ -1,6 +1,8 @@
 # Relational Databases to RDF (RDB2RDF)
+摘要：[经典收藏]如何将关系数据库数据映射到语义万维网RDF表达方式并支持SPARQL查询语言。
 
-editor(s): @wwumit @haoawesome
+editor(s): [Wu Wei](https://github.com/wwumit) [@haoawesome](https://github.com/haoawesome)
+
 
 # Overview
 http://www.csee.umbc.edu/courses/graduate/691/spring14/01/notes/20_rdbs/20r2r.pdf Short story - RDB and RDF 1, Tim Finin's class notes - CMSC 491/691 Special Topics: A Web of Data http://www.csee.umbc.edu/courses/graduate/691/spring14/01/
