@@ -28,7 +28,7 @@
 ## 最近的问答
 
 
-<div style="padding:5px"><img align="left" width=100 height=100  src="http://semanticweb.memect.com/wp-content/uploads/2014/08/SSHqkNYpunUhclQqXx32v9ReQnJe2VLUg3b9nkvtyHZhNZ7y5yfwdgzacFk2gMay_361e08231714006c28e8d01dbd54909cb3a7900e5357c15b78856c40bfde27be-300x291.jpeg"/></div> 2014-08-06  @昊奋 推荐：在这个机器学习大行其道的年代，了解规则系统，以及他们之间的结合是很有必要的。推荐纽约州立大学Stonybrook分校Senlin Liang的工作**OpenRuleBench：比较了5种不同类型的规则系统**，演绎数据库, 语义规则引擎, 基于Prolog系统等，如jena， dlv jess xsb owlim http://t.cn/RPaGJHV  [ [微博](http://www.weibo.com/5220650532/BgZ9CtRHL?mod=weibotime) ] 
+<div style="padding:5px"><img align="left" width=100 height=100  src="http://semanticweb.memect.com/wp-content/uploads/2014/08/SSHqkNYpunUhclQqXx32v9ReQnJe2VLUg3b9nkvtyHZhNZ7y5yfwdgzacFk2gMay_361e08231714006c28e8d01dbd54909cb3a7900e5357c15b78856c40bfde27be-300x291.jpeg"/></div><ul> 2014-08-06  @昊奋 推荐：在这个机器学习大行其道的年代，了解规则系统，以及他们之间的结合是很有必要的。推荐纽约州立大学Stonybrook分校Senlin Liang的工作**OpenRuleBench：比较了5种不同类型的规则系统**，演绎数据库, 语义规则引擎, 基于Prolog系统等，如jena， dlv jess xsb owlim http://t.cn/RPaGJHV  [ [微博](http://www.weibo.com/5220650532/BgZ9CtRHL?mod=weibotime) ] </ul>
 
 * 2014-08-06 [经典资料] **Google云计算的7个里程碑**: GFS(文件系统), MapReduce(计算模型), BigTable(结构数据存储NoSQL), Dremel(大数据查询分析), Colossus(GFS第2版), Spanner(BigTable＋分布式事务管理), Compute Engine(云计算平台，AWS竞争对手)。含原论文、幻灯片、短教程以及业内风评 http://t.cn/RPaU89N [ [微博](http://www.weibo.com/5220650532/BgYHoimrP?mod=weibotime) ]
 
