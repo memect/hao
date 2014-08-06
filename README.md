@@ -28,6 +28,18 @@
 ## 最近的问答
 
 
+* 2014-08-06  @昊奋 推荐：在这个机器学习大行其道的年代，了解规则系统，以及他们之间的结合是很有必要的。推荐纽约州立大学Stonybrook分校Senlin Liang的工作**OpenRuleBench：比较了5种不同类型的规则系统**，演绎数据库, 语义规则引擎, 基于Prolog系统等，如jena， dlv jess xsb owlim http://t.cn/RPaGJHV  [ [微博](http://www.weibo.com/5220650532/BgZ9CtRHL?mod=weibotime) ]
+
+* 2014-08-06 [经典资料] **Google云计算的7个里程碑**: GFS(文件系统), MapReduce(计算模型), BigTable(结构数据存储NoSQL), Dremel(大数据查询分析), Colossus(GFS第2版), Spanner(BigTable＋分布式事务管理), Compute Engine(云计算平台，AWS竞争对手)。含原论文、幻灯片、短教程以及业内风评 http://t.cn/RPaU89N [ [微博](http://www.weibo.com/5220650532/BgYHoimrP?mod=weibotime) ]
+
+* 2014-08-05 [公开课] **斯坦福的计算广告学入门**。整个教程一共9讲，包括市场设计、文字广告、上下文广告、展示广告、广告定向、广告推荐、和新形式广告。这是网上为数不多的计算广告学公开教程，由两位Yahoo科学家Andrei Broder和Vanja Josifovski,主讲，乃多年实战经验总结。http://t.cn/RPX0423 [ [微博](http://www.weibo.com/5220650532/BgT8YwOqI?mod=weibotime) ]
+
+* 2014-08-05 **回答集编程（Answer Set Programming）是一种强大的规则推理语言**。它可以用于解决那些困难（例如NP-hard）的问题。从数据库查询，自然语言理解，生物信息学，到石油勘探，ASP有非常广泛的应用。@Logician_wolfel 推荐了一组最新的ASP教程 http://t.cn/RP6kRm4 有逻辑的问题请教他没错  [ [微博](http://www.weibo.com/5220650532/BgPw08I4B?mod=weibotime) ]
+
+* 2014-08-04 @昊奋 **关于知识图谱的第二组推荐**：知识图谱的构建及其应用，介绍了probabilisic KB（Google） KnowledgeVault，Sonya， Satori/Probase (Microsoft)，YAGO，LOD2等重要的知识图谱系统。知识库构建，实体抽取、实体链接，查询理解和扩展， 语义搜索，等基础技术汇集在10篇核心文献http://t.cn/RP6JCGn  [ [微博](http://www.weibo.com/5220650532/BgJPZo8jJ?mod=weibotime) ]
+
+* 2014-08-04 @西瓜大丸子汤 问：**识别水贴（微博，回复，留言）和有价值的贴**。这个各路英雄有没有能指点一下的？ @刘知远THU 答：刚看到 软件学报 上有篇研究综述：网络水军识别研究。 @QPCN 答：今年www有个tutorial，utah state的lee,关键词crowdturfing 汇总如下： http://t.cn/RP6MOOV 欢迎增补 [ [微博](http://www.weibo.com/5220650532/BgJEbslQz?mod=weibotime) ]
+
 * 2014-08-04 **SSDB是一个高性能 NoSQL 数据库**, 支持哈希表，集合，列表等数据结构。它作为redis的替代或补充，可以用很小的内存代价实现十亿级别数据的存储。工具与生态系统生长非常迅速，已为众多互联网企业所使用。核心推荐资源 http://t.cn/RPi1q47 所有资源http://t.cn/RPi1q4h 作者是@ideawu  [ [讨论](https://github.com/memect/hao/issues/51) ] [ [微博](http://www.weibo.com/5220650532/BgGtV6K6H?mod=weibotime) ]
 
 * 2014-08-04 **极客杨的OCR工具箱**：Tesseract 是目前应用最广泛的免费开源OCR工具（背后有Google的支持）。商业产品有ABBYY的finereader，还有Adobe;国产的有文通和汉王。当前热点是将OCR移植到智能手机上拓展新的输入渠道、IOS有基于Tesseract的实现，Android有高通vuforia API。资料卡片流： http://t.cn/RPiRyYc  [ [讨论](https://github.com/memect/hao/issues/43) ] [ [微博](http://www.weibo.com/5220650532/BgFEdjQG7?mod=weibotime) ]
