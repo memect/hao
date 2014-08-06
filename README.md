@@ -321,6 +321,7 @@ Probabilistic Programming summer school 在Portland顺利结束 教学资料见 
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-06 @好东西传送门 是开源的，任何人都可以贡献好的文献、代码或商业产品。你可以fork一份github库，并在awesome目录下建立一个文件，内容就是链接（文字描述可选）例 http://t.cn/RPal5fW 提交一个pull请求，剩下的就交给传送门了。您的贡献会被署名  [ [微博](http://www.weibo.com/5220650532/Bh2oIc33V?mod=weibotime) ]
 
+<div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-04 @好东西传送门 开源5天，已经有了88颗星。这里解释一下开源政策：为了鼓励好东西的传播，我们采用了Creative Commons Attribution-NonCommercial-ShareAlike 4.0许可证：Github上的内容可以被自由分享和改编，但需用同样的许可证发布，致谢@好东西传送门 并不得用于商用 http://t.cn/RPiYr2f  [ [微博](http://www.weibo.com/5220650532/BgEucqeEz?ref=) ]
