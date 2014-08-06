@@ -30,7 +30,7 @@
 <div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/VJzKdLXnLa6yBu48uvy8uspUDcHncIKAqRR0VgtDoPddFBihElemWWF4XgAUg7JH_585114c9bfe6897feebaa35af540e73d5c58a1af97e344d2a99626a179aca17d-300x300.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
-2014-08-07 美国疾病控制与预防中心卫生经济学家 @陈茁博士_Adam 提供：准确的卫生统计数据是卫生经济政策的基础。这里提供了一组最重要的数据站点，包括国际组织（WHO, OECD, Worldbank, UNICEF）、美国政府部门(CDC, CMS,AHRQ)、中国的卫生计生统计。更多参芝加哥大学卫生统计数据门户 http://t.cn/RPSa7hk  [ [微博](http://www.weibo.com/5220650532/Bh8lRehxo?ref=) ]
+2014-08-07 美国疾病控制与预防中心卫生经济学家 @陈茁博士_Adam 提供：准确的**卫生统计数据**是卫生经济政策的基础。这里提供了一组最重要的数据站点，包括国际组织（WHO, OECD, Worldbank, UNICEF）、美国政府部门(CDC, CMS,AHRQ)、中国的卫生计生统计。更多参芝加哥大学卫生统计数据门户 http://t.cn/RPSa7hk  [ [微博](http://www.weibo.com/5220650532/Bh8lRehxo?ref=) ]
 
 <div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://hao.memect.com/wp-content/uploads/2014/08/ILr63BUa4sJ88khTjH5zezzoDFcSRbaiuqhmKMqLCOjhyd7ZqZKL2Lpivi55dbmS_f6eb680eb6ed2d5859ea747e54c0e76d6b79236e101a7005edeb28864f499dc5.jpeg"/>
