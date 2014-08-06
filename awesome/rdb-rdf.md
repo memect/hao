@@ -5,7 +5,7 @@ editor(s): [吴伟](https://github.com/wwumit), [好东西传送门](https://git
 
 
 # Overview
-http://www.csee.umbc.edu/courses/graduate/691/spring14/01/notes/20_rdbs/20r2r.pdf Short story - RDB and RDF 1, Tim Finin's class notes - CMSC 491/691 Special Topics: A Web of Data http://www.csee.umbc.edu/courses/graduate/691/spring14/01/
+http://www.csee.umbc.edu/courses/graduate/691/spring14/01/notes/20_rdbs/20r2r.pdf Short story - RDB and RDF 1, Tim Finin's class notes - [CMSC 491/691 Special Topics: A Web of Data]( http://www.csee.umbc.edu/courses/graduate/691/spring14/01/)
 
 http://www.slideshare.net/juansequeda/rdb2-rdf-tutorial-iswc2013 Longer story, the Relational Databases to RDF (RDB2RDF) Tutorial at the 2013 International Semantic Web Conference (ISWC2013)
 
