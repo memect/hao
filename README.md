@@ -31,6 +31,8 @@
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-06  @昊奋 推荐：在这个机器学习大行其道的年代，了解规则系统，以及他们之间的结合是很有必要的。推荐纽约州立大学Stonybrook分校Senlin Liang的工作**OpenRuleBench：比较了5种不同类型的规则系统**，演绎数据库, 语义规则引擎, 基于Prolog系统等，如jena， dlv jess xsb owlim http://t.cn/RPaGJHV  [ [微博](http://www.weibo.com/5220650532/BgZ9CtRHL?mod=weibotime) ] 
 
+<img align="left" width=100 height=100  src="http://hao.memect.com/wp-content/uploads/2014/08/SKtjJlSF2dRs7uTzfjxvIdcEGo7MO2ISeAKkPatGz8507OXXOF0oQJZakAkerxHw_df0fc2b1627fb9e21e3cb36a611b250d641161cd21b747d7fc9ba900d2ff8d93.jpeg"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 * 2014-08-06 [经典资料] **Google云计算的7个里程碑**: GFS(文件系统), MapReduce(计算模型), BigTable(结构数据存储NoSQL), Dremel(大数据查询分析), Colossus(GFS第2版), Spanner(BigTable＋分布式事务管理), Compute Engine(云计算平台，AWS竞争对手)。含原论文、幻灯片、短教程以及业内风评 http://t.cn/RPaU89N [ [微博](http://www.weibo.com/5220650532/BgYHoimrP?mod=weibotime) ]
 
 * 2014-08-05 [公开课] **斯坦福的计算广告学入门**。整个教程一共9讲，包括市场设计、文字广告、上下文广告、展示广告、广告定向、广告推荐、和新形式广告。这是网上为数不多的计算广告学公开教程，由两位Yahoo科学家Andrei Broder和Vanja Josifovski,主讲，乃多年实战经验总结。http://t.cn/RPX0423 [ [微博](http://www.weibo.com/5220650532/BgT8YwOqI?mod=weibotime) ]
