@@ -1,11 +1,11 @@
 <img align="left" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/>
-![好东西传送门Logo](http://u.memect.com/shared/image/hao.png =100x100)
+<ul>
 好东西传送门: 微博上的轻问答 Crowd-sourced LiteQA 
 * 关注微博  http://www.weibo.com/haoawesome/
 * 微信号：好东西传送门
 * 网站 http://hao.memect.com/
 * Github https://github.com/memect/hao
-
+</ul>
 还没有回答的问题，欢迎认领 https://github.com/memect/hao/issues
 
 [给我们提建议](https://github.com/memect/hao/issues/new)
