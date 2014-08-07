@@ -17,6 +17,12 @@ http://classes.soe.ucsc.edu/cmps242/Fall09/proj/Mario_Rodriguez_Multiclass_Boost
 
 http://cmp.felk.cvut.cz/~sochmj1/adaboost_talk.pdf presentation summarizing AdaBoost 
 
+
+# people
+
+http://dept.stat.lsa.umich.edu/~jizhu/  check his contribution on SAMME
+
+
 #video lectures
 
 https://www.youtube.com/watch?v=L6BlpGnCYVg  "A Theory of Multiclass Boosting", Rob Schapire, Partha Niyogi Memorial Conference: Computer Science
