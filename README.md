@@ -28,6 +28,39 @@
 ## 最近的问答
 
 <div style="clear: both;"></div>
+<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-07 @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第六组：一些大的数据仓库，如data350.org, R datasets Package, Google Public Data, Infochimps, datamob  [ [微博](http://www.weibo.com/5220650532/Bhbllse6Y?mod=weibotime) ]
+
+<div style="clear: both;"></div>
+<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第五组：理工科数据8类，包括地理、航天、癌症、气候、农业、生物等 http://t.cn/RPSkuaV 社会科学5类，包括GSS社会调查、劳动就业、Pew Research研究所的数据、UCLA数据门户 http://t.cn/RPSkuac  [ [微博](http://www.weibo.com/5220650532/Bhbj57moY?mod=weibotime) ]
+
+<div style="clear: both;"></div>
+<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第四组：SNAP斯坦福的网络数据集 http://t.cn/RPSkGc9 ，Time Series Data Library近800个时间序列数据（经济、水文、气象、农业各种）http://t.cn/RPSkGci 一些大学实验室的数据集，如OSU金融、CMU统计、UCLA SOCR概率 http://t.cn/RPSkGc6  [ [微博](http://www.weibo.com/5220650532/BhbfM2eN5?mod=weibotime) ]
+
+<div style="clear: both;"></div>
+<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第三组：政府数据，有美国的data.gov，英国的data.gov.uk、澳大利亚数据、加拿大数据、联合国数据、三藩市、纽约市、伦敦市数据。用DataMarket搜索和可视化数据 http://t.cn/RPSDceG  [ [微博](http://www.weibo.com/5220650532/Bhbaxj6xo?mod=weibotime) ]
+
+<div style="clear: both;"></div>
+<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第二组：机器学习数据源20+，包括Amazon Public Data(一共56个超大数据，如人类基因组，Common Crawl全球网页， Freebase，Wikipedia等各种宝贝)、航空、天气、医疗、音乐、电影、社交网络，Web点击 http://t.cn/RPSev91  [ [微博](http://www.weibo.com/5220650532/Bhb3qqHUg?mod=weibotime) ]
+
+<div style="clear: both;"></div>
+<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第一组：经济数据4个http://t.cn/RPSgSkR 世界银行Indictors, EconData, AEA(美国经济协会)RFE, GapMinder 金融数据8个：CBOE Futures Exchange， St Louis Fed， NASDAQ， OANDA， Quandl，Google/Yahoo http://t.cn/RPSgSkE  [ [微博](http://www.weibo.com/5220650532/Bhb0wrN4O?mod=weibotime) ]
+
+
+
+
+<div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/VJzKdLXnLa6yBu48uvy8uspUDcHncIKAqRR0VgtDoPddFBihElemWWF4XgAUg7JH_585114c9bfe6897feebaa35af540e73d5c58a1af97e344d2a99626a179aca17d-300x300.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07 美国疾病控制与预防中心卫生经济学家 @陈茁博士_Adam 提供：准确的**卫生统计数据**是卫生经济政策的基础。这里提供了一组最重要的数据站点，包括国际组织（WHO, OECD, Worldbank, UNICEF）、美国政府部门(CDC, CMS,AHRQ)、中国的卫生计生统计。更多参芝加哥大学卫生统计数据门户 http://t.cn/RPSa7hk  [ [微博](http://www.weibo.com/5220650532/Bh8lRehxo?ref=) ]
@@ -123,6 +156,7 @@
 
 
 * 2014-07-29  @LDL_BIT 问：**有哪些文章讲了多层感知器MLP的拟合能力问题？尤其是拟合多项式的能力**？答：当使用非线性的激活函数，MLP是图灵完备的，可以模拟任何函数，当然包括多项式函数。这称为普适逼近原理（Universal approximation theorem）。深度学习则提高了逼近的效率。经典论文见 http://t.cn/RPVAYZ4 [ [讨论](https://github.com/memect/hao/issues/34) ] [ [微博](http://www.weibo.com/5220650532/BfO8hcCYx?mod=weibotime) ]
+  *  @LDL_BIT 增补：最近就这个问题设计了个小实验，今天也看到一篇讲多项式学习问题的论文，见我的博客http://t.cn/RPSAXV0 注：文章是ICML 2014 “Learning Polynomials with Neural Networks” http://t.cn/RPSnyZi [ [微博](http://www.weibo.com/5220650532/BhahP5biF?mod=weibotime) ]
 
 * 2014-07-27 [续http://t.cn/RP5WYnt ] @小飞鱼_露 问：**能否推荐一些关于 Learning to Rank 的相关论文，教程，应用呢**？答2：前次推荐了25篇文章，主要是相关算法。@刘知远THU 和 @老师木 进一步推荐了 @刘铁岩 和 @李航博士 的综述和专著，更适合入门 http://t.cn/RP5WYn5 全部LTR资源 http://t.cn/RP5WYnc  [ [讨论](https://github.com/memect/hao/issues/17) ] [ [微博](http://www.weibo.com/5220650532/Bfvpro1Kq) ]
 
