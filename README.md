@@ -27,35 +27,35 @@
 
 ## 最近的问答
 
-<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/JNi5lolNUscRlPVSSdFiRArkVjepmnsmpZkrOH7IvMLbbZwwaw89seRmVX6oTXKN_ea165633075f2d7b199efbb964b5f72a66220babee97e55b189a1ce5cbdac8a3-300x243.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07 @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第六组：一些大的数据仓库，如data360.org, R datasets Package, Google Public Data, Infochimps, datamob http://data.memect.com/?tag=publicdomain+hao60 [ [微博](http://www.weibo.com/5220650532/Bhbllse6Y?mod=weibotime) ]
 <br/><br/>
 
-<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/QlrWDgdScVrGcRvtwd7nbYxMaf98HPc8O2s9fmYJfLeE5CJo5OHFMKQBuoNkQSmu_149ba53ecd7ee2709de2233e91e586b9312e72956916cd0b9bf02a14f176d792-300x300.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第五组：理工科数据8类，包括地理、航天、癌症、气候、农业、生物等 http://t.cn/RPSkuaV 社会科学5类，包括GSS社会调查、劳动就业、Pew Research研究所的数据、UCLA数据门户 http://t.cn/RPSkuac  [ [微博](http://www.weibo.com/5220650532/Bhbj57moY?mod=weibotime) ]
 
 
-<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/LUXMoKc5qRnK4jgq4w49NmFcyLFr0qZMrN9Pap5JEbVAotXny2k7AdZKbEqtL5ah_523a8b5d90e1b505e9884580b48c18f92650cd4be7c85f4970fcc9ff83125c67.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第四组：SNAP斯坦福的网络数据集 http://t.cn/RPSkGc9 ，Time Series Data Library近800个时间序列数据（经济、水文、气象、农业各种）http://t.cn/RPSkGci 一些大学实验室的数据集，如OSU金融、CMU统计、UCLA SOCR概率 http://t.cn/RPSkGc6  [ [微博](http://www.weibo.com/5220650532/BhbfM2eN5?mod=weibotime) ]
 
-<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/WSuwXoAqgBVY5tVpg9mCc9hTblC65552vAn9PrVMqGy8nprxdtDq8xN5beIyM48c_1c88b40d938d688802701da067f00a223d0ed6bf66773ebd30646b6f3c12b3be-300x300.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第三组：政府数据，有美国的data.gov，英国的data.gov.uk、澳大利亚数据、加拿大数据、联合国数据、三藩市、纽约市、伦敦市数据。用DataMarket搜索和可视化数据 http://t.cn/RPSDceG  [ [微博](http://www.weibo.com/5220650532/Bhbaxj6xo?mod=weibotime) ]
 <br/>
 
 
-<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/bVleJfOyTFzpivzgCGntDf4aBxiTCDCBWx8zzJzQ6tpRnt2FT6v6KOGa9xaLk6UZ_90df6cb86fa331c0c0311eb97d169426cfcfcf0dda113a6e239a31467b239f92-300x300.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第二组：机器学习数据源20+，包括Amazon Public Data(一共56个超大数据，如人类基因组，Common Crawl全球网页， Freebase，Wikipedia等各种宝贝)、航空、天气、医疗、音乐、电影、社交网络，Web点击 http://t.cn/RPSev91  [ [微博](http://www.weibo.com/5220650532/Bhb3qqHUg?mod=weibotime) ]
 
-<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/O0C0BGNb6fqPP3pp6eoxLzZEg7gJSQCtJxqywuysqP7B9w0FXV5wPWG5TgcNcTCM_399a2fe37a3595bae5d0bcf7b35a1f0b83e2a08aa40dc7f04310673d98163774-300x300.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第一组：经济数据4个http://t.cn/RPSgSkR 世界银行Indictors, EconData, AEA(美国经济协会)RFE, GapMinder 金融数据8个：CBOE Futures Exchange， St Louis Fed， NASDAQ， OANDA， Quandl，Google/Yahoo http://t.cn/RPSgSkE  [ [微博](http://www.weibo.com/5220650532/Bhb0wrN4O?mod=weibotime) ]
 
-<img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
+<img align="left" width=100 height=100  src="http://nlp.memect.com/wp-content/uploads/2014/08/NFRNXPWjG5nEqTy3rq1WSXK3L9ZJYs9CHqGt0dxin3VnqufnyT9S3yKpTZ467zsk_f712d1a861ecc02100ad3b6831c314d2693cb68cf9946315a7999b14f1b3865d.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07 ansj分词的作者@ansj 为我们介绍中文分词。工具有Java的Ansj分词、结巴分词Python版与C++版。基础文章《中文分词的原理与实践》。常用的算法：条件随机场CRF, 隐马尔科夫模型HMM。常用数据结构：Trie树和双数组 http://t.cn/RPSQlCE @ansj发起了nlpcn.org开放自由的NLP平台，NLPer都该去瞅瞅  [ [微博](http://www.weibo.com/5220650532/Bh9WGeljD?mod=weibotime) ]
 
