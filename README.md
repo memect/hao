@@ -28,7 +28,7 @@
 ## 最近的问答
 <img align="left" width=100 height=100  src="http://hao.memect.com/wp-content/uploads/2014/08/w0pi3EQjoubJIUpx3oUMLeRqertE6Jt2WjpFS4jmfFpLAE7hwOAvrnQu7usVeHk5_e7c2d6935a3a0e92486bee03cca3797954f8833ecb60ca4348b6fa32dba345f7.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
-2014-08-07 问：@图像视觉研究 有没有经典的Multi-Class boosting的相关资料推荐推荐？ 答：找到几篇经典论文，几个幻灯片、录像以及工具包。相关学校有MIT，UCSD，Stanford，umich等。软件有C++, Pythton (scikit-learn) 实现，也有几个GITHUB开源软件。http://memect.co/fVshb4Z [ [微博](http://www.weibo.com/5220650532/BhgJ0hHvLY?mod=weibotime) ]
+2014-08-08 问：@图像视觉研究 有没有经典的Multi-Class boosting的相关资料推荐推荐？ 答：找到几篇经典论文，几个幻灯片、录像以及工具包。相关学校有MIT，UCSD，Stanford，umich等。软件有C++, Pythton (scikit-learn) 实现，也有几个GITHUB开源软件。http://memect.co/fVshb4Z [ [微博](http://www.weibo.com/5220650532/BhgJ0hHvLY?mod=weibotime) ]
 <br/><br/>
 
 
