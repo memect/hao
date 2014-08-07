@@ -9,7 +9,7 @@ http://classes.soe.ucsc.edu/cmps242/Fall09/proj/Mario_Rodriguez_Multiclass_Boost
 http://cmp.felk.cvut.cz/~sochmj1/adaboost_talk.pdf presentation summarizing AdaBoost 
 
 # classical paper
-http://web.stanford.edu/~hastie/Papers/samme.pdf  Multi-class AdaBoost, 2006
+http://dept.stat.lsa.umich.edu/~jizhu/pubs/Zhu-SII09.pdf  Multi-class AdaBoost, Ji Zhu†, Hui Zou, Saharon Rosset and Trevor Hastie, 2009
 
 http://www.cs.princeton.edu/~imukherj/nips10.pdf  A Theory of Multiclass Boosting, Indraneel Mukherjee, Robert E. Schapire, NIPS 2010
 
