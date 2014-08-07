@@ -1,5 +1,4 @@
-问：@图像视觉研究 有没有经典的Multi-Class boosting的相关资料推荐推荐？
-答：找到几篇经典论文，几个幻灯片、录像以及工具包， 目前研究在UCSD和Stanford 。软件有C++,Pythton 实现，也有几个学者开发的GITHUB开源软件。  [资料卡片](http://bigdata.memect.com/?tag=MultiClassBoosting)
+问：@图像视觉研究 有没有经典的Multi-Class boosting的相关资料推荐推荐？ 答：找到几篇经典论文，几个幻灯片、录像以及工具包。相关学校有MIT，UCSD，Stanford，umich等。软件有C++, Pythton (scikit-learn) 实现，也有几个GITHUB开源软件。  [资料卡片](http://bigdata.memect.com/?tag=MultiClassBoosting)
 
 # overview
 http://www.svcl.ucsd.edu/projects/mcboost/
