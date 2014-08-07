@@ -30,7 +30,7 @@
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 |2014-08-07 @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第六组：一些大的数据仓库，如data350.org, R datasets Package, Google Public Data, Infochimps, datamob  [ [微博](http://www.weibo.com/5220650532/Bhbllse6Y?mod=weibotime) ]
-
+<br/>
 
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
