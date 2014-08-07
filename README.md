@@ -30,7 +30,7 @@
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 |2014-08-07 @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第六组：一些大的数据仓库，如data350.org, R datasets Package, Google Public Data, Infochimps, datamob  [ [微博](http://www.weibo.com/5220650532/Bhbllse6Y?mod=weibotime) ]
-<br/><br/>
+<br/><br/><br/>
 
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
@@ -44,6 +44,7 @@
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第三组：政府数据，有美国的data.gov，英国的data.gov.uk、澳大利亚数据、加拿大数据、联合国数据、三藩市、纽约市、伦敦市数据。用DataMarket搜索和可视化数据 http://t.cn/RPSDceG  [ [微博](http://www.weibo.com/5220650532/Bhbaxj6xo?mod=weibotime) ]
+<br/>
 
 
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
