@@ -10,9 +10,7 @@ http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ Neural Networks, Man
 
 # Tutorial
 
-http://www.cad.zju.edu.cn/reports/%C1%F7%D0%CE%D1%A7%CF%B0.pdf
-
-# Advanced Tutorial 何晓飞 流形学习
+http://www.cad.zju.edu.cn/reports/%C1%F7%D0%CE%D1%A7%CF%B0.pdf 何晓飞 流形学习
 
 https://www.cs.cmu.edu/~efros/courses/AP06/presentations/ThompsonDimensionalityReduction.pdf
 
