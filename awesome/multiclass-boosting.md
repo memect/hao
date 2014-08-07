@@ -8,6 +8,10 @@ http://classes.soe.ucsc.edu/cmps242/Fall09/proj/Mario_Rodriguez_Multiclass_Boost
 
 http://cmp.felk.cvut.cz/~sochmj1/adaboost_talk.pdf presentation summarizing AdaBoost 
 
+https://www.youtube.com/watch?v=L6BlpGnCYVg  "A Theory of Multiclass Boosting", Rob Schapire, Partha Niyogi Memorial Conference: Computer Science
+
+December 4, 2011
+
 # classical paper
 http://web.mit.edu/torralba/www/cvpr2004.pdf Sharing features: efficient boosting procedures for multiclass object detection, Antonio Torralba Kevin P. Murphy William T. Freeman, CVPR 2004
 
