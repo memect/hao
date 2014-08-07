@@ -1,5 +1,5 @@
 问：@图像视觉研究 有没有经典的Multi-Class boosting的相关资料推荐推荐？
-答：找到几篇经典论文和几个工具包  [资料卡片](http://bigdata.memect.com/?tag=MultiClassBoosting)
+答：找到几篇经典论文和几个工具包。早期研究在MIT，Stanford， 当前CSCD的专门有一个项目。软件有C++,Pythton 实现，也有几个国内学者开发的GITHUB开源软件。  [资料卡片](http://bigdata.memect.com/?tag=MultiClassBoosting)
 
 # overview
 http://www.svcl.ucsd.edu/projects/mcboost/
@@ -18,7 +18,7 @@ http://techtalks.tv/talks/multiclass-boosting-with-hinge-loss-based-on-output-co
 http://web.mit.edu/torralba/www/cvpr2004.pdf Sharing features: efficient boosting procedures for multiclass object detection, Antonio Torralba Kevin P. Murphy William T. Freeman, CVPR 2004
 
 
-http://dept.stat.lsa.umich.edu/~jizhu/pubs/Zhu-SII09.pdf  Multi-class AdaBoost, Ji Zhu†, Hui Zou, Saharon Rosset and Trevor Hastie, Statistics and Its Interface, 2009
+http://dept.stat.lsa.umich.edu/~jizhu/pubs/Zhu-SII09.pdf  Multi-class AdaBoost, Ji Zhu, Hui Zou, Saharon Rosset and Trevor Hastie, Statistics and Its Interface, 2009
 
 http://www.cs.princeton.edu/~imukherj/nips10.pdf  A Theory of Multiclass Boosting, Indraneel Mukherjee, Robert E. Schapire, NIPS 2010
 
