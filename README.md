@@ -27,19 +27,14 @@
 
 ## 最近的问答
 
-<div>
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07 @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第六组：一些大的数据仓库，如data350.org, R datasets Package, Google Public Data, Infochimps, datamob  [ [微博](http://www.weibo.com/5220650532/Bhbllse6Y?mod=weibotime) ]
-</div>
-
-<div style="clear: both;">
+<p/>
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第五组：理工科数据8类，包括地理、航天、癌症、气候、农业、生物等 http://t.cn/RPSkuaV 社会科学5类，包括GSS社会调查、劳动就业、Pew Research研究所的数据、UCLA数据门户 http://t.cn/RPSkuac  [ [微博](http://www.weibo.com/5220650532/Bhbj57moY?mod=weibotime) ]
-</div>
 
-<div style="clear: both;"></div>
 <img align="left" width=100 height=100  src="http://u.memect.com/shared/image/hao.png"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第四组：SNAP斯坦福的网络数据集 http://t.cn/RPSkGc9 ，Time Series Data Library近800个时间序列数据（经济、水文、气象、农业各种）http://t.cn/RPSkGci 一些大学实验室的数据集，如OSU金融、CMU统计、UCLA SOCR概率 http://t.cn/RPSkGc6  [ [微博](http://www.weibo.com/5220650532/BhbfM2eN5?mod=weibotime) ]
