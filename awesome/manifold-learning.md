@@ -24,5 +24,5 @@ http://www2.imm.dtu.dk/projects/manifold/Syllabus.html Summer School on Manifold
 
 http://scikit-learn.org/stable/modules/manifold.html
 
-谁还关注这个话题： @王斌_ICTIR @丕子 @JianHsiao
+谁还关注这个话题： @王斌_ICTIR @丕子  
 
