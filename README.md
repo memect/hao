@@ -34,6 +34,13 @@
 答：是不是Robot Learning或Adaptive Control,请看综述,工具,研究组和学会。两篇维基的参考资料都挺好。http://memect.co/Ehc3uFo  [ [微博](http://www.weibo.com/5220650532/Bhl75C7mP) ]
 <br/><br/>
 
+<img align="left" width=100 height=100  src="http://bigdata.memect.com/wp-content/uploads/2014/08/dJCIOU1PjYJiy2qb6EBri2qQNVFtyX4RnWiWRgr5Jf1Ptxx4L8AETD4tLUKqqksI_fb75f1c6be28a7073437f5d4de41cda4b22334ceff8aaf608f25ceab78a3e907.jpeg"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-08 问： @ai_东沂 木有关于社会化标签挖掘的相关资料?
+答： 社会化标签(folksonomy)在十年前很热了一阵，相关研究也主要集中在那一段时间（印第安那的一个博士生整理了一个文献清单）。还有两个综述论文（KDD那篇来自韩家伟的学生，另一篇KER来自一个语义Web的研究组）。不太全面，欢迎指正。http://memect.co/eOcfnQA [ [微博](http://www.weibo.com/5220650532/Bhl1QAnEn) ]
+<br/><br/>
+
+
 
 <img align="left" width=100 height=100  src="http://hao.memect.com/wp-content/uploads/2014/08/w0pi3EQjoubJIUpx3oUMLeRqertE6Jt2WjpFS4jmfFpLAE7hwOAvrnQu7usVeHk5_e7c2d6935a3a0e92486bee03cca3797954f8833ecb60ca4348b6fa32dba345f7.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
