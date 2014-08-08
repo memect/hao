@@ -47,6 +47,12 @@
 2014-08-08 问：@图像视觉研究 有没有经典的Multi-Class boosting的相关资料推荐推荐？ 答：找到几篇经典论文，几个幻灯片、录像以及工具包。相关学校有MIT，UCSD，Stanford，umich等。软件有C++, Pythton (scikit-learn) 实现，也有几个GITHUB开源软件。http://memect.co/fVshb4Z [ [微博](http://www.weibo.com/5220650532/BhgJ0hHvLY?mod=weibotime) ]
 <br/><br/>
 
+<img align="left" width=100 height=100  src="http://python.memect.com/wp-content/uploads/2014/08/q2LSKrtPzI4BPkIk2nwbIpN0XJovLKxboJvdjgcRfRCQ8SUY7EcejnhWbsVNHciX_46ced78af20bde21ceaa45683ab4dae536866e2062d93db867af4a9db7d16d6b.jpeg"/>
+<img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
+2014-08-08 问：@andeguangshaqianwanjian 求python做神经网络的资料 答：找到十个工具，pythonWiki5个，Github里2个，其他（好像比前两类常用）3个。http://memect.co/no0jyMY
+ [ [微博](http://www.weibo.com/5220650532/BhkMjyL4g?mod=weibotime) ]
+<br/><br/>
+
 
 <img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/JNi5lolNUscRlPVSSdFiRArkVjepmnsmpZkrOH7IvMLbbZwwaw89seRmVX6oTXKN_ea165633075f2d7b199efbb964b5f72a66220babee97e55b189a1ce5cbdac8a3-300x243.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
