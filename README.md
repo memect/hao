@@ -62,7 +62,7 @@
 <img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/QlrWDgdScVrGcRvtwd7nbYxMaf98HPc8O2s9fmYJfLeE5CJo5OHFMKQBuoNkQSmu_149ba53ecd7ee2709de2233e91e586b9312e72956916cd0b9bf02a14f176d792-300x300.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07  @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第五组：理工科数据8类，包括地理、航天、癌症、气候、农业、生物等 http://t.cn/RPSkuaV 社会科学5类，包括GSS社会调查、劳动就业、Pew Research研究所的数据、UCLA数据门户 http://t.cn/RPSkuac  [ [微博](http://www.weibo.com/5220650532/Bhbj57moY?mod=weibotime) ]
-
+<br/><br/>
 
 <img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/LUXMoKc5qRnK4jgq4w49NmFcyLFr0qZMrN9Pap5JEbVAotXny2k7AdZKbEqtL5ah_523a8b5d90e1b505e9884580b48c18f92650cd4be7c85f4970fcc9ff83125c67.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
