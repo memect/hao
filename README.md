@@ -57,7 +57,8 @@
 <img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/JNi5lolNUscRlPVSSdFiRArkVjepmnsmpZkrOH7IvMLbbZwwaw89seRmVX6oTXKN_ea165633075f2d7b199efbb964b5f72a66220babee97e55b189a1ce5cbdac8a3-300x243.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-07 @医学统计分析精粹 推荐的免费数据集。涵盖各个行业。第六组：一些大的数据仓库，如data360.org, R datasets Package, Google Public Data, Infochimps, datamob http://data.memect.com/?tag=publicdomain+hao60 [ [微博](http://www.weibo.com/5220650532/Bhbllse6Y?mod=weibotime) ]
-<br/><br/>
+<br/><br/><br/><br/>
+
 
 <img align="left" width=100 height=100  src="http://data.memect.com/wp-content/uploads/2014/08/QlrWDgdScVrGcRvtwd7nbYxMaf98HPc8O2s9fmYJfLeE5CJo5OHFMKQBuoNkQSmu_149ba53ecd7ee2709de2233e91e586b9312e72956916cd0b9bf02a14f176d792-300x300.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
