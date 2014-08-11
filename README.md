@@ -28,7 +28,7 @@
 ## 最近的问答
 
 
-<img align="left" width=100 height=100  src="http://bigdata.memect.com/wp-content/uploads/2014/08/2MO6PHJCiVnpetoAtKf1K8mAzdnzj7pqvjMBltDK9k4gUJlavzrhJ4MpTPFa1uev_45f770523092a1adb5d355e521eb3fc92f67dac38bf6d1b73e68dbfdc71b5860.jpeg"/>
+<img align="left" width=100 height=100  src="http://bigdata.memect.com/wp-content/uploads/2014/08/bwnCrYCGHm8EXBUpgZx2LB3al1x2mFhKxgylqbcSADIkW06BeSOA8UxYX5zVaru7_9665ce207a481ed38972ff12b2af37e4001108b549608c92dfb2a47b9a654042.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-12 问：@all_shuffle cassandra调优的资料
 答：可以去datastax和cassandra wiki去找资料。优化点含数据建模、读写I/O、存储压缩、JVM。要注意cassandra版本。也可以看看Ebay, Netflix的应用案例。http://memect.co/ioPLBIK   [ [微博](http://www.weibo.com/5220650532/BhTnSbw2s) ]
@@ -36,7 +36,7 @@
 
 
 
-<img align="left" width=100 height=100  src="http://bigdata.memect.com/wp-content/uploads/2014/08/bwnCrYCGHm8EXBUpgZx2LB3al1x2mFhKxgylqbcSADIkW06BeSOA8UxYX5zVaru7_9665ce207a481ed38972ff12b2af37e4001108b549608c92dfb2a47b9a654042.jpeg"/>
+<img align="left" width=100 height=100  src="http://bigdata.memect.com/wp-content/uploads/2014/08/yG4JFouTrPuiyNo1u6WmE5iu8Y53gR7pL1H60qy25Go1YXyubVPcy8DlsQJWy99C_581468a26c6d3f2ecf785c51b2a434e3b1d202bb31d203913f3ee04c182735cf-300x199.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-08 问: @ 红星照大龙 有没有机器学习对具体设备（比如四轴，双足机器人，运动控制）在控制性能方面提升（稳定性，响应速度）的工具或者资料？
 答：是不是Robot Learning或Adaptive Control,请看综述,工具,研究组和学会。两篇维基的参考资料都挺好。http://memect.co/Ehc3uFo  [ [微博](http://www.weibo.com/5220650532/Bhl75C7mP) ]
