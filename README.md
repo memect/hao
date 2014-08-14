@@ -28,13 +28,48 @@
 ## 最近的问答
 
 
+2014-08-13 最近我们推荐过四组深度学习的资源，分别为语音检索，文本挖掘/自然语言处理，图像检索，最热深度学习Github项目。为方便大家浏览/粘帖，现在制作成可下载的PPT，每页是一个推荐资源的预览。百度云盘 http://t.cn/RPWoSHq slideshare http://t.cn/RPWoSHb 原始PPT http://t.cn/RPWoSH4
+http://www.weibo.com/5220650532/Bi6AwyhV1?mod=weibotime
+
+2014-08-13 http://t.cn/RPW6muz ACL2014 Semantic Parsing Workshop的slides 感谢@老淘 @波多野丽猪 推荐 
+http://www.weibo.com/5220650532/Bi6fQ8wYq?mod=weibotime
+
+2014-08-13 问：@VoidStars 请问想提取一段文本里的中文姓名（0～1个） 有好的开源库和教程吗 答： 常见方法就是分词，再利用姓名词库和上下文关系来确定。 知呼有一个综述。google有专利。 @52nlp 也有大量博文讲中文分词。开源工具比较有名的有jieba, snownlp, stanford-nlp-ner. http://t.cn/RPWP2h1
+http://www.weibo.com/5220650532/Bi3VHfSFP?mod=weibotime
+
+2014-08-13 问: @yongsun 有没有开源或者免费的英文语音识别软件/或项目？打算翻译一些冰球教学的视频，想结合识别结果来进行听译 答: Windows7/8 自带语音识别功能，Google Chrome有基于云端服务的识别插件，软件方面Nuaunce的Dragon很牛(SIRI就是靠它做语音识别). 开源软件列表看维基百科。http://t.cn/RPODalA
+http://www.weibo.com/5220650532/Bi3ti7wAd?mod=weibotime
+
+2014-08-13 问: 做 logistic regression 有啥好用的库吗？ 需要处理几十万个 features， 然后几十亿个training data的。 features 是极其稀疏的，Sparsity大概万分之一左右吧 答: 有不少开源库： Spark(MLlib), Mahout, R+Hadoop, Hadoop, Scalding(Conjecture)。有2014分析指出SPARK比较快。http://t.cn/RPOddon
+http://www.weibo.com/5220650532/Bi3axDIR8?mod=weibotime
+
+2014-08-12 @刘知远THU 推荐：翟成祥老师(UIUC)的综述专著：Statistical Language Models for Information Retrieval（信息检索中的统计语言模式）(2008)，从BM25到PLSA, LDA，回顾了领域发展并总结了未来的挑战。 
+http://www.weibo.com/5220650532/BhWzutAft?mod=weibotime
+
+2014-08-12 [NLP讲义下载,125页,PDF] 翟成祥老师(UIUC)今年在澳大利亚数据库博士短训班的教程:"Statistical Methods for Mining Big Text Data" 介绍两种基于统计语言模型(Statistics Language Model)的基本话题模型(Topic Model): LDA和PLSA的原理及应用。最后列出六个未来研究课题。http://t.cn/RPO7vtW
+http://www.weibo.com/5220650532/BhWo26Y93?mod=weibotime
+
+2014-08-12  @talkto廖华 请问有没有好用的中文词汇的语义相似度计算工具？答：多种分布式表示方法都可以计算语义相似度，中英文均可以处理。如近来的word2vec http://t.cn/RPOvesp 和glove。@刘知远THU 推荐ESA(Explicit semantic analysis)，在稳定性上可能更优，一些开源项目和文章如下 http://t.cn/RPOvesj 
+http://www.weibo.com/5220650532/BhWdIDon6?mod=weibotime 
+ 
+
 <img align="left" width=100 height=100  src="http://bigdata.memect.com/wp-content/uploads/2014/08/bwnCrYCGHm8EXBUpgZx2LB3al1x2mFhKxgylqbcSADIkW06BeSOA8UxYX5zVaru7_9665ce207a481ed38972ff12b2af37e4001108b549608c92dfb2a47b9a654042.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
 2014-08-12 问：@all_shuffle cassandra调优的资料
 答：可以去datastax和cassandra wiki去找资料。优化点含数据建模、读写I/O、存储压缩、JVM。要注意cassandra版本。也可以看看Ebay, Netflix的应用案例。http://memect.co/ioPLBIK   [ [微博](http://www.weibo.com/5220650532/BhTnSbw2s) ]
 <br/><br/>
 
+2014-08-10 @唐小sin 问：现在社交网络的研究焦点在哪? 答：感谢清华大学@唐杰THU 教授提供答案，在他与密歇根大学梅俏竹教授合写的综述《数据挖掘学科发展报告》第2.2 部分“社交网络分析和图挖掘研究”分析了诸多前沿方向，如网络结构分析、图模式挖掘、信息传播和影响力建模等，可供参考 http://t.cn/RPNVntW 
+http://www.weibo.com/5220650532/BhCrZ8DO1?mod=weibotime
 
+2014-08-10 http://t.cn/RPNLDbW 用Python打造图像分析应用你需要知道的15个软件包：计算基础Numpy Scipy 图像基础matoplotlib PIL/Pillow 图像进阶OpenCV SimpleCV mahotas scikit-learn ilastik 其他pprocess h5py scikit-image Medpy 完整列表 http://t.cn/RPNLDb0 
+http://www.weibo.com/5220650532/BhBkrkfWg?mod=weibotime
+
+2014-08-09 如何用Python打造高可用性网站？这组来自highscalability的文章展示了如何利用Python服务以亿计用户的网站，包括耳熟能详的Youtube(视频)、Reddit和Digg(新闻分享)、Dropbox(云存储)、Instagram和Pinterest(图片分享)等。下次有人疑问Python的性能，和ta分享这组文章吧 http://t.cn/RPCutKS
+http://www.weibo.com/5220650532/BhxxQjtja?mod=weibotime
+
+2014-08-09 @我爱机器学习 问： 判断两张图片是否是同一内容（只考虑光照、倾斜、模糊、偏移等因素）的资料有否？答：@CD--挨踢民工巍然 推荐了lire，OpenIMAJ @申砾 推荐了pHash。lire和OpenIMAJ都是java的，openimag可以处理视频，关键点匹配，人脸识别等。pHash是C++的图像哈希软件 http://t.cn/RP9aFVz 
+http://www.weibo.com/5220650532/BhqBFulcq?mod=weibotime
 
 <img align="left" width=100 height=100  src="http://bigdata.memect.com/wp-content/uploads/2014/08/yG4JFouTrPuiyNo1u6WmE5iu8Y53gR7pL1H60qy25Go1YXyubVPcy8DlsQJWy99C_581468a26c6d3f2ecf785c51b2a434e3b1d202bb31d203913f3ee04c182735cf-300x199.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
@@ -47,8 +82,6 @@
 2014-08-08 问： @ai_东沂 木有关于社会化标签挖掘的相关资料?
 答： 社会化标签(folksonomy)在十年前很热了一阵，相关研究也主要集中在那一段时间（印第安那的一个博士生整理了一个文献清单）。还有两个综述论文（KDD那篇来自韩家伟的学生，另一篇KER来自一个语义Web的研究组）。不太全面，欢迎指正。http://memect.co/eOcfnQA [ [微博](http://www.weibo.com/5220650532/Bhl1QAnEn) ]
 <br/><br/>
-
-
 
 <img align="left" width=100 height=100  src="http://hao.memect.com/wp-content/uploads/2014/08/w0pi3EQjoubJIUpx3oUMLeRqertE6Jt2WjpFS4jmfFpLAE7hwOAvrnQu7usVeHk5_e7c2d6935a3a0e92486bee03cca3797954f8833ecb60ca4348b6fa32dba345f7.jpeg"/>
 <img align="left" width=10 height=100 src="http://u.memect.com/shared/image/blank10x100.png"/>
