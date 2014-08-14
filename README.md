@@ -23,8 +23,6 @@
 
 <hr/>
 
-## [@TechCrunch中国 国际创新北京峰会VIP票大pk](https://github.com/memect/hao/issues/38)
-
 ## 最近的问答
 
 
