@@ -63,26 +63,3 @@ http://www.douban.com/note/247983915/ 数据科学家的各种资源
 http://www.aboutyun.com/thread-7569-1-1.html 大数据入门：各种大数据技术介绍
 
 https://class.coursera.org/datasci-001  coursera上的公开课 大数据科学入门 Introduction to Data Science
-
-<quote>
-Part 0: Introduction
-Examples, data science articulated, history and context, technology landscape
-
-Part 1: Data Manipulation at Scale
-Databases and the relational algebra 
-Parallel databases, parallel query processing, in-database analytics 
-MapReduce, Hadoop, relationship to databases, algorithms, extensions, languages  
-Key-value stores and NoSQL; tradeoffs of SQL and NoSQL
-
-Part 2: Analytics
-Topics in statistical modeling: basic concepts, experiment design, pitfalls
-Topics in machine learning: supervised learning (rules, trees, forests, nearest neighbor, regression), optimization (gradient descent and variants), unsupervised learning
-
-Part 3: Communicating Results
-Visualization, data products, visual data analytics 
-Provenance, privacy, ethics, governance 
-
-Part 4: Special Topics
-Graph Analytics: structure, traversals, analytics, PageRank, community detection, recursive queries, semantic web
-Guest Lectures
-</quote>
