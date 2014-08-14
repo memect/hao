@@ -1,4 +1,4 @@
-# 入门须知
+# 大数据入门 - 简版进阶方案
 
 大数据是一个内涵非常广泛的概念，涵盖了统计，数据科学，机器学习，数据挖掘，分布式数据库，分布式计算，云端存储，信息可视化等等诸多领域．
 更详细的领域列表可以见Github上的 [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
@@ -21,7 +21,7 @@ http://www.planet-data.eu/sites/default/files/presentations/Big_Data_Tutorial_pa
 ## 技术流
 
 要想成为数据科学家, 通常可以选修网上相关课程，如coursera和小象学院．
-这里我们面向Excel为基础的中小企业初学者设计一个极简版进阶方案．
+这里我们面向Excel为基础的中小企业初学者设计一个简版进阶方案．
 
 第0级：电子表格Excel -- 实现简单的数据分析与图表
 
