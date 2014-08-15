@@ -1,4 +1,4 @@
-# 不平衡数据分类(Imbalanced data classification) 研讨报告
+# 不平衡数据分类(Imbalanced data classification)
 
 Editor(s): 刘知远THU , xierqi , eacl_newsmth , 好东西传送门
 
