@@ -1,12 +1,12 @@
 Editor(s): 刘知远THU , xierqi , eacl_newsmth , 好东西传送门
 
 ## keywords
-  Positive only
-  Imbalanced data
-  classification
+  Positive only,
+  Imbalanced data,
+  classification,
   
-  link prediction
-  relation learning
+  link prediction,
+  relation learning,
 
 ## readings
 
