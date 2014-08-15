@@ -1,5 +1,5 @@
 # 提高页面响应速度: 反向代理及负载均衡
-editors: BUPTGuo , 好东西传送门 , 情非得已小屋, 新世界_玉兔 , 52cs
+editors: mahak, BUPTGuo , 好东西传送门 , 情非得已小屋, 新世界_玉兔 , 52cs
 
 keywords:
  负载均衡(load balancer),
@@ -16,6 +16,8 @@ http://fournines.wordpress.com/2011/12/02/improving-page-speed-cdn-vs-squid-varn
 
 
 ## 讨论
+
+mahak: 域名服务的A记录可以是多个ip做循环（round roubin），请求到了ip之后，可以是负载均衡设备，具体均衡策略可根据应用调整，比如是否会话保持等。
 
 BUPTGuo：负载均衡？ (8月3日 17:17)
 
