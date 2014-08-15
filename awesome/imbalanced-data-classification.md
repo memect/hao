@@ -1,3 +1,5 @@
+# 不平衡数据分类(Imbalanced data classification) 研讨报告
+
 Editor(s): 刘知远THU , xierqi , eacl_newsmth , 好东西传送门
 
 https://github.com/memect/hao/blob/master/awesome/imbalanced-data-classification.md
