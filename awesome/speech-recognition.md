@@ -6,6 +6,10 @@ keywords:
   speech recognition,
   speaker recognition,
   
+card lists:
+* http://hao.memect.com/?tag=speechRecognition
+* http://bigdata.memect.com/?tag=speech+deeplearning 
+  
 ## readings 
 
 http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf Deep Learning for Natural Language Processing and Related Applications, Microsoft
