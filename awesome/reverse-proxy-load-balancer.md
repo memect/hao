@@ -18,6 +18,7 @@ http://fournines.wordpress.com/2011/12/02/improving-page-speed-cdn-vs-squid-varn
 
 
 ## 讨论
+<b>@52cs 一个域名貌似只能绑定一个IP，这么多服务器怎么都可以被域名找到呢？</b>
 
 mahak: 域名服务的A记录可以是多个ip做循环（round roubin），请求到了ip之后，可以是负载均衡设备，具体均衡策略可根据应用调整，比如是否会话保持等。
 
