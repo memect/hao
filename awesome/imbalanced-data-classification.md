@@ -38,7 +38,9 @@ http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html  dataset lis
 
 
 ## discussion
-### @eastone01 请问目前有木有关于不平衡数据分类（imbalance dataset classification）任务的人工二维toy dataset
+### @eastone01 不平衡数据分类数据集 https://github.com/memect/hao/issues/47
+
+<b>请问目前有木有关于不平衡数据分类（imbalance dataset classification）任务的人工二维toy dataset?</b>
 
 刘知远THU: 不平衡数据分类，尤其是标注正例特别多，几乎没有标注负例，但有大量未标注数据的话，应当怎么处理呢？这个问题在relation extraction中很普遍。现在只能在大量未标注数据中随机抽样作为负例。
 
