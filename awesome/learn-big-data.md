@@ -50,7 +50,7 @@ http://download.bigbata.com/ebook/oreilly/books/Big_Data_Glossary.pdf
 
 (英文) Big Data For Dummies 有免费pdf　http://it-ebooks.info/book/2082/　
 
-"大数据时代从入门到全面理解"　http://book.douban.com/review/6131027/．适合了解大数据的一些基本概念．不过作者看法有些片面, 有很多吸引眼球的段子, 但与技术流结合地不够紧密.
+"大数据时代从入门到全面理解"　http://book.douban.com/review/6131027/ 适合了解大数据的一些基本概念．不过作者看法有些片面, 有很多吸引眼球的段子, 但与技术流结合地不够紧密.
 
 ## 数据科学家学习资源
 
