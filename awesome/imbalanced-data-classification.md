@@ -9,6 +9,8 @@ Editor(s): 刘知远THU , xierqi , eacl_newsmth , 好东西传送门
   relation learning,
 
 ## readings
+http://www.cs.cmu.edu/~qyj/IR-Lab/ImbalancedSummary.html  Yanjun Qi, A Brief Literature Review of Class Imbalanced Problem
+
 
 http://homes.cs.washington.edu/~pedrod/papers/kdd99.pdf  (@xierqi 推荐) Domingo,  MetaCost: A General Method for Making Classifiers Cost, KDD 1999
 
@@ -32,6 +34,9 @@ http://weka.wikispaces.com/MetaCost  Weka
 
 http://pages.cs.wisc.edu/~dpage/kddcup2001/  Prediction of Molecular Bioactivity for Drug Design -- Binding to Thrombin
 
+http://code.google.com/p/imbalanced-data-sampling/ Imbalanced Data Sampling Using Sample Subset Optimization
+
+#### dataset list
 https://archive.ics.uci.edu/ml/datasets.html?format=&task=cla&att=&area=&numAtt=&numIns=&type=&sort=nameUp&view=table  UCI dataset repo, classification category
 
 http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html  dataset list
