@@ -17,11 +17,14 @@ http://cs.gmu.edu/~carlotta/publications/AlsumaitL_onlineLDA.pdf On-Line LDA: Ad
 http://www.mdpi.com/1999-4893/5/4/469 Contextual Anomaly Detection in Text Data 2012
 
 ## Outlier detection 
+http://info.mapr.com/resources_anewlook_anomalydetection_ty.html.html?aliId=7992403 
+@ 郭惠礼 ：刚看完一本书. Practical Machine Learning: A New Look At Anomaly Detection. " http://t.cn/RPJX4YT 一本免费的机器学习实践书。此书主要以Anomaly Detection与T-digest算法为主轴展开论述， 不涉及太深的知识。 比较简单，适合刚接触ML的初学者. 
+
 http://en.wikipedia.org/wiki/Anomaly_detection
 
 http://www.siam.org/meetings/sdm10/tutorial3.pdf Outlier Detection Techniques - SIAM
 
 http://www.slideshare.net/HouwLiong/chapter-12-outlier
 
-## Text mining only
+## Text mining
 http://www.itee.uq.edu.au/dke/filething/get/855/text-mining-ChengXiangZhai.pdf  Statistical Methods for Mining Big Text Data, ChengXiang Zhai 2014
