@@ -4,14 +4,12 @@ Editor(s): AixinSG, 刘知远THU , xierqi , eacl_newsmth , 好东西传送门
 
 https://github.com/memect/hao/blob/master/awesome/imbalanced-data-classification.md
 
-## keywords
+keywords:
   Positive only,
   Imbalanced data,
   classification,
   
-  link prediction,
-  relation learning,
-
+  
 ## readings
 http://www.cs.cmu.edu/~qyj/IR-Lab/ImbalancedSummary.html  Yanjun Qi, A Brief Literature Review of Class Imbalanced Problem
 
