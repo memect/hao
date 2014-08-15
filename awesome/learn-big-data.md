@@ -1,4 +1,4 @@
-# 大数据入门 - 简版进阶方案
+# 大数据应用与技术 - 入门资源汇编
 
 大数据是一个内涵非常广泛的概念，涵盖了统计，数据科学，机器学习，数据挖掘，分布式数据库，分布式计算，云端存储，信息可视化等等诸多领域．
 更详细的领域列表可以见Github上的 [Awesome Big Data](https://github.com/onurakpolat/awesome-bigdata)
@@ -6,10 +6,18 @@
 一般个人和中小企业学习大数据可以先了解一些大数据应用的案例,再基于自身拥有的数据与业务(不论大小)进行实践.
 注意, 盲目上大数据技术很容易浪费学习时间，也能带来大量不必要的运营成本．
 
+
+## 大数据应用 - 什么算大数据
+
+作为产品经理, 要了解大数据的基本概念和特点,进而找到与自身业务流程相关的地方. 也要多看看大数据应用案例,鉴于这些应用的规模很有可能只能在500强企业中才会出现，中小企业应要灵活学习而不必照搬技术框架.
+
 http://www.planet-data.eu/sites/default/files/presentations/Big_Data_Tutorial_part4.pdf 这个大数据讲义(2012, 41页)综合了很多关于大数据的分析图表,也列举了不少关键技术用例. 
 
+http://hortonworks.com/blog/7-key-drivers-for-the-big-data-market/ 该文整理了在高盛云计算大会学到的核心概念.
+![](http://hortonworks.com/wp-content/uploads/2012/05/bigdata_diagram.png)
 
-## 技术流
+
+## 大数据技术 - 简版进阶方案
 
 要想成为数据科学家, 通常可以选修网上相关课程，如coursera和小象学院．
 这里我们面向Excel为基础的中小企业初学者设计一个简版进阶方案．
@@ -35,19 +43,7 @@ http://www.planet-data.eu/sites/default/files/presentations/Big_Data_Tutorial_pa
 到此恭喜你，在任何一个＂大数据群＂都可以指点江山了．
 
 
-## 应用流
-
-从产品经理的角度来看, 首先要了解大数据的基本概念和特点,从而找到与自身业务流程相关的地方. 
-
-下文 ["7 Key Drivers for the Big Data Market"](http://hortonworks.com/blog/7-key-drivers-for-the-big-data-market/)作者很概括地整理他在高盛云计算大会学习到的知识.
-![](http://hortonworks.com/wp-content/uploads/2012/05/bigdata_diagram.png)
-
-此外, 要多看看大数据应用案例,注意这些应用的规模很有可能只能在500强企业中才会出现. 中小企业可以从中借鉴经验,但不必完全照搬技术框架.
-
-
-# 学习资源
-
-## 数据科学家
+## 数据科学家学习资源
 
 http://www.douban.com/note/247983915/ 数据科学家的各种资源
 
@@ -56,7 +52,8 @@ http://www.aboutyun.com/thread-7569-1-1.html 大数据入门：各种大数据�
 https://class.coursera.org/datasci-001  coursera上的公开课 大数据科学入门 Introduction to Data Science
 
 
-## 应用案例分析
+## 应用案例资源
+
 http://www.ibm.com/big-data/us/en/big-data-and-analytics/case-studies.html IBM的一些大数据分析案例
 
 http://www.sas.com/resources/asset/Big-Data-in-Big-Companies.pdf SAS的大数据案例
