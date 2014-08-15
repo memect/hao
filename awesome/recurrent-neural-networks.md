@@ -23,4 +23,5 @@ http://research.microsoft.com/en-us/projects/rnn/ Microsoft RNN group
 ## 相关讨论 
 
 问： @维尔茨 有木有关于循环神经网络在segmented sequence labeling方面的papers么？我希望用RNN label sequence本身而非sequence members
+
 答： 多伦多大学的 Alex Graves 有专著研究此问题. 基于recurrent neural networks(RNN)研究: @ICT_朱亚东 推荐Herbert Jaeger的短教程(40多页). Jürgen Schmidhuber教授收集了60多相关论文, 微软研究院利用RNN做自然语言处理
