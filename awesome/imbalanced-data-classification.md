@@ -28,6 +28,9 @@ http://www.computer.org/csdl/proceedings/icnc/2008/3304/04/3304d192-abs.html Guo
 
 https://www.jair.org/media/953/live-953-2037-jair.pdf  SMOTE: Synthetic Minority Over-sampling Technique (2002) JAIR
 
+### further readings
+http://stackoverflow.com/questions/12877153/tools-for-multiclass-imbalanced-classification-in-statistical-packages
+
 
 ## tools
 
