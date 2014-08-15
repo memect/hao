@@ -63,8 +63,14 @@ http://www.iscslp2014.org/public.php?page=keynote.html  ISCSLP@INTERSPEECH 2014 
 
 
 ## discussion
-@血色又残阳 问：需要语音处理的资料 要求 
+<b> @血色又残阳 问：需要语音处理的资料?  要求 
 1、论文最好有配套代码，可以跑；
 2、当前学术界和工业界最新或者主流技术有哪些；
 3、是否有跟深度学习结合的；
 4、最好也有说话人鉴别的相关论文和代码。
+</b>
+https://github.com/memect/hao/issues/50
+
+
+<b> yongsun ：有没有开源或者免费的英文语音识别软件/或项目？ 打算翻译一些冰球教学的视频，想结合识别结果来进行听译</b>
+https://github.com/memect/hao/issues/53
