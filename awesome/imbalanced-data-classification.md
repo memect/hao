@@ -26,6 +26,8 @@ http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf He and   Haibo
 
 http://www.computer.org/csdl/proceedings/icnc/2008/3304/04/3304d192-abs.html Guo, X., Yin, Y., Dong, C., Yang, G., & Zhou, G. (2008). On the Class Imbalance Problem. 2008 Fourth International Conference on Natural Computation (pp. 192-201).
 
+https://www.jair.org/media/953/live-953-2037-jair.pdf  SMOTE: Synthetic Minority Over-sampling Technique (2002) JAIR
+
 
 ## tools
 
@@ -33,6 +35,7 @@ http://www.nltk.org/_modules/nltk/classify/positivenaivebayes.html   nltk
 
 http://weka.wikispaces.com/MetaCost  Weka
 
+http://tokestermw.github.io/posts/imbalanced-datasets-random-forests/ smote 
 
 ## datasets
 
