@@ -2,6 +2,8 @@ Editor(s): @ICT_朱亚东 @维尔茨  @好东西传送门
 
 card list:  http://bigdata.memect.com/?tag=rnn
 
+https://github.com/memect/hao/blob/master/awesome/recurrent-neural-networks.md
+
 ## 学习资源
 http://en.wikipedia.org/wiki/Recurrent_neural_network 背景知识
 
