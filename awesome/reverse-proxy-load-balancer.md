@@ -5,6 +5,8 @@ keywords:
  负载均衡(load balancer),
  反向映射 (reverse proxy),
 
+https://github.com/memect/hao/blob/master/awesome/reverse-proxy-load-balancer.md
+
 
 ## 资源
 http://webmasters.stackexchange.com/questions/10927/using-multiple-a-records-for-my-domain-do-web-browsers-ever-try-more-than-one 最简单的设置, DNS设置, 在一个域名下设置多个 "A" record, 即一个域名映射多个IP地址, 然后由域名服务器与浏览器共同选择其中的一个IP访问
