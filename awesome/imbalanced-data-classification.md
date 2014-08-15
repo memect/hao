@@ -1,6 +1,6 @@
 # 不平衡数据分类(Imbalanced data classification)
 
-Editor(s): 刘知远THU , xierqi , eacl_newsmth , 好东西传送门
+Editor(s): AixinSG, 刘知远THU , xierqi , eacl_newsmth , 好东西传送门
 
 https://github.com/memect/hao/blob/master/awesome/imbalanced-data-classification.md
 
@@ -51,6 +51,8 @@ http://www.inf.ed.ac.uk/teaching/courses/dme/html/datasets0405.html  dataset lis
 
 <b>请问目前有木有关于不平衡数据分类（imbalance dataset classification）任务的人工二维toy dataset?</b>
 
+AixinSG：Undersampling 总体上效果有限，个人理解
+ 
 刘知远THU: 不平衡数据分类，尤其是标注正例特别多，几乎没有标注负例，但有大量未标注数据的话，应当怎么处理呢？这个问题在relation extraction中很普遍。现在只能在大量未标注数据中随机抽样作为负例。
 
 xierqi: 有段调研过这方面，90%都是采样，最大问题是评估方法不适合真实场景。个人推荐domingos的meta-cost，非常实用，经验设下cost就好。http://t.cn/RPiexE9
