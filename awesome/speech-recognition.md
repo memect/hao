@@ -17,20 +17,38 @@ http://research.google.com/pubs/SpeechProcessing.html  Google Speech processing
 http://www.emory.edu/BUSINESS/speech/SpeechRecCase.pdf  nuance white paper, business use cases
 
 
-## code
+## tools
+http://en.wikipedia.org/wiki/List_of_speech_recognition_software
+* quite some software leverage google speech api to provide online speech to text on mobile devices.
+
+### open source
 http://www.signalprocessingsociety.org/technical-committees/list/sl-tc/spl-nl/2013-05/ALIZE/ ALIZE 3.0 - Open-source platform for speaker recognition
 
+https://github.com/taf2/speech2text
 
 
-## pointers for exploration
+### products
 
+http://www.consumersearch.com/voice-recognition-software/review
+
+http://www.nuance.com/dragon/index.htm
+
+http://en.wikipedia.org/wiki/Windows_Speech_Recognition
+
+http://download.cnet.com/windows/voice-recognition-software/?tag=bc
+
+http://www.labnol.org/internet/dictation-for-google-chrome/24719/
+
+
+## pointers 
+### exploration
 http://en.wikipedia.org/wiki/Speech_recognition
 
 http://www.technologyreview.com/news/427793/where-speech-recognition-is-going/  Where Speech Recognition Is Going
 
 http://technav.ieee.org/tag/1597/speaker-recognition 48 resources related to Speaker Recognition
 
-##  conferences
+###  conferences
 Popular speech recognition conferences held each year or two include SpeechTEK and SpeechTEK Europe, ICASSP, Interspeech/Eurospeech, and the IEEE ASRU. Conferences in the field of natural language processing, such as ACL, NAACL, EMNLP, and HLT, are beginning to include papers on speech processing. Important journals include the IEEE Transactions on Speech and Audio Processing (now named IEEE Transactions on Audio, Speech and Language Processing), Computer Speech and Language, and Speech Communication.
 
 http://www.interspeech2014.org/public.php?page=tutorial.html  tutorial of interspeech 2014
