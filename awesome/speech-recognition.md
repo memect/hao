@@ -8,8 +8,6 @@ keywords:
   
 ## readings 
 
-http://www.signalprocessingsociety.org/technical-committees/list/sl-tc/spl-nl/2013-05/ALIZE/ ALIZE 3.0 - Open-source platform for speaker recognition
-
 http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf Deep Learning for Natural Language Processing and Related Applications, Microsoft
 
 http://research.microsoft.com/pubs/189008/tasl-deng-2244083-x_2.pdf Li Deng, Xiao Li,  Machine Learning Paradigms for Speech Recognition: An Overview
@@ -17,6 +15,11 @@ http://research.microsoft.com/pubs/189008/tasl-deng-2244083-x_2.pdf Li Deng, Xia
 http://research.google.com/pubs/SpeechProcessing.html  Google Speech processing
 
 http://www.emory.edu/BUSINESS/speech/SpeechRecCase.pdf  nuance white paper, business use cases
+
+
+## code
+http://www.signalprocessingsociety.org/technical-committees/list/sl-tc/spl-nl/2013-05/ALIZE/ ALIZE 3.0 - Open-source platform for speaker recognition
+
 
 
 ## pointers for exploration
