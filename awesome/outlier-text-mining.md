@@ -1,6 +1,6 @@
 # Outlier Detection in Text Mining
 
-editor: 好东西传送门
+editor: 郭惠礼 , 许扬逸Dijkstra , phunter_lau , 好东西传送门 
 
 keywords:
   outlier detection,
