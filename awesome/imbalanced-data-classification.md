@@ -8,9 +8,9 @@ Editor(s): 刘知远THU xierqi eacl_newsmth
 
 ## readings
 
-http://homes.cs.washington.edu/~pedrod/papers/kdd99.pdf  (@xierqi 推荐) Domingo,  MetaCost: A General Method for Making Classifiers Cost
+http://homes.cs.washington.edu/~pedrod/papers/kdd99.pdf  (@xierqi 推荐) Domingo,  MetaCost: A General Method for Making Classifiers Cost, KDD 1999
 
-http://www.aclweb.org/anthology/P/P13/P13-2141.pdf (@eacl_newsmth 推荐)  Towards Accurate Distant Supervision for Relational Facts Extraction
+http://www.aclweb.org/anthology/P/P13/P13-2141.pdf (@eacl_newsmth 推荐)  Towards Accurate Distant Supervision for Relational Facts Extraction, acl 2013
 
 http://cseweb.ucsd.edu/~elkan/posonly.pdf  Learning Classiﬁers from Only Positive and Unlabeled Data
 
