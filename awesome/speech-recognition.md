@@ -1,5 +1,5 @@
 #语音处理的资料
-editors:  
+editors:  好东西传送门
 
 keywords: 
   speech processing,
@@ -10,6 +10,8 @@ card lists:
 * http://hao.memect.com/?tag=speechRecognition
 * http://bigdata.memect.com/?tag=speech+deeplearning 
   
+https://github.com/memect/hao/blob/master/awesome/speech-recognition.md
+
 ## readings 
 
 http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf Deep Learning for Natural Language Processing and Related Applications, Microsoft
