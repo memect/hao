@@ -28,13 +28,13 @@ http://hortonworks.com/blog/7-key-drivers-for-the-big-data-market/ 该文整理�
 
 第2级：基础的编程语言，例如Python/R，Java -- 通过程序将数据处理流程自动化
 
-第3级：在程序中访问数据库，例如ODBC, JDBC -- 进一步提高数据处理自动化程度
+第3级：在程序中访问数据库，例如ORM, ODBC, JDBC -- 进一步提高数据处理自动化程度
 
 第4级：了解一个NoSQL数据库，例如redis，mongodb，neo4j，elasticsearch --  根据业务需要选择一个合用的就行,传统关系数据库的性能未必不够用.
 
 第5级：了解一点数据分析(含机器学习/数据挖掘)常识，如线性回归，多项式拟合，逻辑回归，KNN聚类，决策树，Naive贝叶斯等．Python/R/Java都有现成实现
 
-第6级：如果要使用变态多的计算/存储资源，学习云计算平台，如亚马逊的EC2, S3, Google Compute Engine, Microsoft Azure
+第6级：如果需要使用变态多的计算/存储资源，学习云计算平台，如亚马逊的EC2, S3, Google Compute Engine, Microsoft Azure
 
 第7级：如果要处理变态多的数据，学习分布式计算Hadoop和MapReduce的原理，然后使用一个现成的实现，如Amazon Elastic MapReduce (Amazon EMR)
 
