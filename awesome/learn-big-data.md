@@ -9,15 +9,6 @@
 http://www.planet-data.eu/sites/default/files/presentations/Big_Data_Tutorial_part4.pdf 这个大数据讲义(2012, 41页)综合了很多关于大数据的分析图表,也列举了不少关键技术用例. 
 
 
-## 应用流
-
-从产品经理的角度来看, 首先要了解大数据的基本概念和特点,从而找到与自身业务流程相关的地方. 
-
-下文 ["7 Key Drivers for the Big Data Market"](http://hortonworks.com/blog/7-key-drivers-for-the-big-data-market/)作者很概括地整理他在高盛云计算大会学习到的知识.
-![](http://hortonworks.com/wp-content/uploads/2012/05/bigdata_diagram.png)
-
-此外, 要多看看大数据应用案例,注意这些应用的规模很有可能只能在500强企业中才会出现. 中小企业可以从中借鉴经验,但不必完全照搬技术框架.
-
 ## 技术流
 
 要想成为数据科学家, 通常可以选修网上相关课程，如coursera和小象学院．
@@ -44,7 +35,26 @@ http://www.planet-data.eu/sites/default/files/presentations/Big_Data_Tutorial_pa
 到此恭喜你，在任何一个＂大数据群＂都可以指点江山了．
 
 
+## 应用流
+
+从产品经理的角度来看, 首先要了解大数据的基本概念和特点,从而找到与自身业务流程相关的地方. 
+
+下文 ["7 Key Drivers for the Big Data Market"](http://hortonworks.com/blog/7-key-drivers-for-the-big-data-market/)作者很概括地整理他在高盛云计算大会学习到的知识.
+![](http://hortonworks.com/wp-content/uploads/2012/05/bigdata_diagram.png)
+
+此外, 要多看看大数据应用案例,注意这些应用的规模很有可能只能在500强企业中才会出现. 中小企业可以从中借鉴经验,但不必完全照搬技术框架.
+
+
 # 学习资源
+
+## 数据科学家
+
+http://www.douban.com/note/247983915/ 数据科学家的各种资源
+
+http://www.aboutyun.com/thread-7569-1-1.html 大数据入门：各种大数据技术介绍
+
+https://class.coursera.org/datasci-001  coursera上的公开课 大数据科学入门 Introduction to Data Science
+
 
 ## 应用案例分析
 http://www.ibm.com/big-data/us/en/big-data-and-analytics/case-studies.html IBM的一些大数据分析案例
@@ -55,11 +65,3 @@ http://www.teradata.com/big-data/use-cases/ Teradata的大数据案例
 
 http://book.douban.com/review/6131027/ "大数据时代从入门到全面理解", 作者看法有些片面, 有很多吸引眼球的段子, 但与技术流结合地不够紧密.
 
-
-## 数据科学家
-
-http://www.douban.com/note/247983915/ 数据科学家的各种资源
-
-http://www.aboutyun.com/thread-7569-1-1.html 大数据入门：各种大数据技术介绍
-
-https://class.coursera.org/datasci-001  coursera上的公开课 大数据科学入门 Introduction to Data Science
