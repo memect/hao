@@ -1,3 +1,5 @@
+Editor(s): @ICT_朱亚东 @维尔茨  @好东西传送门
+
 # 学习资源
 http://en.wikipedia.org/wiki/Recurrent_neural_network 背景知识
 
