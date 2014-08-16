@@ -2,8 +2,7 @@
 
 contributor: 郭惠礼 , 许扬逸Dijkstra , phunter_lau , ai_东沂 
 
-card list:
-* http://bigdata.memect.com/?tag=outlierdetectionandtextmining
+card list: http://bigdata.memect.com/?tag=outlierdetectionandtextmining
 
 keywords:
   outlier detection,
