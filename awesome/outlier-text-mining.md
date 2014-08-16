@@ -1,6 +1,6 @@
 # Outlier Detection in Text Mining
 
-editor: 郭惠礼 , 许扬逸Dijkstra , phunter_lau , 好东西传送门 
+contributor: 郭惠礼 , 许扬逸Dijkstra , phunter_lau , ai_东沂 
 
 keywords:
   outlier detection,
@@ -8,6 +8,13 @@ keywords:
   text mining
 
 ## Text mining and outlier/anomaly detection
+
+http://nlp.shef.ac.uk/Completed_PhD_Projects/guthrie.pdf David Guthrie, Unsupervised Detection of Anomalous Text
+来自UK Shef大学的博士论文
+
+http://link.springer.com/chapter/10.1007%2F978-1-4614-6396-2_7 Aggarwal的outlier analysis一书的chapter 7 Outlier Detection in Categorical, Text and Mixed Attribute Data
+
+
 https://perso.uclouvain.be/vincent.blondel/publications/08-textmining.pdf  Survey of Text Mining: Clustering, Classiﬁcation, and Retrieval, Second Edition , Michael W. Berry and Malu Castellanos, Editors 2007 (check part IV Part IV Anomaly Detection)
 
 http://arxiv.org/abs/1009.6119 A Comprehensive Survey of Data Mining-based Fraud Detection Research, Clifton Phua, Vincent Lee, Kate Smith, Ross Gayler 2010
@@ -42,3 +49,7 @@ http://weibo.com/1770891687/B5Gs7xdqQ
 许扬逸Dijkstra:  在antispam，multidimension outlier detection上也可以试试它
 @计兮 【金融数据挖掘之朴素贝叶斯】by@数说工作室网站：本文介绍了金融数据挖掘过程中的朴素贝叶斯模型，供大家参考。原文链接→http://t.cn/RPzhx7S
 http://www.weibo.com/1642083541/Be9vDxvyw
+
+
+ai_东沂: 我补充一下之前搜到的资料，来自UK Shef大学的博士论文http://nlp.shef.ac.uk/Completed_PhD_Projects/guthrie.pdf
+Aggarwal的outlier analysis一书的chapter 7 Outlier Detection in Categorical, Text and Mixed Attribute Data，http://link.springer.com/chapter/10.1007%2F978-1-4614-6396-2_7
