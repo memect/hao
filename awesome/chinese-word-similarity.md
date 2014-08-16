@@ -1,10 +1,11 @@
 contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字
 card list:  
+ * Word2vector: http://bigdata.memect.com/?tag=word2vec
  * ESA:  http://nlp.memect.com/?tag=esa
- * 
+ * python gensim: http://nlp.memect.com/?tag=gensim
 
 ## readings
-### glove
+### glove (word2vector)
 
 http://blog.csdn.net/adooadoo/article/details/38505497 glove入门实战 
 
