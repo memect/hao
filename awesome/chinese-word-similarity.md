@@ -1,5 +1,7 @@
 contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字
-
+card list:  
+ * ESA:  http://nlp.memect.com/?tag=esa
+ * 
 
 ## readings
 ### glove
@@ -20,7 +22,9 @@ http://www.weibo.com/1464484735/BhbLD70wa
 
 ### ESA (Explicit Semantic Analysis)
 
-http://zhishi.me
+刘知远THU : 
+可以考虑用传统的distributional representation/similarity的方法，即选取这些关键词出现的上下文的词来表示它，构建分类器。或者explicit semantic analysis（ESA），即用关键词在wikipedia文章中出现的情况来表示它。这些应该都比LDA的topic distribution更具区分能力。
+
 
 昊奋 : 
 对于ESA，如果单纯使用wikipedia，由于中文维基百科的语料相比英语小很多，所以其实不满足ESA本身需要有高覆盖率的好处，需要自行采用百度百科或互动百科进行处理。我们会考虑利用zhishi.me来为大家提供ESA的服务。
