@@ -4,6 +4,8 @@ contributor: 郭惠礼 , 许扬逸Dijkstra , phunter_lau , ai_东沂
 
 card list: http://bigdata.memect.com/?tag=outlierdetectionandtextmining
 
+https://github.com/memect/hao/blob/master/awesome/outlier-text-mining.md
+
 keywords:
   outlier detection,
   anomaly detection,
