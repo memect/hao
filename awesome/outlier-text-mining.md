@@ -47,8 +47,12 @@ http://cs.gmu.edu/~carlotta/publications/AlsumaitL_onlineLDA.pdf On-Line LDA: Ad
 
 ## 相关点评
 
-phunter_lau：也可以，并且对于非连通的情况可以随机加入连通，比如“你就是偷看那个妹子了”并继续分析有意想不到的结果//@妖僧老馮: 不。屬於 Linkage attack. //@phunter_lau:里面用到的技能也就是outlier detection然后根据outlier所在的几个表进行join，暴力搜索，这是常见手段，文科女生果然不太适合搞数据 
+
+@phunter_lau:里面用到的技能也就是outlier detection然后根据outlier所在的几个表进行join，暴力搜索，这是常见手段
 http://weibo.com/1770891687/B5Gs7xdqQ
+
+phunter_lau：注意,下面这段话不是常规办法也没多少理论依据，不能误导大家：
+ <i>"phunter_lau：也可以，并且对于非连通的情况可以随机加入连通，比如“你就是偷看那个妹子了”并继续分析有意想不到的结果"</i >
 
 
 
