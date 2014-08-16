@@ -36,3 +36,9 @@ http://www.itee.uq.edu.au/dke/filething/get/855/text-mining-ChengXiangZhai.pdf  
 
 phunter_lau：也可以，并且对于非连通的情况可以随机加入连通，比如“你就是偷看那个妹子了”并继续分析有意想不到的结果//@妖僧老馮: 不。屬於 Linkage attack. //@phunter_lau:里面用到的技能也就是outlier detection然后根据outlier所在的几个表进行join，暴力搜索，这是常见手段，文科女生果然不太适合搞数据 
 http://weibo.com/1770891687/B5Gs7xdqQ
+
+
+
+许扬逸Dijkstra:  在antispam，multidimension outlier detection上也可以试试它
+@计兮 【金融数据挖掘之朴素贝叶斯】by@数说工作室网站：本文介绍了金融数据挖掘过程中的朴素贝叶斯模型，供大家参考。原文链接→http://t.cn/RPzhx7S
+
