@@ -1,4 +1,5 @@
-contributors: 杜振东_java , 刘知远THU , 昊奋
+contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字
+
 
 ## readings
 ### glove
