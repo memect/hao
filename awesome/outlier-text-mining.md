@@ -19,7 +19,7 @@ http://nlp.shef.ac.uk/Completed_PhD_Projects/guthrie.pdf David Guthrie, Unsuperv
 http://link.springer.com/chapter/10.1007%2F978-1-4614-6396-2_7 Aggarwal的outlier analysis一书的chapter 7 Outlier Detection in Categorical, Text and Mixed Attribute Data
 
 
-https://perso.uclouvain.be/vincent.blondel/publications/08-textmining.pdf  Survey of Text Mining: Clustering, Classiﬁcation, and Retrieval, Second Edition , Michael W. Berry and Malu Castellanos, Editors 2007 (check part IV Part IV Anomaly Detection)
+http://www.amazon.com/Survey-Text-Mining-Clustering-Classification/dp/1848000456  Survey of Text Mining: Clustering, Classiﬁcation, and Retrieval, Second Edition , Michael W. Berry and Malu Castellanos, Editors 2007 (check part IV Part IV Anomaly Detection) https://perso.uclouvain.be/vincent.blondel/publications/08-textmining.pdf
 
 http://arxiv.org/abs/1009.6119 A Comprehensive Survey of Data Mining-based Fraud Detection Research, Clifton Phua, Vincent Lee, Kate Smith, Ross Gayler 2010
 
