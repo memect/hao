@@ -26,7 +26,7 @@ http://www.siam.org/meetings/sdm10/tutorial3.pdf Outlier Detection Techniques - 
 http://www.slideshare.net/HouwLiong/chapter-12-outlier
 
 
-## outlier/anomaly detection in Text mining and
+## Outlier/anomaly detection in Text mining
 
 http://nlp.shef.ac.uk/Completed_PhD_Projects/guthrie.pdf David Guthrie, Unsupervised Detection of Anomalous Text
 来自UK Shef大学的博士论文
