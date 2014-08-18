@@ -71,6 +71,9 @@ http://www.aaai.org/ocs/index.php/ICWSM/ICWSM10/paper/viewFile/1538%20Amit%20Goy
 http://dl.acm.org/citation.cfm?id=2480726   
 Mario Cataldi, Nupur Mittal, and Marie-Aude Aufaure. 2013. Estimating domain-based user influence in social networks. In Proceedings of the 28th Annual ACM Symposium on Applied Computing (SAC '13). 
 
+http://www.cse.ust.hk/~qnature/pdf/globecom13.pdf Analyzing the Inﬂuential People in Sina Weibo
+Dataset (2013)
+
 http://dl.acm.org/citation.cfm?id=1935845  
 Eytan Bakshy, Jake M. Hofman, Winter A. Mason, and Duncan J. Watts. 2011. Everyone's an influencer: quantifying influence on twitter. In Proceedings of the fourth ACM international conference on Web search and data mining (WSDM '11)
 
