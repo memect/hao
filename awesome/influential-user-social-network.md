@@ -1,7 +1,7 @@
 # Influential User Identification in Online Social Networks
 
 contributors:  @唐小sin @善良的右行
-discussion: [@山东工商学院白建磊 有没有新媒体意见领袖领域方面的文献可以推荐？](https://github.com/memect/hao/issues/89)
+discussion: https://github.com/memect/hao/issues/89
 
 keywords:
  意见领袖 ( opinion leader),
