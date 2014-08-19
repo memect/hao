@@ -5,6 +5,7 @@ contributors @mahak, BUPTGuo , 情非得已小屋, 新世界_玉兔 , 52cs
 discussion: https://github.com/memect/hao/issues/48
 
 keywords:
+ DNS A-Record, 
  负载均衡(load balancer),
  反向映射 (reverse proxy),
 
