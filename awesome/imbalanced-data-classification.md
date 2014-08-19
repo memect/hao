@@ -4,6 +4,10 @@ contributors: AixinSG, 刘知远THU , xierqi , eacl_newsmth
 
 https://github.com/memect/hao/blob/master/awesome/imbalanced-data-classification.md
 
+card list: http://bigdata.memect.com/?tag=imbalanceddataclassification
+
+discussion: https://github.com/memect/hao/issues/47
+
 keywords:
   Positive only,
   Imbalanced data,
