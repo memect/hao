@@ -2,6 +2,7 @@
 contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字,  Mr_UnderWaterrrrrr, 朱鉴
 
 card list:  
+ * this post: http://hao.memect.com/?tag=ChineseWordSimilarity
  * Word2vector: http://bigdata.memect.com/?tag=word2vec
  * ESA:  http://nlp.memect.com/?tag=esa
  * python gensim: http://nlp.memect.com/?tag=gensim
