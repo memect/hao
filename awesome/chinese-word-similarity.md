@@ -10,10 +10,6 @@ https://github.com/danielfrg/word2vec
 
 http://radimrehurek.com/2013/09/deep-learning-with-word2vec-and-gensim/
 
-http://radimrehurek.com/2013/09/word2vec-in-python-part-two-optimizing/ 
-
-http://radimrehurek.com/2013/10/parallelizing-word2vec-in-python/
-
 http://radimrehurek.com/2014/02/word2vec-tutorial/
 
 @Mr_UnderWaterrrrrr :
