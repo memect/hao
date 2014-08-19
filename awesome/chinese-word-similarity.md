@@ -1,4 +1,4 @@
-contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字
+contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字,  Mr_UnderWaterrrrrr, 朱鉴
 card list:  
  * Word2vector: http://bigdata.memect.com/?tag=word2vec
  * ESA:  http://nlp.memect.com/?tag=esa
@@ -8,19 +8,30 @@ card list:
 ### word2vector
 https://github.com/danielfrg/word2vec
 
-http://radimrehurek.com/2014/02/word2vec-tutorial/
-
-http://radimrehurek.com/2013/10/parallelizing-word2vec-in-python/
+http://radimrehurek.com/2013/09/deep-learning-with-word2vec-and-gensim/
 
 http://radimrehurek.com/2013/09/word2vec-in-python-part-two-optimizing/ 
 
-http://radimrehurek.com/2013/09/deep-learning-with-word2vec-and-gensim/
+http://radimrehurek.com/2013/10/parallelizing-word2vec-in-python/
+
+http://radimrehurek.com/2014/02/word2vec-tutorial/
+
+@Mr_UnderWaterrrrrr :
+http://t.cn/8Fc67pF 如何用word2vector 去训练中文语料。获得词的距离
+http://www.weibo.com/1969853791/Atq0vz18S
+
+@朱鉴 :
+LDA or Word2Vec: http://t.cn/8DkHrFg
+http://www.weibo.com/1656097544/AiJDZbfQ5
+
+@朱鉴 :
+这两天看了一下google的word2vec，目前看还是google的版本较容易理解，强调算法。这个算法的思想有点类似于latent factor model，假设设任何词可以用latent factor来表示，然后使用sgd算法去训练生成这个latent factor，假设非常棒！
+http://www.weibo.com/1656097544/AhM49jMYL
 
 ### glove 
+http://stanford.edu/~jpennin/papers/glove.pdf  Richard Socher, EMNLP2014, GloVe: Global Vectors for Word Representation
 
 http://blog.csdn.net/adooadoo/article/details/38505497 glove入门实战 
-
-http://stanford.edu/~jpennin/papers/glove.pdf  Richard Socher, EMNLP2014, GloVe: Global Vectors for Word Representation
 
 @杜振东_java :
 深夜总算完成了《glove入门实战》的码字工作，发出两张利用glove聚类的效果图，具体工作参考 http://t.cn/RP0xXNx ，代码在此 http://t.cn/RP0xOx0   感谢@刘知远THU 老师提供关于glove的信息，并感谢@张成_ICT 的帮助,顺便@夏睿 老师和@章成志 老师，求下转发[哈哈]
@@ -35,6 +46,11 @@ Yoav Goldberg写了个测评文档，大致结论就是GloVe和word2vec如果正
 http://www.weibo.com/1895401411/BhVDWofI5
 
 ### ESA (Explicit Semantic Analysis)
+
+http://en.wikipedia.org/wiki/Explicit_semantic_analysis
+
+http://www.cs.technion.ac.il/~gabr/papers/ijcai-2007-sim.pdf Computing Semantic Relatedness using Wikipedia-based Explicit Semantic Analysis, (2007) IJCAI
+
 
 @刘知远THU : 
 可以考虑用传统的distributional representation/similarity的方法，即选取这些关键词出现的上下文的词来表示它，构建分类器。或者explicit semantic analysis（ESA），即用关键词在wikipedia文章中出现的情况来表示它。这些应该都比LDA的topic distribution更具区分能力。
