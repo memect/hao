@@ -16,6 +16,8 @@ https://github.com/memect/hao/blob/master/awesome/speech-recognition.md
 
 http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf Deep Learning for Natural Language Processing and Related Applications, Microsoft
 
+http://psych.stanford.edu/~jlm/pdfs/Hinton12IEEE_SignalProcessingMagazine.pdf  Deep Neural Networks for Acoustic Modeling in Speech Recognition (2012) IEEE Signal Processing Magazine
+
 http://research.microsoft.com/pubs/189008/tasl-deng-2244083-x_2.pdf Li Deng, Xiao Li,  Machine Learning Paradigms for Speech Recognition: An Overview
 
 http://research.google.com/pubs/SpeechProcessing.html  Google Speech processing
