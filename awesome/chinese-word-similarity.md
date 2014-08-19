@@ -1,5 +1,14 @@
 # 中文词汇的语义相似度计算方法与工具  (Chinese Word Similarity) 
-contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字,  Mr_UnderWaterrrrrr, 朱鉴
+contributors: 
+   杜振东_java , 
+   刘知远THU , 
+   昊奋, 
+   算文解字,  
+   Mr_UnderWaterrrrrr, 
+   朱鉴，
+   董力at北航，
+   尘绳聋-SYSU， 
+   西瓜大丸子汤，
 
 card list:  http://hao.memect.com/?tag=ChineseWordSimilarity
 more to read:
