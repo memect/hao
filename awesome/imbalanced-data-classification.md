@@ -11,20 +11,34 @@ keywords:
   
   
 ## readings
+
+### survey
 http://www.cs.cmu.edu/~qyj/IR-Lab/ImbalancedSummary.html  Yanjun Qi, A Brief Literature Review of Class Imbalanced Problem
 
 
+### classic
 http://homes.cs.washington.edu/~pedrod/papers/kdd99.pdf  (@xierqi 推荐) Domingo,  MetaCost: A General Method for Making Classifiers Cost, KDD 1999
 
-http://www.aclweb.org/anthology/P/P13/P13-2141.pdf (@eacl_newsmth 推荐)  Towards Accurate Distant Supervision for Relational Facts Extraction, acl 2013
+https://www.jair.org/media/953/live-953-2037-jair.pdf  SMOTE: Synthetic Minority Over-sampling Technique (2002) JAIR
 
-http://cseweb.ucsd.edu/~elkan/posonly.pdf  Learning Classiﬁers from Only Positive and Unlabeled Data
+
+http://cseweb.ucsd.edu/~elkan/posonly.pdf  Learning Classiﬁers from Only Positive and Unlabeled Data (2008)
 
 http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf Haibo He,  Edwardo A. Garcia . (2009). Learning from Imbalanced Data. IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
 
 http://www.computer.org/csdl/proceedings/icnc/2008/3304/04/3304d192-abs.html Guo, X., Yin, Y., Dong, C., Yang, G., & Zhou, G. (2008). On the Class Imbalance Problem. 2008 Fourth International Conference on Natural Computation (pp. 192-201).
 
-https://www.jair.org/media/953/live-953-2037-jair.pdf  SMOTE: Synthetic Minority Over-sampling Technique (2002) JAIR
+
+
+### current
+http://www.aclweb.org/anthology/P/P13/P13-2141.pdf (@eacl_newsmth 推荐)  Towards Accurate Distant Supervision for Relational Facts Extraction, acl 2013
+
+http://link.springer.com/article/10.1007/s10618-012-0295-5 Training and assessing classification rules with imbalanced data (2014) Data Mining and Knowledge Discovery
+
+http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/viewFile/6353/6827 An Effective Approach for Imbalanced Classification: Unevenly Balanced Bagging (2013) AAAI
+
+
+
 
 ### further readings
 http://stackoverflow.com/questions/12877153/tools-for-multiclass-imbalanced-classification-in-statistical-packages
@@ -37,6 +51,8 @@ http://www.nltk.org/_modules/nltk/classify/positivenaivebayes.html   nltk
 http://weka.wikispaces.com/MetaCost  Weka
 
 http://tokestermw.github.io/posts/imbalanced-datasets-random-forests/ smote 
+
+https://github.com/fmfn/UnbalancedDataset based on SMOTE
 
 ## datasets
 
