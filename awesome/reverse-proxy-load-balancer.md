@@ -1,4 +1,4 @@
-# 提高页面响应速度: 反向代理及负载均衡
+# 提高网站页面响应速度的解决方案: DNS A-Record, 反向代理及负载均衡
 contributors @mahak, BUPTGuo , 情非得已小屋, 新世界_玉兔 , 52cs
 
 keywords:
