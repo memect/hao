@@ -37,6 +37,8 @@ http://stanford.edu/~jpennin/papers/glove.pdf  Richard Socher, EMNLP2014, GloVe:
 
 http://blog.csdn.net/adooadoo/article/details/38505497 glove入门实战 
 
+http://nlp.stanford.edu/projects/glove/
+
 @杜振东_java :
 深夜总算完成了《glove入门实战》的码字工作，发出两张利用glove聚类的效果图，具体工作参考 http://t.cn/RP0xXNx ，代码在此 http://t.cn/RP0xOx0   感谢@刘知远THU 老师提供关于glove的信息，并感谢@张成_ICT 的帮助,顺便@夏睿 老师和@章成志 老师
 http://www.weibo.com/1247953577/BhRfpyyJw
