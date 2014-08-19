@@ -42,8 +42,17 @@ https://github.com/piskvorky/gensim/
 基于分布的：Python gensim一般就够用了，包括了传统的bag-of-words (1-hot) vector representation基础上的模型，以及几种常见相似度表征，还有最新的word2vec都有。
 基于资源的：中文没有免费的类似wordnet的资源，hownet是要收费的。然而也许会有帮助的一个免费资源是哈工大的扩展板"同义词词林"
 
+@西瓜大丸子汤 : 
+刚才说到python优化，举个具体的例子 Gensim的作者把word2vec(深度学习)做了几个经典优化：循环，numpy/BLAS，cython，多线程（真的可以）结果效率提高了上千倍，比Google开源出来的原始C版本还快3倍。他最近还写了个word2vec教程。无论是学习word2vec还是python优化，都不可不看 http://t.cn/Rvkt0Hk
+http://www.weibo.com/1932835417/BcSwEc2iu
+
+@尘绳聋-SYSU：Sklearn没有LDA/LSA让我很郁闷，不过还好有好用的gensim: http://t.cn/8k2M2tU PS. Python搞NLP好方便！
+http://www.weibo.com/1254062861/B8WGG8Yii
+
+
 ### more readings
 http://cs.tju.edu.cn/szdw/jsfjs/fengwei/papers/ICASSP2013_Nie/icassp2013.pdf MEASURING SEMANTIC SIMILARITY BY CONTEXTUAL WORD CONNECTIONS IN CHINESE NEWS STORY SEGMENTATION
+
 
 http://www.cs.york.ac.uk/semeval-2012/task4/  Peng Jin, Yunfang Wu,  Evaluating Chinese Word Similarity
 
