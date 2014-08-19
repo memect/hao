@@ -42,7 +42,7 @@ https://github.com/piskvorky/gensim/
 基于分布的：Python gensim一般就够用了，包括了传统的bag-of-words (1-hot) vector representation基础上的模型，以及几种常见相似度表征，还有最新的word2vec都有。
 基于资源的：中文没有免费的类似wordnet的资源，hownet是要收费的。然而也许会有帮助的一个免费资源是哈工大的扩展板"同义词词林"
 
-### research efforts
+### more readings
 http://cs.tju.edu.cn/szdw/jsfjs/fengwei/papers/ICASSP2013_Nie/icassp2013.pdf MEASURING SEMANTIC SIMILARITY BY CONTEXTUAL WORD CONNECTIONS IN CHINESE NEWS STORY SEGMENTATION
 
 http://www.cs.york.ac.uk/semeval-2012/task4/  Peng Jin, Yunfang Wu,  Evaluating Chinese Word Similarity
