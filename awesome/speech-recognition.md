@@ -37,10 +37,20 @@ http://psych.stanford.edu/~jlm/pdfs/Hinton12IEEE_SignalProcessingMagazine.pdf  D
 
 http://research.google.com/pubs/SpeechProcessing.html  Google Speech processing
 
+### other research groups
+http://mi.eng.cam.ac.uk/Main/Speech/   Cambridge University
 
+回复@黄浩XJU: 谢谢指正，剑桥的工作很全面，目前 http://t.cn/RP8YGTX Phil Woodland 有个中国学生 张超 在做深度学习研究
+
+
+http://www.speech.cs.cmu.edu/  CMU
+
+http://www.speech.sri.com/ SRI
 
 
 ## speech processing resources
+
+
 
 ### tools and open source tools
 http://en.wikipedia.org/wiki/List_of_speech_recognition_software
