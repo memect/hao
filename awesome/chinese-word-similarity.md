@@ -1,4 +1,5 @@
 contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字,  Mr_UnderWaterrrrrr, 朱鉴
+
 card list:  
  * Word2vector: http://bigdata.memect.com/?tag=word2vec
  * ESA:  http://nlp.memect.com/?tag=esa
