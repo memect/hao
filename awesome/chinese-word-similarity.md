@@ -5,16 +5,26 @@ card list:
  * python gensim: http://nlp.memect.com/?tag=gensim
 
 ## readings
-### glove (word2vector)
+### word2vector
+https://github.com/danielfrg/word2vec
+
+http://radimrehurek.com/2014/02/word2vec-tutorial/
+
+http://radimrehurek.com/2013/10/parallelizing-word2vec-in-python/
+
+http://radimrehurek.com/2013/09/word2vec-in-python-part-two-optimizing/ 
+
+http://radimrehurek.com/2013/09/deep-learning-with-word2vec-and-gensim/
+
+### glove 
 
 http://blog.csdn.net/adooadoo/article/details/38505497 glove入门实战 
+
+http://stanford.edu/~jpennin/papers/glove.pdf  Richard Socher, EMNLP2014, GloVe: Global Vectors for Word Representation
 
 @杜振东_java :
 深夜总算完成了《glove入门实战》的码字工作，发出两张利用glove聚类的效果图，具体工作参考 http://t.cn/RP0xXNx ，代码在此 http://t.cn/RP0xOx0   感谢@刘知远THU 老师提供关于glove的信息，并感谢@张成_ICT 的帮助,顺便@夏睿 老师和@章成志 老师，求下转发[哈哈]
 http://www.weibo.com/1247953577/BhRfpyyJw
-
-
-http://stanford.edu/~jpennin/papers/glove.pdf  Richard Socher, EMNLP2014, GloVe: Global Vectors for Word Representation
 
 @刘知远THU :
 斯坦福Richard Socher在EMNLP2014发表新作：GloVe: Global Vectors for Word Representation 粗看是融合LSA等算法的想法，利用global word co-occurrence信息提升word vector学习效果，很有意思，在word analogy task上准确率比word2vec提升了11%。 http://t.cn/RPohHyc
