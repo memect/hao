@@ -1,5 +1,5 @@
 # 提高页面响应速度: 反向代理及负载均衡
-editors: @mahak, BUPTGuo , 好东西传送门 , 情非得已小屋, 新世界_玉兔 , 52cs
+contributors @mahak, BUPTGuo , 情非得已小屋, 新世界_玉兔 , 52cs
 
 keywords:
  负载均衡(load balancer),
