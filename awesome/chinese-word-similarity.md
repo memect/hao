@@ -20,6 +20,9 @@ http://stanford.edu/~jpennin/papers/glove.pdf  Richard Socher, EMNLP2014, GloVe:
 斯坦福Richard Socher在EMNLP2014发表新作：GloVe: Global Vectors for Word Representation 粗看是融合LSA等算法的想法，利用global word co-occurrence信息提升word vector学习效果，很有意思，在word analogy task上准确率比word2vec提升了11%。 http://t.cn/RPohHyc
 http://www.weibo.com/1464484735/BhbLD70wa
 
+＠董力at北航 :
+Yoav Goldberg写了个测评文档，大致结论就是GloVe和word2vec如果正常比的话 效果差不多，没有宣称的11%这么大。。 链接：http://t.cn/RP0gMXB
+http://www.weibo.com/1895401411/BhVDWofI5
 
 ### ESA (Explicit Semantic Analysis)
 
