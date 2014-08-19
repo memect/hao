@@ -4,7 +4,7 @@ contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字,  Mr_UnderWat
 card list:  http://hao.memect.com/?tag=ChineseWordSimilarity
 more to read:
  * Word2vector: http://bigdata.memect.com/?tag=word2vec
- * ESA:  http://nlp.memect.com/?tag=esa
+ * Explicit Semantic Analysis (ESA):  http://nlp.memect.com/?tag=esa
  * python gensim: http://nlp.memect.com/?tag=gensim
 
 
