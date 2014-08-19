@@ -76,6 +76,10 @@ http://www.weibo.com/1464484735/BfMxEh40q
 对于ESA，如果单纯使用wikipedia，由于中文维基百科的语料相比英语小很多，所以其实不满足ESA本身需要有高覆盖率的好处，需要自行采用百度百科或互动百科进行处理。我们会考虑利用zhishi.me来为大家提供ESA的服务。
 http://www.weibo.com/2045933955/BhWfr2LYv
 
+@Siegfried围脖：
+我们也在做类似的工作，简单滴说，就是利用主题学习补充 既有概念体系的空缺。。。 
+http://www.weibo.com/1578099090/Bj2N9kyhc?mod=weibotime
+
 ### python gensim
 
 https://github.com/piskvorky/gensim/
