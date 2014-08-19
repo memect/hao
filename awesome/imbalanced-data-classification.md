@@ -18,7 +18,7 @@ keywords:
 
 ### survey
 http://www.cs.cmu.edu/~qyj/IR-Lab/ImbalancedSummary.html  Yanjun Qi, A Brief Literature Review of Class Imbalanced Problem
-
+(2004)
 
 ### classic
 http://homes.cs.washington.edu/~pedrod/papers/kdd99.pdf  (@xierqi 推荐) Domingo,  MetaCost: A General Method for Making Classifiers Cost, KDD 1999
