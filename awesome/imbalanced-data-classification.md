@@ -20,7 +20,7 @@ http://www.aclweb.org/anthology/P/P13/P13-2141.pdf (@eacl_newsmth 推荐)  Towar
 
 http://cseweb.ucsd.edu/~elkan/posonly.pdf  Learning Classiﬁers from Only Positive and Unlabeled Data
 
-http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf He and   Haibo He,  Edwardo A. Garcia . (2009). Learning from Imbalanced Data. IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
+http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf Haibo He,  Edwardo A. Garcia . (2009). Learning from Imbalanced Data. IEEE Transactions on Knowledge and Data Engineering, 21(9), 1263-1284.
 
 http://www.computer.org/csdl/proceedings/icnc/2008/3304/04/3304d192-abs.html Guo, X., Yin, Y., Dong, C., Yang, G., & Zhou, G. (2008). On the Class Imbalance Problem. 2008 Fourth International Conference on Natural Computation (pp. 192-201).
 
