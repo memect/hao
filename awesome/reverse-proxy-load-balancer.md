@@ -17,6 +17,10 @@ http://yijiu.blog.51cto.com/433846/1408443 基于Nginx反向代理及负载均�
 
 http://fournines.wordpress.com/2011/12/02/improving-page-speed-cdn-vs-squid-varnish-nginx/ Improving page speed: CDN vs Squid/Varnish/nginx/mod_proxy
 
+http://en.wikipedia.org/wiki/Reverse_proxy
+
+
+http://en.wikipedia.org/wiki/Load_balancing_%28computing%29#Load_balancer_features
 
 
 ## 讨论
