@@ -1,9 +1,15 @@
+# Chinese Word Similarity 
 contributors: 杜振东_java , 刘知远THU , 昊奋, 算文解字,  Mr_UnderWaterrrrrr, 朱鉴
 
 card list:  
  * Word2vector: http://bigdata.memect.com/?tag=word2vec
  * ESA:  http://nlp.memect.com/?tag=esa
  * python gensim: http://nlp.memect.com/?tag=gensim
+
+discussion:  https://github.com/memect/hao/issues/67
+
+https://github.com/memect/hao/edit/master/awesome/chinese-word-similarity.md 
+
 
 ## readings
 ### word2vector
