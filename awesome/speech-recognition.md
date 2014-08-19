@@ -39,13 +39,14 @@ http://research.google.com/pubs/SpeechProcessing.html  Google Speech processing
 
 ### other research groups
 http://mi.eng.cam.ac.uk/Main/Speech/   Cambridge University
-
-回复@黄浩XJU: 谢谢指正，剑桥的工作很全面，目前 http://t.cn/RP8YGTX Phil Woodland 有个中国学生 张超 在做深度学习研究
+* 回复@黄浩XJU: 谢谢指正，剑桥的工作很全面，目前 http://t.cn/RP8YGTX Phil Woodland 有个中国学生 张超 在做深度学习研究
 
 
 http://www.speech.cs.cmu.edu/  CMU
 
 http://www.speech.sri.com/ SRI
+
+http://www.clsp.jhu.edu/people/  Center for Language and Speech Processing at Johns Hopkins University
 
 
 ## speech processing resources
@@ -60,6 +61,10 @@ http://en.wikipedia.org/wiki/List_of_speech_recognition_software
 http://www.signalprocessingsociety.org/technical-committees/list/sl-tc/spl-nl/2013-05/ALIZE/ ALIZE 3.0 - Open-source platform for speaker recognition
 
 https://github.com/taf2/speech2text
+
+
+http://kaldi.sourceforge.net/about.html Kaldi is a toolkit for speech recognition written in C++ and licensed under the Apache License v2.0. Kaldi is intended for use by speech recognition researchers. 
+* @黄浩XJU: 提一下Daniel Povey(http://www.danielpovey.com/) 的Kaldi吧，很好的工具  
 
 
 ### products
