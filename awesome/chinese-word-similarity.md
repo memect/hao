@@ -10,8 +10,7 @@ more to read:
 
 discussion:  https://github.com/memect/hao/issues/67
 
-https://github.com/memect/hao/edit/master/awesome/chinese-word-similarity.md 
-
+https://github.com/memect/hao/blob/master/awesome/chinese-word-similarity.md
 
 ## readings
 ### word2vector
