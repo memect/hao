@@ -12,9 +12,11 @@ card lists:
   
 https://github.com/memect/hao/blob/master/awesome/speech-recognition.md
 
-## readings 
+## deep learning and speech recognition 
+###Microsoft
 
-Microsoft
+http://research.microsoft.com/en-us/people/deng/  
+Li Deng (IEEE M'89;SM'92;F'04) received the Ph.D. degree from the University of Wisconsin-Madison. He was an assistant professor (1989-1992), tenured associate professor (1992-1996), and tenured Full Professor (1996-1999) at the University of Waterloo, Ontario, Canada. In 1999, he joined Microsoft Research, Redmond, WA, where he is currently Principal Researcher and Research Manager of the Deep Learning Technology Center. Since 2000, he has also been an Affiliate Full Professor and graduate committee member at the University of Washington, Seattle, teaching graduate course of Computer Speech Processing and serving on Ph.D. thesis committees. Prior to joining Microsoft, he also worked or/and taught at Massachusetts Institute of Technology, ATR Interpreting Telecom. Research Lab. (Kyoto, Japan), and HKUST. He has been granted over 60 US or international patents in acoustics/audio, speech/language technology, and machine learning. He received numerous awards/honors bestowed by IEEE, ISCA, ASA, Microsoft, and other organizations.
 
 http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf Deep Learning for Natural Language Processing and Related Applications, Microsoft
 
@@ -23,7 +25,13 @@ http://www.cs.toronto.edu/~ndjaitly/techrep.pdf Application of Pretrained Deep N
 
 http://research.microsoft.com/pubs/189008/tasl-deng-2244083-x_2.pdf Li Deng, Xiao Li,  Machine Learning Paradigms for Speech Recognition: An Overview
 
-Google
+### Google
+
+http://www.cs.toronto.edu/~hinton/
+Geoffrey Everest Hinton FRS (born 6 December 1947) is a British-born computer scientist and psychologist, most noted for his work on artificial neural networks. He is now partly working for Google.[1] He is the co-inventor of the backpropagation and contrastive divergence training algorithms and is an important figure in the deep learning movement.
+
+http://research.google.com/pubs/VincentVanhoucke.html
+Vincent Vanhoucke is a Research Scientist at Google. He is a technical lead and manager in Google's deep learning infrastructure team. Prior to that, he lead the speech recognition quality effort for Google Search by Voice. He holds a Ph.D. in Electrical Engineering from Stanford University and a Diplôme d'Ingénieur from the Ecole Centrale Paris. 
 
 http://psych.stanford.edu/~jlm/pdfs/Hinton12IEEE_SignalProcessingMagazine.pdf  Deep Neural Networks for Acoustic Modeling in Speech Recognition (2012) IEEE Signal Processing Magazine
 
