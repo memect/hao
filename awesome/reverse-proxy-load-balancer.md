@@ -1,15 +1,16 @@
 # 提高网站页面响应速度的解决方案: DNS A-Record, 反向代理及负载均衡
+
 contributors @mahak, BUPTGuo , 情非得已小屋, 新世界_玉兔 , 52cs
+
+discussion: https://github.com/memect/hao/issues/48
 
 keywords:
  负载均衡(load balancer),
  反向映射 (reverse proxy),
 
-https://github.com/memect/hao/blob/master/awesome/reverse-proxy-load-balancer.md
-
 
 ## 解决方案
-http://webmasters.stackexchange.com/questions/10927/using-multiple-a-records-for-my-domain-do-web-browsers-ever-try-more-than-one 最简单的设置, DNS设置, 在一个域名下设置多个 "A" record, 即一个域名映射多个IP地址, 然后由域名服务器与浏览器共同选择其中的一个IP访问
+http://webmasters.stackexchange.com/questions/10927/using-multiple-a-records-for-my-domain-do-web-browsers-ever-try-more-than-one 最简单的方案, DNS设置, 在一个域名下设置多个 "A" record, 即一个域名映射多个IP地址, 然后由域名服务器与浏览器共同选择其中的一个IP访问
 
 http://yijiu.blog.51cto.com/433846/1408443 基于Nginx反向代理及负载均衡
 
@@ -29,3 +30,5 @@ BUPTGuo：负载均衡？ (8月3日 17:17)
 情非得已小屋：负载均衡+反向映射 (8月3日 19:24)
 
 新世界_玉兔：DNS提供负载均衡 (8月4日 16:05)
+
+
