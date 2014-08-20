@@ -65,7 +65,7 @@ http://www.eecs.berkeley.edu/~russell/classes/cs294/f05/papers/caruana-1997.pdf 
 
 http://www.thespermwhale.com/jaseweston/papers/unified_nlp.pdf
 Ronan Collobert and Jason Weston. 2008. A unified architecture for natural language processing: deep neural networks with multitask learning. In Proceedings of the 25th international conference on Machine learning (ICML '08)
-* Copper_PKU 推荐
+* Copper_PKU, 李亚超NLP, lby9 共同推荐
 
 ## current
 http://research.microsoft.com/pubs/210041/wsdm2014-multitask.pdf 
