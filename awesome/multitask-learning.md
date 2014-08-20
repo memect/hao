@@ -6,9 +6,9 @@ keywords
 ## 微博讨论
 问: @唐小sin 有没有multi-task learning的相关学习资料呢？
 答: 维基百科上有不少经典文献。AAAI和ICML都有论文(北大/清华)。找到今年Honglak Lee (U Michigan 教授)的短教程。Lan Žagar 博士论文(2014) Ranking by Multitask Learning. 问答追踪: #93 求补充
-
 http://www.weibo.com/5220650532/BiZl47k80?ref=
 
+唐小sin：补充下吧，刚自己也找了一遍classic paper里面的Caruana的博士论文就是Multitask Learning，他是Tom Mitchell的学生。
 
 
 王威廉：今年SIGKDD最佳博士论文颁给了CMU计算机系金光熹同学的论文 Reconstruction and Applications of Collective Storylines from Web Photo Collections http://t.cn/RPNmgEw 还有一个优胜奖也由CMU的multitask learning论文（Mladen Kolar，现芝大教授）获得。
