@@ -39,7 +39,7 @@ http://weibo.com/2107700352/A4CuScVmV
 李晗littlefool：deep learning造冗余特征的思路不错，boosted decision tree 和 kernel svm 现在有用但是有其局限性。坚持我的观点 基于deep learning的无监督特征工程，和现有的非线性模型。配以online learning的实时特征抽取和模型更新，并借用multitask和transfer learning的知识来进行信息扩展和加强问题适用性。
 http://weibo.com/1489962750/zp3daxlC6
 
-李亚超NLP：A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learninghttp://t.cn/aued1i
+李亚超NLP：A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning http://t.cn/aued1i
 http://weibo.com/1732906091/zjTJ94IaH
 
 lby9：1) Deep learning在文本中的应用比较有意思的是这篇《A Unified Architecture for Natural Language Processing: Deep Neural Networks with Multitask Learning》。基本上网络结构是底层的low level features是共享的，上层的任务（POS, Chunking, NER等）共享部分的底层feature。网络结构如图。
