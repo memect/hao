@@ -1,3 +1,5 @@
+contributors: 唐小sin 王威廉 李沐M 李航博士 李沐M Copper_PKU 复旦李斌 eeyangc 李晗littlefool 李亚超NLP lby9
+   
 keywords
   multi-task learning
 
