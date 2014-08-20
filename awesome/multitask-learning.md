@@ -1,3 +1,5 @@
+# MultiTask Learning 资源合集
+
 contributors: 唐小sin 王威廉 李沐M 李航博士 李沐M Copper_PKU 复旦李斌 eeyangc 李晗littlefool 李亚超NLP lby9
    
 keywords
@@ -9,6 +11,7 @@ keywords
 http://www.weibo.com/5220650532/BiZl47k80?ref=
 
 唐小sin：补充下吧，刚自己也找了一遍classic paper里面的Caruana的博士论文就是Multitask Learning，他是Tom Mitchell的学生。
+
 
 
 王威廉：今年SIGKDD最佳博士论文颁给了CMU计算机系金光熹同学的论文 Reconstruction and Applications of Collective Storylines from Web Photo Collections http://t.cn/RPNmgEw 还有一个优胜奖也由CMU的multitask learning论文（Mladen Kolar，现芝大教授）获得。
