@@ -2,6 +2,8 @@
 
 contributors: 唐小sin 王威廉 黄厝海滨 李航博士 李沐M Copper_PKU 复旦李斌 eeyangc 李晗littlefool 李亚超NLP lby9
    
+discussion: https://github.com/memect/hao/issues/93
+
 keywords
   multi-task learning
 
