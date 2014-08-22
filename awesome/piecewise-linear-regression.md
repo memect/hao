@@ -1,15 +1,10 @@
 # 分段线性模型资料与软件－入门篇
 
-contributors: @视觉动物晴木明川 @heavenfireray @禅系一之花
-
-keywords:
- 分段线性模型,
- Piecewise linear regression,
- Segmented linear regression,
-
-license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
-
-card box: http://bigdata.memect.com/?tag=piecewiselinearregression
+* contributors: @视觉动物晴木明川 @heavenfireray @禅系一之花
+* keywords:  分段线性模型, Piecewise linear regression, Segmented linear regression,
+* license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+* cardbox: http://bigdata.memect.com/?tag=piecewiselinearregression
+* discussion: https://github.com/memect/hao/issues/70
 
 https://github.com/memect/hao/blob/master/awesome/piecewise-linear-regression.md
 
