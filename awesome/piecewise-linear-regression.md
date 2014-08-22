@@ -9,6 +9,11 @@ keywords:
 
 license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
+card box: http://bigdata.memect.com/?tag=piecewiselinearregression
+
+https://github.com/memect/hao/blob/master/awesome/piecewise-linear-regression.md
+
+
 ## 教程
 
 https://onlinecourses.science.psu.edu/stat501/node/77 Piecewise linear regression models
