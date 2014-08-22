@@ -29,9 +29,10 @@ http://mathematica.stackexchange.com/questions/45745/fitting-piecewise-functions
 
 http://mobiusfunction.wordpress.com/2012/06/26/piece-wise-linear-regression-from-two-dimensional-data-multiple-break-points/ matlab
 
-http://www.ats.ucla.edu/stat/sas/faq/nlin_optimal_knots.htm SAS
+http://stats.stackexchange.com/questions/18468/how-to-do-piecewise-linear-regression-with-multiple-unknown-knots 
+matlab
 
-http://stats.stackexchange.com/questions/18468/how-to-do-piecewise-linear-regression-with-multiple-unknown-knots 提到R
+http://www.ats.ucla.edu/stat/sas/faq/nlin_optimal_knots.htm SAS
 
 http://climateecology.wordpress.com/2012/08/19/r-for-ecologists-putting-together-a-piecewise-regression/ R
 * "Piecewise or segmented regression for when your data has two different linear patterns. Again, comments here are good" source: https://twitter.com/statsforbios/status/378163948740026368
