@@ -2,10 +2,12 @@
 
 contributors: @视觉动物晴木明川 @heavenfireray @禅系一之花
 
-关键词:
+keywords:
  分段线性模型,
  Piecewise linear regression,
  Segmented linear regression,
+
+license: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
 
 ## 教程
 
