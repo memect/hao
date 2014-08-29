@@ -144,7 +144,6 @@ http://www.cs.cmu.edu/~nasmith/
 
 http://www.cs.cmu.edu/~alavie/
 
-http://www.cs.cmu.edu/~yiming/
 
 
 # Tools
