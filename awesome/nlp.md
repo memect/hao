@@ -18,6 +18,7 @@ http://wordnet.princeton.edu/ WordNet
 
 http://www.keenage.com/ 知网
 
+http://www.corpus4u.org/ 语料库语言学在线 
 
 ## group 
 
