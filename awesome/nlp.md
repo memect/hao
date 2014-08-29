@@ -6,6 +6,8 @@ http://nlp.hivefire.com/ NLP News
 
 https://nlppeople.com/ NLP Jobs
 
+http://www.cs.rochester.edu/~tetreaul/conferences.html Computational Linguistics / NLP Conferences
+
 http://www.ldc.upenn.edu/ LDC: The Linguistic Data Consortium
 
 http://www.clt.gu.se/wiki/nlp-resources NLP Resources
@@ -20,11 +22,55 @@ http://www.keenage.com/ 知网
 
 http://www.corpus4u.org/ 语料库语言学在线 
 
+
+http://trec.nist.gov/ TREC
+* The Text REtrieval Conference (TREC), co-sponsored by the National Institute of Standards and Technology (NIST) and U.S. Department of Defense, was started in 1992 as part of the TIPSTER Text program.
+
+## tutorial 
+http://nlp.cs.berkeley.edu/tutorials/variational-tutorial-slides.pdf  Variational Inference in Structured NLP Models, Presented at NAACL 2012 with David Burkett.
+
+http://pages.cs.wisc.edu/~jerryzhu/pub/ZhuCCFADL46.pdf Tutorial on Statistical Machine Learning for NLP 2013
+
+
+## courses
+http://www.stanford.edu/class/cs224n/  CS 224N / Ling 284  —  Natural Language Processing
+
+http://www.cs.berkeley.edu/~klein/cs288/sp10/ CS 288: Statistical Natural Language Processing, Spring 2010
+
+
+http://demo.clab.cs.cmu.edu/fa2013-11711/index.php/Main_Page Algorithms for NLP: Basic Information (Fall 2013) 
+
+http://www.cs.colorado.edu/~martin/csci5832/lectures_and_readings.html Natural Language Processing, CSCI 5832 FALL 2013
+
+http://www1.cs.columbia.edu/~julia/courses/CS4705/syllabus10.htm COMS 4705: Natural Language Processing, Fall 2010
+
+http://www1.cs.columbia.edu/~julia/courses/CS4706/syllabus12.htm CS4706: Spoken Language Processing, Spring 2012
+
+http://www.cs.cornell.edu/courses/cs4740/2014sp/  CS 4740/5740 - Introduction to Natural Language Processing, Spring 2014
+
+http://l2r.cs.uiuc.edu/~danr/Teaching/CS546-13/  Machine Learning and Natural Language Spring 2013
+
+http://www.cs.jhu.edu/~jason/465/ Natural Language Processing Course # 600.465 — Fall 2013
+
+http://web.stanford.edu/class/cs224s/ CS 224S/LINGUIST 285 Spoken Language Processing
+
+http://www.umiacs.umd.edu/~resnik/ling773_sp2014/ Ling773/CMSC773/INST728C, Spring 2014 Computational Linguistics II
+
+http://cs.nyu.edu/courses/spring13/CSCI-GA.2590-001/index.html
+
+http://www.cis.upenn.edu/~cis530/  CIS 530 Fall 2013 Computational Linguistics
+
+http://pages.cs.wisc.edu/~jerryzhu/cs769.html CS 769: Advanced Natural Language Processing Spring 2010
+
+http://pages.cs.wisc.edu/~bsnyder/cs769.html  
+
+
 ## group 
+http://nlp.stanford.edu/ Stanford NLP group
 
-http://www-nlp.stanford.edu/ Stanford NLP group
+http://nlp.cs.berkeley.edu/ Berkeley NLP group
 
-http://nlp.cs.berkeley.edu/ berkeley NLP group
+http://www.lti.cs.cmu.edu/ CMU Language Technologies Institute
 
 http://nlp.ict.ac.cn/index_zh.php  中科院计算所自然语言处理研究组
 
@@ -34,12 +80,72 @@ http://linguistics.georgetown.edu/ Department of Linguistics, Georgetown  Univer
 
 http://ir.hit.edu.cn/  	哈工大社会计算与信息检索研究中心
 
+http://www.childrenshospital.org/research-and-innovation/research-labs/natural-language-processing-lab
+
+https://wiki.umiacs.umd.edu/clip/index.php/Main_Page
+
+http://nlp.cs.nyu.edu/ 
+
+http://nlp.cis.upenn.edu/
+
+http://www.eng.utah.edu/~cs5340/ 
+
+
+## Textbook
+http://www.cs.colorado.edu/~martin/slp2.html  SPEECH and LANGUAGE PROCESSING 2nd edition  2009
+
+http://cognet.mit.edu/library/books/view?isbn=0262133601 Chris Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, MIT Press. Cambridge, MA: May 1999. 
+* http://www.csd.uwo.ca/~olga/Courses//Winter2010//CS4442_9542b/Books/StatNatLangProc/
+
 
 ## people
-http://www.umiacs.umd.edu/~hal/ http://nlpers.blogspot.com/
+http://nlp.stanford.edu/~manning/
+
+http://www.umiacs.umd.edu/~hal/ 
 
 http://mimno.infosci.cornell.edu/ David Mimno 
 * maintainer of MALLET
+
+
+http://www.cs.berkeley.edu/~klein/  Dan Klein
+
+http://cs.brown.edu/people/ec/home.html Eugene Charniak
+
+http://www.cs.colorado.edu/~martin/
+
+http://www1.cs.columbia.edu/~julia/
+
+http://www.cs.cornell.edu/home/cardie/
+
+http://www.eecs.harvard.edu/shieber/
+* computational Linguistics
+
+http://l2r.cs.uiuc.edu/~danr/ 
+
+http://www.cs.jhu.edu/~jason/
+
+http://www.stanford.edu/~jurafsky/
+
+http://www.umiacs.umd.edu/~resnik/
+
+http://cs.nyu.edu/grishman/
+
+http://homes.cs.washington.edu/~taskar/
+
+http://www.cis.upenn.edu/~nenkova/
+
+http://www.cs.utah.edu/~riloff/
+
+http://pages.cs.wisc.edu/~jerryzhu/
+
+http://pages.cs.wisc.edu/~bsnyder/
+
+http://www.cs.cmu.edu/~nasmith/
+
+http://www.cs.cmu.edu/~alavie/
+
+http://www.cs.cmu.edu/~yiming/
+
 
 # Tools
 ## NLP Toolbox
@@ -78,6 +184,8 @@ http://www.coli.uni-saarland.de/~thorsten/tnt/ TnT
 http://nlp.stanford.edu/software/lex-parser.shtml Stanford Parser 
 
 http://nlp.cs.berkeley.edu/software.shtml Berkeley Parser 
+
+https://github.com/BLLIP/bllip-parser Copyright Mark Johnson, Eugene Charniak, 24th November 2005 --- August 2006
 
 ## English Keyphrase Extractor
 http://www.nzdl.org/Kea/index_old.html KEA keyphrase extraction
