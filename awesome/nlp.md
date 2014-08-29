@@ -149,7 +149,7 @@ http://mimno.infosci.cornell.edu/topics.html Topic modeling bibliography
 4. http://www.zhihu.com/question/19929473   "目前常用的自然语言处理开源项目/开发包有哪些？" 孔牧, 邱锡鹏, 裴飞, 贺一帆 武博文
 
 
-
+5. http://www.zhihu.com/question/19895141 "自然语言处理怎么最快入门？"
 
 
 
