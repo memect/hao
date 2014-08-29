@@ -2,6 +2,7 @@
 contributors: 孔牧
 
 ## resource portal
+http://nlp.hivefire.com/ NLP News
 
 http://www.ldc.upenn.edu/ LDC: The Linguistic Data Consortium
 
@@ -48,6 +49,9 @@ http://mallet.cs.umass.edu MALLET  MAchine Learning for LanguagE Toolkit
 
 
 http://opennlp.apache.org/ OpenNLP 
+
+http://alias-i.com/lingpipe/ LingPipe is tool kit for processing text using computational linguistics. 
+
 
 http://www.ltp-cloud.com/ “语言技术平台云”（LTP-Cloud）
 * 孔牧: 这个是一个较完善的流水线了， 不说质量怎么样， 它提供分词、语义标注、 句法依赖、 实体识别。 虽然会出现错误的结果， 但是， 找不到更好的了。
