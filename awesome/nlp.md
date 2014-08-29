@@ -1,5 +1,4 @@
 # NLP常用信息资源
-contributors: zibuyu 算文解字  孔牧 邱锡鹏 裴飞 贺一帆 武博文 浔雨
 
 ## resource portal
 http://nlp.hivefire.com/ NLP News
