@@ -1,5 +1,5 @@
 # NLP常用信息资源
-contributors: 孔牧
+contributors: zibuyu 算文解字  孔牧
 
 ## resource portal
 http://nlp.hivefire.com/ NLP News
