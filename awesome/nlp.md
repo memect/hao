@@ -42,6 +42,8 @@ http://demo.clab.cs.cmu.edu/fa2013-11711/index.php/Main_Page Algorithms for NLP:
 
 http://www.cs.colorado.edu/~martin/csci5832/lectures_and_readings.html Natural Language Processing, CSCI 5832 FALL 2013
 
+http://www.cs.columbia.edu/~cs4705/  COMS W4705: Natural Language Processing 2013
+
 http://www1.cs.columbia.edu/~julia/courses/CS4705/syllabus10.htm COMS 4705: Natural Language Processing, Fall 2010
 
 http://www1.cs.columbia.edu/~julia/courses/CS4706/syllabus12.htm CS4706: Spoken Language Processing, Spring 2012
@@ -63,6 +65,7 @@ http://www.cis.upenn.edu/~cis530/  CIS 530 Fall 2013 Computational Linguistics
 http://pages.cs.wisc.edu/~jerryzhu/cs769.html CS 769: Advanced Natural Language Processing Spring 2010
 
 http://pages.cs.wisc.edu/~bsnyder/cs769.html  
+
 
 
 ## group 
@@ -112,6 +115,8 @@ http://www.cs.berkeley.edu/~klein/  Dan Klein
 http://cs.brown.edu/people/ec/home.html Eugene Charniak
 
 http://www.cs.colorado.edu/~martin/
+
+http://www.cs.columbia.edu/~mcollins/
 
 http://www1.cs.columbia.edu/~julia/
 
