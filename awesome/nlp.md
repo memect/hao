@@ -1,5 +1,5 @@
 # NLP常用信息资源
-contributors: zibuyu 算文解字  孔牧 邱锡鹏 裴飞 贺一帆 武博文
+contributors: zibuyu 算文解字  孔牧 邱锡鹏 裴飞 贺一帆 武博文 浔雨
 
 ## resource portal
 http://nlp.hivefire.com/ NLP News
@@ -96,6 +96,7 @@ http://www.eng.utah.edu/~cs5340/
 
 ## Textbook
 http://www.cs.colorado.edu/~martin/slp2.html  SPEECH and LANGUAGE PROCESSING 2nd edition  2009
+* 浔雨: "自然语言处理综论" 这本书的权威自不用说，译者是冯志伟老师和孙乐老师，当年读这本书的时候，还不知道冯老师是谁，但是读起来感觉非常好，想想如果没有在这个领域积攒多年的实力，是不可能翻译的这么顺畅的。这本书在国内外的评价都比较好，对自然语言处理的两个学派（语言学派和统计学派）所关注的内容都有所包含，但因此也失去一些侧重点。从我的角度来说更偏向于统计部分，所以需要了解统计
 
 http://cognet.mit.edu/library/books/view?isbn=0262133601 Chris Manning and Hinrich Schütze, Foundations of Statistical Natural Language Processing, MIT Press. Cambridge, MA: May 1999. 
 * http://www.csd.uwo.ca/~olga/Courses//Winter2010//CS4442_9542b/Books/StatNatLangProc/
@@ -253,6 +254,44 @@ http://www.cs.cmu.edu/~roni/papers/survey-slm-IEEE-PROC-0004.pdf Two decades of 
 http://mimno.infosci.cornell.edu/topics.html Topic modeling bibliography 
 
 
+Parsing（句法结构分析~语言学知识多，会比较枯燥）
+
+    Klein & Manning: "Accurate Unlexicalized Parsing" ( )
+    Klein & Manning: "Corpus-Based Induction of Syntactic Structure: Models of Dependency and Constituency" (革命性的用非监督学习的方法做了parser)
+    Nivre "Deterministic Dependency Parsing of English Text" (shows that deterministic parsing actually works quite well)
+    McDonald et al. "Non-Projective Dependency Parsing using Spanning-Tree Algorithms" (the other main method of dependency parsing, MST parsing)
+
+
+Machine Translation（机器翻译，如果不做机器翻译就可以跳过了，不过翻译模型在其他领域也有应用）
+
+    Knight "A statistical MT tutorial workbook" (easy to understand, use instead of the original Brown paper)
+    Och "The Alignment-Template Approach to Statistical Machine Translation" (foundations of phrase based systems)
+    Wu "Inversion Transduction Grammars and the Bilingual Parsing of Parallel Corpora" (arguably the first realistic method for biparsing, which is used in many systems)
+    Chiang "Hierarchical Phrase-Based Translation" (significantly improves accuracy by allowing for gappy phrases)
+
+
+Language Modeling (语言模型)
+
+    Goodman "A bit of progress in language modeling" (describes just about everything related to n-gram language models 这是一个survey，这个survey写了几乎所有和n-gram有关的东西，包括平滑 聚类)
+    Teh "A Bayesian interpretation of Interpolated Kneser-Ney" (shows how to get state-of-the art accuracy in a Bayesian framework, opening the path for other applications)
+
+
+Machine Learning for NLP
+
+    Sutton & McCallum "An introduction to conditional random fields for relational learning" (CRF实在是在NLP中太好用了！！！！！而且我们大家都知道有很多现成的tool实现这个，而这个就是一个很简单的论文讲述CRF的，不过其实还是蛮数学= =。。。)
+    Knight "Bayesian Inference with Tears" (explains the general idea of bayesian techniques quite well)
+    Berg-Kirkpatrick et al. "Painless Unsupervised Learning with Features" (this is from this year and thus a bit of a gamble, but this has the potential to bring the power of discriminative methods to unsupervised learning)
+
+Information Extraction
+
+    Hearst. Automatic Acquisition of Hyponyms from Large Text Corpora. COLING 1992. (The very first paper for all the bootstrapping methods for NLP. It is a hypothetical work in a sense that it doesn't give experimental results, but it influenced it's followers a lot.)
+    Collins and Singer. Unsupervised Models for Named Entity Classification. EMNLP 1999. (It applies several variants of co-training like IE methods to NER task and gives the motivation why they did so. Students can learn the logic from this work for writing a good research paper in NLP.)
+
+Computational Semantics
+
+    Gildea and Jurafsky. Automatic Labeling of Semantic Roles. Computational Linguistics 2002. (It opened up the trends in NLP for semantic role labeling, followed by several CoNLL shared tasks dedicated for SRL. It shows how linguistics and engineering can collaborate with each other. It has a shorter version in ACL 2000.)
+    Pantel and Lin. Discovering Word Senses from Text. KDD 2002. (Supervised WSD has been explored a lot in the early 00's thanks to the senseval workshop, but a few system actually benefits from WSD because manually crafted sense mappings are hard to obtain. These days we see a lot of evidence that unsupervised clustering improves NLP tasks such as NER, parsing, SRL, etc,
+    
 # Reference
 1. http://www.newsmth.net/nForum/#!article/NLP/43   zibuyu (得之我幸失之我命), NLP常用信息资源, 水木社区 (Wed Mar 14 23:56:43 2007)
 
