@@ -167,7 +167,8 @@ http://alias-i.com/lingpipe/ LingPipe is tool kit for processing text using comp
 
 https://textblob.readthedocs.org/en/dev/ TextBlob: Simplified Text Processing (python)
 
-http://www.ltp-cloud.com/ “语言技术平台云”（LTP-Cloud）
+https://github.com/HIT-SCIR/ltp 语言技术平台（Language Technology Platform，LTP）是哈工大社会计算与信息检索研究中心历时十年开发的一整套中文语言处理系统。
+* http://www.ltp-cloud.com/ “语言技术平台云”（LTP-Cloud）
 * 孔牧: 这个是一个较完善的流水线了， 不说质量怎么样， 它提供分词、语义标注、 句法依赖、 实体识别。 虽然会出现错误的结果， 但是， 找不到更好的了。
 
 https://github.com/xpqiu/fnlp/  中文自然语言处理工具包
