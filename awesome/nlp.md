@@ -4,6 +4,8 @@ contributors: zibuyu 算文解字  孔牧 邱锡鹏 裴飞 贺一帆 武博文
 ## resource portal
 http://nlp.hivefire.com/ NLP News
 
+https://nlppeople.com/ NLP Jobs
+
 http://www.ldc.upenn.edu/ LDC: The Linguistic Data Consortium
 
 http://www.clt.gu.se/wiki/nlp-resources NLP Resources
@@ -109,8 +111,6 @@ http://code.google.com/p/glda/ GLDA GPU-accelerated Latent Dirichlet allocation 
 ## Search Engines
 http://lucene.apache.org/ Lucene
 
-## jobs
-https://nlppeople.com/
 
 # classic papers
 
