@@ -1,5 +1,5 @@
 # NLP常用信息资源
-contributors: zibuyu 算文解字  孔牧
+contributors: zibuyu 算文解字  孔牧 邱锡鹏 裴飞 贺一帆 武博文
 
 ## resource portal
 http://nlp.hivefire.com/ NLP News
@@ -52,12 +52,14 @@ http://opennlp.apache.org/ OpenNLP
 
 http://alias-i.com/lingpipe/ LingPipe is tool kit for processing text using computational linguistics. 
 
+https://textblob.readthedocs.org/en/dev/ TextBlob: Simplified Text Processing (python)
 
 http://www.ltp-cloud.com/ “语言技术平台云”（LTP-Cloud）
 * 孔牧: 这个是一个较完善的流水线了， 不说质量怎么样， 它提供分词、语义标注、 句法依赖、 实体识别。 虽然会出现错误的结果， 但是， 找不到更好的了。
 
 https://github.com/xpqiu/fnlp/  中文自然语言处理工具包
 * 邱锡鹏: 推荐自家的FudanNLP 
+
 
 ## English Stemmer
 http://snowball.tartarus.org/ Snowball
@@ -144,7 +146,7 @@ http://mimno.infosci.cornell.edu/topics.html Topic modeling bibliography
 
 3. http://www.newsmth.net/nForum/#!article/NLP/5461   zibuyu (得之我幸失之我命), NLP领域经典综述, 水木社区  (Tue Feb 24 11:13:53 2009)
 
-4. http://www.zhihu.com/question/19929473   "目前常用的自然语言处理开源项目/开发包有哪些？" 孔牧, 邱锡鹏
+4. http://www.zhihu.com/question/19929473   "目前常用的自然语言处理开源项目/开发包有哪些？" 孔牧, 邱锡鹏, 裴飞, 贺一帆 武博文
 
 
 
