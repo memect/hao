@@ -256,10 +256,10 @@ http://www.weibo.com/5220650532/BhqBFulcq?mod=weibotime
 * 2014-07-23 http://t.cn/RPUxwc6 **万维网科学暑期学校的PPT上线了** Web Science Summer School 2014: Age of Data 院士级巨头Wendy Hall (ACM前主席)，Nigel Shadbolt （英国政府公开数据领导者），Jim Hendler（语义网之父）等主讲。内容涉及链接数据，开放数据，数据分析等。共41个资源 感谢@lidingpku 推荐 [ [微博](http://www.weibo.com/5220650532/BeRusDWdT?mod=weibotime) ]
 
 * 2014-07-22 @呯呀么呯 问：**识别交通标志，怎么确定图片里有交通标志，具体在哪里**？答：这个应该算目标识别和物体识别，CV的经典教程都有object recognition的内容可以参考。具体到交通标志识别，Github上有些开源代码 Matlab C++ Java的都有http://t.cn/RPLR99i 计算机视觉@DeepGlint赵勇 是专家，推荐关注  [ [讨论](https://github.com/memect/hao/issues/12) ] [ [微博](http://www.weibo.com/5220650532/BeFSRtUKj) ]
-  ** @朝花夕拾录: 正好发现一篇学术界的综述文，An overview of traffic sign detection methods http://t.cn/RPLdXUw  [ [微博](http://www.weibo.com/3204614242/BeHKUs2la) ]
+  * @朝花夕拾录: 正好发现一篇学术界的综述文，An overview of traffic sign detection methods http://t.cn/RPLdXUw  [ [微博](http://www.weibo.com/3204614242/BeHKUs2la) ]
 
 * 2014-07-22 问：@北冥渔翁:**日常维护管理的有吗？dba方面**？ 答：oracle dba在学习官方文档外，可以跟踪大神的博客，篇幅都不长且能很快掌握很多有用的实战经验。此外面试问题也反映了dba的技术要点。合集传送门 http://t.cn/RPLRu9v 推荐资深dba微博 @yangtingkun 有很多好文摘 http://t.cn/RPLRu9P [ [讨论](https://github.com/memect/hao/issues/10) ] [ [微博](http://www.weibo.com/5220650532/BeFY0AW0V) ]
-  ** @老熊的三分地 (Jun Xiong) 也是Oracle DBA的资深专家，特别推荐他的同名的中文博客 laoxiong.net http://t.cn/a9OBev 很多干货  [ [微博](http://www.weibo.com/5220650532/BeHz6bKWo?mod=weibotime) ]
+  * @老熊的三分地 (Jun Xiong) 也是Oracle DBA的资深专家，特别推荐他的同名的中文博客 laoxiong.net http://t.cn/a9OBev 很多干货  [ [微博](http://www.weibo.com/5220650532/BeHz6bKWo?mod=weibotime) ]
 
 * 2014-07-21 @AixinSG 昨天推荐了**CommonCrawl** ．这是Google Adsense之父Gil Elbaz离开Google后，为了实现开放数据的理想创立的（他另一个项目是Factual）项目理想是解决大搜索引擎对数据的垄断，鼓励中小企业利用Web数据创业．最新的数据有50亿页面，541T．这里搜集CC相关资源 http://t.cn/RP2Hwxp 待续 [ [微博](http://www.weibo.com/5220650532/BexYIu4TO?mod=weibotime) ]
   * 续１ 这么大的数据显然没法下载处理 好在AWS提供了存储 http://t.cn/RP2Hn6t 可以直接跑Elastic MapReduce http://t.cn/RP2Hn6c 这里有示范代码 [ [微博](http://www.weibo.com/5220650532/Bey6WuG8B?mod=weibotime) ]
