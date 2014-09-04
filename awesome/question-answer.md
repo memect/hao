@@ -11,19 +11,19 @@
 
 
 * [Viv](http://viv.ai/) (launching in 2014) "a global platform that enables developers to plug into and create an intelligent, conversational interface to anything." 
+* [Project CALO](http://en.wikipedia.org/wiki/CALO) (2003-2008) funded by the Defense Advanced Research Projects Agency (DARPA) under its Personalized Assistant that Learns (PAL) program
 
 
 * [Vlingo](http://en.wikipedia.org/wiki/Vlingo) acquired by Nuance in December 2011
 * [Voice Mate](http://en.wikipedia.org/wiki/Voice_Mate)  LG
 
 
-## 其他问答系统：
+## 问答系统：
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) (launched in 2013)
 ** [IBM DeepQA (watson)](https://www.research.ibm.com/deepqa/deepqa.shtml) (launched in 2011) "A first stop along the way is the Jeopardy! Challenge..."
 * [Wolfram alpha](http://www.wolframalpha.com/) "which was released on May 15, 2009"
 * [Project Aristo](http://www.allenai.org/TemplateGeneric.aspx?contentId=8) current project at Allen Institute for Artificial Intelligence (AI2) 
 ** [Porject Halo](http://www.allenai.org/TemplateGeneric.aspx?contentId=9) past project 
-* [Project CALO](http://en.wikipedia.org/wiki/CALO) (2003-2008) funded by the Defense Advanced Research Projects Agency (DARPA) under its Personalized Assistant that Learns (PAL) program
 
 
 ## 聊天机器人(Chatbot)与图灵测试:
