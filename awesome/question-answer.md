@@ -1,6 +1,6 @@
 智能问答系统资料整理
 
-智能个人助理（Intelligent personal assistant）
+## 智能个人助理（Intelligent personal assistant）
 * [Amazon Evi](http://www.evi.com/) (launched in 2012) "best selling mobile app that can answer questions about local knowledge"
 ** formerly [True Knowledge](http://en.wikipedia.org/wiki/Evi_(software)) (launched in 2007), "a natural answering question answering system", acquired by Amazon in 2012
 * [Google Now](http://www.google.com/landing/now/) (launched in 2012) "an intelligent personal assistant developed by Google"
@@ -17,7 +17,7 @@
 * [Voice Mate](http://en.wikipedia.org/wiki/Voice_Mate)  LG
 
 
-其他问答系统：
+## 其他问答系统：
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) (launched in 2013)
 ** [IBM DeepQA (watson)](https://www.research.ibm.com/deepqa/deepqa.shtml) (launched in 2011) "A first stop along the way is the Jeopardy! Challenge..."
 * [Wolfram alpha](http://www.wolframalpha.com/) "which was released on May 15, 2009"
@@ -26,7 +26,7 @@
 * [Project CALO](http://en.wikipedia.org/wiki/CALO) (2003-2008) funded by the Defense Advanced Research Projects Agency (DARPA) under its Personalized Assistant that Learns (PAL) program
 
 
-聊天机器人(Chatbot)与图灵测试:
+## 聊天机器人(Chatbot)与图灵测试:
 * [微软二代小冰](http://www.msxiaoice.com/v2/DesktopLanding) "微软小冰是领先的跨平台人工智能机器人"
 * [Eugene Goostman](http://en.wikipedia.org/wiki/Eugene_Goostman) "portrayed as a 13-year-old Ukrainian boy"
 * [Cleverbot](http://en.wikipedia.org/wiki/Cleverbot) "a web application that uses an artificial intelligence algorithm to have conversations with humans"
