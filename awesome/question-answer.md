@@ -44,3 +44,5 @@
 * quora
 * 知乎
 * 百度知道
+更多见维基百科 http://en.wikipedia.org/wiki/List_of_question-and-answer_websites 
+
