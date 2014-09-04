@@ -27,7 +27,8 @@
 
 
 ## 聊天机器人(Chatbot)与图灵测试:
-* [微软二代小冰](http://www.msxiaoice.com/v2/DesktopLanding) "微软小冰是领先的跨平台人工智能机器人"
-* [Eugene Goostman](http://en.wikipedia.org/wiki/Eugene_Goostman) "portrayed as a 13-year-old Ukrainian boy"
+* [小Q（腾讯聊天机器人）](http://qrobot.qq.com/) "QQ机器人是腾讯公司陆续推出的人工智能聊天机器人的总称" (2013)
+* [微软小冰](http://www.msxiaoice.com/v2/DesktopLanding) "微软小冰是领先的跨平台人工智能机器人" (2014)
+* [Eugene Goostman](http://en.wikipedia.org/wiki/Eugene_Goostman) "portrayed as a 13-year-old Ukrainian boy" (2001-)
 * [Cleverbot](http://en.wikipedia.org/wiki/Cleverbot) "a web application that uses an artificial intelligence algorithm to have conversations with humans"
-* [ELIZA](http://en.wikipedia.org/wiki/ELIZA) ELIZA is a computer program and an early example of primitive natural language processing
+* [ELIZA](http://en.wikipedia.org/wiki/ELIZA) ELIZA is a computer program and an early example of primitive natural language processing (1976)
