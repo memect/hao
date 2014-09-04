@@ -19,7 +19,7 @@
 * [Voice Mate](http://en.wikipedia.org/wiki/Voice_Mate)  LG
 
 
-## 问答系统：
+## 智能自动问答系统：
 * [IBM Watson](http://www.ibm.com/smarterplanet/us/en/ibmwatson/) (launched in 2013)
 ** [IBM DeepQA (watson)](https://www.research.ibm.com/deepqa/deepqa.shtml) (launched in 2011) "A first stop along the way is the Jeopardy! Challenge..."
 * [Wolfram alpha](http://www.wolframalpha.com/) "which was released on May 15, 2009"
@@ -33,3 +33,14 @@
 * [Eugene Goostman](http://en.wikipedia.org/wiki/Eugene_Goostman) "portrayed as a 13-year-old Ukrainian boy" (2001-)
 * [Cleverbot](http://en.wikipedia.org/wiki/Cleverbot) "a web application that uses an artificial intelligence algorithm to have conversations with humans"
 * [ELIZA](http://en.wikipedia.org/wiki/ELIZA) ELIZA is a computer program and an early example of primitive natural language processing (1976)
+
+## 人工问答系统：
+* ask.com
+* https://answers.yahoo.com/
+* http://answers.com 
+**  http://wiki.answers.com/
+* stackoverflow
+* reddit
+* quora
+* 知乎
+* 百度知道
