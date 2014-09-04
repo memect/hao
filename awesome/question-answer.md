@@ -1,4 +1,5 @@
-智能问答系统资料整理
+# 智能问答系统资料整理
+
 
 ## 智能个人助理（Intelligent personal assistant）
 * [Amazon Evi](http://www.evi.com/) (launched in 2012) "best selling mobile app that can answer questions about local knowledge"
@@ -7,7 +8,7 @@
 * [Apple Siri](https://www.apple.com/ios/siri/) (launched in 2011) "an intelligent personal assistant and knowledge navigator which works as an application for Apple Inc.'s iOS." 
 ** Siri IOS app (by Siri Inc.) (launched in 2009), founed in 2007, acquired by Apple in 2010
 * [Microsoft Cortana](http://www.windowsphone.com/en-us/how-to/wp8/cortana/meet-cortana) "an intelligent personal assistant on Windows Phone 8.1"
-* [Sumsung S Voice](http://www.samsung.com/global/galaxys3/svoice.html) "an intelligent personal assistant and knowledge navigator which is only available as a built-in application for the Samsung Galaxy”
+* [Sumsung S Voice](http://www.samsung.com/global/galaxys3/svoice.html) (launched in 2012) "an intelligent personal assistant and knowledge navigator which is only available as a built-in application for the Samsung Galaxy”
 
 
 * [Viv](http://viv.ai/) (launching in 2014) "a global platform that enables developers to plug into and create an intelligent, conversational interface to anything." 
