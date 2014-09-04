@@ -1,4 +1,4 @@
-# 智能问答系统资料整理
+# 问答系统资料整理
 
 
 ## 智能个人助理（Intelligent personal assistant）
