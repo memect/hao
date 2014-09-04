@@ -13,9 +13,9 @@
 
 * [Jelly](http://en.wikipedia.org/wiki/Jelly_%28app%29) "an app (currently available on iOS and Android) that serves as a Q&A platform, created by a company of the same name led by Biz Stone, one of Twitter's co-founders. " ," it encourages people to use photos to ask questions"
 * [Viv](http://viv.ai/) (launching in 2014) "a global platform that enables developers to plug into and create an intelligent, conversational interface to anything." 
+* [出门问问](http://chumenwenwen.com/) 
+
 * [Project CALO](http://en.wikipedia.org/wiki/CALO) (2003-2008) funded by the Defense Advanced Research Projects Agency (DARPA) under its Personalized Assistant that Learns (PAL) program
-
-
 * [Vlingo](http://en.wikipedia.org/wiki/Vlingo) acquired by Nuance in December 2011
 * [Voice Mate](http://en.wikipedia.org/wiki/Voice_Mate)  LG
 
