@@ -11,6 +11,7 @@
 * [Sumsung S Voice](http://www.samsung.com/global/galaxys3/svoice.html) (launched in 2012) "an intelligent personal assistant and knowledge navigator which is only available as a built-in application for the Samsung Galaxy”
 
 
+* [Jelly](http://en.wikipedia.org/wiki/Jelly_%28app%29) "an app (currently available on iOS and Android) that serves as a Q&A platform, created by a company of the same name led by Biz Stone, one of Twitter's co-founders. " ," it encourages people to use photos to ask questions"
 * [Viv](http://viv.ai/) (launching in 2014) "a global platform that enables developers to plug into and create an intelligent, conversational interface to anything." 
 * [Project CALO](http://en.wikipedia.org/wiki/CALO) (2003-2008) funded by the Defense Advanced Research Projects Agency (DARPA) under its Personalized Assistant that Learns (PAL) program
 
