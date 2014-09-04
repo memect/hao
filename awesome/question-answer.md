@@ -43,7 +43,11 @@
 * stackoverflow
 * reddit
 * quora
+* Formspring  qa based social network
 * 知乎
 * 百度知道
+* 百度微问答
+* http://segmentfault.com/
+* 天涯 http://wenda.tianya.cn/
 更多见维基百科 http://en.wikipedia.org/wiki/List_of_question-and-answer_websites 
 
