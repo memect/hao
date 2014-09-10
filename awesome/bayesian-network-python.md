@@ -52,3 +52,11 @@ http://weibo.com/1932835417/BcKj0k0Wx
 @不确定的世界2012 ：【贝叶斯网的R实现（ Bayesian network in R）（一）gRain(1)】#本文主要介绍运用贝叶斯网的一些R语言工具。 贝叶斯网，又称信念网络或概率有向无环图模型（Bayesian network，belief network，probabilistic directed acyclic graphical m... http://t.cn/zToro0U
 
 http://weibo.com/1768506843/zEfzDsln9
+
+
+
+
+@Rebecca1020 ：因果推断在USA分两大学派：因果推断本质统计做不了的，但为了能得到inference，必须要加入假设。不同假设就产生了两大不同的学派。西边以berkeley为主，Jordan他们搞的是bayesian network，用有向图来代表之间因果关系。东边Rubin在03年提出Principal stratification，以此为主要假设来进行统计推断。
+
+赞| 转发| 收藏| 评论 2013-4-11 02:44
+http://weibo.com/1669820502/zrFNJv8DI
