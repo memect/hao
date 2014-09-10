@@ -14,12 +14,12 @@ http://courses.cs.washington.edu/courses/cse515/09sp/slides/bnets.pdf Bayesian n
 
 ## [基于python的实战入门](http://python.memect.com/?tag=hao71)
 
-[Bayesian Methods for Hackers](http://python.memect.com/?p=6737)  （6000+ star book on github)
+[Bayesian Methods for Hackers](http://python.memect.com/?p=6737)  6000+ star book on github
 * 西瓜大丸子汤 推荐
 
-Frequentists and Bayesians series   (four blogs)
+[Frequentists and Bayesians series](http://python.memect.com/?tag=fb-series)  four blogs
 
-[PyMC tutorial](http://python.memect.com/?p=8536)  (pretty short)
+[PyMC tutorial](http://python.memect.com/?p=8536)  pretty short
 
 
 
