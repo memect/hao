@@ -19,9 +19,9 @@
   * [跟踪问答进展](https://github.com/memect/hao/issues) 欢迎认领还没有回答的问题
 
 ### 订阅服务 
-订阅微信公众号： 好东西传送门
+1. 订阅微信公众号： 好东西传送门
 
-[订阅好东西周报](http://eepurl.com/202qb)
+2. [订阅好东西周报](http://eepurl.com/202qb)
 
 ### 使用许可
 
