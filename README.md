@@ -1,10 +1,9 @@
 <img align="right" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/>
 
-好东西传送门：帮您快速解决问题，为您精选专业知识
+# 好东西传送门：帮您快速解决问题，为您精选专业知识
 * 微博： http://www.weibo.com/haoawesome/
 * 微信： 好东西传送门
-* 周报： [订阅邮件列表](http://eepurl.com/202qb)
-* 反馈： [提供宝贵建议](https://github.com/memect/hao/issues/new)
+* 服务： [订阅好东西周报](http://eepurl.com/202qb)  [提供宝贵建议](https://github.com/memect/hao/issues/new)
 
 ----
 
@@ -16,10 +15,9 @@
 * [文摘与点评](README.md#文摘与点评)
 * [通知与声明](README.md#通知与声明)
 
-----
 
 ## 简介
-好东西传送门是微博上的知识传播系统，集成微博上的好人好东西，帮您快速解决问题，为您精选专业知识。
+*好东西传送门* 是微博上的知识传播系统，集成微博上的好人好东西，帮您快速解决问题，为您精选专业知识。
 
 ### 如何使用问答
 1. 微博用户 
@@ -27,8 +25,8 @@
   * 发私信给 好东西传送门
  
 2. github用户：
-  * [提新问题](https://github.com/memect/hao/issues/new)
-  * [当前问答进展](https://github.com/memect/hao/issues) 欢迎认领还没有回答的问题
+  * [提问](https://github.com/memect/hao/issues/new)
+  * [跟踪问答进展](https://github.com/memect/hao/issues) 欢迎认领还没有回答的问题
 
 
 ### 使用许可
