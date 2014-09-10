@@ -1,7 +1,8 @@
 2014-09-11 #夜读春秋# GDP与汇率数据是经济、金融研究的基本盘! (数据资源整理： http://t.cn/RhVDKg5 ) 1.世界银行的全球各国GDP（1983－2013）http://t.cn/hFsNY 2. 美联储汇率数据(H.10): http://t.cn/RhVDKgq （1996-2014） 3. 那台北的GDP呢？ http://t.cn/RhVgFWl ，http://t.cn/zOMb9mJ [ [微博](http://www.weibo.com/5220650532/Bmpx29PN5) ]
 
 2014-09-11 谢谢建议，我们会努力。改进的网站会有的。想不想要个电子邮件周报什么的，把每周的发布的好东西一网打尽? //@海中的沙粒:给个建议，好东西以后重新搞个博，不然因重复遗漏 //@好东西传送门: 加进列表了 pdf传送门 http://t.cn/RhcFi0l //@诸神善待民科组: 图是种方法Method，不是模型 Model，没说到 B [ [微博](http://www.weibo.com/5220650532/BmplNnCI3) ]
-    * 2014-09-10 [资料整理]《Bayesian network与python概率编程实战入门》http://t.cn/RhcnZrY 几个Bayesian network讲义 (其一来自Eric Xing老师的课 Probabilistic Graphical Models), python概率编程实战"Bayesian Methods for Hackers", pyMC短教程,博客系列比较python概率编程工具. 感谢 @王威廉 @西瓜大丸子汤 [ [微博](http://www.weibo.com/5220650532/BmjrJgeI2) ]
+
+> 2014-09-10 [资料整理]《Bayesian network与python概率编程实战入门》http://t.cn/RhcnZrY 几个Bayesian network讲义 (其一来自Eric Xing老师的课 Probabilistic Graphical Models), python概率编程实战"Bayesian Methods for Hackers", pyMC短教程,博客系列比较python概率编程工具. 感谢 @王威廉 @西瓜大丸子汤 [ [微博](http://www.weibo.com/5220650532/BmjrJgeI2) ]
 
 2014-09-10 #NLP# 诸君，"城市规划" 领域词表来了, 还等什么呢？ 数据传送门 http://t.cn/RhVVYBk 感谢 @国际城市规划 //@规划中国: //@国际城市规划: 编撰词典对我等难度太大，欢迎有缘人慢慢加入积累 http://t.cn/RhVcLWx //@城规田宝江: 好想法！//@中大袁媛: 可以出版一本专业英语的词典或教材 [ [微博](http://www.weibo.com/5220650532/Bmm8O31VG) ]
     * 2014-09-09 《国际城市规划》编辑部在多年来出版外文文献的过程中，积累了大量的专业词汇（英汉对照）。把这些专业词汇汇总归纳起来对一些读者应该是有益处的，同时也是我们对自己工作的不断回顾和总结。我们会持续将这一工作做下去。欢迎提出宝贵意见，也欢迎有兴趣的朋友加入这个行列.详见 http://t.cn/Rhtk0hX [ [微博](http://www.weibo.com/2092965653/BmcMpz6dI) ]
