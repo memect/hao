@@ -1,5 +1,4 @@
 <img align="right" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/>
-
 # 好东西传送门
 * 微博： http://www.weibo.com/haoawesome/
 * 微信： 好东西传送门
