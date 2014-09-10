@@ -1,5 +1,6 @@
 <img align="right" width=50 height=50 src="http://u.memect.com/shared/image/hao.png"/>
-# 好东西传送门
+
+# ![](http://u.memect.com/shared/image/hao.png) 好东西传送门
 [访问微博](http://www.weibo.com/haoawesome/)｜[提供建议](https://github.com/memect/hao/issues/new)
 
 ----
