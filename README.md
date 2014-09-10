@@ -1,14 +1,13 @@
-<img align="right" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/>
+<img align="right" width=50 height=50 src="http://u.memect.com/shared/image/hao.png"/>
 # 好东西传送门
-* 微博： http://www.weibo.com/haoawesome/
-* 微信： 好东西传送门
-* 服务： [订阅好东西周报](http://eepurl.com/202qb)  [提供宝贵建议](https://github.com/memect/hao/issues/new)
+［访问微博］（http://www.weibo.com/haoawesome/）｜ [提供建议](https://github.com/memect/hao/issues/new)
 
 ----
 
 目录
 * [简介](README.md#简介)
-  *  [如何使用问答](README.md#如何使用问答)
+  *  [问答服务](README.md#问答服务)
+  *  [订阅服务](README.md#订阅服务)
   *  [使用许可](README.md#使用许可)
 * [问答与原创](README.md#问答与原创)
 * [文摘与点评](README.md#文摘与点评)
@@ -18,7 +17,7 @@
 ## 简介
 *好东西传送门* 是微博上的知识传播系统，集成微博上的好人好东西，帮您快速解决问题，为您精选专业知识。
 
-### 如何使用问答
+### 问答服务
 1. 微博用户 
   * 发一条微博提问，里面加上 @好东西传送门
   * 发私信给 好东西传送门
@@ -27,6 +26,10 @@
   * [提问](https://github.com/memect/hao/issues/new)
   * [跟踪问答进展](https://github.com/memect/hao/issues) 欢迎认领还没有回答的问题
 
+### 订阅服务 
+订阅微信公众号： 好东西传送门
+
+[订阅好东西周报](http://eepurl.com/202qb)
 
 ### 使用许可
 
