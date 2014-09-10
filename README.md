@@ -1,6 +1,6 @@
 <img align="right" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/>
 
-# 好东西传送门：帮您快速解决问题，为您精选专业知识
+# 好东西传送门
 * 微博： http://www.weibo.com/haoawesome/
 * 微信： 好东西传送门
 * 服务： [订阅好东西周报](http://eepurl.com/202qb)  [提供宝贵建议](https://github.com/memect/hao/issues/new)
