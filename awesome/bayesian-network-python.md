@@ -16,6 +16,8 @@ http://courses.cs.washington.edu/courses/cse515/09sp/slides/bnets.pdf Bayesian n
 
 [Bayesian Methods for Hackers](http://python.memect.com/?p=6737)  6000+ star book on github
 * 西瓜大丸子汤 推荐
+* 小猴机器人 推荐中文介绍 张天雷 写的《概率编程语言与贝叶斯方法实践》 http://www.infoq.com/cn/news/2014/07/programming-language-bayes
+
 
 [Frequentists and Bayesians series](http://python.memect.com/?tag=fb-series)  four blogs
 
@@ -67,3 +69,6 @@ http://weibo.com/1768506843/zEfzDsln9
 @Rebecca1020 ：因果推断在USA分两大学派：因果推断本质统计做不了的，但为了能得到inference，必须要加入假设。不同假设就产生了两大不同的学派。西边以berkeley为主，Jordan他们搞的是bayesian network，用有向图来代表之间因果关系。东边Rubin在03年提出Principal stratification，以此为主要假设来进行统计推断。
 2013-4-11 02:44
 http://weibo.com/1669820502/zrFNJv8DI
+
+张天雷 提供中文介绍《概率编程语言与贝叶斯方法实践》 //@小猴机器人: 来，给个中文介绍哈， http://t.cn/RPwbEPz
+http://www.weibo.com/5220650532/BmkyPihT4
