@@ -32,7 +32,11 @@ http://site.douban.com/182577/widget/notes/12817482/note/273585095/ 贝叶斯网
 
 ### 相关进阶
 http://bayes.cs.ucla.edu/BOOK-2K/index.html Causality: Models, Reasoning, and Inference　
-*  Judea Pearl的书　http://en.wikipedia.org/wiki/Judea_Pearl
+* Judea Pearl的书　http://en.wikipedia.org/wiki/Judea_Pearl
+
+http://www.biostat.jhsph.edu/~cfrangak/papers/preffects.pdf Principal Stratification in Causal Inference - Biostatistics （2002）
+* Don Rubin
+* Rebecca1020 推荐
 
 http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html Probabilistic Graphical Models by Eric Xing(CMU)
 * 王威廉 推荐
