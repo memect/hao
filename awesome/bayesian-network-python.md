@@ -38,11 +38,12 @@ http://www.biostat.jhsph.edu/~cfrangak/papers/preffects.pdf Principal Stratifica
 * Don Rubin
 * Rebecca1020 推荐
 
-http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html Probabilistic Graphical Models by Eric Xing(CMU)
+http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html Probabilistic Graphical Models by Eric Xing(CMU) 
 * 王威廉 推荐
 
 
-
+http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage Bayesian Reasoning and Machine Learning by David Barber
+* @诸神善待民科组  推荐 (比 Koller 的 PGM 好读，好处是图多)
 
 ### 相关微博
 
