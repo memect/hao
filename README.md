@@ -1,11 +1,5 @@
 <img align="right" width=50 height=50 src="http://u.memect.com/shared/image/hao.png"/>
-
-# ![](http://u.memect.com/shared/image/hao.png) 好东西传送门
-[访问微博](http://www.weibo.com/haoawesome/)｜[提供建议](https://github.com/memect/hao/issues/new)
-
-----
-
-目录
+# 好东西传送门
 * [简介](README.md#简介)
   *  [问答服务](README.md#问答服务)
   *  [订阅服务](README.md#订阅服务)
@@ -17,6 +11,8 @@
 
 ## 简介
 *好东西传送门* 是微博上的知识传播系统，集成微博上的好人好东西，帮您快速解决问题，为您精选专业知识。
+* [访问微博](http://www.weibo.com/haoawesome/)
+* [提供建议](https://github.com/memect/hao/issues/new)
 
 ### 问答服务
 1. 微博用户 
