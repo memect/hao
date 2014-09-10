@@ -1,4 +1,4 @@
-# Bayesian network 与概率编程实战入门
+# Bayesian network 与python概率编程实战入门
 contributors: @西瓜大丸子汤 @王威廉 @不确定的世界2012
 
 
@@ -22,12 +22,14 @@ http://courses.cs.washington.edu/courses/cse515/09sp/slides/bnets.pdf Bayesian n
 [PyMC tutorial](http://python.memect.com/?p=8536)  pretty short
 
 
-## 基于R的实战入门
+
+## 补充相关材料
+### 基于R的实战入门
 
 http://site.douban.com/182577/widget/notes/12817482/note/273585095/ 贝叶斯网的R实现（ Bayesian network in R）
 
 
-## 相关进阶
+### 相关进阶
 http://bayes.cs.ucla.edu/BOOK-2K/index.html Causality: Models, Reasoning, and Inference　
 *  Judea Pearl的书　http://en.wikipedia.org/wiki/Judea_Pearl
 
@@ -37,7 +39,7 @@ http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html Probabilistic Graphical M
 
 
 
-## 相关微博
+### 相关微博
 
 @王威廉 ：CMU机器学习系Eric Xing老师的Probabilistic Graphic Model 已经开了10个年头了， 这学期貌似是第一次把视频放在网上：http://t.cn/zTh9OqO 目前这学期的课程刚开始。
 1月23日15:21
