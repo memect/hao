@@ -29,7 +29,127 @@
 
 ## 问答案例
 
+2014-09-11 #夜读春秋# GDP与汇率数据是经济、金融研究的基本盘! (数据资源整理： http://t.cn/RhVDKg5 ) 1.世界银行的全球各国GDP（1983－2013）http://t.cn/hFsNY 2. 美联储汇率数据(H.10): http://t.cn/RhVDKgq （1996-2014） 3. 那台北的GDP呢？ http://t.cn/RhVgFWl ，http://t.cn/zOMb9mJ [ [微博](http://www.weibo.com/5220650532/Bmpx29PN5) ]
 
+2014-09-11 谢谢建议，我们会努力。改进的网站会有的。想不想要个电子邮件周报什么的，把每周的发布的好东西一网打尽? //@海中的沙粒:给个建议，好东西以后重新搞个博，不然因重复遗漏 //@好东西传送门: 加进列表了 pdf传送门 http://t.cn/RhcFi0l //@诸神善待民科组: 图是种方法Method，不是模型 Model，没说到 B [ [微博](http://www.weibo.com/5220650532/BmplNnCI3) ]
+
+2014-09-10 #NLP# 诸君，"城市规划" 领域词表来了, 还等什么呢？ 数据传送门 http://t.cn/RhVVYBk 感谢 @国际城市规划 //@规划中国: //@国际城市规划: 编撰词典对我等难度太大，欢迎有缘人慢慢加入积累 http://t.cn/RhVcLWx //@城规田宝江: 好想法！//@中大袁媛: 可以出版一本专业英语的词典或教材 [ [微博](http://www.weibo.com/5220650532/Bmm8O31VG) ]
+
+2014-09-10 #机器学习# 领域大牛 Michael Jordan 是Andrew Ng的博士导师，擅长 recurrent neural networks , Bayesian nonparametric analysis, probabilistic graphical models, spectral methods, kernel machines 机会难得有问题赶紧上Reddit上问，http://t.cn/aOioBZ [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/Bmm3VbIR5) ]
+
+2014-09-10 问: @chico2011 @leo_lq 求推荐金融交易风险评估方面的文献 答: 资源列表 http://t.cn/RhVqWuZ 金融风险管理领域全局观参见 Financial Institutions Management: A Risk Management Approach (沃顿学院教科书)。量化评估方法（含风险价值 VaR)有2011年综述, 此外咱做了个VaR相关概念的脑图 请补充指正 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BmlXxt5hC) ]
+
+2014-09-10 张天雷 《概率编程语言与贝叶斯方法实践》 //@小猴机器人: 来，给个中文介绍哈， http://t.cn/RPwbEPz [ [微博](http://www.weibo.com/5220650532/BmkyPihT4) ]
+
+2014-09-10 加进列表了 pdf传送门 http://t.cn/RhcFi0l //@诸神善待民科组: 图是种方法Method，不是模型 Model，没说到 Bayesian Reasoning and Machine Learning 真是不开心，这比 Koller 的 PGM 好读，好处是图多，我就喜欢看图说话的小二班 [ [微博](http://www.weibo.com/5220650532/BmkxhgVMr) ]
+
+2014-09-10 赞，维基百科wikipedia在某种程度也承载了很多领域的知识体系，所以大家搜索时喜欢用它 [ [微博](http://www.weibo.com/5220650532/BmjA3bOEr) ]
+
+2014-09-10 [资料整理]《Bayesian network与python概率编程实战入门》http://t.cn/RhcnZrY 几个Bayesian network讲义 (其一来自Eric Xing老师的课 Probabilistic Graphical Models), python概率编程实战"Bayesian Methods for Hackers", pyMC短教程,博客系列比较python概率编程工具. 感谢 @王威廉 @西瓜大丸子汤 [ [微博](http://www.weibo.com/5220650532/BmjrJgeI2) ]
+
+2014-09-10 @好东西传送门 的粉丝里谁转发好东西最多？前10名：1 @Noodles-Xu 2 @LR机器学习计算机视觉 3 @海中的沙粒 4 @hbyido 5 @-单世民- 6 @武文骁很忙也很胖 7 @侠女无敌-曾佩玲 8 @彤言彤趣 9 @yutho 10 @季波USTC [good] [ [微博](http://www.weibo.com/5220650532/BmiMf0Fu4) ]
+
+2014-09-10 US News 全美大学排名数据集： 新鲜出炉2015年排名前150的综合大学(national university)和文理学院(national liberal art college) . 资源列表 http://t.cn/RhcYKC2 包括1983-2007, 2008, 2009, 2010, 2011-2015 数据,应该比较全了. 欢迎补充 [ [微博](http://www.weibo.com/5220650532/BmizVr1sS) ]
+
+2014-09-10 458万东西： 144万人, 73万地点, 41万作品(含12万音乐专辑, 8.7万电影，1.9万视频游戏), 24万组织(含5.8万公司，4.9万教育机构), 25万物种等 [ [微博](http://www.weibo.com/5220650532/BmizMhrjB) ]
+
+2014-09-09 http://t.cn/zOpIrjJ 中文语言资源联盟，英文译名Chinese Linguistic Data Consortium，缩写为CLDC， 有少数民族语言，方言数据 //@龙星镖局:有专门放入方言的nlp研究 吗？@白硕SH 老师 //@殆知阁:转发微博 [ [微博](http://www.weibo.com/5220650532/BmcCdeWno) ]
+
+2014-09-09 好东西 ，向 迷渡 justjavac （索引的作者）致敬！ 顺路推荐一下他的另一个工作 "Google 全球 IP 地址库" , http://t.cn/RvabGv5 //@justjavac: 我说今天怎么收到好多私信呢，原来根源在这儿啊。//@CSDN_CODE:Mark！ [ [微博](http://www.weibo.com/5220650532/BmcoO4bqA) ]
+
+2014-09-09 谢谢夸奖，分享一个体验： 有时很难一次把问题说清楚 （要不直接搜索了），所以私信交流很有帮助。 一句话，很高兴帮助你解决问题 ；） [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BmckKeAqI) ]
+
+2014-09-09 找到一组相关测试数据集（VAST challenge 2003-现在)，基本上就是用户利用可视化工具，根据特定需要分析大规模业务数据，继而推理验证猜想。 例如分析预测恐怖袭击，发现金融犯罪嫌疑人，有一篇总结文章值得一读： http://t.cn/Rhtmw01 [ [微博](http://www.weibo.com/5220650532/BmbO4EuMd) ]
+
+2014-09-09 问: @海中的沙粒 点餐，我想要更多关于可视分析学的资料？ 答: 可视分析学(Visual Analytics) 利用可视化方法支持对大规模复杂(科学)数据的人机协同分析推理。问答进展收录: 经典, 综述, 社区, 会议等资源 http://t.cn/Rht6xF8 看附图, 一分钟理解其定位、原理以及跨学科特性。 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BmbGkaI7Z) ]
+
+2014-09-09 问：@_绝影_ 求助 刚开始做图像融合相关领域研究，请问有哪些大牛? 答：进展 http://t.cn/RhqD63F 图像融合(Image Fusion)在计算机视觉(computer vision), 遥感(remote sensing)和医学图像(Medical Image)上都有应用，可追踪会议IPCV,ICIFE, 期刊IJCV 及综述。大牛欢迎专家传送 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/Bm9jvfke6) ]
+
+2014-09-09 转发理由：开放政府数据。另外推荐RPI的 Linking Open Government Data，收录了1800多个数据集，100亿RDF三元组 http://t.cn/RhtMeAj [ [微博](http://www.weibo.com/5220650532/Bm8UryKa7) ]
+
+2014-09-09 好东西，北京语言大学威武。插个话， 著名的汉语水平考试(HSK,...)是由北京语言大学汉语水平考试中心设计研制的 //@52nlp: [good][good][good] [ [微博](http://www.weibo.com/5220650532/Bm7DQ3NCC) ]
+
+2014-09-09 #夜读春秋＃ 最近JWT(JSON Web Token，是一种基于JSON的认证安全协议)势头很火，这里找了一个48页的幻灯片，帮你快速了解这些概念的含义，并提供一定全局观 http://t.cn/Rht40uL 该作者(Brian Campbell)还有一个更新的幻灯片讲JWT和JOSE http://t.cn/Rht40uw [ [微博](http://www.weibo.com/5220650532/Bm6KQB6nM) ]
+
+2014-09-08 @phunter_lau 推荐了 Peter Norvig的regex生成器 http://t.cn/8FGNh2J http://t.cn/8FnLiON @孙明明_SmarterChina 推荐了Bartoli等基于遗传算法的实现 http://t.cn/zlmNYLJ @布尔乔亚之犬 推荐了SO上一个很好的讨论贴 http://t.cn/Rh5H2za [good] [ [微博](http://www.weibo.com/5220650532/Bm2SOaRyu) ]
+
+2014-09-08 @phunter_lau 推荐了 Peter Norvig的regex生成器 http://t.cn/8FGNh2J http://t.cn/8FnLiON @孙明明_SmarterChina 推荐了Bartoli等基于遗传算法的实现 http://t.cn/zlmNYLJ @布尔乔亚之犬 推荐了SO上一个很好的讨论贴 [good] [ [微博](http://www.weibo.com/5220650532/Bm2SqyoHc) ]
+
+2014-09-08 求助！ [ [微博](http://www.weibo.com/5220650532/Bm2IlgmSx) ]
+
+2014-09-08 黄昌宁 赵海 《中文分词十年回顾 》http://t.cn/Rh5Xe3S //@龙星镖局: 有个 中文分词十年 孙老师搜一下 [ [微博](http://www.weibo.com/5220650532/Bm1jmwaCk) ]
+
+2014-09-08 第一，问题说得很实在，使用hadoop运维成本不可低估、实现价值所依赖的技术链不象成功案例说得那么简单，总之就是你公司的IT部门很有可能搞不定，第二，这也算他推广新公司altiscale的价值 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/Bm0S5sgSd) ]
+
+2014-09-08 企业研发也要有市场、学术调研 //@新闻传播学研:M //@徐泓xh:［研究生的基本功］从写好文献综述起步． [ [微博](http://www.weibo.com/5220650532/Bm0Dh5yRF) ]
+
+2014-09-07 Tomas Mikolov http://t.cn/Rhq2QVU 很有意思。0.1c版更新等了近九个月，恐怕是跳槽耽误的。他今年5月从Google跳到Facebook, 工作之余还努力维护word2vec开源代码。爱看源代码的可以直接读diff http://t.cn/Rhq2QVZ [ [微博](http://www.weibo.com/5220650532/BlRmn38uo) ]
+
+2014-09-06 问: @V井颠V 对国内中长文章(300~5000字)近似新闻门户网站频道粒度的自动分类,有好的模型方法吗？ 答: 进展 http://t.cn/RhGTzfI 考虑 statistical topic model, 推荐UIUC翟成祥 ( http://weibo.com/5220650532/BhWo26Y93 ) , Stanford 和Umass 都有软件包 国内工作欢迎补充 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BlMR9kjJ7) ]
+
+2014-09-06 感谢推荐，当然是好东西！ //@尘绳聋-SYSU: 那个网站还有个R for big data： http://t.cn/zHXfTF1 之前看人推荐过biglm, bigrf等pkg//@尘绳聋-SYSU: [晕] 传说wiseRF比sklearn里的RF更scale更快，不知道是不是真的[威武] [ [微博](http://www.weibo.com/5220650532/BlMJyCoRe) ]
+
+2014-09-06 多年之前就受益于龙星计划的高质量资源，特别隆重推荐! [ [微博](http://www.weibo.com/5220650532/BlJzVhgIU) ]
+
+2014-09-06 传送潜力股。这些好账号本门大多已经关注了 [耶] [ [微博](http://www.weibo.com/5220650532/BlIlA4xHp) ]
+
+2014-09-06 非常感谢，这本书是亚马逊的Computer Vision类畅销书第一名 卡片盒子添加了新链接 //@维尔茨:对于计算机视觉/图像强烈推荐Szeliski的Computer Vision: Algorithms and Applications。传送门：http://t.cn/RhbF7jr好东西传送门: 不好意思，你是找第二版吗？ 可以问问 @没有我找不到的电子书 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BlIbspyg8) ]
+
+2014-09-06 不好意思，你是找第二版吗？ 可以问问 @没有我找不到的电子书 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BlHYbucvp) ]
+
+2014-09-06 回复@ustczen: 感谢传送好东西。这是新加坡国立 Min-Yen Kan (靳民彦) 教授 研究组的工作 http://t.cn/SwJHvL @52nlp 2011年转过他们短信捐赠请求 http://t.cn/RhbDbIV //@ustczen:回复@好东西传送门:所以我老年痴呆又犯了么。。附链接：http://t.cn/hrXXWz [ [微博](http://www.weibo.com/5220650532/BlHNqyCgt) ]
+
+2014-09-06 问：@龙星镖局 如果要从零学习图像或语音分析，要从那几本书开始？ 答： 问答进展 http://t.cn/Rhbeix0 网络问答结果和相关课程大多推荐这几本经典老教科书：Digital Image Processing (3rd Edition) (2007), Speech and Language Processing, 2nd Edition (2008), 卡片盒子: http://t.cn/Rhbeixp [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BlHHF1jr2) ]
+
+2014-09-06 ［开放数据］印尼政府开放数据 data.ukp.go.id http://t.cn/Rhbrjfv 于2014-09-05上线，有700 多数据集。要使用数据恐怕先要能读懂印尼语(拼写属于拉丁语系，最早源于荷兰语）。此外，2014统计数据表明印尼有2.5亿人，是排名世界人口第四大国。 [ [微博](http://www.weibo.com/5220650532/BlHkREGAC) ]
+
+2014-09-06 传送理由： github上的好东西，快800星了。 作者的博客也很有深度，而且竟然用issue tracker写博客，赞！ 这是个例子 http://t.cn/8s35KgP [ [微博](http://www.weibo.com/5220650532/BlH9sz9H9) ]
+
+2014-09-06 问：@三鹿无毒奶粉 请问贵博关于航班准时预测和机票价格预测有那些相关的论文和模型 答：问答进展 http://t.cn/RhbBwy9 不少人用回归模型 航班准时预测(flight delay)：有几篇MIT的文章；机票价格预测(ticket price): 有不少专利(发明人包括USC Craig Knoblock 教授) 卡片盒子 http://t.cn/RhbBwyK [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BlH4Tc57x) ]
+
+2014-09-06 传送理由：右边的链接真是好东西 -- 不止配色工具，还有大量字体，图片、纹理，壁纸等众多素材资源网站一网打尽。 //@设定控: 配色工具网站汇总 http://t.cn/RPbMz7M [ [微博](http://www.weibo.com/5220650532/BlGYiyx88) ]
+
+2014-09-06 问： @ShawnAtLoss 请问哪边可以找到比较全面的关于大数据的survey 答： 问答进展: http://t.cn/Rhb1b0Z 推荐两类阅读：1 大数据领域地图，覆盖相关 技术，应用，公司 等 2. github好资源合集 http://t.cn/Rhb1b0w 1K＋星，上百链接. 卡片盒子(现有6个资源): http://t.cn/Rhb1b0A 欢迎补充 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BlGU6teFP) ]
+
+2014-09-06 [推荐] 一张很好的脑图胜过千言万语，帮助你获得python的大数据处理工具全局观。http://t.cn/Rhb3P8I [ [微博](http://www.weibo.com/5220650532/BlGE7oFdz) ]
+
+2014-09-05 转发理由：非常酷的星系生死大片！本超星系团呈羽毛形状，因为有个巨大的吸引子（就是羽毛的中心），不断吞噬星系。这些“羽毛”的绒线就是星系赴死即将遵循的轨迹。在图中银河系只是微不足道的一个小点 [ [微博](http://www.weibo.com/5220650532/BlzOYbTRu) ]
+
+2014-09-05 //@ShangguanRPI: 在前东家也做过一样的数据分析，结论也几乎一致。用的数据集来自usps登记的过去10年所有地址更换记录，不确定census的数据是否也来自这个源。 [ [微博](http://www.weibo.com/5220650532/BlzHefKoa) ]
+
+2014-09-05 转发理由：世界基本经济数据的可视化，地图均给出了数据出处 [ [微博](http://www.weibo.com/5220650532/BlzmDai0F) ]
+
+2014-09-05 美国著名房地产公司trulia近日利用政府开放数据 http://t.cn/Rh4Htwl 分析了近年美国人口迁移的倾向：就近，房价低，人口密度小，低失业率 http://t.cn/Rh4HtwO [ [微博](http://www.weibo.com/5220650532/BlyKPBSIT) ]
+
+2014-09-05 http://t.cn/Rh4W25z 今年欧洲python大会的一个35页在线讲义幻灯片，用实例介绍如何用python实现概率编程，尤其是pymc3 阅读时间大约半小时 [ [微博](http://www.weibo.com/5220650532/Blyi3aVGF) ]
+
+2014-09-05 [问题求传送] 问：@开机就好ing 有没有比较好的Gbrank的相关的开源实现 答：就是 Zhaohui Zheng SIGIR '07 文章“A regression framework for learning ranking ...” 里提到的GBRank (guardian boosted) 问答进展看 http://t.cn/Rh4C8hd 初步好像有一个C++ 开源代码 http://t.cn/Rh4C8hg 欢迎补充 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BlxKpwU1D) ]
+
+2014-09-04 [资料整理] PDF版 http://t.cn/RhUOt6p 《智能问答系统：心得点评与文献列表》覆盖几个知名的问答系统：Halo (Aura)； Siri；IBM Watson (DeepQA)； True Knowledge；Facebook Graph Search 重点评论了知识图谱和语义web技术在自动智能问答系统中的应用与前景 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BlqyBe19Z) ]
+
+2014-09-04 旧闻回顾： Siri开发者成立人工智能公司Viv Labs (注意 网址是 viv.ai ), 花两年时间开发了能自动学习的智能个人助理系统Viv：将自然语言表达的复杂问题与搜索结合 相关Wired报导( http://t.cn/RhUtTwq 8月12日) 有微博原发评论 @网路冷眼 @新浪科技 (看 @张栋_机器学习 评论) http://t.cn/RhUtTw5 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BloN1gTeu) ]
+
+2014-09-04 问: @simba0626 请问现今有哪些成功的智能问答系统？ 答: 问答进展 http://t.cn/RhUq00L 成功不好定义,基本用了知识图谱, 例如 IBM DeepQA (watson), wolfram alpha, Apple Siri, Google now。当然学术界也有一群人在做开放领域的图灵测试,如Eugen http://t.cn/RhUq00y 相关文献待会整理个资源合集 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BloyuzoCh) ]
+
+2014-09-03 回复@统计之都: 非常感谢 这可是今年7月新鲜出炉的文章，Gilles Louppe http://t.cn/RhyvpGz //@统计之都:Gilles Louppe的博士论文《随机森林：从理论到实践》，PDF下载地址http://t.cn/RP8JQyC。 [ [微博](http://www.weibo.com/5220650532/BlfvG3fm9) ]
+
+2014-09-03 问: @董伟_dzw259 哪里能够找到比较详细介绍随机森林的paper吗? 答: http://t.cn/RhLFi4R 随机森林(random forests)原作者之一 Leo Breiman 在“机器学习”2001年期刊有长文。推荐哥伦比亚大学教授Lauren Hannah的讲义。中文 @LeftNotEasy 2011年博文. 资料卡片: http://t.cn/RhLFzN1 欢迎补充指正 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/Blfhkk0qI) ]
+
+2014-09-03 问：@子_相 求推荐一个PHP上的内存cache 的mod 答: http://t.cn/RhLeSxQ APC曾是首选(towser451@github 也推荐), 但php5.5用opcache作bytecode cache后, APC user data cache就被删改成APCu。@Laruence (APC, opcache的lead)2013博文指出APC效率问题,并因此开发YAC。卡片盒子: http://t.cn/RhLeSx8 [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BleQ8wKSv) ]
+
+2014-09-03 在Neural Networks and Deep Learning第四章有对这个定理的可视化阐述，简洁易懂 http://t.cn/RhL8X74 该书我们以前在深度学习系列里也推荐过 http://t.cn/RhLmjtj [ [微博](http://www.weibo.com/5220650532/BlcZI7vdh) ]
+
+2014-09-01 转发理由：Larochelle是加拿大Université de Sherbrooke的教授。他是蒙特利尔大学Yoshua Bengio的博士，多伦多大学Geoffrey Hinton的博士后，师承深度学习的两大重镇 [ [微博](http://www.weibo.com/5220650532/BkVuU0EdN) ]
+
+2014-09-01 传送原因：用SQL访问Elasticsearch大大方便了查询构造。以前有类似项目ELSeQL， 但已很久没有更新了 @温少 @elasticsearch @Medcl [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BkU1JcW8K) ]
+
+2014-08-31 传送理由：开源的推荐系统，从各种语言调用都方便 [ [微博](http://www.weibo.com/5220650532/BkOEij8Pb) ]
+
+2014-08-31 @Copper_PKU 的讲义前段时间推荐过，这个也很赞。 [ [微博](http://www.weibo.com/5220650532/BkOCelqIv) ]
+
+2014-08-31 传送问题，问答进展 http://t.cn/Rhw4h2m 看过YAC吗？ http://t.cn/zYrnBVx [ [讨论](https://github.com/memect/hao/issues/) ] [ [微博](http://www.weibo.com/5220650532/BkK3q8zJ6) ]
+
+2014-08-30 增补两个相关组织： @九章算法 的专业培训可（程序员的新东方）http://t.cn/RhwAzyN 。 @灵魂机器 组织的程序员北美求职 （肉身翻墙）http://t.cn/RhwAzyp len(卡片盒子)=8 [ [微博](http://www.weibo.com/5220650532/BkJlm0cyz) ]
 2014-08-30 半夜推荐 Leetcode 资源整理合集。 它目前有150道题，是程序员肉身翻墙的好东西，也适合快速提高自我修养。精选资料在我的卡片盒子里 http://t.cn/RhwwCGL 现在有6项： @灵魂机器 （Frank Dai) 的刷题宝典，若干人的涮题体验。这是一个会成长的卡片盒子，欢迎添加好东西。 [ [微博](http://www.weibo.com/5220650532/BkJheojHW) ]
 
 
