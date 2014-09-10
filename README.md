@@ -1,33 +1,44 @@
-<img align="right" width=100, height=100 src="http://u.memect.com/shared/image/hao.png"/>
+<img align="right" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/>
 
-好东西传送门: 微博上的轻问答 Crowd-sourced LiteQA 
-* 关注微博  http://www.weibo.com/haoawesome/
-* 微信号：好东西传送门
-* 网站 http://hao.memect.com/
-* Github https://github.com/memect/hao
+好东西传送门：帮您快速解决问题，为您精选专业知识
+* 微博： http://www.weibo.com/haoawesome/
+* 微信： 好东西传送门
+* 周报： [订阅邮件列表](http://eepurl.com/202qb)
+* 反馈： [提供宝贵建议](https://github.com/memect/hao/issues/new)
 
-还没有回答的问题，欢迎认领 https://github.com/memect/hao/issues
-
-[给我们提建议](https://github.com/memect/hao/issues/new)
+----
 
 目录
-* [最近的问答](README.md#最近的问答)
-* [文摘](README.md#文摘)
-* [声明](README.md#声明)
+* [简介](README.md#简介)
+  *  [如何使用问答](README.md#如何使用问答)
+  *  [使用许可](README.md#使用许可)
+* [问答与原创](README.md#问答与原创)
+* [文摘与点评](README.md#文摘与点评)
+* [通知与声明](README.md#通知与声明)
 
 
-### 许可证
+## 简介
+好东西传送门是微博上的知识传播系统，集成微博上的好人好东西，帮您快速解决问题，为您精选专业知识。
+
+### 如何使用问答
+1. 微博用户 
+  * 发一条微博提问，里面加上 @好东西传送门
+  * 发私信给 好东西传送门
+ 
+2. github用户：
+  * [提新问题](https://github.com/memect/hao/issues/new)
+  * [当前问答进展](https://github.com/memect/hao/issues) 欢迎认领还没有回答的问题
+
+
+### 使用许可
 
 本站内容许可证：[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
 
-<hr/>
-
-## 如何提问
-    发一条微博提问，里面加上 @好东西传送门
 
 
-## 问答案例
+
+## 问答与原创
 
 2014-09-11 #夜读春秋# GDP与汇率数据是经济、金融研究的基本盘! (数据资源整理： http://t.cn/RhVDKg5 ) 1.世界银行的全球各国GDP（1983－2013）http://t.cn/hFsNY 2. 美联储汇率数据(H.10): http://t.cn/RhVDKgq （1996-2014） 3. 那台北的GDP呢？ http://t.cn/RhVgFWl ，http://t.cn/zOMb9mJ [ [微博](http://www.weibo.com/5220650532/Bmpx29PN5) ]
 
@@ -592,7 +603,7 @@ http://www.weibo.com/5220650532/BhqBFulcq?mod=weibotime
 
 * 2014-07-16 @跛嘞盖儿蹭马路牙子上卡秃噜皮了 问：**数据具有统计分析的价值么？请问能不能结合链数据的特点和R来谈谈**。简答如下：Linked Data作为数据的一种，当然也可以做统计分析。可以看作Statistical relational learning的扩展。全文 http://t.cn/RP7oQxk 推荐资源的合集 http://t.cn/RP7oQxF  [ [讨论](https://github.com/memect/hao/issues/1) ] [ [微博](http://www.weibo.com/3161813504/BdMlxjDb0) ]
 
-## 文摘
+## 文摘与点评
 
 * 2014-07-22  @龙星计划 计算机方面的经典资料可以参见这个博客。http://t.cn/Rv6rzrj 维护者@52cs [ [微博](http://www.weibo.com/1830516311/BeNwacwCd) ]
 
@@ -714,7 +725,7 @@ Probabilistic Programming summer school 在Portland顺利结束 教学资料见 
 
 * 2013-01-28 @陈利人 【机器学习中的数学系列】回归、梯度下降 http://t.cn/hDoULu ；线性回归，偏差、方差权衡 http://t.cn/Sxppf2 ；模型组合之Boosting与Gradient Boosting http://t.cn/SP05f3 ；线性判别分析, 主成分分析 http://t.cn/SAeY2U ；强大的矩阵奇异值分解及其应用 http://t.cn/akJxgj  [ [微博](http://www.weibo.com/1915548291/zgzoTcvzL) ]
 
-## 声明
+## 通知与声明
 
 2014-09-10 @好东西传送门 的粉丝里谁转发好东西最多？前10名：1 @Noodles-Xu 2 @LR机器学习计算机视觉 3 @海中的沙粒 4 @hbyido 5 @-单世民- 6 @武文骁很忙也很胖 7 @侠女无敌-曾佩玲 8 @彤言彤趣 9 @yutho 10 @季波USTC [good] [ [微博](http://www.weibo.com/5220650532/BmiMf0Fu4) ]
 
