@@ -1,5 +1,5 @@
 # Bayesian network 与python概率编程实战入门
-contributors: @西瓜大丸子汤 @王威廉 @不确定的世界2012
+contributors: @西瓜大丸子汤 @王威廉 @不确定的世界2012 @Rebecca1020
 
 
 ##  [1. Bayesian network 入门讲义幻灯片](http://bigdata.memect.com/?tag=hao71)
