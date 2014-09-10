@@ -2,7 +2,7 @@
 contributors: @西瓜大丸子汤 @王威廉 @不确定的世界2012
 
 
-##  [Bayesian network 入门讲义幻灯片](http://bigdata.memect.com/?tag=hao71)
+##  [1. Bayesian network 入门讲义幻灯片](http://bigdata.memect.com/?tag=hao71)
 
 http://www.cs.cmu.edu/~epxing/Class/10708/lectures/lecture2-BNrepresentation.pdf Directed Graphical Models: Bayesian Networks
 * 王威廉 推荐
@@ -12,7 +12,7 @@ http://www.ee.columbia.edu/~vittorio/Lecture12.pdf Inference and Learning in Bay
 http://courses.cs.washington.edu/courses/cse515/09sp/slides/bnets.pdf Bayesian networks
 
 
-## [基于python的实战入门](http://python.memect.com/?tag=hao71)
+## [2. 基于python的实战入门](http://python.memect.com/?tag=hao71)
 
 [Bayesian Methods for Hackers](http://python.memect.com/?p=6737)  6000+ star book on github
 * 西瓜大丸子汤 推荐
@@ -22,6 +22,7 @@ http://courses.cs.washington.edu/courses/cse515/09sp/slides/bnets.pdf Bayesian n
 [PyMC tutorial](http://python.memect.com/?p=8536)  pretty short
 
 
+----
 
 ## 补充相关材料
 ### 基于R的实战入门
