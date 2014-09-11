@@ -12,6 +12,7 @@
 
 ![](https://cloud.githubusercontent.com/assets/8302062/4227773/54b9e7f8-394c-11e4-9c5b-95fe817dee05.png)
 
+algorithms
 * Soundex
  * Daitch–Mokotoff Soundex
  * Kölner Phonetik
@@ -21,6 +22,7 @@
 * Match Rating Approach (MRA)
 * Caverphone
 
+open source code
 * https://github.com/elasticsearch/elasticsearch-analysis-phonetic/ -- java
 * https://github.com/maros/Text-Phonetic -- perl
 * https://github.com/dotcypress/phonetics -- go
