@@ -12,22 +12,23 @@
 
 ![](https://cloud.githubusercontent.com/assets/8302062/4227773/54b9e7f8-394c-11e4-9c5b-95fe817dee05.png)
 
-Soundex
-Daitch–Mokotoff Soundex
-Kölner Phonetik
-Metaphone - Double Metaphone
-New York State Identification and Intelligence System
-Match Rating Approach (MRA)
-Caverphone
+* Soundex
+ * Daitch–Mokotoff Soundex
+ * Kölner Phonetik
+* Metaphone 
+  * Double Metaphone
+* New York State Identification and Intelligence System
+* Match Rating Approach (MRA)
+* Caverphone
 
-https://github.com/elasticsearch/elasticsearch-analysis-phonetic/ -- java
-https://github.com/maros/Text-Phonetic -- perl
-https://github.com/dotcypress/phonetics -- go
-https://github.com/lukelex/soundcord -- ruby
-https://github.com/Simmetrics/simmetrics -- java
-https://github.com/oubiwann/metaphone - https://pypi.python.org/pypi/Metaphone/0.4 --python
-https://bitbucket.org/yougov/fuzzy - https://pypi.python.org/pypi/Fuzzy/1.0 --python
-https://github.com/sunlightlabs/jellyfish - https://pypi.python.org/pypi/jellyfish/0.3.2 -- python
+* https://github.com/elasticsearch/elasticsearch-analysis-phonetic/ -- java
+* https://github.com/maros/Text-Phonetic -- perl
+* https://github.com/dotcypress/phonetics -- go
+* https://github.com/lukelex/soundcord -- ruby
+* https://github.com/Simmetrics/simmetrics -- java
+* https://github.com/oubiwann/metaphone - https://pypi.python.org/pypi/Metaphone/0.4 --python
+* https://bitbucket.org/yougov/fuzzy - https://pypi.python.org/pypi/Fuzzy/1.0 --python
+* https://github.com/sunlightlabs/jellyfish - https://pypi.python.org/pypi/jellyfish/0.3.2 -- python
 
 source： wikipedia, github
 
