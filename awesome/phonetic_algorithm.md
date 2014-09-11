@@ -1,4 +1,6 @@
 # 语音相似度算法与代码
+讨论： https://github.com/memect/hao/issues/164
+
 
 ## 概念
 [语音算法](http://en.wikipedia.org/wiki/Phonetic_algorithm) A phonetic algorithm is an algorithm for indexing of words by their pronunciation.
