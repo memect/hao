@@ -38,7 +38,7 @@ source： wikipedia, github
 
 ## 相关论文
 
-http://saffron.insight-centre.org/acl/topic/phonetic_similarity/
+http://saffron.insight-centre.org/acl/topic/phonetic_similarity/ 相关论文列表
 
 https://homes.cs.washington.edu/~bhixon/papers/phonemic_similarity_metrics_Interspeech_2011.pdf Phonemic Similarity Metrics to Compare Pronunciation Methods (2011)
 
