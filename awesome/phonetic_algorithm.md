@@ -46,6 +46,8 @@ http://webdocs.cs.ualberta.ca/~kondrak/papers/lingdist.pdf Evaluation of Several
 
 http://webdocs.cs.ualberta.ca/~kondrak/papers/chum.pdf Phonetic alignment and similarity (2003)
 
+http://www.aclweb.org/anthology/C69-5701 THE Measurement OF PHONETIC SIMILARITY (1967)
+
 http://www.aclweb.org/anthology/P/P06/P06-1125.pdf A Phonetic-Based Approach to Chinese Chat Text Normalization 中文方法
 语音相似度 phonetic similarity 算法与开源代码
 
