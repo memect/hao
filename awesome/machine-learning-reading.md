@@ -9,17 +9,20 @@ source: http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jo
 
 http://www.amazon.com/Introduction-Nonparametric-Estimation-Springer-Statistics/dp/1441927093
 Introduction to Nonparametric Estimation
-![](http://ecx.images-amazon.com/images/I/31vP%2BXbyAuL.jpg)
+
+<img height=100 src="http://ecx.images-amazon.com/images/I/31vP%2BXbyAuL.jpg"/>
 
 http://www.amazon.com/Introductory-Lectures-Convex-Optimization-Applied/dp/1402075537
 Introductory Lectures on Convex Optimization
-![]http://ecx.images-amazon.com/images/I/41L6K%2BAyoGL.jpg
+
+<img height=100 src="http://ecx.images-amazon.com/images/I/41L6K%2BAyoGL.jpg"/>
+
 
 http://www.amazon.com/Asymptotic-Statistics-Statistical-Probabilistic-Mathematics/dp/0521784506
 Asymptotic Statistics
-![](http://ecx.images-amazon.com/images/I/710vE3Y5KjL.jpg)
+<img height=100 src="http://ecx.images-amazon.com/images/I/710vE3Y5KjL.jpg"/>
 
 http://www.amazon.com/Large-Scale-Inference-Estimation-Prediction-Mathematical/dp/110761967X  
 Large-Scale Inference: Empirical Bayes Methods for Estimation, Testing, and Prediction
-![](http://ecx.images-amazon.com/images/I/419DXlKMiDL.jpg)
+<img height=100 src="http://ecx.images-amazon.com/images/I/419DXlKMiDL.jpg"/>
 
