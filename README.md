@@ -32,6 +32,57 @@
 
 
 ## 问答与原创
+2014-09-13 传送： Searchable full-text transcripts of WWDC sessions （2010-2014）音频转字幕，全文检索所有录像发言 [ [微博](http://www.weibo.com/5220650532/BmIenexms) ]
+
+> 2014-09-12 @容芳志: 每年Apple WWDC大会的keynote和课程文字版都在这里，整理的太好了，忍不住分享： http://t.cn/z8exsaz [ [微博](http://www.weibo.com/1776143133/BmCBXyoqs) ]
+
+2014-09-12 讨论得很热闹, github几十楼整理了相关资料: entity linking/extraction/resolution, relation extraction； 咱还时光逆流传送了几个去年相关微博到评论里，尤其是李志飞那条里有不少高人评论，千万别错过。有没有人讲讲 michael jordan 'full merger of "data" and "knowledge"' http://t.cn/RhMwimZ [ [微博](http://www.weibo.com/5220650532/BmEOb3aqm) ]
+
+> 2014-09-12 @好东西传送门: 代人请教: #语义识别包含哪些关键技术# ? 咱先推荐 @白硕SH 老师近日的访谈《语义技术探索》阐述了相关基本概念 http://t.cn/RvWEZdm 请各位专家帮忙梳理思路、推荐入门资料 @刘群MT-to-Death @刘知远THU @52nlp @孙明明_SmarterChina @昊奋 @波多野丽猪 我们会把相关资料更新到 http://t.cn/RhICLfS [ [微博](http://www.weibo.com/5220650532/BmBEvzLES) ]
+
+2014-09-12 一点拙见，计算机在一些领域已经做得比人好了；而人对自然语言处理期望更高一些, 图灵测试 和 人脸识别 哪个难度更大？顺路给个文字版传送门 http://t.cn/RhMZVIV //@xierqi: 没想到Jordan对text一直这么有兴趣。抛开Deep Learning不讲，当前计算机对text的理解能力是否比image、vision要好不少？ [ [微博](http://www.weibo.com/5220650532/BmEHn5jwn) ]
+
+> 2014-09-11 @王海勋haixun: Someone asked Michael Jordan if he's to lead a research project with 1 billion dollar funding, what will he do? Here is his answer. [ [微博](http://www.weibo.com/2083726665/BmyEhvaCd) ]
+
+2014-09-12 这本书还没上市呢，还没有电子书。着急的同学可以先看Blake Masters 的笔记 http://t.cn/zYvtV0F Notes Essays—Peter Thiel’s CS183: Startup—Stanford, 2012 顺路科普一下 Peter Thiel, Paypal 的联合创始人，facebook的天使投资人 http://t.cn/RhMhPTs [ [微博](http://www.weibo.com/5220650532/BmEoXfLhN) ]
+
+> 2014-09-12 @好东西传送门: 推荐Peter Thiel新书《Zero to One: Notes on Startups, or How to Build the Future》(9月16日才出版) http://t.cn/RhMPClT 基于他2012年CS183课的讲义。有人预读后赞了他的三个观点: 创始人要追求垄断, 用破坏性创新参加市场竞争不如开发新市场, 对精益创业的反思。咱做了个脑图(水平有限,欢迎指正) [ [微博](http://www.weibo.com/5220650532/BmEmhug9C) ]
+
+2014-09-12 推荐Peter Thiel新书《Zero to One: Notes on Startups, or How to Build the Future》(9月16日才出版) http://t.cn/RhMPClT 基于他2012年CS183课的讲义。有人预读后赞了他的三个观点: 创始人要追求垄断, 用破坏性创新参加市场竞争不如开发新市场, 对精益创业的反思。咱做了个脑图(水平有限,欢迎指正) [ [微博](http://www.weibo.com/5220650532/BmEmhug9C) ]
+
+2014-09-12 问: @波多野丽猪 有没有人了解建立partial order lattice的算法? 应该是Formal Concept Analysis(FCA)的东西。我有一堆logical term set, 想要建立一个关于set subsumption的lattice 答: FCA很相关 http://t.cn/RhIE0Sy 推荐Poelmans等的综述(分析了一千多论文) 并参考association rule 欢迎补充指正 [ [微博](http://www.weibo.com/5220650532/BmD42j7k0) ]
+
+2014-09-12 要专注、要市场驱动 “an eighth waste was... manufacturing goods or services that do not meet customer demand or specifications.” http://t.cn/RhIjiTc //@张颖峰: 我倒是觉得这本书更容易给一些没头脑的创业者以快速迭代为借口连续不断试错，最后反而忘了自己要做什么，从而导致更大的浪费。 [ [微博](http://www.weibo.com/5220650532/BmCsnmc20) ]
+
+> 2014-09-12 @好东西传送门: 从 #精益生产# 到 #精益创业# 《精益创业》是近年很火的创业手册, 其核心理念是:快速迭代,减少浪费,避免不必要的开发。作者Eric Ries的观点来自#工业工程#书籍。他吸收了丰田lean manufacturing的成功经验：用最少工作创造价值, 尽可能降低浪费 － 例如著名的零库存思想. 书单 http://t.cn/RhICRq5 [ [微博](http://www.weibo.com/5220650532/BmBK1rnHP) ]
+
+2014-09-12 从 #精益生产# 到 #精益创业# 《精益创业》是近年很火的创业手册, 其核心理念是:快速迭代,减少浪费,避免不必要的开发。作者Eric Ries的观点来自#工业工程#书籍。他吸收了丰田lean manufacturing的成功经验：用最少工作创造价值, 尽可能降低浪费 － 例如著名的零库存思想. 书单 http://t.cn/RhICRq5 [ [微博](http://www.weibo.com/5220650532/BmBK1rnHP) ]
+
+2014-09-12 代人请教: #语义识别包含哪些关键技术# ? 咱先推荐 @白硕SH 老师近日的访谈《语义技术探索》阐述了相关基本概念 http://t.cn/RvWEZdm 请各位专家帮忙梳理思路、推荐入门资料 @刘群MT-to-Death @刘知远THU @52nlp @孙明明_SmarterChina @昊奋 @波多野丽猪 我们会把相关资料更新到 http://t.cn/RhICLfS [ [微博](http://www.weibo.com/5220650532/BmBEvzLES) ]
+
+2014-09-12 问：求Morden Japanese Society Study资料文献, 最好economy相关 答：http://t.cn/RhIoU0o《菊与刀》(The Chrysanthemum and the Sword)和《纵式社会的人际关系》(タテ社会の人間関係)都是研究日本近代社会(自明治维新起)的经典著作。《A Short Economic History of Modern Japan》300+学术引用 [ [微博](http://www.weibo.com/5220650532/BmB8tzbaE) ]
+
+2014-09-12 [赞]补充《GPU高性能编程CUDA实战》豆瓣书评 http://t.cn/htUpV0 pdf网上有 [ [微博](http://www.weibo.com/5220650532/BmzhXfaOu) ]
+
+> 2014-09-12 @Rachel____Zhang: 感谢某童鞋推荐CUDA Application Design and Development，看了目录和开头一章，感觉和《GPU高性能编程CUDA实战》结合起来看会收获更快[嘻嘻]代码在这里http://t.cn/RhIt1JA [ [微博](http://www.weibo.com/2607574543/Bmz3lvXTZ) ]
+
+2014-09-11 谢谢指正，是我们理解有误。那四本也是博士级的，向大家道歉🙇 //@王树森CS: 同意右边。除了第1本，其余根本不是入门的，我不知道微博上的人有几个能看得懂而且会去看。发这个东西的人要么不懂，要么骗粉。//@梁斌penny: 书看了，再把试验做一遍，我估计怎么也得需要4-5年。 [ [微博](http://www.weibo.com/5220650532/BmvfRfWTw) ]
+
+> 2014-09-11 @好东西传送门: #机器学习# 大牛Michael Jordan教授(Andrew Ng的博士导师) 近日在Reddit上推荐的书单。以前的书单12本针对有志于在机器学习领域奉献青春的博士生，这次新推荐了4本覆盖基础概念图书，帮助工业界读者在几个月内理解概念然后出活 。书单看这里 http://t.cn/RhfxqAz 卡片盒子 http://t.cn/RhfxqA7 [ [微博](http://www.weibo.com/5220650532/BmtoM2jCK) ]
+
+2014-09-11 赞王益的博客 注意未公开的“Google Rephil"//@丕子: 嗯，王益之前一blog分析了这个： http://t.cn/RhfXqBu ， 另外Google PLDA+有10K topics, Rephil有100K，Peacock有1000K topics..//@lib_ustc: 对，训练出来的topic中的概率主要还是集中在高频信息上，对长尾描述较弱//@丕子: 长尾信息丢失太多了 [ [微博](http://www.weibo.com/5220650532/BmuiNg9dC) ]
+
+> 2014-09-11 @大山坡的春: 今天Jimmy Lin表示他在twitter的时候把topic models都试过了，没有一个work的~然后说，我告诉你个只有ir圈子里的人才晓得的topic model的毛病。。。#强迫症都没救了 @仙人掌不浇水 @丕子 [ [微博](http://www.weibo.com/1653082237/Bmtr4a69Q) ]
+
+2014-09-11 [笔记]Michael Jordan论#深度学习# http://t.cn/RhfoAhi 1. layer,parallel,ensemble有用,不能限于模拟人脑思维 2. backpropagation是关键, 本质是supervised learning 3. 很多成功案例是大规模样本＋监督学习 4. 很少用在工业界咨询,不少其它问题(7个例子) 5. 机器学习要接近system与数据库, 远离AI [ [微博](http://www.weibo.com/5220650532/BmtY3eXDx) ]
+
+2014-09-11 #机器学习# 大牛Michael Jordan教授(Andrew Ng的博士导师) 近日在Reddit上推荐的书单。以前的书单12本针对有志于在机器学习领域奉献青春的博士生，这次新推荐了4本覆盖基础概念图书，帮助工业界读者在几个月内理解概念然后出活 。书单看这里 http://t.cn/RhfxqAz 卡片盒子 http://t.cn/RhfxqA7 [ [微博](http://www.weibo.com/5220650532/BmtoM2jCK) ]
+
+2014-09-11 择日不如今日： Statistics With Ruby: Time Series and General Linear Models http://t.cn/RhffVQ3 问答166 http://t.cn/RhffVQu [ [微博](http://www.weibo.com/5220650532/Bmt9bsMDN) ]
+
+> 2014-09-11 @2gua: 其实，我一直希望哪一天能用Ruby进行数据分析，stats with Ruby......哪一天，哪一天......[doge] [ [微博](http://www.weibo.com/1609119537/Bmt7v95Fn) ]
+
+2014-09-11 问：@付超群 不知道有没有中文发音相似度计算算法或者类库？比如北京 百斤 鼻颈 背景 如果可以顺道比较英文更好，比如peking，beking 答： 关于算法和开源代码整理了一个 #脑图#，问答进展和相关资料在 http://t.cn/Rhf5xio 还收录了一些相关论文（含汉语） 欢迎指正补充 [ [微博](http://www.weibo.com/5220650532/BmsMAeh0K) ]
 
 2014-09-11 #夜读春秋# GDP与汇率数据是经济、金融研究的基本盘! (数据资源整理： http://t.cn/RhVDKg5 ) 1.世界银行的全球各国GDP（1983－2013）http://t.cn/hFsNY 2. 美联储汇率数据(H.10): http://t.cn/RhVDKgq （1996-2014） 3. 那台北的GDP呢？ http://t.cn/RhVgFWl ，http://t.cn/zOMb9mJ [ [微博](http://www.weibo.com/5220650532/Bmpx29PN5) ]
 
