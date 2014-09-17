@@ -13,7 +13,7 @@ http://en.wikipedia.org/wiki/Deep_learning Deep learning is a set of algorithms 
 
 ![source http://www.datarobot.com/blog/a-primer-on-deep-learning/](https://cloud.githubusercontent.com/assets/8302062/4296824/7b3a3278-3dfe-11e4-882b-c7ee473a3de3.png)
 
-source: http://www.datarobot.com/blog/a-primer-on-deep-learning/
+image source: http://www.datarobot.com/blog/a-primer-on-deep-learning/
 
 http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/ckdqtpe  Michael Jordan论深度学习
 
