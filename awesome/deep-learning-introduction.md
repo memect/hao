@@ -73,15 +73,15 @@ Yann LeCun's Lecture on Computer Perception with Deep Learning in Course 9.S912:
 
 ## 计算工具
 ###theano
-<img height=200 src="https://cloud.githubusercontent.com/assets/8302062/4296833/99106f56-3dfe-11e4-9437-10c29aefee67.jpg"/>
+<img src="https://cloud.githubusercontent.com/assets/8302062/4296833/99106f56-3dfe-11e4-9437-10c29aefee67.jpg"/>
 
 ### caffe
-<img height=200 src="http://emma.memect.com/t/6d9fcce0c36ac740b5c9ebddfb6b89b2ad308408a026671cfbd27657dde4439f/caffe.jpg"/>
+<img  src="http://emma.memect.com/t/6d9fcce0c36ac740b5c9ebddfb6b89b2ad308408a026671cfbd27657dde4439f/caffe.jpg"/>
 
 ### Torch-7
-<img height=200 src="http://emma.memect.com/t/101449380b840a422860b5a2be6524394d646f812417e4315fb100369ca4b169/torch7.jpg"/>
+<img  src="http://emma.memect.com/t/101449380b840a422860b5a2be6524394d646f812417e4315fb100369ca4b169/torch7.jpg"/>
 
 
 ### matlab deeplearning toolbox
-<img height=200 src="http://emma.memect.com/t/b8398867d7e5d7184192306fd2c19da0ceee23eec8357be34bd6184d6dceabec/content.jpg"/>
+<img height=400 src="http://emma.memect.com/t/b8398867d7e5d7184192306fd2c19da0ceee23eec8357be34bd6184d6dceabec/content.jpg"/>
 
