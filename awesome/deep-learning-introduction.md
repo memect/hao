@@ -1,14 +1,18 @@
 深度学习入门与综述资料
 
+
+
 ## 初学入门
 http://www.datarobot.com/blog/a-primer-on-deep-learning/ A Primer on Deep Learning （2014）
-![screen shot 2014-09-16 at 4 59 35 pm](https://cloud.githubusercontent.com/assets/8302062/4296824/7b3a3278-3dfe-11e4-882b-c7ee473a3de3.png)
 
 http://deeplearning.net/tutorial/gettingstarted.html  Getting Started (通过python编程学习基本概念)
-![theano](https://cloud.githubusercontent.com/assets/8302062/4296833/99106f56-3dfe-11e4-9437-10c29aefee67.jpg)
 
 中文版
 http://blog.sina.com.cn/s/blog_46d0a3930101fswl.html  邓侃 Deep Learning 和 Knowledge Graph 引爆大数据革命
+
+## 背景
+![screen shot 2014-09-16 at 4 59 35 pm](https://cloud.githubusercontent.com/assets/8302062/4296824/7b3a3278-3dfe-11e4-882b-c7ee473a3de3.png)
+
 
 ## 综述与分支
 
@@ -33,3 +37,5 @@ https://sites.google.com/site/deeplearningcvpr2014/  TUTORIAL ON DEEP LEARNING F
 * Computer vision,  CVPR 2014 Tutorial 
 * 计算机视觉 方向
 * cardbox  http://bigdata.memect.com/?tag=cvpr2014+vision
+
+## 计算工具
