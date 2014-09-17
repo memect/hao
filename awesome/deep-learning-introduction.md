@@ -39,3 +39,4 @@ https://sites.google.com/site/deeplearningcvpr2014/  TUTORIAL ON DEEP LEARNING F
 * cardbox  http://bigdata.memect.com/?tag=cvpr2014+vision
 
 ## 计算工具
+<img height=200 src="https://cloud.githubusercontent.com/assets/8302062/4296833/99106f56-3dfe-11e4-9437-10c29aefee67.jpg"/>
