@@ -57,15 +57,20 @@ Yann LeCun's Lecture on Computer Perception with Deep Learning in Course 9.S912:
 
 ## 过去的相关推荐
 
-https://github.com/memect/hao/issues/90 深度学习做推荐的文章资料
-https://github.com/memect/hao/issues/39 机器学习和深度学习在多媒体信息检索领域的资源
-https://github.com/memect/hao/issues/31 深度学习或者机器学习在图像检索
-https://github.com/memect/hao/issues/181 deep learning相关的图像检索资料
-https://github.com/memect/hao/issues/30 深度学习在文本挖掘或者自然语言处理(NLP)方面的好的资源
-https://github.com/memect/hao/issues/168  Michael Jordan 论深度学习
+* https://github.com/memect/hao/issues/90 深度学习做推荐的文章资料
+* https://github.com/memect/hao/issues/39 机器学习和深度学习在多媒体信息检索领域的资源
+* https://github.com/memect/hao/issues/31 深度学习或者机器学习在图像检索
+* https://github.com/memect/hao/issues/181 deep learning相关的图像检索资料
+* https://github.com/memect/hao/issues/30 深度学习在文本挖掘或者自然语言处理(NLP)方面的好的资源
+* https://github.com/memect/hao/issues/168  Michael Jordan 论深度学习
+* https://github.com/memect/hao/issues/184  深度学习入门
 
 
 ## 计算工具
 <img height=200 src="https://cloud.githubusercontent.com/assets/8302062/4296833/99106f56-3dfe-11e4-9437-10c29aefee67.jpg"/>
 
+theano
+caffe
+Torch-7
+matlab deeplearning toolbox
 
