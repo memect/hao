@@ -45,6 +45,16 @@ http://www.weibo.com/1656097544/AhM49jMYL
 ### glove 
 http://stanford.edu/~jpennin/papers/glove.pdf  Richard Socher, EMNLP2014, GloVe: Global Vectors for Word Representation
 
+ “Word similarity. 
+ While the analogy task is our 
+ primary focus since it tests for interesting vector
+ space substructures, we also evaluate our model on
+ a variety of word similarity tasks in Table 3. These
+ include WordSim-353 (Finkelstein et al., 2001),
+ MC (Miller and Charles, 1991), RG (Rubenstein
+ and Goodenough, 1965), SCWS (Huang et al.,
+ 2012), and RW (Luong et al., 2013)”
+
 http://blog.csdn.net/adooadoo/article/details/38505497 glove入门实战 
 
 http://nlp.stanford.edu/projects/glove/
