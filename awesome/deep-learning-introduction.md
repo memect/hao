@@ -64,7 +64,7 @@ Yann LeCun's Lecture on Computer Perception with Deep Learning in Course 9.S912:
 * https://github.com/memect/hao/issues/30 深度学习在文本挖掘或者自然语言处理(NLP)方面的好的资源
 * https://github.com/memect/hao/issues/168  Michael Jordan 论深度学习
 * https://github.com/memect/hao/issues/184  深度学习入门
-
+* https://github.com/memect/hao/issues/190  深度学习工具箱
 
 ## 计算工具
 <img height=200 src="https://cloud.githubusercontent.com/assets/8302062/4296833/99106f56-3dfe-11e4-9437-10c29aefee67.jpg"/>
