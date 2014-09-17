@@ -7,6 +7,8 @@ http://www.datarobot.com/blog/a-primer-on-deep-learning/ A Primer on Deep Learni
 
 http://deeplearning.net/tutorial/gettingstarted.html  Getting Started (通过python编程学习基本概念)
 
+http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/ckdqtpe  Michael Jordan论深度学习
+
 中文版
 http://blog.sina.com.cn/s/blog_46d0a3930101fswl.html  邓侃 Deep Learning 和 Knowledge Graph 引爆大数据革命
 
@@ -37,6 +39,12 @@ https://sites.google.com/site/deeplearningcvpr2014/  TUTORIAL ON DEEP LEARNING F
 * Computer vision,  CVPR 2014 Tutorial 
 * 计算机视觉 方向
 * cardbox  http://bigdata.memect.com/?tag=cvpr2014+vision
+
+
+Yann LeCun's Lecture on Computer Perception with Deep Learning in Course 9.S912: "Vision and learning - computers and brains", Nov 12, 2013:
+* Part1: http://techtv.mit.edu/videos/26739-yann-lecun-computer-perception-with-deep-learning-part-1
+* Part2: http://techtv.mit.edu/videos/26740-yann-lecun-computer-perception-with-deep-learning-part-2
+
 
 ## 计算工具
 <img height=200 src="https://cloud.githubusercontent.com/assets/8302062/4296833/99106f56-3dfe-11e4-9437-10c29aefee67.jpg"/>
