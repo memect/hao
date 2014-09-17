@@ -49,6 +49,9 @@ http://blog.csdn.net/adooadoo/article/details/38505497 glove入门实战
 
 http://nlp.stanford.edu/projects/glove/
 
+http://www.socher.org/index.php/Main/ImprovingWordRepresentationsViaGlobalContextAndMultipleWordPrototypes
+
+
 @杜振东_java :
 深夜总算完成了《glove入门实战》的码字工作，发出两张利用glove聚类的效果图，具体工作参考 http://t.cn/RP0xXNx ，代码在此 http://t.cn/RP0xOx0   感谢@刘知远THU 老师提供关于glove的信息，并感谢@张成_ICT 的帮助,顺便@夏睿 老师和@章成志 老师
 http://www.weibo.com/1247953577/BhRfpyyJw
@@ -60,6 +63,12 @@ http://www.weibo.com/1464484735/BhbLD70wa
 ＠董力at北航 :
 Yoav Goldberg写了个测评文档，大致结论就是GloVe和word2vec如果正常比的话 效果差不多，没有宣称的11%这么大。。 链接：http://t.cn/RP0gMXB
 http://www.weibo.com/1895401411/BhVDWofI5
+
+
+@康积华_绩点侠：richard socher有一篇12年的文章是使用神经网络来做这个，Improving Word Representations Via Global Context And Multiple Word Prototypes，顺势开始大量使用dl去做这些任务，可以去他主页上一看 (今天 08:03)
+* http://www.socher.org/uploads/Main/HuangSocherManning_ACL2012.pdf
+http://www.weibo.com/5220650532/BnmMGBraU
+
 
 ### ESA (Explicit Semantic Analysis)
 
