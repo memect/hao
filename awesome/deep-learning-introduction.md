@@ -12,7 +12,7 @@ http://deeplearning.net/tutorial/gettingstarted.html  Getting Started (通过pyt
 http://en.wikipedia.org/wiki/Deep_learning Deep learning is a set of algorithms in machine learning that attempt to model high-level abstractions in data by using model architectures composed of multiple non-linear transformations.
 
 ![screen shot 2014-09-16 at 4 59 35 pm](https://cloud.githubusercontent.com/assets/8302062/4296824/7b3a3278-3dfe-11e4-882b-c7ee473a3de3.png)
-
+source: http://www.datarobot.com/blog/a-primer-on-deep-learning/
 
 http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/ckdqtpe  Michael Jordan论深度学习
 
