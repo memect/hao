@@ -8,9 +8,10 @@ http://cacm.acm.org/magazines/2013/6/164601-deep-learning-comes-of-age/abstract 
 * Gary Anthes. 2013. Deep learning comes of age. Commun. ACM 56, 6 (June 2013), 13-15. DOI=10.1145/2461256.2461262 http://doi.acm.org/10.1145/2461256.2461262 
 * 下载PDF http://phdtree.org/pdf/29093526-deep-learning-comes-of-age/
 
-<img src="http://cacm.acm.org/system/assets/0001/1870/052213_CACMpg13_Deep-Learning2.large.jpg?1369232776&1369232776">
+<img width=100 src="http://cacm.acm.org/system/assets/0001/1870/052213_CACMpg13_Deep-Learning2.large.jpg?1369232776&1369232776">
 
 http://www.datarobot.com/blog/a-primer-on-deep-learning/ A Primer on Deep Learning （2014）
+<img width=100 src= "https://s3.amazonaws.com/datarobotblog/images/deepLearningIntro/009.png">
 
 http://deeplearning.net/tutorial/gettingstarted.html  Getting Started (通过python编程学习基本概念)
 
