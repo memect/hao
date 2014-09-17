@@ -34,15 +34,17 @@ http://research.microsoft.com/pubs/204048/APSIPA-Trans2013-revised-final.pdf
 Li Deng, A Tutorial Survey of Architectures, Algorithms, and Applications for Deep Learning , in APSIPA Transactions on Signal and Information Processing, Cambridge University Press, 2014
 * 还有一个大部头 http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf  Deep Learning Methods and Applications， Li Deng and Dong Yu
 
-
+### Text 文本 NLP
 http://nlp.stanford.edu/courses/NAACL2013/ Deep Learning for Natural Language Processing (without Magic)
 * 自然语言处理 NLP 方向（文本为主）
 
+### Speech 语音 NLP
 http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf  Deep learning for natural language processing and related applications (Tutorial at ICASSP)
 * Xiaodong He, Jianfeng Gao, and Li Deng
 * 自然语言处理 NLP 方向 （语音为主，也包括文本）
 * spoken language understanding (SLU), machine translation (MT), and semantic information retrieval (IR) from text.
 
+### Vision 视觉 
 https://sites.google.com/site/deeplearningcvpr2014/  TUTORIAL ON DEEP LEARNING FOR VISION
 * Computer vision,  CVPR 2014 Tutorial 
 * 计算机视觉 方向
