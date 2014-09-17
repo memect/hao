@@ -24,7 +24,8 @@ http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/ckd
 * http://blog.sina.com.cn/s/blog_46d0a3930101h6nf.html  Deep Learning 教程翻译
 
 
-## 综述与分支
+## 综述与分支 (注意Vision、Text、Speech都用DL，用法不尽相同)
+
 
 http://deeplearning.net/tutorial/ Deep Learning Tutorials
 * Deep Learning Tutorials 600+ star on github https://github.com/lisa-lab/DeepLearningTutorials
@@ -33,6 +34,8 @@ http://deeplearning.net/tutorial/ Deep Learning Tutorials
 http://research.microsoft.com/pubs/204048/APSIPA-Trans2013-revised-final.pdf
 Li Deng, A Tutorial Survey of Architectures, Algorithms, and Applications for Deep Learning , in APSIPA Transactions on Signal and Information Processing, Cambridge University Press, 2014
 * 还有一个大部头 http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf  Deep Learning Methods and Applications， Li Deng and Dong Yu
+
+
 
 ### Text 文本 NLP
 http://nlp.stanford.edu/courses/NAACL2013/ Deep Learning for Natural Language Processing (without Magic)
@@ -44,7 +47,7 @@ http://research.microsoft.com/pubs/217165/ICASSP_DeepTextLearning_v07.pdf  Deep 
 * 自然语言处理 NLP 方向 （语音为主，也包括文本）
 * spoken language understanding (SLU), machine translation (MT), and semantic information retrieval (IR) from text.
 
-### Vision 视觉 
+### Computer Vision 视觉 
 https://sites.google.com/site/deeplearningcvpr2014/  TUTORIAL ON DEEP LEARNING FOR VISION
 * Computer vision,  CVPR 2014 Tutorial 
 * 计算机视觉 方向
@@ -69,10 +72,16 @@ Yann LeCun's Lecture on Computer Perception with Deep Learning in Course 9.S912:
 * https://github.com/memect/hao/issues/190  深度学习工具箱
 
 ## 计算工具
+###theano
 <img height=200 src="https://cloud.githubusercontent.com/assets/8302062/4296833/99106f56-3dfe-11e4-9437-10c29aefee67.jpg"/>
 
-theano
-caffe
-Torch-7
-matlab deeplearning toolbox
+### caffe
+<img height=200 src="http://emma.memect.com/t/6d9fcce0c36ac740b5c9ebddfb6b89b2ad308408a026671cfbd27657dde4439f/caffe.jpg"/>
+
+### Torch-7
+<img height=200 src="http://emma.memect.com/t/101449380b840a422860b5a2be6524394d646f812417e4315fb100369ca4b169/torch7.jpg"/>
+
+
+### matlab deeplearning toolbox
+<img height=200 src="http://emma.memect.com/t/b8398867d7e5d7184192306fd2c19da0ceee23eec8357be34bd6184d6dceabec/content.jpg"/>
 
