@@ -49,7 +49,7 @@ http://blog.csdn.net/adooadoo/article/details/38505497 glove入门实战
 
 http://nlp.stanford.edu/projects/glove/
 
-http://www.socher.org/index.php/Main/ImprovingWordRepresentationsViaGlobalContextAndMultipleWordPrototypes
+http://www.socher.org/index.php/Main/ImprovingWordRepresentationsViaGlobalContextAndMultipleWordPrototypes Improving Word Representations Via Global Context And Multiple Word Prototypes  earlier work 
 
 
 @杜振东_java :
