@@ -7,13 +7,20 @@ http://www.datarobot.com/blog/a-primer-on-deep-learning/ A Primer on Deep Learni
 
 http://deeplearning.net/tutorial/gettingstarted.html  Getting Started (通过python编程学习基本概念)
 
+
+## 概念与背景知识
+http://en.wikipedia.org/wiki/Deep_learning Deep learning is a set of algorithms in machine learning that attempt to model high-level abstractions in data by using model architectures composed of multiple non-linear transformations.
+
+![screen shot 2014-09-16 at 4 59 35 pm](https://cloud.githubusercontent.com/assets/8302062/4296824/7b3a3278-3dfe-11e4-882b-c7ee473a3de3.png)
+
+
 http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/ckdqtpe  Michael Jordan论深度学习
 
-中文版
-http://blog.sina.com.cn/s/blog_46d0a3930101fswl.html  邓侃 Deep Learning 和 Knowledge Graph 引爆大数据革命
 
-## 背景
-![screen shot 2014-09-16 at 4 59 35 pm](https://cloud.githubusercontent.com/assets/8302062/4296824/7b3a3278-3dfe-11e4-882b-c7ee473a3de3.png)
+中文看 邓侃  Deep Learning 系列
+* http://blog.sina.com.cn/s/blog_46d0a3930101fswl.html  Deep Learning 和 Knowledge Graph 引爆大数据革命
+* http://blog.sina.com.cn/s/blog_46d0a3930101gs5h.html Deep Learning 【2,3】
+* http://blog.sina.com.cn/s/blog_46d0a3930101h6nf.html  Deep Learning 教程翻译
 
 
 ## 综述与分支
