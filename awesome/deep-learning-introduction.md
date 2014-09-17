@@ -44,6 +44,7 @@ https://sites.google.com/site/deeplearningcvpr2014/  TUTORIAL ON DEEP LEARNING F
 Yann LeCun's Lecture on Computer Perception with Deep Learning in Course 9.S912: "Vision and learning - computers and brains", Nov 12, 2013:
 * Part1: http://techtv.mit.edu/videos/26739-yann-lecun-computer-perception-with-deep-learning-part-1
 * Part2: http://techtv.mit.edu/videos/26740-yann-lecun-computer-perception-with-deep-learning-part-2
+* 计算机视觉 方向
 
 
 ## 计算工具
