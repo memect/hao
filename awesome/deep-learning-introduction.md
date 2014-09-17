@@ -1,9 +1,14 @@
 ## 深度学习入门与综述资料
 
 contributors:  @自觉自愿来看老婆微博 @邓侃 @星空下的巫师
+created: 2014-09-16
 
 
 ## 初学入门
+http://en.wikipedia.org/wiki/Deep_learning Deep learning is a set of algorithms in machine learning that attempt to model high-level abstractions in data by using model architectures composed of multiple non-linear transformations.
+
+
+### 科普短文
 
 http://cacm.acm.org/magazines/2013/6/164601-deep-learning-comes-of-age/abstract Deep Learning Comes of Age
 * Gary Anthes. 2013. Commun. ACM 56, 6 (June 2013),下载PDF http://phdtree.org/pdf/29093526-deep-learning-comes-of-age/
@@ -15,27 +20,35 @@ http://www.datarobot.com/blog/a-primer-on-deep-learning/ A Primer on Deep Learni
 
 <img width=100 src= "https://s3.amazonaws.com/datarobotblog/images/deepLearningIntro/009.png">
 
-http://deeplearning.net/tutorial/gettingstarted.html  Getting Started (通过python编程学习基本概念)
+### 基于编程语言的实战入门
+* http://deeplearning.net/tutorial/gettingstarted.html  Getting Started (通过python编程学习基本概念)
+* http://karpathy.github.io/neuralnets/  以独特视角讲NN（Javascript ConvNetJS )
 
 
-## 概念与背景知识
-http://en.wikipedia.org/wiki/Deep_learning Deep learning is a set of algorithms in machine learning that attempt to model high-level abstractions in data by using model architectures composed of multiple non-linear transformations.
+### 入门指南
+
+http://deeplearning.net/tutorial/ Deep Learning Tutorials 
+* [600+ star on github](https://github.com/lisa-lab/DeepLearningTutorials) 
 
 
-http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/ckdqtpe  Michael Jordan论深度学习
+http://neuralnetworksanddeeplearning.com/index.html  Michael Nielsen (2014) 概念讲得很细致 
+* @自觉自愿来看老婆微博 共同推荐
 
-
-中文看 邓侃  Deep Learning 系列
+邓侃  Deep Learning 系列
 * http://blog.sina.com.cn/s/blog_46d0a3930101fswl.html  Deep Learning 和 Knowledge Graph 引爆大数据革命
 * http://blog.sina.com.cn/s/blog_46d0a3930101gs5h.html Deep Learning 【2,3】
 * http://blog.sina.com.cn/s/blog_46d0a3930101h6nf.html  Deep Learning 教程翻译
 
+http://www.reddit.com/r/MachineLearning/comments/2fxi6v/ama_michael_i_jordan/ckdqtpe  伯克利Michael Jordan教授论深度学习, 附上[学习笔记](http://www.weibo.com/5220650532/BmtY3eXDx)
+1. layer,parallel,ensemble有用,不能限于模拟人脑思维
+2. backpropagation是关键, 本质是supervised learning
+3. 很多成功案例是大规模样本＋监督学习
+4. 很少用在工业界咨询,不少其它问题(7个例子)
+5. 机器学习不止是AI,还要接近system与数据库
 
-## 综述与分支 (注意Vision、Text、Speech都用DL，用法不尽相同)
 
-
-http://deeplearning.net/tutorial/ Deep Learning Tutorials
-* Deep Learning Tutorials 600+ star on github https://github.com/lisa-lab/DeepLearningTutorials
+## 综述与分支   
+注意Vision、Text、Speech都用DL，用法不尽相同
 
 
 http://research.microsoft.com/pubs/204048/APSIPA-Trans2013-revised-final.pdf
