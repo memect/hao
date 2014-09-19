@@ -12,10 +12,6 @@
 
 > 2014-09-19 @设定控: 一篇在各大社交网站上广为转载的电子图书馆列表，来自译言网，《最好的免费电子图书馆指南（上）》http://t.cn/zYcbH8t 《最好的免费电子图书馆指南（下）》http://t.cn/z84nsDZ 事实我发的很多电子书网站就来自这里，这贴几乎无所不包，学术政治经济资源都有，楼主还没翻译完，有时间多刷新一下吧。 [ [微博](http://www.weibo.com/2142733793/BnGfghg3X) ]
 
-2014-09-19 帮转，颜老师的实验室是世界水准，最近的《中国青年》报导 http://t.cn/RhaSbb9 [ [微博](http://www.weibo.com/5220650532/BnG0q7wTA) ]
-
-> 2014-09-07 @nyouyou: 本实验室招聘研究系列副研究员或助理研究员、博士后、以及技术员（lab manager），待遇还都不错的哦，欢迎有能力又懒得自己做PI的同事应聘助理研究员，一起探索科学世界。听说清华最好的似乎是幼儿园+小学，这个才是最有诱惑力的砝码。 http://t.cn/Rhqlynm  [ [微博](http://www.weibo.com/1656918431/BlUuJdiXb) ]
-
 2014-09-19 赞！Gradient Boosting Tree也参我们以前收集的专题 http://t.cn/RhKc1F5 有Python Go C++多种语言的实现 [ [微博](http://www.weibo.com/5220650532/BnFUv89IL) ]
 
 > 2014-09-19 @phunter_lau: 我的 Kaggle Higgs Challenge单个模型获胜解答，公开排行榜3.75最终排行榜得分3.73，排名25th/1792，差不多前几十里唯一一个非组合模型的解答。至于为什么不用组合模型，因为我不会。。。 链接 http://t.cn/RhKAWac 附图方便不能上wordpress的同学观看。至于英语描述，不要在意这些细节。 [ [微博](http://www.weibo.com/1770891687/BnE9rmOpe) ]
