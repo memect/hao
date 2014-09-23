@@ -1,5 +1,5 @@
 # MLSS Machine Learning Summer Schools
- (forked from http://www.mlss.cc/)
+ (forked from http://www.mlss.cc/) adding more links to the list
 
 
 ## Future (8)
@@ -9,7 +9,7 @@
 * MLSS Africa (very tentative)
 * MLSS Kyoto (Marco Cuturi, Masashi Sugiyama, Akihiro Yamamoto), August 31 - September 11 (tentative), 2015
 * MLSS Tübingen (Michael Hirsch, Philipp Hennig, Bernhard Schölkopf), July 13-24, 2015
-* MLSS Sydney (Edwin Bonilla, Yang Wang, Bob Williamson), 16 - 25 February, 2015
+* MLSS Sydney (Edwin Bonilla, Yang Wang, Bob Williamson), 16 - 25 February, 2015 http://www.nicta.com.au/research/machine_learning/mlss2015
 * MLSS Austin (Peter Stone, Pradeep Ravikumar), January 7-16, 2015 http://www.cs.utexas.edu/mlss/
 
 ## Past (26)
