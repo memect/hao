@@ -24,7 +24,7 @@
 * MLSS @Purdue, June 13 and June 24, 2011 http://learning.stat.purdue.edu/wiki/mlss/start
 * MLSS Singapore, June 13 - 17, 2011 http://bigbird.comp.nus.edu.sg/pmwiki/farm/mlss/
 * MLSS Canberra, Australia, September 27 - October 6, 2010 http://canberra10.mlss.cc
-* MLSS Sardinia, May 6 - May 12, 2010 http://www.sardegnaricerche.it/index.php?xsl=370&s=139254&v=2&c=3841&sc=&qr=1&qp=3&vd=2&fa=1&t=3 http://videolectures.net/mlss2010_sardinia/
+* MLSS Sardinia, May 6 - May 12, 2010 http://www.sardegnaricerche.it/index.php?xsl=370&s=139254&v=2&c=3841 [video lecture](http://videolectures.net/mlss2010_sardinia/)
 * MLSS Cambridge, UK, August 29 - September 10, 2009 http://mlg.eng.cam.ac.uk/mlss09
 * MLSS Canberra, Australia, January 26 - February 6, 2009 http://ssll.cecs.anu.edu.au/
 * MLSS Isle de Re, France, September 1-15, 2008 [archive](https://web.archive.org/web/20080329172541/http://mlss08.futurs.inria.fr/)  [announcement](http://eventseer.net/e/7178/) 
