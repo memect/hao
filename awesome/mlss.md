@@ -32,10 +32,9 @@
 * MLSS Tübingen, Germany, August 20 - August 31, 2007 http://videolectures.net/mlss07_tuebingen/
 * MLSS Taipei, Taiwan, July 24 - August 2, 2006 http://www.iis.sinica.edu.tw/MLSS2006/
 * MLSS Canberra, Australia, February 6-17, 2006 http://canberra06.mlss.cc/
-* MLSS Chicago, USA, May 16-27, 2005 https://web.archive.org/web/20080314055344/http://chicago05.mlss.cc/ [announcement](http://linguistlist.org/LL/fyi/fyi-details.cfm?submissionid=49210)
-* MLSS Canberra, Australia, January 23 - February 5, 2005  https://web.archive.org/web/20060105025204/http://canberra05.mlss.cc/
-* MLSS Berder, France, September 12-25, 2004 https://web.archive.org/web/20080406175615/http://www.kyb.tuebingen.mpg.de/mlss04/
-* MLSS Tübingen, Germany, August 4-16, 2003 
-* https://web.archive.org/web/20080409113424/http://www.kyb.tuebingen.mpg.de/mlss04/mlss03/
-* MLSS Canberra, Australia, February 2-14, 2003 https://web.archive.org/web/20030607005801/http://mlg.anu.edu.au/summer2003/
-* MLSS Canberra, Australia, February 11-22, 2002 https://web.archive.org/web/20030607063738/http://mlg.anu.edu.au/summer2002/
+* MLSS Chicago, USA, May 16-27, 2005 [archive](https://web.archive.org/web/20080314055344/http://chicago05.mlss.cc/) [announcement](http://linguistlist.org/LL/fyi/fyi-details.cfm?submissionid=49210)
+* MLSS Canberra, Australia, January 23 - February 5, 2005  [archive](https://web.archive.org/web/20060105025204/http://canberra05.mlss.cc/)[archive](
+* MLSS Berder, France, September 12-25, 2004 [archive](https://web.archive.org/web/20080406175615/http://www.kyb.tuebingen.mpg.de/mlss04/)
+* MLSS Tübingen, Germany, August 4-16, 2003  [archive](https://web.archive.org/web/20080409113424/http://www.kyb.tuebingen.mpg.de/mlss04/mlss03/)
+* MLSS Canberra, Australia, February 2-14, 2003 [archive](https://web.archive.org/web/20030607005801/http://mlg.anu.edu.au/summer2003/)
+* MLSS Canberra, Australia, February 11-22, 2002 [archive](https://web.archive.org/web/20030607063738/http://mlg.anu.edu.au/summer2002/)
