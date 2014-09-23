@@ -32,7 +32,7 @@
 * MLSS Tübingen, Germany, August 20 - August 31, 2007 http://videolectures.net/mlss07_tuebingen/
 * MLSS Taipei, Taiwan, July 24 - August 2, 2006 http://www.iis.sinica.edu.tw/MLSS2006/
 * MLSS Canberra, Australia, February 6-17, 2006 http://canberra06.mlss.cc/
-* MLSS Chicago, USA, May 16-27, 2005
+* MLSS Chicago, USA, May 16-27, 2005 [archive](https://web.archive.org/web/20080314055344/http://chicago05.mlss.cc/) [announcement](http://linguistlist.org/LL/fyi/fyi-details.cfm?submissionid=49210)
 * MLSS Canberra, Australia, January 23 - February 5, 2005
 * MLSS Berder, France, September 12-25, 2004
 * MLSS Tübingen, Germany, August 4-16, 2003
