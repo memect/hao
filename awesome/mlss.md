@@ -12,7 +12,7 @@
 * MLSS Sydney (Edwin Bonilla, Yang Wang, Bob Williamson), 16 - 25 February, 2015 http://www.nicta.com.au/research/machine_learning/mlss2015
 * MLSS Austin (Peter Stone, Pradeep Ravikumar), January 7-16, 2015 http://www.cs.utexas.edu/mlss/
 
-## Past (26)
+## Past (25)
 * MLSS China, Beijing (Stephen Gould, Hang Li, Zhi-Hua Zhou), June 15-21, 2014, colocated with ICML http://lamda.nju.edu.cn/conf/mlss2014/
 * MLSS Pittsburgh (Alex Smola & Zico Kolter), July 6-18, 2014 http://mlss2014.com/
 * MLSS Iceland (Sami Kaski), April 26 - May 4, 2014 (colocated with AISTATS) http://mlss2014.hiit.fi/
