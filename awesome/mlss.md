@@ -27,7 +27,7 @@
 * MLSS Sardinia, May 6 - May 12, 2010 http://www.sardegnaricerche.it/index.php?xsl=370&s=139254&v=2&c=3841 [video lecture](http://videolectures.net/mlss2010_sardinia/)
 * MLSS Cambridge, UK, August 29 - September 10, 2009 http://mlg.eng.cam.ac.uk/mlss09
 * MLSS Canberra, Australia, January 26 - February 6, 2009 http://ssll.cecs.anu.edu.au/
-* MLSS Isle de Re, France, September 1-15, 2008 https://web.archive.org/web/20080329172541/http://mlss08.futurs.inria.fr/ [announcement](http://eventseer.net/e/7178/) 
+* MLSS Isle de Re, France, September 1-15, 2008 [archive](https://web.archive.org/web/20080329172541/http://mlss08.futurs.inria.fr/) [announcement](http://eventseer.net/e/7178/) 
 * MLSS Kioloa, Australia, March 3 - 14, 2008 http://kioloa08.mlss.cc
 * MLSS Tübingen, Germany, August 20 - August 31, 2007 http://videolectures.net/mlss07_tuebingen/
 * MLSS Taipei, Taiwan, July 24 - August 2, 2006 http://www.iis.sinica.edu.tw/MLSS2006/
