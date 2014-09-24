@@ -19,7 +19,7 @@ discussion: https://github.com/memect/hao/issues/222
 * http://www.cvpapers.com/datasets.html 上百数据集
 * http://datasets.visionbib.com/  Richard Szeliski 推荐 有分类  
 * http://homepages.inf.ed.ac.uk/rbf/CVonline/  @李岩ICT人脸识别 Richard Szeliski 推荐  有分类  
-* http://blog.csdn.net/zhubenfulovepoem/article/details/7191794 [zhubenfulovepoem](http://my.csdn.net/zhubenfulovepoem) (cnblog) 整理自ComputerVision: Algorithms and Applications by Richard Szeliski
+* http://blog.csdn.net/zhubenfulovepoem/article/details/7191794 由 [zhubenfulovepoem](http://my.csdn.net/zhubenfulovepoem) (cnblog) 整理自ComputerVision: Algorithms and Applications by Richard Szeliski
 
 * http://vision.ucsd.edu/datasetsAll  UCSD 数据集
 * http://www-cvr.ai.uiuc.edu/ponce_grp/data/ UIUC Datasets
