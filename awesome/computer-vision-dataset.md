@@ -1,6 +1,9 @@
 # 计算机视觉数据集(computer vision dataset)汇总
 contributors: @丕子 @邹宇华 @李岩ICT人脸识别 @数据堂
+
 created: 2014-09-24
+
+discussion: https://github.com/memect/hao/issues/222
 
 ## 经典计算机视觉数据集
 * http://yann.lecun.com/exdb/mnist/ The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. Collected by Yann LeCun, Corinna Cortes, Christopher J.C. Burges
