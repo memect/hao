@@ -1,6 +1,8 @@
 # MLSS Machine Learning Summer Schools
  (forked from http://www.mlss.cc/) adding more links to the list
 
+## highlights
+* 特别推荐09年MLSS 所有还幻灯片打包下载 51M ZIP http://t.cn/RhWBmXr  @bigiceberg 推荐
 
 ## Future (8)
 * MLSS Spain (Fernando Perez-Cruz), late spring 2016 (tentative)
