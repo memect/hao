@@ -1,4 +1,4 @@
-# 计算机视觉数据集(computer vision dataset)不完全汇总
+# 计算机视觉数据集(computer vision dataset)汇总
 contributors: @丕子 @邹宇华 @李岩ICT人脸识别 @数据堂
 created: 2014-09-24
 
