@@ -5,7 +5,7 @@ created: 2014-09-24
 
 discussion: https://github.com/memect/hao/issues/222
 
-## 经典计算机视觉数据集
+## 经典/热点计算机视觉数据集
 * http://yann.lecun.com/exdb/mnist/ The MNIST database of handwritten digits, available from this page, has a training set of 60,000 examples, and a test set of 10,000 examples. Collected by Yann LeCun, Corinna Cortes, Christopher J.C. Burges
 * http://www.cs.toronto.edu/~kriz/cifar.html cifar10 The CIFAR-10 and CIFAR-100 are labeled subsets of the 80 million tiny images dataset. They were collected by Alex Krizhevsky, Vinod Nair, and Geoffrey Hinton. 
 * http://en.wikipedia.org/wiki/Caltech_101 Caltech 101 is a data set of digital images created in September, 2003, compiled by Fei-Fei Li, Marco Andreetto, Marc 'Aurelio Ranzato and Pietro Perona at the California Institute of Technology. It is intended to facilitate Computer Vision research and techniques. It is most applicable to techniques involving recognition, classification, and categorization. 
