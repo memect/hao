@@ -1,5 +1,5 @@
 # 计算机视觉数据集(computer vision dataset)汇总
-contributors: @丕子 @邹宇华 @李岩ICT人脸识别 @网路冷眼 @王威廉 @金连文 @数据堂
+contributors: @丕子 @邹宇华 @李岩ICT人脸识别 @网路冷眼 @王威廉 @金连文 @数据堂  zhubenfulovepoem@cnblog
 
 created: 2014-09-24
 
@@ -15,9 +15,11 @@ discussion: https://github.com/memect/hao/issues/222
 
 ## 计算机视觉数据集：目录
 * http://riemenschneider.hayko.at/vision/dataset/ @邹宇华 推荐 比较新的一个计算机视觉数据库网站 Yet Another Computer Vision Index To Datasets (YACVID) 200多数据集 
-* http://www.computervisiononline.com/datasets   @丕子 推荐 上百数据集
+* http://www.computervisiononline.com/datasets   @丕子 Richard Szeliski 推荐 上百数据集
 * http://www.cvpapers.com/datasets.html 上百数据集
-* http://homepages.inf.ed.ac.uk/rbf/CVonline/  @李岩ICT人脸识别 推荐  有分类  
+* http://datasets.visionbib.com/  Richard Szeliski 推荐 有分类  
+* http://homepages.inf.ed.ac.uk/rbf/CVonline/  @李岩ICT人脸识别 Richard Szeliski 推荐  有分类  
+* http://blog.csdn.net/zhubenfulovepoem/article/details/7191794 [zhubenfulovepoem](http://my.csdn.net/zhubenfulovepoem) (cnblog) 整理自ComputerVision: Algorithms and Applications by Richard Szeliski
 
 * http://vision.ucsd.edu/datasetsAll  UCSD 数据集
 * http://www-cvr.ai.uiuc.edu/ponce_grp/data/ UIUC Datasets
