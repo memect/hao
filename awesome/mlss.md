@@ -2,7 +2,7 @@
  (forked from http://www.mlss.cc/) adding more links to the list
 
 ## highlights
-* 特别推荐09年UK的MLSS 所有还幻灯片打包下载 51M ZIP http://t.cn/RhWBmXr  @bigiceberg 推荐 "其中09年UK的mlss最经典"
+* 特别推荐09年UK的MLSS 所有还幻灯片打包下载 ［ZIP 51M］(http://mlg.eng.cam.ac.uk/mlss09/mlss_slides.zip)  @bigiceberg 推荐 "其中09年UK的mlss最经典"
 
 ## Future (8)
 * MLSS Spain (Fernando Perez-Cruz), late spring 2016 (tentative)
