@@ -1,8 +1,7 @@
 # <img align="right" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/>  好东西传送门
 [http://www.weibo.com/haoawesome](http://www.weibo.com/haoawesome)
 * [简介](README.md#简介) :  [问答服务](README.md#问答服务),   [订阅服务](README.md#订阅服务),   [使用许可](README.md#使用许可) 
-* [问答与原创](README.md#问答与原创)
-* [文摘与点评](README.md#文摘与点评)
+* [问答与传送档案](README.md#问答与传送档案)
 * [通知与声明](README.md#通知与声明)
 
 
@@ -32,7 +31,14 @@
 
 
 
-## 问答与原创
+## 问答与传送档案
+2014-09-26 赞Search Formula-1 ！//@张颖峰: 如果说常规搜索已经是个解决了的问题（比如elasticsearch等等），为什么还要重新造这个轮子，答案是，更好的可定制性以及更快速的性能。尽管代码质量有待提高，但做为经过高压环境验证的完整解决方案，必将给开发者以更充足的空间来按需补充和裁剪。Apache License [ [微博](http://www.weibo.com/5220650532/BoLJTjP1R) ]
+
+> 2014-09-26 @张颖峰: 也许现在有些早，但苦于没有更多的成员和时间来完善文档，所以还是赶在这个周末之前把我们之前一直完善的引擎对外宣布了，这就是C++编写的高性能分布式搜索存储一体化引擎，主要面向开发者。http://t.cn/RhT3I3B @好东西传送门 [ [微博](http://www.weibo.com/1788077877/BoLngj2V3) ]
+
+2014-09-26 回复@民工_李江: 非常感谢补充 课程链接 http://t.cn/zYsV43a //@民工_李江:Mattew Jackson在Coursera上有门相关的课： social and economic networks，好像这期刚开始不久 [ [微博](http://www.weibo.com/5220650532/BoKGBEX1J) ]
+
+> 2014-09-26 @好东西传送门: 问: 求经济学方向社会网络资料? 答: 文献汇总 http://t.cn/RhTlXMC 社会网络(social network)基础知识先看维基百科和在线教材"Introduction to social network methods". 四篇经济学方向文章, 推荐斯坦福教授Matthew Jackson (2010) "An Overview of Social Networks and Economic Applications" 96页 [ [微博](http://www.weibo.com/5220650532/BoKB6Eafx) ]
 
 
 2014-09-26 问：有没有最新的讲述人工智能发展史,现状,展望的资料? 答：人工智能(Artificial Intelligence) 领域综述有一个很好玩的图 "AI Landscape" （2008年AI Magazine附送的海报）, 再配上一个AI历史大事件的时间轴demo “ Companion Timeline of Artificial Intelligence History” http://t.cn/RhTXnDF [ [微博](http://www.weibo.com/5220650532/BoJAcrUuy) ]
