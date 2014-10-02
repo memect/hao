@@ -1,4 +1,4 @@
-# <img align="right" width=100 height=100 src="http://u.memect.com/shared/image/hao.png"/><img align="right" width=100 height=100 src="http://u.memect.com/shared/image/hao-wechat.jpeg"/>  好东西传送门
+# <img align="right" width=150 height=150 src="http://u.memect.com/shared/image/hao.png"/>  好东西传送门
 [http://www.weibo.com/haoawesome](http://www.weibo.com/haoawesome)
 * [简介](README.md#简介) :  [问答服务](README.md#问答服务),   [订阅服务](README.md#订阅服务),   [使用许可](README.md#使用许可) 
 * [问答与传送档案](README.md#问答与传送档案)
@@ -20,6 +20,8 @@
 
 ### 订阅服务 
 1. 订阅微信公众号： 好东西传送门
+
+<img width=150 height=150 src="http://u.memect.com/shared/image/hao-wechat.jpeg"/>
 
 2. [订阅好东西周报](http://memect.co/n4BNxmj) (邮件列表，大约每周五发）
 
