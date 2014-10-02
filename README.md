@@ -19,11 +19,11 @@
   * [跟踪问答进展](https://github.com/memect/hao/issues) 欢迎认领还没有回答的问题
 
 ### 订阅服务 
-1. 订阅微信公众号： 好东西传送门
+1. 订阅微信公众号： 好东西传送门　（发送好东西传送门的一些推荐和＜机器学习日报＞）
 
 <img width=150 height=150 src="http://u.memect.com/shared/image/hao-wechat.jpeg"/>
 
-2. [订阅好东西周报](http://memect.co/n4BNxmj) (邮件列表，大约每周五发）
+2. [订阅好东西周报](http://memect.co/n4BNxmj) (邮件列表，每周的问答与资源推荐合集，大约每周五发）
 
 ### 使用许可
 
