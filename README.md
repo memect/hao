@@ -34,6 +34,184 @@
 
 
 ## 问答与传送档案
+2014-10-04 《NLP常用信息资源》原资源主要是水木上的zibuyu整理的，@算文解字 推荐。这里我们综合了一些新的内容整理了一个初步的列表，包含了一些网站、课程、研究小组、重要学者、工具等。文字版 http://t.cn/RhrZUWq 部分资源的卡片预览 http://t.cn/RhrZUWG [ [微博](http://www.weibo.com/5220650532/BpZ5eBCdx) ]
+
+2014-10-04 //@十月伤感wb: 【进段广告】我们今年SIGIR文章 Your Neighbors Affect Your Ratings 算是推荐系统里的特征工程，利用商家跟邻近商家的相互影响来提高rating prediction效果。主页 http://t.cn/RhBSY0S ACM http://t.cn/RhBSY0a [ [微博](http://www.weibo.com/5220650532/BpYUb4HJ0) ]
+
+> 2014-10-03 @AixinSG: 如何选择最适合的推荐模型 Choosing a Recommender Model 转自 GraphLab Blog http://t.cn/RhWlFCg [ [微博](http://www.weibo.com/1025887594/BpRAnsYWV) ]
+
+2014-10-04 在加长版里还有个“触类旁通”栏目，列举了有趣的其他话题。比如@GK同人于野 发起的机器人书写的图灵测试的话题 http://t.cn/RhBmK6x 提到机器故意犯错误伪装自己是人的例子 http://t.cn/Rh1eJ0z (Youtube) [哈哈] [ [微博](http://www.weibo.com/5220650532/BpXbccKMv) ]
+
+> 2014-10-04 @好东西传送门: 机器学习头条2014-10-03 http://t.cn/RhBRuRz 1) 选择最适合的推荐模型 @AixinSG 2) 线性回归，偏差、方差权衡 @AustinCody 3) 决策树模型组合之随机森林与GBDT @格灵深瞳 4) 谷歌的线性规划工具glop和运筹学工具集or-tools @王威廉 5) 神经网络黑客指南 @安人心智 加长版21条 http://t.cn/RhBRuRZ [ [微博](http://www.weibo.com/5220650532/BpWJlA8lf) ]
+
+2014-10-04 原文有不错的Python讲解 //@AixinSG: 讲根据数据的特性选择最适合的模型。再往后退一步，从最原始数据得到针对具体推荐问题的最佳表述就有点特征工程的意思了。几年前有个比赛，我同事是评审，说收到的报告有3种：1. 做实验，解释结果 2. 分析数据，选择模型，解释结果 3. 分析数据，实验，然后解释 [ [微博](http://www.weibo.com/5220650532/BpWK0m6sJ) ]
+
+> 2014-10-03 @AixinSG: 如何选择最适合的推荐模型 Choosing a Recommender Model 转自 GraphLab Blog http://t.cn/RhWlFCg [ [微博](http://www.weibo.com/1025887594/BpRAnsYWV) ]
+
+2014-10-04 机器学习头条2014-10-03 http://t.cn/RhBRuRz 1) 选择最适合的推荐模型 @AixinSG 2) 线性回归，偏差、方差权衡 @AustinCody 3) 决策树模型组合之随机森林与GBDT @格灵深瞳 4) 谷歌的线性规划工具glop和运筹学工具集or-tools @王威廉 5) 神经网络黑客指南 @安人心智 加长版21条 http://t.cn/RhBRuRZ [ [微博](http://www.weibo.com/5220650532/BpWJlA8lf) ]
+
+2014-10-04 一篇不错的介绍线性回归的文章 [ [微博](http://www.weibo.com/5220650532/BpWrOtXYa) ]
+
+> 2014-10-03 @AustinCody: 真正的线性回归，不仅会考虑使得曲线与给定点集的拟合程度最好，还会考虑模型最简单，这个话题我们将在本章后面的偏差、方差的权衡中深入的说。概率分布是一个可爱又可恨的东西，当我们能够准确的预知某些数据的分布时。。。。。。 http://t.cn/RhBy6ym [ [微博](http://www.weibo.com/5106435191/BpRuqaTPz) ]
+
+----
+
+2014-10-03 经典文章 Greedy function approximation : A Gradient Boosting Machine http://t.cn/Rh1dW44 并行实现推荐 @陈天奇怪 的xgboost，实际例子见@phunter_lau 最近的文章 http://t.cn/RhKAWac 更多GBDT http://t.cn/Rh1dW4y [ [微博](http://www.weibo.com/5220650532/BpPEBdnO4) ]
+
+> 2014-10-03 @格灵深瞳: 模型组合与决策树相关的算法比较多，这些算法最终的结果是生成N棵树，这样可以大大的减少单决策树带来的毛病，有点类似于三个臭皮匠等于一个诸葛亮的做法，虽然这几百棵决策树中的每一棵都很简单，但是他们组合起来确是很强大。【决策树模型组合之随机森林与GBDT】http://t.cn/Rh1uZ1Y [ [微博](http://www.weibo.com/3769368692/BpP51Bkvo) ]
+
+2014-10-03 Hacker's guide to Neural Networks 教程是用Javascript写的神经网络. 同一作者以前写的convnetjs http://t.cn/Rh1dfKB [ [微博](http://www.weibo.com/5220650532/BpPCL7EB5) ]
+
+> 2014-10-03 @安人心智: #脑技术# 【神经网络黑客指南】现在，最火莫过于深度学习（Deep Learning），怎样更好学习它？可以让你在浏览器中，跑起深度学习效果的超酷开源项目convnetjs作者karpathy告诉你，最佳技巧是，当你开始写代码，一切将变得清晰。他刚发布了一本图书，不断在线更新：http://t.cn/RhSJkOz [ [微博](http://www.weibo.com/2710875561/BpNDGlONo) ]
+
+2014-10-03 补充一个线性规划的Python包 PuLP http://t.cn/Rh1d4hV 是GLPK的一个外壳。 非常简单好用 [ [微博](http://www.weibo.com/5220650532/BpPBLFRx6) ]
+
+> 2014-10-03 @王威廉: 线性规划是在优化、机器学习以及自然语言处理中经常遇到的重要问题。谷歌近日开源了他们的线性规划工具glop。另外，谷歌的开源运筹学工具集or-tools中还包括有各种约束优化问题，线性优化问题，背包问题以及图算法的工具。Google Code下载: http://t.cn/Rh1Wwze [ [微博](http://www.weibo.com/1657470871/BpNM0fzQG) ]
+
+2014-10-03 和@DonaldErvinKnuth 这条参照着看 [呵呵] http://t.cn/Rh1rdx8 还有@李沐M 的这条 http://t.cn/Rh1rdxQ [ [微博](http://www.weibo.com/5220650532/BpPzP7Lns) ]
+
+> 2014-10-03 @晨曦Stephen: Hinton祖师爷来talk, 讲他被nips rejected的paper~问他如何评价最近imagenet challenge的趋势，他说going deeper just work, but that's boring and rubbish, computer vision不应该走这个方向..... [ [微博](http://www.weibo.com/2097352953/BpMXNxxgK) ]
+
+2014-10-03 nolearn十分的Pythonic, 非常简单，和scikit-learn一样好用。项目文档http://t.cn/Rh1rpyM 目前实现了convnet和dbn [ [微博](http://www.weibo.com/5220650532/BpPxHCtSM) ]
+
+> 2014-10-03 @xccds: 两个很好的deep leaning实例示范，用python的nolearn包来实施http://t.cn/Rh11bsl 用R的H2O包来做 http://t.cn/Rh0RNZS [ [微博](http://www.weibo.com/1400524015/BpPirqnf4) ]
+
+2014-10-03 //@张俊林say: 我个人还是首推《统计自然语言处理》，尽管从内容角度讲有点旧因为毕竟出版了10年了，但是可以很好地培养成利用统计思路解决NLP实际问题的思维框架，这一点其它教材都比不上这本。//@好东西传送门: 推荐吴俣的这篇文章. Stanford那门NLP公开课 http://t.cn/zTagx9z [ [微博](http://www.weibo.com/5220650532/BpPu9brIo) ]
+
+> 2014-09-21 @gerrylin: 自然语言处理怎么最快入门？ #读知乎# http://t.cn/RhN1Qhi [ [微博](http://www.weibo.com/1424552461/Bo3dtAHyS) ]
+
+2014-10-03 机器学习头条 2014-10-02 http://t.cn/Rh1WlIL 1)自然语言处理怎么最快入门 by吴俣 @gerrylin 2) 公开课 “矩阵与线性方程组” by马辉 @清华MOOCs 3) String Re-writing Kernel @李航博士 4) Google用深度学习做反垃圾 @我爱机器学习 5)免费电子书Math for CS @velvel2 加长版 http://t.cn/Rh1WlIy [ [微博](http://www.weibo.com/5220650532/BpNQFxwHJ) ]
+
+2014-10-03 //@赶路人林文: Coursera上面有两门NLP的课程，个人比较喜欢哥伦比亚大学的Michael Collins。随课程有相关的阅读材料。NLP with python 只要懂一点python就基本没问题，英文版最佳，入门必备。//@好东西传送门: 推荐吴俣的这篇文章. Stanford那门NLP公开课 http://t.cn/zTagx9z [ [微博](http://www.weibo.com/5220650532/BpMhEdL6y) ]
+
+> 2014-09-21 @gerrylin: 自然语言处理怎么最快入门？ #读知乎# http://t.cn/RhN1Qhi [ [微博](http://www.weibo.com/1424552461/Bo3dtAHyS) ]
+
+----
+
+2014-10-02 推荐吴俣的这篇文章. Stanford那门NLP公开课 http://t.cn/zTagx9z 同推荐, 讲得非常好, 适合入门 Python的包列了pattern scikit-learn 小门再补充NLTK gensim和textblob [ [微博](http://www.weibo.com/5220650532/BpGQm0Cu0) ]
+
+> 2014-09-21 @gerrylin: 自然语言处理怎么最快入门？ #读知乎# http://t.cn/RhN1Qhi [ [微博](http://www.weibo.com/1424552461/Bo3dtAHyS) ]
+
+2014-10-02 @传媒老跟班 最近整理了一个<论文检测> http://t.cn/Rh3nerp 列举了9个中英文系统 PaperPass Copycheck 维普通达 万方数据 Viper 中国搜 Turnitin Dustball PPVS 值得参考 [ [微博](http://www.weibo.com/5220650532/BpGKxukMy) ]
+
+> 2014-08-20 @好东西传送门: 问: @sxhfut 能否推荐一下英文论文的学术不端检测系统或网站，免费的或者收费的靠谱的 答: 关键词Plagiarism, 初步答案与进展: http://t.cn/RPn5uwR Turnitin收费，有很多学校用户; Viper 有免费windows单机版; Plagium 免费在线不限长度, 上了两个排行榜，可以同时用几个交叉检测。欢迎补充指正。 [ [微博](http://www.weibo.com/5220650532/Bjdaxhu6s) ]
+
+2014-10-02 Finlay-Liu @ Github 推荐了冈萨雷斯的<数字图像处理>, 其中第4章频域处理，第5章图像复原都与图像增强相关 http://t.cn/Rh3nUXI [ [微博](http://www.weibo.com/5220650532/BpGFWm6CQ) ]
+
+> 2014-10-01 @好东西传送门: @小白_小可乐 问：有没有图像增强方面的学习资料啊？ 答：图像增强主要分为空域方法和频域方法两大类．这里收集了几篇综述文章 http://t.cn/Rhua1eo 讨论页 http://t.cn/RPlPCU5 欢迎CV领域的专家增补 [ [微博](http://www.weibo.com/5220650532/BpwA4yquC) ]
+
+2014-10-02 强烈推荐！另外再推一次李航博士的新书《Semantic Matching in Search》阐述了搜索中语义匹配的基本方法． 预览与目录 http://t.cn/RPiq2hc [ [微博](http://www.weibo.com/5220650532/BpFDZ9jIP) ]
+
+> 2014-10-02 @李航博士: 最近在台湾做报告时讲 Semantic Matching，回来后把其中介绍 String Re-writing Kernel的部分整理成了短文。http://t.cn/Rh3Kt0z 这个工作曾获得ACL 2012 Best Student Paper Award。与@布凡THU @朱小燕THU 合作的工作。 [ [微博](http://www.weibo.com/2060750830/BpEVUFTGH) ]
+
+2014-10-02 机器学习头条2014-10-01 http://t.cn/Rh36jCa 1)ACM COSN社交网络会议文章下载 @AixinSG 2) 特征工程的方方面面 @xccds 3) semdom英语常用词和词组语义归类 @莫水田 4) Spark MLlib分布式决策树性能提升了2-5倍 @hashjoin 5) Chris Adolph的最大似然课程 @romanxu 加长版23条 http://t.cn/Rh36jCX [ [微博](http://www.weibo.com/5220650532/BpEpmtBzf) ]
+
+----
+
+2014-10-01 不错。没列什么公式，但很有insights//@Copper_PKU:转发微博 [ [微博](http://www.weibo.com/5220650532/BpyQKk4lh) ]
+
+> 2014-10-01 @xccds: http://t.cn/RhumtBN 这篇综述了特征工程的方方面面，值得一读。 [ [微博](http://www.weibo.com/1400524015/BpyMkpCvZ) ]
+
+2014-10-01 semdom，一个很不错的分类树，也可以算本体ontology或者常识知识库，含1800语义类．很友好的Creative Commons授权证 [ [微博](http://www.weibo.com/5220650532/BpxI5lUaR) ]
+
+> 2014-10-01 @莫水田: 我曾想按照语义来给英语常用词和词组归类，不过缺乏能力和行动力，昨晚上发现原来有人已经做了 http://t.cn/RhuOrs3，这个“语义” 网上各种词类都有，较神奇。 多写描绘叙事短文，写时参阅语义网、Oxford Pictorial English Dictionary 和Dictionary of Phrasal Verbs, 那写出生动的英语几年可待~ [ [微博](http://www.weibo.com/1940113775/BpxwV2F4B) ]
+
+2014-10-01 赞MLlib http://t.cn/Rhuofir 补充一个PPT MLlib Decision Trees at SF Scala-BAML Meetup http://t.cn/Rhuofid [ [微博](http://www.weibo.com/5220650532/BpwK2shmJ) ]
+
+> 2014-10-01 @hashjoin: 决策树是数据挖掘中常用的一个算法。在社区和Databricks的合作下，Spark MLlib 1.1对分布式决策树进行了大量的优化，最新版本比上一个版本性能提升了2 - 5倍。这篇博客介绍了几个重要的优化和具体的性能提升 http://t.cn/RhuSxCX [ [微博](http://www.weibo.com/1630850750/BpwDEuAWI) ]
+
+2014-10-01 运维必须知道的15个项目：docker轻量级容器 vagrant部署应用 statsd统计汇总 ansible自动化部署 capistrano远程自动化 salt基础组件通信 sentry处理错误日志 fabric远程调用 chef配置管理 logstash日志处理 peppet服务器自动化 essay 项目部署 等，他们的Github信息一览：http://t.cn/RhuSEzM [ [微博](http://www.weibo.com/5220650532/BpwGe4OJP) ]
+
+2014-10-01 @小白_小可乐 问：有没有图像增强方面的学习资料啊？ 答：图像增强主要分为空域方法和频域方法两大类．这里收集了几篇综述文章 http://t.cn/Rhua1eo 讨论页 http://t.cn/RPlPCU5 欢迎CV领域的专家增补 [ [微博](http://www.weibo.com/5220650532/BpwA4yquC) ]
+
+2014-10-01  //@Noodles-Xu:/@road2stat:各位HR看过来！[太开心]//@统计之都: 作者是统计之都主站编辑之一高涛@三水成海 ，目前研三正在找工作中，欢迎勾搭//@xebro:博主另外几篇很不错的总结：PKU暑期高维统计学习心得 http://t.cn/RhmR6OA ，以及作者收集的当时PKU暑期讲座的相当全的材料 http://t.cn/RhmR6Ow [ [微博](http://www.weibo.com/5220650532/BpvrH2Mbb) ]
+
+> 2014-09-30 @张磊-机器学习: 一篇对ADMM原理及并行化方法总结的很棒的文章，大家耐着性子看完吧：http://t.cn/RPoPFOm [ [微博](http://www.weibo.com/1822639887/Bpn1t6FGN) ]
+
+2014-10-01 文名 ＜从HTML Components的衰落看Web Components的危机＞下面有好多大牛在参与讨论，大家快去[围观] [ [微博](http://www.weibo.com/5220650532/Bpvacimsu) ]
+
+> 2014-10-01 @民工精髓V: 看到大家对Angular，React和Polymer的讨论，我写了一些对Web Components的看法，欢迎大家探讨：http://t.cn/RhmdVXZ [ [微博](http://www.weibo.com/1858846672/BprVLmDJs) ]
+
+2014-10-01 机器学习头条2014-09-30 http://t.cn/RhubqP6 1)天猫推荐算法大赛Top 9团队访谈 @万物皆三NLP 2) Radim Řehůřek: Multicore LDA in Python @星空下的巫师 3)正文抽取的开源代码 @KissDev 4) 量子机器学习 @尹璋琦THU 5) 通过机器学习算法找到真爱 @王威廉 加长版32条 http://t.cn/RhubqPX [ [微博](http://www.weibo.com/5220650532/BpuZGa9Is) ]
+
+2014-10-01 @romanxu 刚才推荐了华盛顿大学统计课Chris Adolph教授的课程Maximum Likelihood Methods for the Social Sciences 为方便浏览，把他的课件都做了预览卡片这这里 http://t.cn/Rhu4DdQ 这门课比较理论联系实际，适合非统计或计算机专业来学． [ [微博](http://www.weibo.com/5220650532/BpuXs9hy3) ]
+
+2014-10-01 转发理由：涵盖各种模型，如二进制数据，有序数据，称名数据（有名字但无顺序），可数数据，缺失数据，等，都可由最大似然方法处理 [ [微博](http://www.weibo.com/5220650532/BpuUahYSR) ]
+
+> 2014-10-01 @romanxu: 隆重推荐：统计课maximum likelihood的教授Chris Adolph，哈佛血统，年轻有为。完全的共享派：编程用R，不用STATA；文字处理用LaTex不用Office；课件完全公开http://t.cn/RP1QErM。还不遗余力给学生写了牛文：Social Science Computing for the Mac in 15 Steps and $29 (http://t.cn/RhuPgl2 [ [微博](http://www.weibo.com/1651598281/BptaEgzO8) ]
+
+2014-10-01 对前几天推荐过的概率分布关系图的详细解释来了[good] //@许扬逸Dijkstra [ [微博](http://www.weibo.com/5220650532/Bpslq2GEk) ]
+
+> 2014-09-28 @上微博的猫V: 【一张图的故事——概率分布之间的关系（上）】      概率分布之间的关系是个有趣的话题。若要一张图简要概述概率分布之间的关系，下图是经典。本文将从上到下，从左到右解释这张图。本来要全部写完才发布的。不过考虑到明天就回家了，家里没有网肯定写不了，所以先发布… http://t.cn/RhEZ2HJ [ [微博](http://www.weibo.com/1679022231/Bp8OT644W) ]
+
+----
+
+2014-09-30 @杜威Dewey 问：互联网应用的分布式数据库存储使用网络存储有什么好方案吗 答：讨论总结现在在issue 62 http://t.cn/RhmtmqT Nexenta、OpenFiler这些开源软件能否上生产环境有几篇近几年的文章． tildelingu老师给了更精华的总结．见长微博 [ [微博](http://www.weibo.com/5220650532/BpoikzVBI) ]
+
+2014-09-30 推荐．加入我们Python资源区的正文提取专题．那里还列举了十多种其他工具 http://t.cn/Rhm2qhw [ [微博](http://www.weibo.com/5220650532/BpnqyjwL1) ]
+
+> 2014-09-30 @KissDev: 正文抽取的开源代码，基于文本密度的html2article: http://t.cn/8FvHNOY 基于标签比例的机器学习Dragnet： http://t.cn/RhnDNg0 专注新闻类网页提取的Newspaper： http://t.cn/RhnDNgW 集成goose等三种算法的readbilitybundle http://t.cn/RhnDNgO 我觉得最好的方法还可能是视觉系方法 [ [微博](http://www.weibo.com/1699016425/BpmqDx5GK) ]
+
+
+2014-09-30 机器学习头条2014-09-29 http://t.cn/RhnECPX 1 机器学习视频课程 @雅虎北京全球研发中心 2 麻省理工Gilbert Strang的《线性代数》课程 @王威廉 3 大数据处理资源、工具 @bitslife 4 R语言抓取实时股票数据的API (作者 @Jincheng9 ) 5 推荐书《语言本能》@西瓜大丸子汤 加长版http://t.cn/RhnECPS [ [微博](http://www.weibo.com/5220650532/BpljlEKUi) ]
+
+2014-09-30 跨平台的优秀编辑器。非常好的中文介绍 [ [微博](http://www.weibo.com/5220650532/BpkCaxyG9) ]
+
+> 2014-09-28 @慕课网: #IT技术分享#【Sublime Text 全程指引】本文系统全面的介绍了Sublime Text，旨在成为最优秀的Sublime Text中文教程，分享给大家。绝对干货，一般人我不告诉。[推荐]原文地址：http://t.cn/Rh8uSA2 [ [微博](http://www.weibo.com/3306361973/Bp4YIuj6T) ]
+
+2014-09-30 转发理由：awesome-bigdata 600多个数据存储、分析相关项目。Github 地址： http://t.cn/RhE6VaJ 作者Onur Akpolat [ [微博](http://www.weibo.com/5220650532/BpjUBs0Av) ]
+
+> 2014-09-29 @bitslife: 大数据数据处理资源、工具不完备列表， 从框架、分布式编程、分布式文件系统、键值数据模型、图数据模型、数据可视化、列存储、机器学习等。很赞的资源汇总。 http://t.cn/8FwSiyK [ [微博](http://www.weibo.com/1895047203/Bpcpu3os6) ]
+
+----
+
+2014-09-29 讨论242 不完全整理贴 http://t.cn/RhE8U44 补充了一篇论文 When Stopword Lists Make the Difference 一个很好玩的发现，英文里9个词的stopword list 与500多词的单子效果差异不大，法语类似。至于中文 ...还希望专家多讲讲 [ [微博](http://www.weibo.com/5220650532/Bpe3p9Ien) ]
+
+> 2014-09-28 @AixinSG: 相对于常规网页或新闻，我觉得停用词在用户生成内容里面会更重要一些，现在更倾向于在索引中保留每个词。Stop stopping stop words: a look at Common Terms Query http://t.cn/Rh8DFRh [ [微博](http://www.weibo.com/1025887594/Bp2RkCBrH) ]
+
+2014-09-29 Python的可穿透防火墙的轻量代理 主页 http://t.cn/Rvc8VZG 使用说明 http://t.cn/zQZIZMd //@Easy: 和Goagent比起来，除了可以自建服务器更稳定外，SS是全局代理，所以Dropbox等客户端也可以用了 [ [微博](http://www.weibo.com/5220650532/BpdRZ9EmC) ]
+
+> 2014-09-29 @Easy: 最近换用Shadowsocks科学上网，非常爽，推荐一把。Mac有客户端，全局代理，自动绕过国内网站，还能手工加名单。谷歌Play市场有应用可用。如果不爱用公用服务器，可以自己搭，一条命令：「 pip install shadowsocks 」顺便放个DO的10美刀优惠 http://t.cn/RP1OvQK [ [微博](http://www.weibo.com/1088413295/BpdNG20WK) ]
+
+2014-09-29 问: 大数据安全或隐私的现状综述? 答: 资料整理 http://t.cn/RhETCi9 推荐一篇2014年综述 Security Issues in Cloud Environments, A Survey 很新很全面: 对比此前10篇相关综述, 覆盖工业界话题, 引用315篇论文。粗分8大类: 软件, 存储与计算, 虚拟化, 互联网与服务, 网络, 访问控制, 信任, 法律 [ [微博](http://www.weibo.com/5220650532/BpdPema1O) ]
+
+2014-09-29 mysql数据库进化图  [ [微博](http://www.weibo.com/5220650532/BpdBgBVtY) ]
+
+> 2014-09-29 @MySQL_DBA: 分享图片 [ [微博](http://www.weibo.com/1979536592/Bpdwwyb0k) ]
+
+2014-09-29 推荐一个基于R语言的API (作者 @Jincheng9 ) 从新浪财经上抓取实时股票和指数数据，包括前收盘价，开盘价，当前价格，今日最高价，今日最低价，成交额等 http://t.cn/RhRahT6 [ [微博](http://www.weibo.com/5220650532/BpbVHeNjs) ]
+
+----
+
+2014-09-28 求指点//@Nick蓝色风暴:接着上一话题，对于随机游走，比如是基于Uniform分布的游走，就是在[current-x1,current+x2]这个区间均匀随机一个数（x1和x2是常量）。而当x1=x2时，是对称随机游走，也就是M算法；当x1不等于x2时，是不对称游走，也就是MH算法。请问我的理解对吗？请大牛们指教@研究者July  [ [微博](http://www.weibo.com/5220650532/Bp61jjF8f) ]
+
+> 2014-09-28 @Nick蓝色风暴: 最近学习MCMC的经典MH算法，被几个不同版本的代码实现给搞糊涂了，关键步骤在于如何得到下一个状态，好像大概分为Independent MCMC和Random Walk MCMC这两种。我现在的理解：独立MCMC是给定一个固定分布，要得到下一个状态就从这个分布里随机一个数；随机游走就是根据当前状态值来随机得到下一个状态。 [ [微博](http://www.weibo.com/1096796232/Bp5OoccYv) ]
+
+2014-09-28 这个讨论很有意义，明天小门会帮着整理合集，请各位专家继续 //@章成志: 是的，要看具体场合，实际上，“停用词”这个概念来源于信息检索、文本分类这样的任务，通常那些区分性较低(idf低）的词很多就是停用词，如果做情感分类等任务，有些词不但不能停用反而很重要。 [ [微博](http://www.weibo.com/5220650532/Bp5joiZta) ]
+
+> 2014-09-28 @AixinSG: 相对于常规网页或新闻，我觉得停用词在用户生成内容里面会更重要一些，现在更倾向于在索引中保留每个词。Stop stopping stop words: a look at Common Terms Query http://t.cn/Rh8DFRh [ [微博](http://www.weibo.com/1025887594/Bp2RkCBrH) ]
+
+2014-09-28 传送理由：Rob Fergus的用深度学习做计算机是觉的NIPS 2013教程。有mp4, mp3, pdf各种下载 pdf传送门 http://t.cn/RhRXlO1 他是纽约大学教授，目前也在Facebook工作，他2014年的8篇论文 http://t.cn/RhRXlO3 [ [微博](http://www.weibo.com/5220650532/Bp5f4inDt) ]
+
+> 2014-09-28 @老淘: Tutorials Session A - Deep Learning for Computer Vision - Microsoft Research http://t.cn/RhR7Jhg  [ [微博](http://www.weibo.com/1849537887/Bp3lUetVx) ]
+
+2014-09-28 传送门的小伙伴们应该会喜欢这本书，非常有趣的视角，非常重要的话题。 [ [微博](http://www.weibo.com/5220650532/Bp543bsWU) ]
+
+> 2014-09-28 @GK同人于野: 我的书《万万没想到：用理工科思维理解世界》出版了，现已开始在京东预售 http://t.cn/RhRxvhy 此书按三个主题 - 反常识思维、成功学的解药、霍金的答案 - 精选并完善了我的文章，其中重点篇目做了很大程度的补充和改写，加入不少新内容，使其达到2014年最新知识。赵南元老师（@荒川围脖 ）慷慨作序！ [ [微博](http://www.weibo.com/2089800791/Bp4YdqYKG) ]
+
+2014-09-28  //@海中的沙粒:回复@ComplexLY:我有一本R数据可视化手册的书，就是教你如何用ggplot2来做数据可视化，说实话跟Tableau做的图，没法比，很多感觉需要用adobe illustrator 来修正下才拿的出手，嘿嘿，真的有点渣 //@ComplexLY:ggplot2 //@海中的沙粒:竟然忘记Python这个跟R差不多的软件了，这个更强悍 [ [微博](http://www.weibo.com/5220650532/Bp2L3dxFO) ]
+
+> 2014-09-28 @海中的沙粒: STATA ,SPSS的学术性意义比较强，STATA的几类回归分析上是最经典的，SPSS在方差分析上非常厉害，SAS适合数据库数据量更大等量级的分析，R比较综合性，编程性上属于难度中等，matlab更倾向于学计算机语言的，编程性更强，数据分析性机器计算更多，总得来说，R是最关键的，因为综合性 [ [微博](http://www.weibo.com/1843007450/Bp1euBodP) ]
+
+----
+
+2014-09-27 R工具包的分类汇总 (CRAN Task Views, 34种常见任务,每个任务又各自分类列举若干常用相关工具包) http://t.cn/RhQy8o5 例如: 机器学习，自然语言处理，时间序列分析，空间信息分析，多重变量分析，计量经济学，心理统计学，社会学统计，化学计量学，环境科学，药物代谢动力学 等 [ [微博](http://www.weibo.com/5220650532/BoTv056xB) ]
+
+
+2014-09-27 问： 请问用于复杂网络分析R软件包? 答： 资料汇总 http://t.cn/RhQwuXT 推荐两个经典包 statnet, igraph 。 R社区有个很全的分类列表覆盖几十个包； 还有几个不错的在线入门课程与学习资料 例如 Stanford的“R for Social Network Analysis” [ [微博](http://www.weibo.com/5220650532/BoT592e2T) ]
+
+----
+
 2014-09-26 赞Search Formula-1 ！//@张颖峰: 如果说常规搜索已经是个解决了的问题（比如elasticsearch等等），为什么还要重新造这个轮子，答案是，更好的可定制性以及更快速的性能。尽管代码质量有待提高，但做为经过高压环境验证的完整解决方案，必将给开发者以更充足的空间来按需补充和裁剪。Apache License [ [微博](http://www.weibo.com/5220650532/BoLJTjP1R) ]
 
 > 2014-09-26 @张颖峰: 也许现在有些早，但苦于没有更多的成员和时间来完善文档，所以还是赶在这个周末之前把我们之前一直完善的引擎对外宣布了，这就是C++编写的高性能分布式搜索存储一体化引擎，主要面向开发者。http://t.cn/RhT3I3B @好东西传送门 [ [微博](http://www.weibo.com/1788077877/BoLngj2V3) ]
