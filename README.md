@@ -35,9 +35,6 @@
 
 ## 问答与传送档案
 
-要订阅《机器学习日报》，给hao@memect.com发封空信，标题是 "订阅机器学习日报"即可.
-
----
 
 2014-10-10 赞好奇猫团队的杰出翻译，主译者是美女Billie Zhang http://t.cn/Rhsksfv [ [微博](http://www.weibo.com/5220650532/BqVq9uNIO) ]
 
