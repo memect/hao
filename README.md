@@ -34,6 +34,182 @@
 
 
 ## 问答与传送档案
+
+要订阅《机器学习日报》，给hao@memect.com发封空信，标题是 "订阅机器学习日报"即可.
+
+---
+
+2014-10-10 赞好奇猫团队的杰出翻译，主译者是美女Billie Zhang http://t.cn/Rhsksfv [ [微博](http://www.weibo.com/5220650532/BqVq9uNIO) ]
+
+> 2014-10-10 @Easy: 一直不会shell编程，mark下来回头读。《Linux命令行》中文版，http://t.cn/zQG7kxb 目录见大图 PDF @微盘 下载 http://t.cn/RhskyeL [ [微博](http://www.weibo.com/1088413295/BqVlRzWjg) ]
+
+2014-10-10 约翰霍普金斯大学JHU作为自然语言处理的一个重镇，其CLSP Seminars广邀重要学者讲学．例如近三期是Isidoros Doxa讲LSA, Jackie CK Cheung讲分布式语义，Yoshua Bengio讲生成模型的深度学习．多年来400多个讲座都在这里．关键学者和话题，在此一目了然 http://t.cn/RhskULw [ [微博](http://www.weibo.com/5220650532/BqVlSrrjT) ]
+
+2014-10-10 Taming Text是一本从实用的角度基于Java处理文本的好书．它包括了文本搜索的原理和用Solr的实现，字符串匹配．实体（如人名地名）识别和OpenNLP实现，文本聚类及工具Carrot//Mahout，文本分类的工具Lucene/Mahout/OpenNLP等 http://t.cn/htf5rQ 源代码http://t.cn/RhsDOce [ [微博](http://www.weibo.com/5220650532/BqViJ8DtN) ]
+
+2014-10-10 用Python实现逻辑回归Logistic Regression。LR是一种强大而简单的机器学习模型，例如Gmail的收件箱分类就使用了LR算法。这篇文章里Kevin Markham介绍了用scikit-learn实现LR的步骤，综合运用statsmodels pandas matplotlib patsy和scikit-learn，一步步教你如何分析数据与建模 http://t.cn/RhsNbFA [ [微博](http://www.weibo.com/5220650532/BqTn7ax4n) ]
+
+2014-10-10 名字显然是在向《Parallel Distributed Processing》这本经典致敬 http://t.cn/RhsLEzv 那是McClelland自己28年前的书了 [ [微博](http://www.weibo.com/5220650532/BqR442xQy) ]
+
+> 2014-06-13 @王晓伟alex: 分享一本关于分布式并行处理的数据《Explorations in Parallel Distributed Processing: A Handbook of Models, Programs, and Exercises》,作者是斯坦福的James L. McClelland。着重介绍了各种神级网络算法的分布式实现,做Distributed Deep Learning 的童鞋可以参考下。网址：http://t.cn/8kltYYT [ [微博](http://www.weibo.com/1932676664/B8MYbbNQy) ]
+
+2014-10-10 总结：@陈佳威_有荷有兰要发光 @哇噻大魔王 推荐ODPS; @陈天奇怪 @范涛_中科大 推荐xgboost http://t.cn/8sVIdCB @irwenqiang 推荐pGBRT http://t.cn/zjaDoYX [ [微博](http://www.weibo.com/5220650532/BqQVI3hLe) ]
+
+> 2014-10-09 @龙星镖局: 求助：有没支持大规模训练的开源GBDT？ [ [微博](http://www.weibo.com/1830516311/BqNjVsVPX) ]
+
+
+----
+
+2014-10-09 @Mindey 君对SageMath云平台计算环境的介绍更赞，有优酷视频 http://t.cn/RhF9Ma8 //@Mindey: It is awesome tool indeed! [ [微博](http://www.weibo.com/5220650532/BqLSGDu6S) ]
+
+> 2014-10-09 @好东西传送门: Sage是一个Python的强大的数学工具箱合集，基本上常见数学计算都有支持：代数方程，微积分，微分方程，多项式，线性代数，群论，数论，拓扑学代数几何，椭圆曲线，可视化....详细列表见长微博。相比某其他软件要上万块才能有的专业包，Sage是个不错的选择。手册 http://t.cn/RhFK6tr [ [微博](http://www.weibo.com/5220650532/BqLO71d2P) ]
+
+
+2014-10-09 机器学习头条 2014-10-08 http://t.cn/RhFwt4M 亚马逊提供的海量公共数据集等5条，见长微博。感谢@52cs @Geffory_ima @lidingpku @黄小非 [ [微博](http://www.weibo.com/5220650532/BqKiR7u0Q) ]
+
+2014-10-09 2)广告系统工程师谈工业界与学术界机器学习的异同 @52cs [ [微博](http://www.weibo.com/5220650532/BqKcNegej) ]
+
+2014-10-09 LingPipe非常值得考虑。项目主页 http://t.cn/RhF7H2U 而且有一本很不错的307页的免费电子书 http://t.cn/RhF7H24 [ [微博](http://www.weibo.com/5220650532/BqJHy2bg9) ]
+
+> 2014-10-08 @ImportNew: 《计算语言工具包LingPipe》LingPipe是一个开源的NLP计算语言工具包，采用Java书写，支持多语言，多领域，多类型的语言处理功能（包括中文分词），并提供Eclipse插件。http://t.cn/Rh37RdQ @黄小非 分享 [ [微博](http://www.weibo.com/2991905905/Bqze22laq) ]
+
+2014-10-09 过去多年的Web上的知识管理的文章尽在其中。想了解知识图谱，语义搜索等的来龙去脉，不能不过目。而且有完整的元数据！很容易开发出新的有趣的应用。可参考ISWC 2010的应用 http://t.cn/zjau1FF [ [微博](http://www.weibo.com/5220650532/BqJD3CB1S) ]
+
+> 2014-10-08 @lidingpku: International Semantic Web Conference - ISWC 2014 (10月18至23) 的全部论文(公开访问preprint PDF) 已经上传到github上了，http://t.cn/RhDmjvw 历年（2001-2014）相关的元数据(RDF,JSON, CSV格式) 也整理好了，可以下载 http://t.cn/RhDmjvA 大家有空挑挑错吧 [ [微博](http://www.weibo.com/5219449194/BqB6iy0rF) ]
+
+2014-10-09 推荐系统前沿必读。DBLP的列表页更好用 http://t.cn/RhFPLGl 每篇文章都有pdf下载 [ [微博](http://www.weibo.com/5220650532/BqJwqls9C) ]
+
+> 2014-10-09 @疯狂的雪SDU: Proceedings of the 8th ACM Conference on Recommender Systems #RecSys2014# is available. http://t.cn/Rhkkqqc [ [微博](http://www.weibo.com/2174081740/BqJfqheeD) ]
+
+2014-10-09 //@星空下的巫师: 原话是：kind of going against what people in research have been finding, but that’s what makes it interesting @董力at北航 @鲁东东胖 [ [微博](http://www.weibo.com/5220650532/BqJqCpmr7) ]
+
+> 2014-10-09 @BigData大数据: #OSDI2014#第一篇DL 微软的ADAM系统 彻底把Lecun 革命了 这个Imagine Net准确率提高的有猛 系统的力量真是无限  亮点在最后一张图 Deep Learning Guys 怎么想？@好东西传送门 @深度学习研究院IDL @云泉微博 @中国计算机学会CCF @杨静Lillian @百度技术沙龙 @chengangcs @CCF技术动态  [ [微博](http://www.weibo.com/2870219257/BqFIOpprZ) ]
+
+2014-10-09 CppCon2014，C++最重要的年度会议PPT一览 http://t.cn/RhksQxB 中文导读请看@顾露-Gu_Lu 的http://t.cn/RhksQx3 [ [微博](http://www.weibo.com/5220650532/BqJq98Rzy) ]
+
+2014-10-09 几个要点：系统优先于算法；并不存在清晰的优化目标函数；系统常变人员常变(所以简单可理解非常非常重要)；各种折衷，而要产生这些折衷也需要容易理解的方法和结果。 [ [微博](http://www.weibo.com/5220650532/BqGDN1TV0) ]
+
+> 2014-10-08 @52cs: 前Google广告系统工程师Josh Wills 讲述工业界和学术界机器学习的异同，总结的真的好！http://t.cn/RhkU1Sj [ [微博](http://www.weibo.com/5172229575/BqDWNdAZm) ]
+
+2014-10-09 摘要：逻辑回归的并行化最主要的就是对目标函数梯度计算的并行化，可以很容易将每个迭代过程拆分，由不同的节点进行独立计算，然后归并。MPI_L-BFGS实验效果最佳 http://t.cn/SAJ2SN http://t.cn/RhkN3x3 //@孙明明_SmarterChina: @Memect [ [微博](http://www.weibo.com/5220650532/BqFNz0JYP) ]
+
+> 2014-02-12 @fengyoung: 并行逻辑回归： 逻辑回归（Logistic Regression，简称LR）是机器学习中十分常用的一种分类算法，在互联网领域得到了广泛的应用，无论是在广告系统中进行CTR预估，推荐系统中的预估转换率，反垃...文字版>> http://t.cn/8FpoAyz （新浪长微博>> http://t.cn/zOXAaic） [ [微博](http://www.weibo.com/1824056637/AwpIi1ie6) ]
+
+
+----
+
+2014-10-08 今年的OSDI内容很丰富 [ [微博](http://www.weibo.com/5220650532/BqFfbjCfp) ]
+
+> 2014-10-08 @BigData大数据: #OSDI2014#重磅Session来了 做深度学习的 做系统的都不能错过 深度学习的Session 这也是OSDI第一加上深度学习的DL  ML的Guy也不能错过 这次的Session Chair 是Rezimi  @云泉微博 @云泉微博 @中国计算机学会CCF @Hadoop中国 @好东西传送门 @hashjoin  [ [微博](http://www.weibo.com/2870219257/BqFch5Q6W) ]
+
+2014-10-08 其他主要是科学类：儿童人体测量， 80年的按日全球天气，23万种材料安全，NASA的地球卫星地图，OpenStreetMap，石油数据, 2000多种稀疏矩阵，SDSS( @斯隆数字化巡天 ) [ [微博](http://www.weibo.com/5220650532/BqCf4mnKB) ]
+
+> 2014-10-08 @好东西传送门: 《亚马逊提供的海量公共数据集》在大数据分析时，一个困难是存储困难，下载耗时。亚马逊AWS云服务平台上为此提供了很多常用的大规模数据集，从各行业数据到百科数据，无需下载即可在AWS EC2上使用。这里我们介绍了目前在线的五十多个数据集，和如何使用的基本方法。文字版http://t.cn/RhDrPhn [ [微博](http://www.weibo.com/5220650532/BqBtMrKK0) ]
+
+2014-10-08 社会与经济类的有：美国1980/1990/2000年人口普查，美国2003-2006经济，美国工商业，美联储经济数据时间序列2万个，日本人口统计，美国劳工部统计，美国交通部各种统计，完整的美国街道名与地址 [ [微博](http://www.weibo.com/5220650532/BqCduygRc) ]
+
+> 2014-10-08 @好东西传送门: 《亚马逊提供的海量公共数据集》在大数据分析时，一个困难是存储困难，下载耗时。亚马逊AWS云服务平台上为此提供了很多常用的大规模数据集，从各行业数据到百科数据，无需下载即可在AWS EC2上使用。这里我们介绍了目前在线的五十多个数据集，和如何使用的基本方法。文字版http://t.cn/RhDrPhn [ [微博](http://www.weibo.com/5220650532/BqBtMrKK0) ]
+
+2014-10-08 计算机类的有：Apache基金会邮件列表，Common Crawl50亿网页(以前推荐过)，DBpedia结构化知识库，Freebase知识图谱(这三个以前推荐过)，安然电子邮件， 4万多个USENET新闻组数，M-Lab的互联网性能诊断，谷歌图书的ngram语言模型 @昊奋 @Gary南京 [ [微博](http://www.weibo.com/5220650532/BqC1qEYkF) ]
+
+> 2014-10-08 @好东西传送门: 《亚马逊提供的海量公共数据集》在大数据分析时，一个困难是存储困难，下载耗时。亚马逊AWS云服务平台上为此提供了很多常用的大规模数据集，从各行业数据到百科数据，无需下载即可在AWS EC2上使用。这里我们介绍了目前在线的五十多个数据集，和如何使用的基本方法。文字版http://t.cn/RhDrPhn [ [微博](http://www.weibo.com/5220650532/BqBtMrKK0) ]
+
+2014-10-08 生物类的数据有：人体基因组，千人基因组计划，老鼠杂交数据，丹尼索瓦人基因组， Ensembl真核生物基因组，50个物种的基因序列，GenBank基因银行，Unigene转录组，PubSem有机小分子生物活性，等 [ [微博](http://www.weibo.com/5220650532/BqBYki5zi) ]
+
+> 2014-10-08 @好东西传送门: 《亚马逊提供的海量公共数据集》在大数据分析时，一个困难是存储困难，下载耗时。亚马逊AWS云服务平台上为此提供了很多常用的大规模数据集，从各行业数据到百科数据，无需下载即可在AWS EC2上使用。这里我们介绍了目前在线的五十多个数据集，和如何使用的基本方法。文字版http://t.cn/RhDrPhn [ [微博](http://www.weibo.com/5220650532/BqBtMrKK0) ]
+
+2014-10-08 目前Python方以22:19微弱领先 [ [微博](http://www.weibo.com/5220650532/BqBNu10SB) ]
+
+> 2014-10-08 @西瓜大丸子汤: 如果你喜欢@好东西传送门 的<机器学习日报>，那下一个你要的是？ 我发起了一个投票【亲们，大数据日报和Python日报，你们想先要哪个】，地址 http://t.cn/RhDWVbW】 [ [微博](http://www.weibo.com/1932835417/BqA9cbAXL) ]
+
+2014-10-08 补充：MovieTweetings包含12万条电影的观众评价，收集自7个月的Twitter流，平均每天有500多。项目介绍PPT http://t.cn/RhDgH81 [ [微博](http://www.weibo.com/5220650532/BqBIn0PTy) ]
+
+> 2014-10-07 @AixinSG: 这个数据集看着挺有意思的 MovieTweetings：A Movie Rating Dataset Collected From Twitter http://t.cn/zRqz834 [ [微博](http://www.weibo.com/1025887594/BqvlpfkjW) ]
+
+2014-10-08 《亚马逊提供的海量公共数据集》在大数据分析时，一个困难是存储困难，下载耗时。亚马逊AWS云服务平台上为此提供了很多常用的大规模数据集，从各行业数据到百科数据，无需下载即可在AWS EC2上使用。这里我们介绍了目前在线的五十多个数据集，和如何使用的基本方法。文字版http://t.cn/RhDrPhn [ [微博](http://www.weibo.com/5220650532/BqBtMrKK0) ]
+
+2014-10-08 C++好东西. 博主非常用心，整理了 教程和介绍 (beginner) 思维和理念 (intermediate) 工程实践 (intermediate) 专题 (general) 工具和库 (general) 几大类，篇篇都做了中文导读． [ [微博](http://www.weibo.com/5220650532/BqA4ODaV4) ]
+
+> 2014-09-23 @顾露-Gu_Lu: (Gu Lu's Blog) CppCon2014 分类合辑 & 十大推荐阅读列表 - http://t.cn/RhOPqAu [ [微博](http://www.weibo.com/1752458857/BohlfqkeM) ]
+
+2014-10-08 刚才忘了链接 http://t.cn/RhD0OAz http://t.cn/RhD0OAZ //@好东西传送门: 说的是．Amazon Public Dataset里有两个气象数据集：NASA NEX遥感与卫星数据，和全球（9000多气象站）1929-2009逐日天气数据，直接挂载EC2就能用，连下载都不用 //@大脸撑在小胸: 值得收藏。PS： 麻烦的是下载读取和处理 [ [微博](http://www.weibo.com/5220650532/BqzZrCPHs) ]
+
+> 2014-10-07 @好东西传送门: @IT莲接 推荐的<史上最全的的气象科研数据来源> http://t.cn/Rhgppds 来自@数据堂 , 列举了综合资料库，天气情况，降水资料，全球土壤资料，风场资料，海洋风场，海浪，海表温度，冰芯，台风等50多个数据集 部分数据集我们做了更直观的卡片预览 http://t.cn/RheCw1Z [ [微博](http://www.weibo.com/5220650532/BqrkwDlyl) ]
+
+2014-10-08 说的是．Amazon Public Dataset里有两个气象数据集：NASA NEX遥感与卫星数据，和全球（9000多气象站）1929-2009逐日天气数据，直接挂载EC2就能用，连下载都不用 //@大脸撑在小胸: 值得收藏。PS：气象资料一般来说获取途径并不是大问题，麻烦的是下载读取和处理[doge] [ [微博](http://www.weibo.com/5220650532/BqzelxhW3) ]
+
+> 2014-10-07 @好东西传送门: @IT莲接 推荐的<史上最全的的气象科研数据来源> http://t.cn/Rhgppds 来自@数据堂 , 列举了综合资料库，天气情况，降水资料，全球土壤资料，风场资料，海洋风场，海浪，海表温度，冰芯，台风等50多个数据集 部分数据集我们做了更直观的卡片预览 http://t.cn/RheCw1Z [ [微博](http://www.weibo.com/5220650532/BqrkwDlyl) ]
+
+2014-10-08 @吴楚东南坼乾坤日夜浮 补充了Hunspell http://t.cn/RhDXuOs @西瓜大丸子汤 补充了Enchant和PyEnchant http://t.cn/RhDXuOF 都是比Aspell更进步的拼写检查开源软件 [ [微博](http://www.weibo.com/5220650532/Bqzazf8lB) ]
+
+> 2014-10-07 @好东西传送门: 问：英文语法检测，拼写错误有开源引擎吗？答：拼写检查推荐Aspell http://t.cn/zjfqk4q 语法检查工具这里有列表http://t.cn/RheHWdP 推荐试试Link Grammar http://t.cn/h47cEM 它可检查是不是合乎语法．如果需要自定义的规则，可以把它的结果再过滤一下 [ [微博](http://www.weibo.com/5220650532/BqstnpYCx) ]
+
+----
+
+2014-10-07 python好工具 [ [微博](http://www.weibo.com/5220650532/BqsYRtj2D) ]
+
+> 2014-10-07 @Python开发者: 《Online Python Tutor：Python 初学者的好帮手》一个免费教育工具，可帮助学生攻克编程学习中的基础障碍，理解每一行源代码在程序执行时在计算机中的过程。通过这个工具，教师或学生可以直接在 Web 浏览器中编写 Python 代码，并一步一步可视化地执行程序……http://t.cn/8kp54hk [ [微博](http://www.weibo.com/5305630013/BqqKcFiJv) ]
+
+2014-10-07 增强现实Augmented Reality对物流企业有什么价值？DHL研发中心最近发布28页的报告，描述了增强现实对快递与后勤产业各环节可能起到的作用：仓储，运输，递送，增值服务等．值得传统企业参考 http://t.cn/Rhe8wMx [ [微博](http://www.weibo.com/5220650532/BqszFssx9) ]
+
+2014-10-07 问：英文语法检测，拼写错误有开源引擎吗？答：拼写检查推荐Aspell http://t.cn/zjfqk4q 语法检查工具这里有列表http://t.cn/RheHWdP 推荐试试Link Grammar http://t.cn/h47cEM 它可检查是不是合乎语法．如果需要自定义的规则，可以把它的结果再过滤一下 [ [微博](http://www.weibo.com/5220650532/BqstnpYCx) ]
+
+2014-10-07 按年绘制了各政权的领土变迁，可以弥补谭其骧版的《中国历史地图集》一个朝代只有一个时间点，不能反映变迁的不足．五千年的历程浓缩为72分钟的视频 http://t.cn/RheVuga (刚才发的链接错了) [ [微博](http://www.weibo.com/5220650532/BqrsA0Hel) ]
+
+> 2014-10-01 @推遍天下: #推遍阅读#中国历史地图详细版version2.0。作者布哈林，是A站的一位up主。他把每个朝代精确成一个个大事件，将各个时间点做成地图，标注十分细致，中国和外国的考证都很充分。同时配上了如章回体目录一样的对联，非常带感。简直是历史地图控的最爱。http://t.cn/8kmDxfN @贫铀穿甲普拉斯 [ [微博](http://www.weibo.com/3047892900/Bpwc0nphV) ]
+
+2014-10-07 @IT莲接 推荐的<史上最全的的气象科研数据来源> http://t.cn/Rhgppds 来自@数据堂 , 列举了综合资料库，天气情况，降水资料，全球土壤资料，风场资料，海洋风场，海浪，海表温度，冰芯，台风等50多个数据集 部分数据集我们做了更直观的卡片预览 http://t.cn/RheCw1Z [ [微博](http://www.weibo.com/5220650532/BqrkwDlyl) ]
+
+2014-10-07 按年绘制了各政权的领土变迁，可以弥补谭其骧版的《中国历史地图集》一个朝代只有一个时间点，不能反映变迁的不足 五千年的历程浓缩为72分钟的视频 http://t.cn/Rhe9xeN [ [微博](http://www.weibo.com/5220650532/BqrfKi28G) ]
+
+> 2014-10-01 @推遍天下: #推遍阅读#中国历史地图详细版version2.0。作者布哈林，是A站的一位up主。他把每个朝代精确成一个个大事件，将各个时间点做成地图，标注十分细致，中国和外国的考证都很充分。同时配上了如章回体目录一样的对联，非常带感。简直是历史地图控的最爱。http://t.cn/8kmDxfN @贫铀穿甲普拉斯 [ [微博](http://www.weibo.com/3047892900/Bpwc0nphV) ]
+
+2014-10-07 来自最好的学术网络搜索ArnetMiner @唐杰THU [ [微博](http://www.weibo.com/5220650532/Bqpfao9aS) ]
+
+> 2014-10-07 @蔡学镛: 过去十八年，计算机科学领域，最好的论文，以及最常被引用的论文，通通在这里 [good]： http://t.cn/zYPysop [ [微博](http://www.weibo.com/1614282004/BqmV793yy) ]
+
+2014-10-07 关注 //@郑思遥:Arrikis 这篇的作者在这条路上已经走了好多年了，最早从08年开始就有文章要革操作系统的命，09年在sosp上发布barrelfish多内核操作系统。这帮人一直在做工作去支撑当时的多内核设计，这篇也是在barrelfish基础上做的，更完善更实际了，很值得学习 //@网路冷眼:转发微博 [ [微博](http://www.weibo.com/5220650532/Bqnoo5T2v) ]
+
+> 2014-10-06 @BigData大数据: #OSDI2014#第一时间快报。OSDI金球奖 最佳三篇论文出来了 这次热门GraphX落选 爆出大冷门 两篇来自底层OS 底层要革命了！还有一篇来自微软@微软亚洲研究院 Cloud 调度 Maven @chengangcs @龙星镖局 @李元超Osiris @好东西传送门 @chengangcs [ [微博](http://www.weibo.com/2870219257/BqlWWhOWi) ]
+
+
+----
+
+2014-10-06 会议主页 http://t.cn/RhItLb6 不熟悉这个会的 见@李沐M 前几天的科普http://t.cn/Rhg6IL3 欢迎大家来科普这届的潜在亮点和看点 @hashjoin @包云岗 [ [微博](http://www.weibo.com/5220650532/BqhZghUyp) ]
+
+> 2014-10-06 @BigData大数据: #OSDI2014#起飞了 期望能赶上晚上盛大的欢迎晚宴 OSDI是系统领域的风向标 无数老的大数据技术都是通过这个舞台介绍给全世界 比如MapReduce Spanner等 对于新的重要大数据技术 比如GraphX 微软的Adam 还有GPUNet都会在明天后天推荐给全学界业界 让我们一起期待 @好东西传送门 http://t.cn/z810m9f [ [微博](http://www.weibo.com/2870219257/Bqfv6itz6) ]
+
+2014-10-06 感谢作者 Liqizhou http://t.cn/zjf6Z67 同时推荐作者的另一篇文章 机器学习概要 http://t.cn/Rhgib8l，列举了各种方法的提纲 [ [微博](http://www.weibo.com/5220650532/BqhSagq7l) ]
+
+> 2014-10-06 @格灵深瞳: AdaBoost 算法的主要思想之一就是在训练集上维护一套权重分布,初始化时 ,Adaboost 为训练集的每个训练例指定相同的权重 1/m。接着调用弱学习算法进行迭代学习。每次迭代后更新训练集上不同样本的权值,对训练失败的样本赋以较大的权重。【AdaBoosting和online Boosting】http://t.cn/RhgIlYM [ [微博](http://www.weibo.com/3769368692/BqhuG3vea) ]
+
+2014-10-06 城市规划，社交媒体分析与自然语言处理的交叉研究 [ [微博](http://www.weibo.com/5220650532/BqgByoL6a) ]
+
+> 2014-10-05 @宋彦-规划: 分享下我的高富帅博士生@waholulu-陈炎 的高大上研究。话说他刚抓取了几天的Chicago的40万个twitter点如图。接下来开始分析阶段了，例如可以看看城市活动的热点，还可以用text sentiment analysis分析twitter的态度（积极/消极）和感情（愤怒惊喜啥的）并与城市场所对接，大家有什么好主意我们来实现！ [ [微博](http://www.weibo.com/2610584165/Bqa80jeNa) ]
+
+2014-10-05 强烈推荐！Github上完整目录： http://t.cn/RP75CfG 现在已经完成语言的基本介绍，在写第三部分网站构建 [ [微博](http://www.weibo.com/5220650532/Bq8zd9tP1) ]
+
+> 2014-10-04 @老齐Py: @Jayin_Ton 推荐到我的网站上看完整的《零基础学python》，目前正在写tornado做网站部分。地址：http://t.cn/Rh6wm17 [ [微博](http://www.weibo.com/1449482283/Bq2g5k3rr) ]
+
+2014-10-05 感谢刘知远老师! //@刘知远THU: 整理得很好啊，分享！研究生的时候曾在水木上整理了一些资源，转眼几年NLP已经关版被微博取代了。技术大势，浩浩汤汤，不进则退，大家努力。:) [ [微博](http://www.weibo.com/5220650532/Bq7zgEVgv) ]
+
+> 2014-10-04 @好东西传送门: 《NLP常用信息资源》原资源主要是水木上的zibuyu整理的，@算文解字 推荐。这里我们综合了一些新的内容整理了一个初步的列表，包含了一些网站、课程、研究小组、重要学者、工具等。文字版 http://t.cn/RhrZUWq 部分资源的卡片预览 http://t.cn/RhrZUWG [ [微博](http://www.weibo.com/5220650532/BpZ5eBCdx) ]
+
+
+2014-10-05 很不错的文章。再补充一个技巧：用书名的isbn来搜往往会有惊喜 [ [微博](http://www.weibo.com/5220650532/Bq728oZ5G) ]
+
+> 2014-10-04 @武汉大学: 【我是怎么找电子书的】目前主页君所见最为齐全的搜索电子书的方法和软件汇总——中文、外文、学术资源、古典文籍，甚至竖版图书！直接网页格式，方便复制链接。别问我挖掘技术谁最强，各有所长，试过就知道[偷笑]http://t.cn/RhBT4av [ [微博](http://www.weibo.com/1666177401/BpXEI9Aon) ]
+
+2014-10-05 昨天推荐的文章《线性回归，偏差、方差权衡》，很抱歉没有及时发现原作者@LeftNotEasy 出处是http://t.cn/hrvcPf 他的博客里还有很多经典文章：机器学习中的数学系列：回归、梯度下降、线性回归、模型组合、LDA、PCA、SVD; 机器学习中的算法系列: 决策树 - 随机森林与GBDT(我们以前推荐过) SVM基础 [ [微博](http://www.weibo.com/5220650532/Bq6GNbQUF) ]
+
+2014-10-05 //@算文解字:赞！最应该感谢的是 @刘知远THU 哈，不解释 :) 另外书里边，很多NLPer还很推崇宗成庆老师的《统计自然语言处理》，已经出第2版了，内容很新。 [ [微博](http://www.weibo.com/5220650532/Bq3LcDWuu) ]
+
+> 2014-10-04 @好东西传送门: 《NLP常用信息资源》原资源主要是水木上的zibuyu整理的，@算文解字 推荐。这里我们综合了一些新的内容整理了一个初步的列表，包含了一些网站、课程、研究小组、重要学者、工具等。文字版 http://t.cn/RhrZUWq 部分资源的卡片预览 http://t.cn/RhrZUWG [ [微博](http://www.weibo.com/5220650532/BpZ5eBCdx) ]
+
+
+----
+
+
 2014-10-04 《NLP常用信息资源》原资源主要是水木上的zibuyu整理的，@算文解字 推荐。这里我们综合了一些新的内容整理了一个初步的列表，包含了一些网站、课程、研究小组、重要学者、工具等。文字版 http://t.cn/RhrZUWq 部分资源的卡片预览 http://t.cn/RhrZUWG [ [微博](http://www.weibo.com/5220650532/BpZ5eBCdx) ]
 
 2014-10-04 //@十月伤感wb: 【进段广告】我们今年SIGIR文章 Your Neighbors Affect Your Ratings 算是推荐系统里的特征工程，利用商家跟邻近商家的相互影响来提高rating prediction效果。主页 http://t.cn/RhBSY0S ACM http://t.cn/RhBSY0a [ [微博](http://www.weibo.com/5220650532/BpYUb4HJ0) ]
