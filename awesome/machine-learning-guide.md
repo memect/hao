@@ -4,9 +4,52 @@
 
 ----
 
+为了帮助中文用户有效跟踪发展趋势，我们做了一个[机器学习日报](http://ml.memect.com) 每天花几分钟就能长知识，网站上有样板。订阅 请给hao@memect.com发邮件，标题＂订阅机器学习日报＂。
+
+## 基本概念
 [机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) 机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。
 
-为了帮助中文用户有效跟踪发展趋势，我们做了一个[机器学习日报](http://ml.memect.com) 每天花几分钟就能长知识，网站上有样板。订阅 请给hao@memect.com发邮件，标题＂订阅机器学习日报＂。
+![](http://www.nltk.org/images/supervised-classification.png) 监督学习
+image source: http://www.nltk.org/book/ch06.html
+
+
+[机器学习与数据挖掘的区别](http://en.wikipedia.org/wiki/Machine_learning#Machine_learning_and_data_mining)
+* 机器学习关注从训练数据中学到已知属性进行预测，例如百度预测世界杯
+* 数据挖掘侧重从数据中发现未知属性，例如
+
+[Dan Levin, What is the difference between statistics, machine learning, AI and data mining?](http://www.quora.com/What-are-some-good-machine-learning-jokes)
+* If there are up to 3 variables, it is statistics.
+* If the problem is NP-complete, it is machine learning.
+* If the problem is PSPACE-complete, it is AI.
+* If you don't know what is PSPACE-complete, it is data mining.
+
+## 知识图谱
+
+    监督学习从给定的训练数据集中学习出一个函数，当新的数据到来时，可以根据这个函数预测结果。监督学习的训练集要求是包括输入和输出，也可以说是特征和目标。训练集中的目标是由人标注的。常见的监督学习算法包括回归分析和统计分类。
+    无监督学习与监督学习相比，训练集没有人为标注的结果。常见的无监督学习算法有聚类。
+    半监督学习介于监督学习与无监督学习之间。
+    增强学习通过观察来学习做成如何的动作。每个动作都会对环境有所影响，学习对象根据观察到的周围环境的反馈来做出判断。
+
+具体的机器学习算法有：
+
+    构造条件概率：回归分析和统计分类
+        人工神经网络
+        决策树（Decision tree）
+        高斯过程回归
+        线性判别分析
+        最近邻居法
+        感知器
+        径向基函数核
+        支持向量机
+    通过再生模型构造概率密度函数（Probability density function）：
+        最大期望算法（Expectation-maximization algorithm）
+        graphical model：包括贝叶斯网和Markov随机场
+        Generative Topographic Mapping
+    近似推断技术：
+        马尔可夫链（Markov chain）蒙特卡罗方法
+        变分法
+    最优化（Optimization）：大多数以上方法，直接或者间接使用最优化算法。
+
 
 
 ## 公开课
@@ -55,7 +98,7 @@
  19. Conclusion
 
 ### 2008年Andrew Ng CS229 机器学习
-[中文字幕视频@网易公开课](http://v.163.com/special/opencourse/machinelearning.html) [英文版视频@youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) 
+[中文字幕视频@网易公开课](http://v.163.com/special/opencourse/machinelearning.html)  |  [英文版视频@youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)  |
 [课件PDF@Stanford](http://cs229.stanford.edu/materials.html)
 
 * [第1集] 机器学习的动机与应用
@@ -81,7 +124,8 @@
 
 
 
-### 2012年 机器学习公开课（余凯&张潼）－－ 更适合进阶 [课程主页@百度文库](http://wenku.baidu.com/course/view/49e8b8f67c1cfad6195fa705) [课件PDF@龙星计划](http://bigeye.au.tsinghua.edu.cn/DragonStar2012/download.html)
+### 2012年 机器学习公开课（余凯&张潼）-- 更适合进阶
+[课程主页@百度文库](http://wenku.baidu.com/course/view/49e8b8f67c1cfad6195fa705)  ｜ [课件PDF@龙星计划](http://bigeye.au.tsinghua.edu.cn/DragonStar2012/download.html)
 * 第1节Introduction to ML and review of linear algebra, probability, statistics (kai)
 * 第2节linear model (tong) 
 * 第3节overfitting and regularization(tong)
