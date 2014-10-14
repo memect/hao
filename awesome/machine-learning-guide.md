@@ -33,25 +33,26 @@
 
 ### 2014 Andrew Ng 的机器学习课的公开课
  [英文原版视频](https://www.coursera.org/course/ml) 
-1. Introduction (Week 1)
-2. Linear Regression with One Variable (Week 1)
-3. Linear Algebra Review (Week 1, Optional)
-4. Linear Regression with Multiple Variables (Week 2)
-5. Octave Tutorial (Week 2)
-6. Logistic Regression (Week 3)
-7. Regularization (Week 3)
-8. Neural Networks: Representation (Week 4)
-9. Neural Networks: Learning (Week 5)
-10. Advice for Applying Machine Learning (Week 6)
-11. Machine Learning System Design (Week 6)
-12. Support Vector Machines (Week 7)
-13. Clustering (Week 8)
-14. Dimensionality Reduction (Week 8)
-15. Anomaly Detection (Week 9)
-16. Recommender Systems (Week 9)
-17. Large Scale Machine Learning (Week 10)
-18. Application Example: Photo OCR
-19. Conclusion
+
+ 1.  Introduction (Week 1)
+ 2. Linear Regression with One Variable (Week 1)
+ 3. Linear Algebra Review (Week 1, Optional)
+ 4. Linear Regression with Multiple Variables (Week 2)
+ 5. Octave Tutorial (Week 2)
+ 6. Logistic Regression (Week 3)
+ 7. Regularization (Week 3)
+ 8. Neural Networks: Representation (Week 4)
+ 9. Neural Networks: Learning (Week 5)
+ 10. Advice for Applying Machine Learning (Week 6)
+ 11. Machine Learning System Design (Week 6)
+ 12. Support Vector Machines (Week 7)
+ 13. Clustering (Week 8)
+ 14. Dimensionality Reduction (Week 8)
+ 15. Anomaly Detection (Week 9)
+ 16. Recommender Systems (Week 9)
+ 17. Large Scale Machine Learning (Week 10)
+ 18. Application Example: Photo OCR
+ 19. Conclusion
 
 ### 2008年Andrew Ng CS229 机器学习
 [中文字幕视频@网易公开课](http://v.163.com/special/opencourse/machinelearning.html) [英文版视频@youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599) 
