@@ -21,12 +21,19 @@
 
 
 ## 入门攻略
-[机器学习入门者学习指南@果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- 研究生型入门者的亲身经历
+[机器学习入门者学习指南 @果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- 研究生型入门者的亲身经历
 
-[机器学习的最佳入门学习资源@伯乐在线](http://blog.jobbole.com/56256/) (2014) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/), 原文是Jason Brownlee 2013年的博文 [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)  
-
+* [机器学习的最佳入门学习资源 @伯乐在线](http://blog.jobbole.com/56256/) (2014) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/), 原文是Jason Brownlee 2013年的博文 [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)  -- 更面向码农
 
 为了帮助中文用户有效跟踪发展趋势，我们做了一个[机器学习日报](http://ml.memect.com) 每天花几分钟就能长知识，网站上有样板。订阅 请给hao@memect.com发邮件，标题＂订阅机器学习日报＂。
+
+
+### 更多攻略
+
+* [机器学习该怎么入门 @知乎](http://www.zhihu.com/question/20691338) (2014) 
+* [What's the easiest way to learn machine  learning @quora](http://www.quora.com/Whats-the-easiest-way-to-learn-machine-learning) (2013)
+* [http://www.quora.com/What-is-the-best-way-to-study-machine-learning @quora](http://www.quora.com/What-is-the-best-way-to-study-machine-learning)  (2012)
+
 
 ## 课程资源
 Tom Mitchell 和 Andrew Ng 的课都很适合入门
