@@ -185,6 +185,8 @@ http://www.52ml.net/ 我爱机器学习
 
 http://www.mitbbs.com/bbsdoc/DataSciences.html MITBBS－ 电脑网络 - 数据科学版
 
+http://www.guokr.com/group/262/ 果壳 > 机器学习小组
+
 http://cos.name/cn/forum/22  统计之都 » 统计学世界 » 数据挖掘和机器学习
 
 http://bbs.byr.cn/#!board/ML_DM  北邮人论坛 >> 学术科技 >> 机器学习与数据挖掘
