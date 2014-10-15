@@ -260,5 +260,5 @@ http://www.datasciencecentral.com/  数据科学中心网站
 
 几本好书，书籍推荐很多高人都做过，这里就不多说了，直接给链接
 * [Machine Learning in Action](http://manning.com/pharrington/) Peter Harrington  中文版 [机器学习实战 @豆瓣](http://book.douban.com/subject/24703171/)  -- “这本书能让你明白：那些被吹捧得出神入化的分类算法，竟然实现起来如此简单； 那些看是高深的数学理论，其实一句话就能道明其本质； 一切复杂的事物，出发点都是非常简单的想法。” 摘自[Kord @豆瓣](http://book.douban.com/review/6249619/)的评论
-* 李航博士的书 [统计学习方法 @豆瓣](http://book.douban.com/subject/10590856/)  -- 要求数学基础好
+* 李航博士的书 [统计学习方法 @豆瓣](http://book.douban.com/subject/10590856/)  -- 首先这是一本好书，“如果我什么都不知道，这种干货为主的传统教科书很可能会让我讨厌机器学习的（个人观点）。但是，如果把这本书作为参考书，那将是非常好的一本，一方面算是比较权威吧，另一方面是简洁，用公式、逻辑说话，不做太多通俗的解释，比起PRML等书就简洁了很多，有着独特的魅力和市场需求。”  摘自[chentingpc @豆瓣](http://book.douban.com/review/5540889/)的评论
 * [机器学习经典书籍 @算法组](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D/p1) by [算法组](http://www.weibo.com/suanfazu)
