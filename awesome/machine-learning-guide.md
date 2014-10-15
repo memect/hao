@@ -20,7 +20,7 @@
 
 
 
-## 攻略
+## 入门攻略
 [机器学习入门者学习指南@果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- 研究生型入门者的亲身经历
 
 [机器学习的最佳入门学习资源@伯乐在线](http://blog.jobbole.com/56256/) (2014) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/), 原文是Jason Brownlee 2013年的博文 [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)  
