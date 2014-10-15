@@ -21,9 +21,13 @@
 
 
 ## 入门攻略
-[机器学习入门者学习指南 @果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- 研究生型入门者的亲身经历
+* [机器学习入门者学习指南 @果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- 研究生型入门者的亲身经历
 
-* [机器学习的最佳入门学习资源 @伯乐在线](http://blog.jobbole.com/56256/) (2014) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/), 原文是Jason Brownlee 2013年的博文 [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)  -- 更面向码农
+* [Machine Learning Roadmap: Your Self-Study Guide to Machine Learning](https://machinelearningmastery.com/machine-learning-roadmap-your-self-study-guide-to-machine-learning/) (2014) Jason Brownlee -- 虽然是英文版，但非常容易读懂。对Beginner,Novice,Intermediate,Advanced读者都有覆盖。
+ * 他的这篇也非常好 [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/) 
+ * [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)，这片有中文翻译 [机器学习的最佳入门学习资源 @伯乐在线](http://blog.jobbole.com/56256/) (2014) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/)
+
+
 
 为了帮助中文用户有效跟踪发展趋势，我们做了一个[机器学习日报](http://ml.memect.com) 每天花几分钟就能长知识，网站上有样板。订阅 请给hao@memect.com发邮件，标题＂订阅机器学习日报＂。
 
