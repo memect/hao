@@ -259,5 +259,6 @@ http://www.datasciencecentral.com/  数据科学中心网站
 * [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。这是刘知远翻译的中文版 [机器学习那些事 PDF](http://www.valleytalk.org/wp-content/uploads/2012/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%82%A3%E4%BA%9B%E4%BA%8B.pdf)
 
 几本好书，书籍推荐很多高人都做过，这里就不多说了，直接给链接
-* 李航博士的《统计学习方法》一书前段也推荐过，给个[豆瓣的链接](http://book.douban.com/subject/10590856/)
+* [Machine Learning in Action](http://manning.com/pharrington/) Peter Harrington  中文版 [机器学习实战 @豆瓣](http://book.douban.com/subject/24703171/)  -- “这本书能让你明白：那些被吹捧得出神入化的分类算法，竟然实现起来如此简单； 那些看是高深的数学理论，其实一句话就能道明其本质； 一切复杂的事物，出发点都是非常简单的想法。” 摘自[Kord @豆瓣](http://book.douban.com/review/6249619/)的评论
+* 李航博士的书 [统计学习方法 @豆瓣](http://book.douban.com/subject/10590856/)  -- 要求数学基础好
 * [机器学习经典书籍 @算法组](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D/p1) by [算法组](http://www.weibo.com/suanfazu)
