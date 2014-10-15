@@ -207,6 +207,6 @@ http://www.datasciencecentral.com/  数据科学中心网站
 * If the problem is PSPACE-complete, it is AI.
 * If you don't know what is PSPACE-complete, it is data mining.
 
-几篇高屋建瓴的领域概论 （参见[原文](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
+几篇高屋建瓴的机器学习领域概论, 参见[原文](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/) 
 * [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)Tom Mitchell 当年为在CMU建立机器学习系给校长写的东西。
 * [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。
