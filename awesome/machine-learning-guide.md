@@ -10,7 +10,9 @@
 
 
 ## 基本概念
-[机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) 机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。
+[机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) "机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。**机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法**。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。" --摘自维基百科
+
+[How do you explain Machine Learning and Data Mining to non Computer Science people? @quora](http://www.quora.com/How-do-you-explain-Machine-Learning-and-Data-Mining-to-non-Computer-Science-people) by Pararth Shah, 中文版 [如何向小白介绍何谓机器学习和数据挖掘？买回芒果他就懂了 @36kr](http://www.36kr.com/p/200601.html) -- 这印证了上面讲的定义 “机器学习就是从现象中发现统计规律，再利用规律预测”。当一车水果混作一团时，监督学习（supervised learning)能根据你提供的几个苹果样本帮你把所有苹果从梨，芒果中区分出来； 无监督学习（unsupervised learning）能根据已知的各种特征,无需样本自动把类似的水果分上几堆（也许是红水果和黄水果，也许是大苹果小苹果,...）；关联规则学习（association rule learning) 则是帮你发现基于规则的规律，例如绿色的小苹果都有点酸。
 
 
 下面从微观到宏观试着梳理一下机器学习的范畴：一个具体的算法，领域进一步细分，实战应用场景，与其他领域的关系。
@@ -256,5 +258,6 @@ http://www.datasciencecentral.com/  数据科学中心网站
 * [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)Tom Mitchell 当年为在CMU建立机器学习系给校长写的东西。
 * [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。这是刘知远翻译的中文版 [机器学习那些事 PDF](http://www.valleytalk.org/wp-content/uploads/2012/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%82%A3%E4%BA%9B%E4%BA%8B.pdf)
 
-几本好书
+几本好书，书籍推荐很多高人都做过，这里就不多说了，直接给链接
 * 李航博士的《统计学习方法》一书前段也推荐过，给个[豆瓣的链接](http://book.douban.com/subject/10590856/)
+* [机器学习经典书籍 @算法组](http://suanfazu.com/discussion/109/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%B1%8D/p1) by [算法组](http://www.weibo.com/suanfazu)
