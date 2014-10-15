@@ -8,15 +8,19 @@
 ## 基本概念
 [机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) 机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。
 
-<img src="http://work.caltech.edu/images1/map.png"/>
-
-图1: 机器学习概要图 (source: http://work.caltech.edu/library/181.html)
-
 
 <img src="http://www.nltk.org/images/supervised-classification.png"/>
 
-图2: 监督学习的工作流程图 (source: http://www.nltk.org/book/ch06.html)
+图1: 机器学习的例子：NLTK监督学习的工作流程图 (source: http://www.nltk.org/book/ch06.html)
 
+<img src="http://work.caltech.edu/images1/map.png"/>
+
+图2: 机器学习概要图 by Yaser Abu-Mostafa (Caltech) (source: http://work.caltech.edu/library/181.html)
+
+
+<img src="http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1-1024x831.png"/>
+
+图3: 机器学习和其他学科的关系： 数据科学的地铁图 by Swami Chandrasekaran (source: http://nirvacana.com/thoughts/becoming-a-data-scientist/)
 
 
 ## 入门攻略
@@ -43,7 +47,7 @@
 * [机器学习该怎么入门 @知乎](http://www.zhihu.com/question/20691338) (2014) 
 * [What's the easiest way to learn machine  learning @quora](http://www.quora.com/Whats-the-easiest-way-to-learn-machine-learning) (2013)
 * [What is the best way to study machine learning @quora](http://www.quora.com/What-is-the-best-way-to-study-machine-learning)  (2012)
-
+* [Is there any roadmap for learning Machine Learning (ML) and its related courses at CMU Is there any roadmap for learning Machine Learning (ML) and its related courses at CMU](http://www.quora.com/Is-there-any-roadmap-for-learning-Machine-Learning-ML-and-its-related-courses-at-CMU) (2014)
 
 ## 课程资源
 Tom Mitchell 和 Andrew Ng 的课都很适合入门
