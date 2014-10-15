@@ -254,7 +254,7 @@ http://www.datasciencecentral.com/  数据科学中心网站
 
 几篇高屋建瓴的机器学习领域概论, 参见[原文](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/) 
 * [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)Tom Mitchell 当年为在CMU建立机器学习系给校长写的东西。
-* [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。
+* [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。这是刘知远翻译的中文版 [机器学习那些事 PDF](http://www.valleytalk.org/wp-content/uploads/2012/11/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E9%82%A3%E4%BA%9B%E4%BA%8B.pdf)
 
 几本好书
 * 李航博士的《统计学习方法》一书前段也推荐过，给个[豆瓣的链接](http://book.douban.com/subject/10590856/)
