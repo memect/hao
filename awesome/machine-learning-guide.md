@@ -18,9 +18,14 @@
 图2: 机器学习概要图 by Yaser Abu-Mostafa (Caltech) (source: http://work.caltech.edu/library/181.html)
 
 
+<img src="http://4.bp.blogspot.com/-o0vLxYf6YZ4/UQVO9K2jxDI/AAAAAAAACt8/Z5w0bSgqkxw/s640/machine_learning.png"/>
+
+图3: 机器学习实战：在python scikit learn 中选择机器学习算法 by Nishant Chandra (source: http://n-chandra.blogspot.com/2013/01/picking-machine-learning-algorithm.html)
+
+
 <img src="http://nirvacana.com/thoughts/wp-content/uploads/2013/07/RoadToDataScientist1-1024x831.png"/>
 
-图3: 机器学习和其他学科的关系： 数据科学的地铁图 by Swami Chandrasekaran (source: http://nirvacana.com/thoughts/becoming-a-data-scientist/)
+图4: 机器学习和其他学科的关系： 数据科学的地铁图 by Swami Chandrasekaran (source: http://nirvacana.com/thoughts/becoming-a-data-scientist/)
 
 
 ## 入门攻略
