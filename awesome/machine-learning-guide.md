@@ -87,7 +87,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
 以上为课程标题节选
 
 #### 2014 Andrew Ng (Stanford)机器学习
- [英文原版视频](https://www.coursera.org/course/ml) 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”（参见白马同学的入门攻略）"推荐报名，跟着上课，做课后习题和期末考试。(因为只看不干，啥都学不会)。" (参见reyoung的建议）  
+ [英文原版视频](https://www.coursera.org/course/ml) ｜ [果壳讨论](http://mooc.guokr.com/course/16/Machine-Learning/) 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”（参见白马同学的入门攻略）"推荐报名，跟着上课，做课后习题和期末考试。(因为只看不干，啥都学不会)。" (参见reyoung的建议）  
 
  1.  Introduction (Week 1)
  2. Linear Regression with One Variable (Week 1)
