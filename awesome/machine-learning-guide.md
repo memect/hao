@@ -71,31 +71,31 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
 #### 2008年Andrew Ng CS229 机器学习 -- 这组视频有点年头了，主讲人这两年也高大上了，当然基本方法没有太大变化。
 [中文字幕视频@网易公开课](http://v.163.com/special/opencourse/machinelearning.html)  |  [英文版视频@youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)  |
 [课件PDF@Stanford](http://cs229.stanford.edu/materials.html)
-
-第1集 机器学习的动机与应用
-第2集 监督学习应用.梯度下降  	
-第3集 欠拟合与过拟合的概念  	
-第4集 牛顿方法  	
-第5集 生成学习算法  	
-第6集 朴素贝叶斯算法  	
-第7集 最优间隔分类器问题  	
-第8集 顺序最小优化算法  	
-第9集 经验风险最小化  	
-第10集 特征选择  	
-第11集 贝叶斯统计正则化  	
-第12集 K-means算法  	
-第13集 高斯混合模型  	
-第14集 主成分分析法  	
-第15集 奇异值分解  	
-第16集 马尔可夫决策过程  	
-第17集 离散与维数灾难  	
-第18集 线性二次型调节控制  	
-第19集 微分动态规划  	
-第20集 策略搜索  
-
+ 
+ 第1集.机器学习的动机与应用
+ 第2集.监督学习应用.梯度下降
+ 第3集.欠拟合与过拟合的概念
+ 第4集.牛顿方法
+ 第5集.生成学习算法
+ 第6集.朴素贝叶斯算法
+ 第7集.最优间隔分类器问题
+ 第8集.顺序最小优化算法
+ 第9集.经验风险最小化
+ 第10集.特征选择
+ 第11集.贝叶斯统计正则化
+ 第12集.K-means算法
+ 第13集.高斯混合模型
+ 第14集.主成分分析法
+ 第15集.奇异值分解
+ 第16集.马尔可夫决策过程
+ 第17集.离散与维数灾难
+ 第18集.线性二次型调节控制
+ 第19集.微分动态规划
+ 第20集.策略搜索
 
 #### 2012年 机器学习公开课（余凯&张潼）-- 内容更适合进阶
 [课程主页@百度文库](http://wenku.baidu.com/course/view/49e8b8f67c1cfad6195fa705)  ｜ [课件PDF@龙星计划](http://bigeye.au.tsinghua.edu.cn/DragonStar2012/download.html)
+
  第1节Introduction to ML and review of linear algebra, probability, statistics (kai)
  第2节linear model (tong) 
  第3节overfitting and regularization(tong)
