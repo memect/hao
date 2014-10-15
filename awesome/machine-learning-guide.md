@@ -19,15 +19,21 @@
 
 
 
-
 ## 入门攻略
 * [机器学习入门者学习指南 @果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- 研究生型入门者的亲身经历
+
+* [有没有做机器学习的哥们？能否介绍一下是如何起步的](http://ourcoders.com/thread/show/2837/) -- 研究生型入门者的亲身经历，尤其要看[reyoung](http://ourcoders.com/user/show/25895/reyoung/)的建议 
+
+* [tornadomeet 机器学习 笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/) (2013) -- 学霸的学习笔记，看看小伙伴是怎样一步一步地掌握“机器学习”
 
 * [Machine Learning Roadmap: Your Self-Study Guide to Machine Learning](https://machinelearningmastery.com/machine-learning-roadmap-your-self-study-guide-to-machine-learning/) (2014) Jason Brownlee -- 虽然是英文版，但非常容易读懂。对Beginner,Novice,Intermediate,Advanced读者都有覆盖。
  * 他的这篇也非常好 [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)  （2013）
  * [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)（2013） 这片有中文翻译 [机器学习的最佳入门学习资源 @伯乐在线](http://blog.jobbole.com/56256/) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/)
 
 
+* 门主的几个建议
+  * 既要有数学基础，也要编程实践
+  * 别怕英文版，你不懂的大多是专业名词，将来不论写文章还是读文档都是英文为主
 
 为了帮助中文用户有效跟踪发展趋势，我们做了一个[机器学习日报](http://ml.memect.com) 每天花几分钟就能长知识，网站上有样板。订阅 请给hao@memect.com发邮件，标题＂订阅机器学习日报＂。
 
@@ -63,7 +69,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
 以上为课程标题节选
 
 ### 2014 Andrew Ng (Stanford)机器学习
- [英文原版视频](https://www.coursera.org/course/ml) 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”（参见白马同学的入门攻略） 
+ [英文原版视频](https://www.coursera.org/course/ml) 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”（参见白马同学的入门攻略）"推荐报名，跟着上课，做课后习题和期末考试。(因为只看不干，啥都学不会)。" (参见reyoung的建议）  
 
  1.  Introduction (Week 1)
  2. Linear Regression with One Variable (Week 1)
@@ -89,7 +95,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
 
 ### 更多选择
 
-**2008年Andrew Ng CS229 机器学习** -- 这组视频有点年头了，主讲人这两年也高大上了，当然基本方法没有太大变化。
+**2008年Andrew Ng CS229 机器学习** -- 这组视频有些年头了，主讲人这两年也高大上了.当然基本方法没有太大变化，所以课件PDF可下载是优点。
 [中文字幕视频@网易公开课](http://v.163.com/special/opencourse/machinelearning.html)  |  [英文版视频@youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)  |
 [课件PDF@Stanford](http://cs229.stanford.edu/materials.html)
  
