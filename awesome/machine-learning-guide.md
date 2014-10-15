@@ -63,8 +63,9 @@
 ## 课程资源
 Tom Mitchell 和 Andrew Ng 的课都很适合入门
 
+### 入门课程
 
-### 2011 Tom Mitchell(CMU)机器学习
+#### 2011 Tom Mitchell(CMU)机器学习
  [英文原版视频与课件PDF](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)  他的《机器学习》在很多课程上被选做教材，有中文版。
 * Decision Trees
 * Probability and Estimation 
@@ -83,7 +84,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
 * Reinforcement Learning
 以上为课程标题节选
 
-### 2014 Andrew Ng (Stanford)机器学习
+#### 2014 Andrew Ng (Stanford)机器学习
  [英文原版视频](https://www.coursera.org/course/ml) 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”（参见白马同学的入门攻略）"推荐报名，跟着上课，做课后习题和期末考试。(因为只看不干，啥都学不会)。" (参见reyoung的建议）  
 
  1.  Introduction (Week 1)
@@ -105,6 +106,57 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  17. Large Scale Machine Learning (Week 10)
  18. Application Example: Photo OCR
  19. Conclusion
+
+### 进阶课程
+
+**2013年Yaser Abu-Mostafa (Caltech) Learning from Data**  -- 内容更适合进阶
+[课程视频,课件PDF@Caltech](http://work.caltech.edu/lectures.html)
+
+ 1. The Learning Problem
+ 2. Is Learning Feasible?
+ 3. The Linear Model I
+ 4. Error and Noise
+ 5. Training versus Testing
+ 6. Theory of Generalization
+ 7. The VC Dimension
+ 8. Bias-Variance Tradeoff
+ 9. The Linear Model II
+ 10. Neural Networks
+ 11. Overfitting
+ 12. Regularization
+ 13. Validation
+ 14. Support Vector Machines
+ 15. Kernel Methods
+ 16. Radial Basis Functions
+ 17. Three Learning Principles
+ 18. Epilogue
+
+**2014年 林軒田(国力台湾大学) 機器學習基石 (Machine Learning Foundations)**  -- 内容更适合进阶，華文的教學講解
+[课程主页](https://www.coursera.org/course/ntumlone)
+
+When Can Machines Learn? [何時可以使用機器學習]
+ The Learning Problem [機器學習問題]
+-- Learning to Answer Yes/No [二元分類]
+-- Types of Learning [各式機器學習問題]
+-- Feasibility of Learning [機器學習的可行性]
+
+Why Can Machines Learn? [為什麼機器可以學習]
+-- Training versus Testing [訓練與測試]
+-- Theory of Generalization [舉一反三的一般化理論]
+-- The VC Dimension [VC 維度]
+-- Noise and Error [雜訊一錯誤]
+
+How Can Machines Learn? [機器可以怎麼樣學習]
+-- Linear Regression [線性迴歸]
+-- Linear `Soft' Classification [軟性的線性分類]
+-- Linear Classification beyond Yes/No [二元分類以外的分類問題]
+-- Nonlinear Transformation [非線性轉換]
+
+How Can Machines Learn Better? [機器可以怎麼樣學得更好]
+-- Hazard of Overfitting [過度訓練的危險]
+-- Preventing Overfitting I: Regularization [避免過度訓練一：控制調適]
+-- Preventing Overfitting II: Validation [避免過度訓練二：自我檢測]
+-- Three Learning Principles [三個機器學習的重要原則]
 
 
 
@@ -134,28 +186,6 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  第18集.线性二次型调节控制
  第19集.微分动态规划
  第20集.策略搜索
-
-**2013年Yaser Abu-Mostafa (Caltech) Learning from Data**  -- 内容更适合进阶
-[课程视频,课件PDF@Caltech](http://work.caltech.edu/lectures.html)
-
- 1.The Learning Problem
- 2.Is Learning Feasible?
- 3.The Linear Model I
- 4.Error and Noise
- 5.Training versus Testing
- 6.Theory of Generalization
- 7.The VC Dimension
- 8.Bias-Variance Tradeoff
- 9.The Linear Model II
- 10.Neural Networks
- 11.Overfitting
- 12.Regularization
- 13.Validation
- 14.Support Vector Machines
- 15.Kernel Methods
- 16.Radial Basis Functions
- 17.Three Learning Principles
- 18.Epilogue
 
 
 **2012年余凯(百度)张潼(Rutgers) 机器学习公开课** -- 内容更适合进阶
@@ -223,3 +253,6 @@ http://www.datasciencecentral.com/  数据科学中心网站
 几篇高屋建瓴的机器学习领域概论, 参见[原文](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/) 
 * [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)Tom Mitchell 当年为在CMU建立机器学习系给校长写的东西。
 * [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。
+
+几本好书
+* 李航博士的《统计学习方法》一书前段也推荐过，给个[豆瓣的链接](http://book.douban.com/subject/10590856/)
