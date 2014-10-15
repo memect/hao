@@ -1,5 +1,5 @@
 # 机器学习入门资源不完全汇总
-2014-10-14版, 好东西传送门编辑整理, http://ml.memect.com/article/machine-learning-guide.html
+2014-10-14版, 好东西传送门编辑整理, 原文链接 http://ml.memect.com/article/machine-learning-guide.html
 
 转载请保留原作者和原文链接。本文是[机器学习日报](http://ml.memect.com)的一个专题合集，欢迎订阅: 给hao@memect.com发个邮件，标题＂订阅机器学习日报＂。
 
