@@ -32,7 +32,7 @@
 
 * [机器学习该怎么入门 @知乎](http://www.zhihu.com/question/20691338) (2014) 
 * [What's the easiest way to learn machine  learning @quora](http://www.quora.com/Whats-the-easiest-way-to-learn-machine-learning) (2013)
-* [http://www.quora.com/What-is-the-best-way-to-study-machine-learning @quora](http://www.quora.com/What-is-the-best-way-to-study-machine-learning)  (2012)
+* [What is the best way to study machine learning @quora](http://www.quora.com/What-is-the-best-way-to-study-machine-learning)  (2012)
 
 
 ## 课程资源
