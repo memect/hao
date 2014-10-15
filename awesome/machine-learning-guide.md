@@ -133,7 +133,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  17. Three Learning Principles
  18. Epilogue
 
-**2014年 林軒田(国力台湾大学) 機器學習基石 (Machine Learning Foundations)**  -- 内容更适合进阶，華文的教學講解
+**2014年 林軒田(国立台湾大学) 機器學習基石 (Machine Learning Foundations)**  -- 内容更适合进阶，華文的教學講解
 [课程主页](https://www.coursera.org/course/ntumlone)
 
 When Can Machines Learn? [何時可以使用機器學習]
