@@ -1,7 +1,7 @@
 # 机器学习入门资源不完全汇总
 2014-10-14版, 好东西传送门编辑整理, 原文链接 http://ml.memect.com/article/machine-learning-guide.html
 
-转载请保留原作者和原文链接。本文是[机器学习日报](http://ml.memect.com)的一个专题合集，欢迎订阅: 给hao@memect.com发个邮件，标题＂订阅机器学习日报＂。
+欢迎补充指正，转载请保留原作者和原文链接。本文是[机器学习日报](http://ml.memect.com)的一个专题合集，欢迎订阅: 给hao@memect.com发个邮件，标题＂订阅机器学习日报＂。
 
 
 [基本概念](#基本概念) ｜ [入门攻略](#入门攻略) ｜ [课程资源](#课程资源) ｜ [论坛网站](#论坛网站)  ｜ [东拉西扯](#东拉西扯)  
@@ -10,6 +10,8 @@
 ## 基本概念
 [机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) 机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。
 
+
+下面从微观到宏观试着梳理一下机器学习的范畴：一个具体的算法，领域进一步细分，实战应用场景，与其他领域的关系。
 
 <img src="http://www.nltk.org/images/supervised-classification.png"/>
 
@@ -31,13 +33,16 @@
 
 
 ## 入门攻略
-* [机器学习入门者学习指南 @果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- 研究生型入门者的亲身经历
 
-* [有没有做机器学习的哥们？能否介绍一下是如何起步的](http://ourcoders.com/thread/show/2837/) -- 研究生型入门者的亲身经历，尤其要看[reyoung](http://ourcoders.com/user/show/25895/reyoung/)的建议 
+大致分三类： 起步体悟，实战笔记，行家导读
 
-* [tornadomeet 机器学习 笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/) (2013) -- 学霸的学习笔记，看看小伙伴是怎样一步一步地掌握“机器学习”
+* [机器学习入门者学习指南 @果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- [起步体悟] 研究生型入门者的亲身经历
 
-* [Machine Learning Roadmap: Your Self-Study Guide to Machine Learning](https://machinelearningmastery.com/machine-learning-roadmap-your-self-study-guide-to-machine-learning/) (2014) Jason Brownlee -- 虽然是英文版，但非常容易读懂。对Beginner,Novice,Intermediate,Advanced读者都有覆盖。
+* [有没有做机器学习的哥们？能否介绍一下是如何起步的](http://ourcoders.com/thread/show/2837/) -- [起步体悟] 研究生型入门者的亲身经历，尤其要看[reyoung](http://ourcoders.com/user/show/25895/reyoung/)的建议 
+
+* [tornadomeet 机器学习 笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/) (2013) -- [实战笔记] 学霸的学习笔记，看看小伙伴是怎样一步一步地掌握“机器学习”
+
+* [Machine Learning Roadmap: Your Self-Study Guide to Machine Learning](https://machinelearningmastery.com/machine-learning-roadmap-your-self-study-guide-to-machine-learning/) (2014) Jason Brownlee -- [行家导读] 虽然是英文版，但非常容易读懂。对Beginner,Novice,Intermediate,Advanced读者都有覆盖。
  * [A Tour of Machine Learning Algorithms](http://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)  （2013） 这篇关于机器学习算法分类的文章也非常好
  * [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)（2013） 这片有中文翻译 [机器学习的最佳入门学习资源 @伯乐在线](http://blog.jobbole.com/56256/) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/)
 
