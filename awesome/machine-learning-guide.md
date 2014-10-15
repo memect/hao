@@ -8,8 +8,15 @@
 ## 基本概念
 [机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) 机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。
 
-![](http://www.nltk.org/images/supervised-classification.png) 监督学习
-image source: http://www.nltk.org/book/ch06.html
+<img width=400 src="http://work.caltech.edu/images1/map.png"/>
+机器学习概要图 (source: http://work.caltech.edu/library/181.html)
+
+
+<img width=400 src="http://www.nltk.org/images/supervised-classification.png"/>
+
+监督学习的工作流程图 (source: http://www.nltk.org/book/ch06.html)
+
+
 
 
 ## 攻略
@@ -96,8 +103,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  第20集.策略搜索
 
 **2013年Yaser Abu-Mostafa (Caltech) Learning from Data**  -- 内容更适合进阶
-[课程视频@Caltech](http://work.caltech.edu/telecourse) |
-[课件PDF@Caltech](http://work.caltech.edu/lectures.html)
+[课程视频,课件PDF@Caltech](http://work.caltech.edu/lectures.html)
 
  1.The Learning Problem
  2.Is Learning Feasible?
@@ -159,7 +165,11 @@ http://bbs.byr.cn/#!board/ML_DM  北邮人论坛 >> 学术科技 >> 机�
 ### 英文
 https://github.com/josephmisiti/awesome-machine-learning  机器学习资源大全
 
-http://www.kdnuggets.com/ 数据挖掘
+http://work.caltech.edu/library/ Caltech 机器学习视频教程库，每个课题一个视频
+
+http://www.kdnuggets.com/ 数据挖掘名站
+
+http://www.datasciencecentral.com/  数据科学中心网站
 
 
 ## 东拉西扯
