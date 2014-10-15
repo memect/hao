@@ -1,12 +1,9 @@
 # 机器学习入门资源不完全汇总
-好东西传送门编辑，2014-10-14版
+2014-10-14版,好东西传送门编辑,转载请保留原作者和原文链接。
 
 
 [入门攻略](#入门攻略) ｜ [课程资源](#课程资源) ｜ [论坛网站](#论坛网站)  ｜ [东拉西扯](#东拉西扯)  
 
-----
-
-为了帮助中文用户有效跟踪发展趋势，我们做了一个[机器学习日报](http://ml.memect.com) 每天花几分钟就能长知识，网站上有样板。订阅 请给hao@memect.com发邮件，标题＂订阅机器学习日报＂。
 
 ## 基本概念
 [机器学习](http://zh.wikipedia.org/zh/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0) 机器学习是近20多年兴起的一门多领域交叉学科，涉及概率论、统计学、逼近论、凸分析、算法复杂度理论等多门学科。机器学习理论主要是设计和分析一些让计算机可以自动“学习”的算法。机器学习算法是一类从数据中自动分析获得规律，并利用规律对未知数据进行预测的算法。因为学习算法中涉及了大量的统计学理论，机器学习与统计推断学联系尤为密切，也被称为统计学习理论。算法设计方面，机器学习理论关注可以实现的，行之有效的学习算法。
@@ -14,10 +11,14 @@
 ![](http://www.nltk.org/images/supervised-classification.png) 监督学习
 image source: http://www.nltk.org/book/ch06.html
 
+
 ## 攻略
-http://www.guokr.com/post/512037/ (2013) 机器学习入门者学习指南（经验分享）by [白马](http://www.guokr.com/group/i/0373595356/) 
+[机器学习入门者学习指南@果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)
+
+[机器学习的最佳入门学习资源@伯乐在线](http://blog.jobbole.com/56256/) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/) 来自 Jason Brownlee 2013年的博文 [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/) 
 
 
+为了帮助中文用户有效跟踪发展趋势，我们做了一个[机器学习日报](http://ml.memect.com) 每天花几分钟就能长知识，网站上有样板。订阅 请给hao@memect.com发邮件，标题＂订阅机器学习日报＂。
 
 ## 课程资源
 Tom Mitchell 和 Andrew Ng 的课都很适合入门
