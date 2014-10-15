@@ -1,10 +1,12 @@
 # 机器学习入门资源不完全汇总
 2014-10-14版, 好东西传送门编辑整理, 原文链接 http://ml.memect.com/article/machine-learning-guide.html
 
+感谢贡献者： tang_Kaka_back@新浪微博
+
 欢迎补充指正，转载请保留原作者和原文链接。本文是[机器学习日报](http://ml.memect.com)的一个专题合集，欢迎订阅: 给hao@memect.com发个邮件，标题＂订阅机器学习日报＂。
 
-
 [基本概念](#基本概念) ｜ [入门攻略](#入门攻略) ｜ [课程资源](#课程资源) ｜ [论坛网站](#论坛网站)  ｜ [东拉西扯](#东拉西扯)  
+
 
 
 ## 基本概念
@@ -38,7 +40,7 @@
 
 * [机器学习入门者学习指南 @果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- [起步体悟] 研究生型入门者的亲身经历
 
-* [有没有做机器学习的哥们？能否介绍一下是如何起步的](http://ourcoders.com/thread/show/2837/) -- [起步体悟] 研究生型入门者的亲身经历，尤其要看[reyoung](http://ourcoders.com/user/show/25895/reyoung/)的建议 
+* [有没有做机器学习的哥们？能否介绍一下是如何起步的 @ourcoders](http://ourcoders.com/thread/show/2837/) -- [起步体悟] 研究生型入门者的亲身经历，尤其要看[reyoung](http://ourcoders.com/user/show/25895/reyoung/)的建议 
 
 * [tornadomeet 机器学习 笔记](http://www.cnblogs.com/tornadomeet/tag/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/) (2013) -- [实战笔记] 学霸的学习笔记，看看小伙伴是怎样一步一步地掌握“机器学习”
 
