@@ -1,6 +1,8 @@
 # 机器学习入门资源不完全汇总
+好东西传送门编辑，2014-10-14版
 
-[公开课](#公开课)
+
+[入门攻略](#入门攻略) ｜ [课程资源](#课程资源) ｜ [论坛网站](#论坛网站)  ｜ [东拉西扯](#东拉西扯)  
 
 ----
 
@@ -12,22 +14,17 @@
 ![](http://www.nltk.org/images/supervised-classification.png) 监督学习
 image source: http://www.nltk.org/book/ch06.html
 
-
-[机器学习与数据挖掘的区别](http://en.wikipedia.org/wiki/Machine_learning#Machine_learning_and_data_mining)
-* 机器学习关注从训练数据中学到已知属性进行预测，例如百度预测世界杯
-* 数据挖掘侧重从数据中发现未知属性，例如
-
-[Dan Levin, What is the difference between statistics, machine learning, AI and data mining?](http://www.quora.com/What-are-some-good-machine-learning-jokes)
-* If there are up to 3 variables, it is statistics.
-* If the problem is NP-complete, it is machine learning.
-* If the problem is PSPACE-complete, it is AI.
-* If you don't know what is PSPACE-complete, it is data mining.
+## 攻略
+http://www.guokr.com/post/512037/ (2013) 机器学习入门者学习指南（经验分享）by [白马](http://www.guokr.com/group/i/0373595356/) 
 
 
-## 公开课
 
-### 2011 Tom Mitchell(CMU) 机器学习
- [英文原版视频与课件PDF](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)
+## 课程资源
+Tom Mitchell 和 Andrew Ng 的课都很适合入门
+
+
+### 2011 Tom Mitchell(CMU)机器学习
+ [英文原版视频与课件PDF](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml)  他的《机器学习》在很多课程上被选做教材，有中文版。
 * Decision Trees
 * Probability and Estimation 
 * Naive Bayes 
@@ -45,9 +42,8 @@ image source: http://www.nltk.org/book/ch06.html
 * Reinforcement Learning
 以上为课程标题节选
 
-
-### 2014 Andrew Ng 的机器学习课的公开课
- [英文原版视频](https://www.coursera.org/course/ml) 
+### 2014 Andrew Ng (Stanford)机器学习
+ [英文原版视频](https://www.coursera.org/course/ml) 这就是针对自学而设计的，免费还有修课认证。“老师讲的是深入浅出，不用太担心数学方面的东西。而且作业也非常适合入门者，都是设计好的程序框架，有作业指南，根据作业指南填写该完成的部分就行。”（参见白马同学的入门攻略） 
 
  1.  Introduction (Week 1)
  2. Linear Regression with One Variable (Week 1)
@@ -69,54 +65,56 @@ image source: http://www.nltk.org/book/ch06.html
  18. Application Example: Photo OCR
  19. Conclusion
 
-### 2008年Andrew Ng CS229 机器学习
+
+### 更多选择
+
+#### 2008年Andrew Ng CS229 机器学习 -- 这组视频有点年头了，主讲人这两年也高大上了，当然基本方法没有太大变化。
 [中文字幕视频@网易公开课](http://v.163.com/special/opencourse/machinelearning.html)  |  [英文版视频@youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)  |
 [课件PDF@Stanford](http://cs229.stanford.edu/materials.html)
 
-* [第1集] 机器学习的动机与应用
-* [第2集] 监督学习应用.梯度下降  	
-* [第3集] 欠拟合与过拟合的概念  	
-* [第4集] 牛顿方法  	
-* [第5集] 生成学习算法  	
-* [第6集] 朴素贝叶斯算法  	
-* [第7集] 最优间隔分类器问题  	
-* [第8集] 顺序最小优化算法  	
-* [第9集] 经验风险最小化  	
-* [第10集] 特征选择  	
-* [第11集] 贝叶斯统计正则化  	
-* [第12集] K-means算法  	
-* [第13集] 高斯混合模型  	
-* [第14集] 主成分分析法  	
-* [第15集] 奇异值分解  	
-* [第16集] 马尔可夫决策过程  	
-* [第17集] 离散与维数灾难  	
-* [第18集] 线性二次型调节控制  	
-* [第19集] 微分动态规划  	
-* [第20集] 策略搜索  
+ [第1集] 机器学习的动机与应用
+ [第2集] 监督学习应用.梯度下降  	
+ [第3集] 欠拟合与过拟合的概念  	
+ [第4集] 牛顿方法  	
+ [第5集] 生成学习算法  	
+ [第6集] 朴素贝叶斯算法  	
+ [第7集] 最优间隔分类器问题  	
+ [第8集] 顺序最小优化算法  	
+ [第9集] 经验风险最小化  	
+ [第10集] 特征选择  	
+ [第11集] 贝叶斯统计正则化  	
+ [第12集] K-means算法  	
+ [第13集] 高斯混合模型  	
+ [第14集] 主成分分析法  	
+ [第15集] 奇异值分解  	
+ [第16集] 马尔可夫决策过程  	
+ [第17集] 离散与维数灾难  	
+ [第18集] 线性二次型调节控制  	
+ [第19集] 微分动态规划  	
+ [第20集] 策略搜索  
 
 
-
-### 2012年 机器学习公开课（余凯&张潼）-- 更适合进阶
+#### 2012年 机器学习公开课（余凯&张潼）-- 内容更适合进阶
 [课程主页@百度文库](http://wenku.baidu.com/course/view/49e8b8f67c1cfad6195fa705)  ｜ [课件PDF@龙星计划](http://bigeye.au.tsinghua.edu.cn/DragonStar2012/download.html)
-* 第1节Introduction to ML and review of linear algebra, probability, statistics (kai)
-* 第2节linear model (tong) 
-* 第3节overfitting and regularization(tong)
-* 第4节linear classification (kai)
-* 第5节basis expansion and kernelmethods (kai)
-* 第6节model selection and evaluation(kai)
-* 第7节model combination (tong)
-* 第8节boosting and bagging (tong)
-* 第9节overview of learning theory(tong)
-* 第10节optimization in machinelearning (tong)
-* 第11节online learning (tong)
-* 第12节sparsity models (tong)
-* 第13节introduction to graphicalmodels (kai)
-* 第14节structured learning (kai)
-* 第15节feature learning and deeplearning (kai)
-* 第16节transfer learning and semi supervised learning (kai)
-* 第17节matrix factorization and recommendations (kai)
-* 第18节learning on images (kai)
-* 第19节learning on the web (tong)
+ 第1节Introduction to ML and review of linear algebra, probability, statistics (kai)
+ 第2节linear model (tong) 
+ 第3节overfitting and regularization(tong)
+ 第4节linear classification (kai)
+ 第5节basis expansion and kernelmethods (kai)
+ 第6节model selection and evaluation(kai)
+ 第7节model combination (tong)
+ 第8节boosting and bagging (tong)
+ 第9节overview of learning theory(tong)
+ 第10节optimization in machinelearning (tong)
+ 第11节online learning (tong)
+ 第12节sparsity models (tong)
+ 第13节introduction to graphicalmodels (kai)
+ 第14节structured learning (kai)
+ 第15节feature learning and deeplearning (kai)
+ 第16节transfer learning and semi supervised learning (kai)
+ 第17节matrix factorization and recommendations (kai)
+ 第18节learning on images (kai)
+ 第19节learning on the web (tong)
 
 
 ## 论坛网站
@@ -135,4 +133,16 @@ https://github.com/josephmisiti/awesome-machine-learning  机器学习资源大�
 
 http://www.kdnuggets.com/ 数据挖掘
 
+
+## 东拉西扯
+
+[机器学习与数据挖掘的区别](http://en.wikipedia.org/wiki/Machine_learning#Machine_learning_and_data_mining)
+* 机器学习关注从训练数据中学到已知属性进行预测
+* 数据挖掘侧重从数据中发现未知属性
+
+[Dan Levin, What is the difference between statistics, machine learning, AI and data mining?](http://www.quora.com/What-are-some-good-machine-learning-jokes)
+* If there are up to 3 variables, it is statistics.
+* If the problem is NP-complete, it is machine learning.
+* If the problem is PSPACE-complete, it is AI.
+* If you don't know what is PSPACE-complete, it is data mining.
 
