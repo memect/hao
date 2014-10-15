@@ -13,9 +13,9 @@ image source: http://www.nltk.org/book/ch06.html
 
 
 ## 攻略
-[机器学习入门者学习指南@果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)
+[机器学习入门者学习指南@果壳网](http://www.guokr.com/post/512037/) (2013) 作者 [白马](http://www.guokr.com/group/i/0373595356/)  -- 研究生型入门者的亲身经历
 
-[机器学习的最佳入门学习资源@伯乐在线](http://blog.jobbole.com/56256/) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/) 来自 Jason Brownlee 2013年的博文 [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/) 
+[机器学习的最佳入门学习资源@伯乐在线](http://blog.jobbole.com/56256/) (2014) 译者 [programmer_lin](http://www.jobbole.com/members/linwenhui/), 原文是Jason Brownlee 2013年的博文 [Best Machine Learning Resources for Getting Started](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)  
 
 
 为了帮助中文用户有效跟踪发展趋势，我们做了一个[机器学习日报](http://ml.memect.com) 每天花几分钟就能长知识，网站上有样板。订阅 请给hao@memect.com发邮件，标题＂订阅机器学习日报＂。
@@ -67,9 +67,11 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  19. Conclusion
 
 
+
 ### 更多选择
 
-#### 2008年Andrew Ng CS229 机器学习 -- 这组视频有点年头了，主讲人这两年也高大上了，当然基本方法没有太大变化。
+
+2008年Andrew Ng CS229 机器学习 -- 这组视频有点年头了，主讲人这两年也高大上了，当然基本方法没有太大变化。
 [中文字幕视频@网易公开课](http://v.163.com/special/opencourse/machinelearning.html)  |  [英文版视频@youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)  |
 [课件PDF@Stanford](http://cs229.stanford.edu/materials.html)
  
@@ -94,7 +96,31 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  第19集.微分动态规划
  第20集.策略搜索
 
-#### 2012年 机器学习公开课（余凯&张潼）-- 内容更适合进阶
+2013年Yaser Abu-Mostafa (Caltech) Learning from Data -- 内容更适合进阶
+[课程视频@Caltech](http://work.caltech.edu/telecourse) |
+[课件PDF@Caltech](http://work.caltech.edu/lectures.html)
+
+ 1.The Learning Problem
+ 2.Is Learning Feasible?
+ 3.The Linear Model I
+ 4.Error and Noise
+ 5.Training versus Testing
+ 6.Theory of Generalization
+ 7.The VC Dimension
+ 8.Bias-Variance Tradeoff
+ 9.The Linear Model II
+ 10.Neural Networks
+ 11.Overfitting
+ 12.Regularization
+ 13.Validation
+ 14.Support Vector Machines
+ 15.Kernel Methods
+ 16.Radial Basis Functions
+ 17.Three Learning Principles
+ 18.Epilogue
+
+
+2012年余凯&张潼 机器学习公开课 -- 内容更适合进阶
 [课程主页@百度文库](http://wenku.baidu.com/course/view/49e8b8f67c1cfad6195fa705)  ｜ [课件PDF@龙星计划](http://bigeye.au.tsinghua.edu.cn/DragonStar2012/download.html)
 
  第1节Introduction to ML and review of linear algebra, probability, statistics (kai)
@@ -118,6 +144,8 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  第19节learning on the web (tong)
 
 
+
+
 ## 论坛网站
 ### 中文
 http://www.52ml.net/ 我爱机器学习
@@ -136,6 +164,7 @@ http://www.kdnuggets.com/ 数据挖掘
 
 
 ## 东拉西扯
+一些好东西，入门前未必看得懂，要等学有小成时再看才能体会。
 
 [机器学习与数据挖掘的区别](http://en.wikipedia.org/wiki/Machine_learning#Machine_learning_and_data_mining)
 * 机器学习关注从训练数据中学到已知属性进行预测
@@ -147,3 +176,6 @@ http://www.kdnuggets.com/ 数据挖掘
 * If the problem is PSPACE-complete, it is AI.
 * If you don't know what is PSPACE-complete, it is data mining.
 
+几篇高屋建瓴的领域概论 （参见[原文](http://machinelearningmastery.com/best-machine-learning-resources-for-getting-started/)
+* [The Discipline of Machine Learning](http://www.cs.cmu.edu/~tom/pubs/MachineLearning.pdf)Tom Mitchell 当年为在CMU建立机器学习系给校长写的东西。
+* [A Few Useful Things to Know about Machine Learning](http://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) Pedro Domingos教授的大道理，也许入门时很多概念还不明白，上完公开课后一定要再读一遍。
