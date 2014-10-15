@@ -70,8 +70,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
 
 ### 更多选择
 
-
-2008年Andrew Ng CS229 机器学习 -- 这组视频有点年头了，主讲人这两年也高大上了，当然基本方法没有太大变化。
+*2008年Andrew Ng CS229 机器学习* -- 这组视频有点年头了，主讲人这两年也高大上了，当然基本方法没有太大变化。
 [中文字幕视频@网易公开课](http://v.163.com/special/opencourse/machinelearning.html)  |  [英文版视频@youtube](https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599)  |
 [课件PDF@Stanford](http://cs229.stanford.edu/materials.html)
  
@@ -96,7 +95,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  第19集.微分动态规划
  第20集.策略搜索
 
-2013年Yaser Abu-Mostafa (Caltech) Learning from Data -- 内容更适合进阶
+*2013年Yaser Abu-Mostafa (Caltech) Learning from Data*  -- 内容更适合进阶
 [课程视频@Caltech](http://work.caltech.edu/telecourse) |
 [课件PDF@Caltech](http://work.caltech.edu/lectures.html)
 
@@ -120,7 +119,7 @@ Tom Mitchell 和 Andrew Ng 的课都很适合入门
  18.Epilogue
 
 
-2012年余凯&张潼 机器学习公开课 -- 内容更适合进阶
+*2012年余凯(百度)张潼(Rutgers) 机器学习公开课* -- 内容更适合进阶
 [课程主页@百度文库](http://wenku.baidu.com/course/view/49e8b8f67c1cfad6195fa705)  ｜ [课件PDF@龙星计划](http://bigeye.au.tsinghua.edu.cn/DragonStar2012/download.html)
 
  第1节Introduction to ML and review of linear algebra, probability, statistics (kai)
