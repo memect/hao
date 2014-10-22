@@ -13,10 +13,9 @@ http://zh.wikipedia.org/zh-cn/%E7%B6%B2%E8%B7%AF%E8%9C%98%E8%9B%9B 网络蜘蛛�
 * downloader：下载模块，给定一个URL，下载URL的网页内容(content) 以及相关元数据(http header)，写到下载数据storage中；此外还要提取网页内容中提到的URL，写到queue里
 * storage：下载数据存储，同时保存网页内容（文本、图片...)和下载时的相关元数据(URL,下载时间, 文件大小, 服务器端最后更新时间...）
 
-下面是两个非常简单的可执行代码
-https://gist.github.com/palianytsia/4246680  - java 
-
-https://github.com/kezakez/python-web-crawler  - python
+下面是两个非常简单的可执行代码样例
+* https://gist.github.com/palianytsia/4246680  - java 
+* https://github.com/kezakez/python-web-crawler  - python
 
 
 ## 进阶讲义
