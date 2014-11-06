@@ -35,6 +35,411 @@
 
 ## 问答与传送档案
 
+2014-11-06 @茶是真热 推荐的微博上的运维方面人士id ：第三组3个： @陈沙克 （虚拟化） @vpsee （虚拟化） @扶凯 （看他网站吧，微博上说的不多） 这些是在微博发表较多的，排名无先后。很多公司内的扫地老僧不太公开表达。完整列表http://t.cn/R78mgBL 欢迎大家继续推荐 [ [微博](http://www.weibo.com/5220650532/Bv1ICjxXT) ]
+
+2014-11-06 @茶是真热 推荐的微博上的运维方面人士id ：第二组5个：@绿小小肥 （salt） @wilbur井源 @诸超_小石头爸爸 @大舞-ukl @王关胜 （除了很专业还有很帅） 完整列表http://t.cn/R78mgBL [ [微博](http://www.weibo.com/5220650532/Bv1HQ9wAH) ]
+
+2014-11-06 @茶是真热 推荐的微博上的运维方面人士id ：第一组5个：@Perldaily （perl，运维工具和体系） @Argv （elk，perl） @平凡的香草 @刘天其斤 @jaseywang 完整列表http://t.cn/R78mgBL [ [微博](http://www.weibo.com/5220650532/Bv1HuyZKM) ]
+
+2014-11-06 Google大牛讲解深度学习规模化方法，融汇机器学习和系统的前沿。@Kurtt_Lin 做了现场摘要和点评，并分享了PPT照片。推荐到今天的微信头条 http://t.cn/R78aEoJ [ [微博](http://www.weibo.com/5220650532/Bv0fFsXo4) ]
+
+> 2014-11-05 @Kurtt_Lin: #Face to Face with Dr. Jeff Dean# 下午在THU FIT楼听了Jeff Dean大规模深度学习的talk，也算追了“男神”一把[呵呵]。后面与Jeff交流时感觉到，他超级nice，谦虚和善，时不时也幽默一把，结束时也很有活力地喊大家一起合影。Talk内容和ppt请见：http://t.cn/R7QcsHn [ [微博](http://www.weibo.com/1567257743/BuTRS111V) ]
+
+2014-11-06 感谢 @Kurtt_Lin @tedsky2 @王威廉 @网路冷眼 @王威廉 今天继续有CIKM现场报道。另外Jeff Dean清华报告也有多人从不同角度分享，都在长版中 http://t.cn/R78fAlG [ [微博](http://www.weibo.com/5220650532/BuZGVzF24) ]
+
+> 2014-11-06 @好东西传送门: 机器学习头条 2014-11-05 http://t.cn/R78fAl4 1)Jeff Dean大规模深度学习报告 2)压缩采样介绍 3)Yago创始人Gerhard Weikum提出“大文本”概念 4)将Elasticsearch和Apache Spark部署到云端 5)NIPS 2014的大规模分布式机器学习研讨会的论文 加长版52条 http://t.cn/R78fAlG [ [微博](http://www.weibo.com/5220650532/BuZG0yHpu) ]
+
+2014-11-06 机器学习头条 2014-11-05 http://t.cn/R78fAl4 1)Jeff Dean大规模深度学习报告 2)压缩采样介绍 3)Yago创始人Gerhard Weikum提出“大文本”概念 4)将Elasticsearch和Apache Spark部署到云端 5)NIPS 2014的大规模分布式机器学习研讨会的论文 加长版52条 http://t.cn/R78fAlG [ [微博](http://www.weibo.com/5220650532/BuZG0yHpu) ]
+
+2014-11-06 数据科学小技巧汇总小小册子 //@phunter_lau: 不错，技巧的占的部分比较大，适合摸爬滚打多年的人看看 [ [微博](http://www.weibo.com/5220650532/BuXZdC32q) ]
+
+> 2014-11-06 @西瓜大丸子汤: Data Science by AnalyticBridge http://t.cn/R7Qr3kL 一本小书， [ [微博](http://www.weibo.com/1932835417/BuXeOEYcv) ]
+
+2014-11-05 这个入门系列博文非常好，节约初学者啃大不部头的时间。推荐到今天的微信摘要版： http://t.cn/R7HNHFw [ [微博](http://www.weibo.com/5220650532/BuQCTrwWn) ]
+
+> 2014-11-04 @研究者July: 已写的：①决策树http://t.cn/zOmMFLa，②SVMhttp://t.cn/zOeaL7j，③K近邻http://t.cn/zjLQ8Ky，④数理统计http://t.cn/zj9kZ8a，⑤最大熵http://t.cn/R7atoLH，⑥Adaboosthttp://t.cn/R7lXmhC，⑦谱聚类http://t.cn/R7jLDaB，待写的还远不只是这些：贝叶斯网络、EM、主题模型、HMM、CRF、PCA、LDA。 [ [微博](http://www.weibo.com/1580904460/BuLqE1mj8) ]
+
+2014-11-05 十分感谢推荐。格灵深瞳是中国最好的计算机视觉公司之一，右边经常分享一些很好的CV学习资源，机器学习日报里也常常可以看到的。[呵呵]//@格灵深瞳: 推荐一下好东西~欢迎分享@有需要的人~[熊猫] [ [微博](http://www.weibo.com/5220650532/BuQnWao51) ]
+
+> 2014-10-14 @好东西传送门: 很多人问到怎么订阅＜机器学习日报＞．为方便大家，做了个订阅按钮在主页上，域名 ml.memect.com http://t.cn/R7ZepFz ．或给 hao@memect.com 发封空信，标题是 " 订阅机器学习日报 " 即可．另外，过去几期长短版的链接都加到主页上了． [ [微博](http://www.weibo.com/5220650532/BrvCDmx41) ]
+
+2014-11-05 //@CSDN_CODE: 邱锡鹏教授认为，目前云计算逐渐成为一个基础设施，给很多个人以及中小企业提供了低成本的解决方案，自然语言处理技术也会逐渐成为一种基础服务。要从事自然语言处理技术相关研究和开发，最好是从某个具体问题入手，了解最新的研究进展，然后借助一些开源的工具，逐渐了解 [ [微博](http://www.weibo.com/5220650532/BuQmrmtAh) ]
+
+> 2014-11-05 @CSDN_CODE: #开源专访# 【复旦@邱锡鹏 教授：云时代，NLP也将是一种基础服务】之前报道过复旦大学推出了基于云的自然语言处理开源项目FudanNLP，大家反馈积极。对此我们进行了深度采访，项目负责人邱锡鹏教授谈了目前自然语言处理技术发展的两大瓶颈，一是大规模语料库，二是语义表示：http://t.cn/R7HS4EO [ [微博](http://www.weibo.com/3460619722/BuQg92KvP) ]
+
+2014-11-05 感谢 @研究者July @PyPINews @tedsky2 @鲁东东胖 @我爱机器学习 今天长版的重头戏是CIKM的各种现场报道，不可错过。另外最近@bitslife 也分享了很多机器学习在生物信息学中的应用，向对bioinformatics感兴趣的同学推荐。 [ [微博](http://www.weibo.com/5220650532/BuQlJm3gp) ]
+
+> 2014-11-05 @好东西传送门: 机器学习头条 2014-11-04 http://t.cn/R7HoMMU 1)研究者July的数据挖掘博文系统汇总 2)SnowNLP中文自然语言处理工具包 3)林智仁：线性模型+特征工程 的机遇和挑战 4)神经网络实现侧向抑制的讨论 5)Learning To Rank之LambdaMART的前世今生 加长版60条 http://t.cn/R7HoMMy [ [微博](http://www.weibo.com/5220650532/BuQkI6i3G) ]
+
+2014-11-05 机器学习头条 2014-11-04 http://t.cn/R7HoMMU 1)研究者July的数据挖掘博文系统汇总 2)SnowNLP中文自然语言处理工具包 3)林智仁：线性模型+特征工程 的机遇和挑战 4)神经网络实现侧向抑制的讨论 5)Learning To Rank之LambdaMART的前世今生 加长版60条 http://t.cn/R7HoMMy [ [微博](http://www.weibo.com/5220650532/BuQkI6i3G) ]
+
+2014-11-05 http://t.cn/hRgMJ 可视化方法的元素周期表，总结了6大类100种方法，每种都有图例。打印出来帖在案头吧 [ [微博](http://www.weibo.com/5220650532/BuOg55Tpb) ]
+
+2014-11-04 目测为会引发极佳讨论的问题，传送门讲收集和增补大家的问答。跟踪页 http://t.cn/R7TfwMN [ [微博](http://www.weibo.com/5220650532/BuJ5dDT40) ]
+
+> 2014-11-04 @丕子: PCA, SVD(其他low rank*), LDA（Topic Model）， K-means， Sparse Coding，Hidden Layer of Neural Network。。。等等这一大类问题应该都可以用一套理论来解释其几何意义，与向量空间、矩阵、特征值和特征向量有关的，有阐述最本质原理的文章？ 比特征值和特征向量更低层的？@好东西传送门 [ [微博](http://www.weibo.com/1665335994/BuGdVDyhN) ]
+
+2014-11-04 根据我们的非科学统计，在@好东西传送门 的门友中，各种微博上笔记软件的被使用次数依次是 我的印象笔记 mywiz 有道云笔记收藏 mark，比例为12 : 3 : 1.6 : 1 @印象笔记 拔得头筹 [ [微博](http://www.weibo.com/5220650532/BuICza8If) ]
+
+2014-11-04 @王威廉 昨天推荐的“Olivier Grisel简要总结机器学习，深度学习近年进展”，传送门做了摘要版，节选了其中的核心页面，发在微信版里了 http://t.cn/R7Tzge6 原PPT号称30分钟了解，这个摘要版大概10分钟可以读完。 [ [微博](http://www.weibo.com/5220650532/BuHZWt5fq) ]
+
+2014-11-04 回复@禅系一之花: 请看以前的问答整理： 2014-09-10 [资料整理]《Bayesian network与python概率编程实战入门》http://t.cn/RhcnZrY //@禅系一之花:请问有没有用Python学习概率论的书籍呀？ [ [微博](http://www.weibo.com/5220650532/BuHEimICg) ]
+
+> 2014-11-04 @好东西传送门: 机器学习头条 2014-11-03 http://t.cn/R7YWAZ5 1)Olivier Grisel简要总结机器学习，深度学习近年进展 2)从拉普拉斯矩阵说到谱聚类 3)SVD介绍PPT 4)张巍介绍HMM 5)MLOSS机器学习开源工具集 加长版26条 http://t.cn/R7YWAZb [ [微博](http://www.weibo.com/5220650532/BuG6rqvyJ) ]
+
+2014-11-04 感谢 @王威廉 @研究者July @了了JIANG @Nietzsche_复杂网络机器学习 @52nlp [ [微博](http://www.weibo.com/5220650532/BuG6vxAGT) ]
+
+> 2014-11-04 @好东西传送门: 机器学习头条 2014-11-03 http://t.cn/R7YWAZ5 1)Olivier Grisel简要总结机器学习，深度学习近年进展 2)从拉普拉斯矩阵说到谱聚类 3)SVD介绍PPT 4)张巍介绍HMM 5)MLOSS机器学习开源工具集 加长版26条 http://t.cn/R7YWAZb [ [微博](http://www.weibo.com/5220650532/BuG6rqvyJ) ]
+
+2014-11-04 机器学习头条 2014-11-03 http://t.cn/R7YWAZ5 1)Olivier Grisel简要总结机器学习，深度学习近年进展 2)从拉普拉斯矩阵说到谱聚类 3)SVD介绍PPT 4)张巍介绍HMM 5)MLOSS机器学习开源工具集 加长版26条 http://t.cn/R7YWAZb [ [微博](http://www.weibo.com/5220650532/BuG6rqvyJ) ]
+
+2014-11-04 跨媒体知识库构建，今年第三个重要教程 //@昊奋: 继SIGMOD和KDD的相关tutorial之后的另外一个关于KG的重量级tutorial，跨媒体知识库构建是一个趋势，特别对于移动互联网时代。不过链接有些贴错，纠正如下 http://t.cn/R7Y4g7n http://t.cn/R7Y4g7E [ [微博](http://www.weibo.com/5220650532/BuEEdbCkq) ]
+
+> 2014-11-03 @王海勋haixun: ACM MM 2014 Tutorial with Lexing Xie: Learning Knowledge Bases for Text and Multimedia Part 1 (http://t.cn/R7YUd9Q Part 2(http://t.cn/R7YUd9H [ [微博](http://www.weibo.com/2083726665/BuCjWCcsC) ]
+
+2014-11-03 好东西周报 http://t.cn/R7jhDtE 过去一周一共有66条 欢迎订阅 [ [微博](http://www.weibo.com/5220650532/BuxypsIGP) ]
+
+2014-11-03 好消息 //@Python开发者: 好福利，转需扩散啊！！！ [ [微博](http://www.weibo.com/5220650532/BuxbkomB5) ]
+
+> 2014-11-03 @伯乐头条: 福利：Jetbrains 推出 PyCharm 教育版，学生和教师免费使用，详见： http://t.cn/R7l12U8 cc: @Python开发者 [ [微博](http://www.weibo.com/3844704614/BuwQnpYjN) ]
+
+2014-11-03 @lifelogger 推荐个opencv for python的网站 http://t.cn/R7luikW 提供很多以图像搜索为目标的相关tutorial [ [微博](http://www.weibo.com/5220650532/BuwT4FQEg) ]
+
+> 2014-11-01 @cvnote计算机视觉笔记: 看到一博文，讲计算机视觉的四部奇书（应该叫经典吧），分别是Hartley的《多图几何》、Gonzalez的《数字图像处理》、Szeliszi的CV:Algorithm&Application、Sonka等的《图像处理，分析与机器视觉》。前三本有看过，或理论深刻或讲解细致或涉猎广泛。感觉还真想不出更经典的作品了。各位还有什么推荐么 [ [微博](http://www.weibo.com/3812841100/BuilLhEY1) ]
+
+2014-11-03 100 numpy exercises 简洁有力的python数值计算入门 [ [微博](http://www.weibo.com/5220650532/BuwSwFL65) ]
+
+> 2014-11-03 @智博是小叮当: 100 numpy exercises The goal is both to offer a quick reference for new and old users and to provide also a set of exercices for those who teach. http://t.cn/R7l3yzj @好东西传送门 [ [微博](http://www.weibo.com/1646120672/BuwLhfhzj) ]
+
+2014-11-03 //@路确实脚下: 再推荐两本好书《computer vision a reference guide 》和《dictionary of computer vision and image processing》//@好东西传送门:总结各位的增补 @星空下的巫师《学习OpenCV》@Nobunaga_Means《computer&machine vision》@路确实脚下 《Moden computer vision》 [ [微博](http://www.weibo.com/5220650532/BuwS6mClz) ]
+
+> 2014-11-01 @cvnote计算机视觉笔记: 看到一博文，讲计算机视觉的四部奇书（应该叫经典吧），分别是Hartley的《多图几何》、Gonzalez的《数字图像处理》、Szeliszi的CV:Algorithm&Application、Sonka等的《图像处理，分析与机器视觉》。前三本有看过，或理论深刻或讲解细致或涉猎广泛。感觉还真想不出更经典的作品了。各位还有什么推荐么 [ [微博](http://www.weibo.com/3812841100/BuilLhEY1) ]
+
+2014-11-03 感谢 @梁斌penny @李沐M @哈工大深圳_徐睿峰 @cvnote计算机视觉笔记 @刘知远THU [ [微博](http://www.weibo.com/5220650532/BuwQYlls1) ]
+
+> 2014-11-03 @好东西传送门: 机器学习头条 2014-11-02 http://t.cn/R7l1KEq 1)推荐系统中bias和个性化的讨论 2)推荐系统两个最好的教程 3)电子书 《Social Media Mining An Introduction》 4)计算机视觉的四部经典 5)华为诺亚方舟实验室做的小诺机器人 加长版44条 http://t.cn/R7l1KEG [ [微博](http://www.weibo.com/5220650532/BuwQTl29A) ]
+
+2014-11-03 机器学习头条 2014-11-02 http://t.cn/R7l1KEq 1)推荐系统中bias和个性化的讨论 2)推荐系统两个最好的教程 3)电子书 《Social Media Mining An Introduction》 4)计算机视觉的四部经典 5)华为诺亚方舟实验室做的小诺机器人 加长版44条 http://t.cn/R7l1KEG [ [微博](http://www.weibo.com/5220650532/BuwQTl29A) ]
+
+2014-11-03 总结各位的增补 @星空下的巫师《学习OpenCV》@Nobunaga_Means《computer&machine vision》@路确实脚下 《Moden computer vision》 [ [微博](http://www.weibo.com/5220650532/Buwxdfsdp) ]
+
+> 2014-11-01 @cvnote计算机视觉笔记: 看到一博文，讲计算机视觉的四部奇书（应该叫经典吧），分别是Hartley的《多图几何》、Gonzalez的《数字图像处理》、Szeliszi的CV:Algorithm&Application、Sonka等的《图像处理，分析与机器视觉》。前三本有看过，或理论深刻或讲解细致或涉猎广泛。感觉还真想不出更经典的作品了。各位还有什么推荐么 [ [微博](http://www.weibo.com/3812841100/BuilLhEY1) ]
+
+2014-11-03 为云设计的开源操作系统 osv.io 这里有各种平台（本地，EC2, GCE, Capstan）上跑的指南 http://t.cn/R7lY1w6 [ [微博](http://www.weibo.com/5220650532/BuvUesnP2) ]
+
+> 2014-10-29 @ShangguanRPI: 下一个玩具OSv http://t.cn/RhoIkLB，极有潜力。 [ [微博](http://www.weibo.com/1663264965/BtJUhBNsY) ]
+
+2014-11-02 @历史无限好 想做运维，不知道从何下手，能不能推荐些初级学习的资料。@茶是真热 整理了一个答案：awesome sysadmin已经非常全面了。各种常用工具、服务、HA结构的安装配置、性能、调优均涵盖。说一些比较基础的部分：先推荐两个网站，和linux使用很相关。都是拷过来答案就用的...http://t.cn/R7WQaH2 [ [微博](http://www.weibo.com/5220650532/BupNzg4Dt) ]
+
+2014-11-02 kaggle竞赛的获奖感言。都是些很实在的小经验，小教训，没有空话套话 http://t.cn/zjtKTWO --kaggle的口号“no free hunch”这些大实话里都体现了 [ [微博](http://www.weibo.com/5220650532/BupKBb4rf) ]
+
+2014-11-02 #求助# 代网友问：ensemble learning和boosting的综述，中文的有哪些推荐？ issue 314 http://t.cn/R7WHzm3 [ [微博](http://www.weibo.com/5220650532/BupH84mZB) ]
+
+2014-11-02 15本Hadoop好书。整理者Matthew Rathbone http://t.cn/RvNhW1M [ [微博](http://www.weibo.com/5220650532/BuptZoVCf) ]
+
+2014-11-02 //@phunter_lau: 我觉得很好，好比挖掘技术，Alex的讲座偏向于深入挖掘机操作技术，Xavier偏重不同工地的综合挖掘方法，结合自己实际工作的问题理解这两方面都很重要（新浪微博的推荐系统就是第一个理解不深入第二个不屑于去理解，这是反面教材） [ [微博](http://www.weibo.com/5220650532/BuoyPfeK0) ]
+
+> 2014-11-02 @李沐M: 翻了翻推荐系统的tutorial slides，目前发现的最好的两个：一是alex前年在berkeley上课用的，简练，清晰，重点都覆盖到了 http://t.cn/R7WtFwj 二是xavier在今年cmu夏季课程用的，4小时时长，很全面。http://t.cn/R7WtFwY @phunter_lau 你怎么看？ [ [微博](http://www.weibo.com/1953709481/BunUgk0Fu) ]
+
+2014-11-02 http://t.cn/R7WIf7e 做了一张卡片，有和预览和pdf，如果原链接打不开的可以试试。//@李武军nju: 回复@好东西传送门:可能跟我们系的服务器有关。以前有人发现用chrome浏览器不能下载，用IE直接点击打不开，但用IE点右键“另存为”可以。 //@好东西传送门:好像打不开 [ [微博](http://www.weibo.com/5220650532/Buo8a1ONj) ]
+
+> 2014-11-01 @李武军nju: 昨天在我们系 计算机软件新技术国家重点实验室 青年学者论坛上 做了一个报告，简要介绍了近期我们在“大数据机器学习”方面的几点尝试，包括：哈希学习，分布式学习，随机学习。分享一下胶片： http://t.cn/R7O4Ojm [ [微博](http://www.weibo.com/2309457710/Buhn8E6cw) ]
+
+2014-11-02 全书pdf链接直达http://t.cn/8sHGN56 也可以分章下载 2 Graph essentials 3 Network measures 4 Network models 5 Data mining essentials 6 Community analysis 7 Information diffusion in Social Media 8 Influence and homophily 9 Recommendation in social media 10 Behavior analytics [ [微博](http://www.weibo.com/5220650532/BunExtGfV) ]
+
+> 2014-11-02 @哈工大深圳_徐睿峰: #SMP2014# 亚利桑那州立大学 Mining Social Media : Look ahead 推荐了一本书 《Social Media Mining An Introduction》下载地址 http://t.cn/R7WGPrZ [ [微博](http://www.weibo.com/1494777880/BunDk9NrV) ]
+
+2014-11-02 感谢 @李武军nju @好东西传送门 @NLPJob @Kevin_机器学习_CA @西瓜大丸子汤 另外昨天的重点新闻是第三届全国社会媒体处理大会SMP2014，龙星镖局，刘知远，梁斌等分享了会上的热点。@小诺_Noah 原来是华为的机器人——李航已经分享了slides，会放入明天的日报 [ [微博](http://www.weibo.com/5220650532/Bunj13yjw) ]
+
+> 2014-11-02 @好东西传送门: 机器学习头条 2014-11-01 http://t.cn/R7WLGwp 1)李武军谈大数据机器学习 2)三代机器学习算法实现的演化 3)Klein和Manning关于最大熵模型PPT 4)caffe on windows 带cudnn 5)微信公众平台新增语义理解接口 加长版44条 [ [微博](http://www.weibo.com/5220650532/BunhBifai) ]
+
+2014-11-02 机器学习头条 2014-11-01 http://t.cn/R7WLGwp 1)李武军谈大数据机器学习 2)三代机器学习算法实现的演化 3)Klein和Manning关于最大熵模型PPT 4)caffe on windows 带cudnn 5)微信公众平台新增语义理解接口 加长版44条 [ [微博](http://www.weibo.com/5220650532/BunhBifai) ]
+
+2014-11-02 好东西，在Windows上也可以跑caffe。#深度学习# [ [微博](http://www.weibo.com/5220650532/Bumya5cuQ) ]
+
+> 2014-11-01 @Kevin_机器学习_CA: build 了一个最新的caffe on windows 带cudnn http://t.cn/R70cmkA 需要的话可以去下载 然后把所有需要的第三方库也打包了 [ [微博](http://www.weibo.com/2798235231/BudDI8ruZ) ]
+
+2014-11-02 数据科学关于安全的经典文章列表：Jason Trost整理的和安全有关的重要文章，都有pdf链接，覆盖领域：入侵检测，恶意软件Malware，数据收集，脆弱性分析，隐私与匿名，数据挖掘，网络犯罪，网络战等。入门必读。http://t.cn/RP21a3E [ [微博](http://www.weibo.com/5220650532/Bumenc14Y) ]
+
+2014-11-02 很有用的一个Python小工具dedupe，可以在csv或者数据里做数据去重（data deduplication）和实体消解（entity-resolution） Github http://t.cn/R7OkNyx 项目文档 http://t.cn/R7OkNyI 例子http://t.cn/R7OkNyM [ [微博](http://www.weibo.com/5220650532/BulWsq7fX) ]
+
+2014-11-02 先抛个砖：Awesome Sysadmin列表 详列了运维各种工具 http://t.cn/Rvj361W [ [微博](http://www.weibo.com/5220650532/BulFYkusW) ]
+
+> 2014-07-18 @历史无限好: 感觉自己不是开发的料，想做运维，不知道从何下手，能不能推荐些初级学习的资料，特别是ubuntu的，辛苦了[嘻嘻]@好东西传送门 http://t.cn/RPZdYr7 [ [微博](http://www.weibo.com/3150925993/Be6Y08pKI) ]
+
+2014-11-02 今年Hadoop Summit的主题演讲视频都在线，一共12个 http://t.cn/R7Oe3LG 具体题目请看图片，涉及云计算的方方面面 [ [微博](http://www.weibo.com/5220650532/BulCsy2vd) ]
+
+2014-11-02 求助! 求一句话点播。如果恰好知道什么资源分享一下吧。 [ [微博](http://www.weibo.com/5220650532/BukdIlJrm) ]
+
+> 2014-11-02 @__initial__: 针对中文文本情感分析 有哪些现成的工具包？@好东西传送门 http://t.cn/z8AqbYq [ [微博](http://www.weibo.com/1624579831/BujP92mhz) ]
+
+2014-11-02 小诺机器人的秘密 //@李航博士: 报告的slides在这里。 http://t.cn/R7OHblX [ [微博](http://www.weibo.com/5220650532/BujF0dTzF) ]
+
+> 2014-11-01 @刘知远THU: #SMP2014# @李航博士 老师介绍华为诺亚方舟实验室做的小诺机器人 @小诺_Noah 是很有意思的方向，可以自动关注人，转发帖子，评论。未来可以用上很多技术，例如摘要，翻译，自动问答，情感分析，等等。想象空间很大。 http://t.cn/R7pi9t3 [ [微博](http://www.weibo.com/1464484735/BuelGluCo) ]
+
+2014-11-01 //@DP金澜涛: 第一个tutorials是关于实时数据流mining的，part I比较偏理论，对构建实时数据仓库可能有帮助。part II偏实践，除了简单介绍S4,Storm等工具以外，介绍了一些流式mining的概念和思想，非学术帝们也能看得懂，不错的tutorials。 [ [微博](http://www.weibo.com/5220650532/Bueqv4tFl) ]
+
+> 2014-11-01 @BigData大数据: #BigData2014#BigData虽不能称为顶会，但是毕竟是世界第一个以BigData命名的会议，去年我在加州参加了第一届，今年第二届在DC刚刚结束，第一时间放出来干货，里面四个tutorial内容够翔实 http://t.cn/R70vcWZ 重点推荐第二个邢波Eric Xing的，他们组目前做DL和系统结合很厉害@好东西传送门 @数盟社区 [ [微博](http://www.weibo.com/2870219257/BuaHM1tsU) ]
+
+2014-11-01 Big Data Analytics Beyond Hadoop 第一章预览http://t.cn/R70aCGK 本章中作者总结了三代机器学习算法实现的演化：第一代非分布式的， 第二代工具如Mahout和Rapidminer实现基于Hadoop的扩展，第三代如Spark和Storm实现了实时和迭代数据处理。中文摘要（作者 -之诸暇）http://t.cn/RvtTFtX [ [微博](http://www.weibo.com/5220650532/BueqhsDRY) ]
+
+2014-11-01 感谢 @cvnote计算机视觉笔记 @bicloud笑西西 @52nlp @出门问问 @CSDN研发频道 [ [微博](http://www.weibo.com/5220650532/BuemD7sMQ) ]
+
+> 2014-11-01 @好东西传送门: 机器学习头条 2014-10-31 http://t.cn/R70wAaV 1)ECCV14教程：采集处理可形变的人体动物模型 2)为什么深度学习让其他机器学习算法相形见绌 3)spark上的贝叶斯学习 4)sync2014北京大会上关于人工智能方向的圆桌会议 5)@夏粉_百度 百度推荐技术论文《智能因子分解机》 加长版49条 http://t.cn/R70wAat [ [微博](http://www.weibo.com/5220650532/BubNxjrAR) ]
+
+2014-11-01 Query Intent Classification By Search Session Analysis，盛大topdata team [ [微博](http://www.weibo.com/5220650532/BudeR8qS9) ]
+
+> 2014-10-31 @清风运文: CIKM的poster总算搞定了，期待下周能在会场聆听Google Jeff Dean和微软陆奇的讲座 [ [微博](http://www.weibo.com/1527369027/Bu9ErFRDb) ]
+
+2014-11-01 IEEE BigData 2014 大数据会议 [ [微博](http://www.weibo.com/5220650532/BucU3AGbF) ]
+
+> 2014-11-01 @BigData大数据: #BigData2014#BigData虽不能称为顶会，但是毕竟是世界第一个以BigData命名的会议，去年我在加州参加了第一届，今年第二届在DC刚刚结束，第一时间放出来干货，里面四个tutorial内容够翔实 http://t.cn/R70vcWZ 重点推荐第二个邢波Eric Xing的，他们组目前做DL和系统结合很厉害@好东西传送门 @数盟社区 [ [微博](http://www.weibo.com/2870219257/BuaHM1tsU) ]
+
+2014-11-01 更正：正确的题目翻译应该是“深度学习会不会让其他机器学习算法过时？” 感谢@haohao7 纠正 //@好东西传送门: Quora值得一读的讨论：为什么深度学习让其他机器学习算法相形见绌？参与人中有Google DeepMind团队的Jack Rae [ [微博](http://www.weibo.com/5220650532/BubPP8eWK) ]
+
+> 2014-10-31 @bicloud笑西西: Will deep learning make other Machine Learning algorithms obsolete? http://t.cn/R7pJuvQ [ [微博](http://www.weibo.com/1640260361/Bu89jsvdz) ]
+
+2014-11-01 Quora值得一读的讨论：为什么深度学习让其他机器学习算法相形见绌？参与人中有Google DeepMind团队的Jack Rae [ [微博](http://www.weibo.com/5220650532/BubzpecZr) ]
+
+> 2014-10-31 @bicloud笑西西: Will deep learning make other Machine Learning algorithms obsolete? http://t.cn/R7pJuvQ [ [微博](http://www.weibo.com/1640260361/Bu89jsvdz) ]
+
+2014-10-31 spark上的贝叶斯学习，用python的pymc包 [ [微博](http://www.weibo.com/5220650532/Bu7CprXpq) ]
+
+> 2014-10-31 @52nlp: Bayesian Machine Learning on Apache Spark http://t.cn/R7p5RJX 关键词：Markov Chain Monte Carlo (MCMC) Methods, PyMC, Spark, PyMC on Spark, Topic Modeling with MCMC, Distributed LDA on Spark with PyMC [ [微博](http://www.weibo.com/2104931705/Bu7BE77Rp) ]
+
+2014-10-31 《PostgreSQL 中文资料汇总》 谭峰(@francs3 ，PostgreSQL 中文社区版主)整理，挺有用的 http://t.cn/8F4CZ9J 另外作者和黄坚将《PostgreSQL 9 Admin Cookbook》翻译成了中文 [good] http://t.cn/8FBhLZm [ [微博](http://www.weibo.com/5220650532/Bu74plHpM) ]
+
+2014-10-31 在想以后《机器学习日报》是不是该出一个专栏叫“千万别错过的讲座”，比如这个 [ [微博](http://www.weibo.com/5220650532/Bu5IS0xTr) ]
+
+> 2014-10-31 @刘知远THU: Google Senior Fellow Jeff Dean 将于下周三（11月5日）14:30在清华大学FIT大楼多功能报告厅做学术报告：Scaling Deep Learning，由 @孙茂松 教授主持。欢迎对深度学习和大规模机器学习技术感兴趣的同学来与Jeff Dean面对面。 [ [微博](http://www.weibo.com/1464484735/Bu5GPvrJR) ]
+
+2014-10-31 这个文本可视化综述是真心好，足足一百种方法，以前最多见过其中十几种 textvis.lnu.se 瑞典Linnaeus University出品 [good] [ [微博](http://www.weibo.com/5220650532/Bu5GxvOOP) ]
+
+> 2014-10-30 @AixinSG: 非常直观的文本可视化综述：Text Visualization Browser: A Visual Survey of Text Visualization Techniques http://t.cn/R79Ye47 [ [微博](http://www.weibo.com/1025887594/BtUsZ5Ntg) ]
+
+2014-10-31 好长，里面@白硕SH 老师说的那段也不错。神经网络这一轮复兴，也许能比上一轮维持得久一点。 [ [微博](http://www.weibo.com/5220650532/Bu5xmnnIZ) ]
+
+> 2014-10-31 @BigData大数据: #脑机计算#目前很多很多BRAIN，什么百度Google大脑，也有脑计划，容易把人弄糊涂，最近Jordan也跳出来说别动不动把脑扯上关系，最近科学院也出了Diannao DaDiannao, 新近 @杨静Lillian 对 @潘布衣 的专访，http://t.cn/R7NcpVb 布衣明确了一些容易混淆视听的概念 不能错过 @好东西传送门 [ [微博](http://www.weibo.com/2870219257/Bu3V8apUx) ]
+
+2014-10-31 关于Tableau和ggplot2的比较，看这条微博 http://t.cn/R7NTgi5 @海中的沙粒 [ [微博](http://www.weibo.com/5220650532/Bu5ui4JwL) ]
+
+> 2014-10-20 @数据可视化Tableau: #Tableau 8 权威指南上架# 很高兴和大家分享由我们公司员工翻译的《tableau 8 权威指南》一书，该书是目前国内最详细介绍tableau最新大版本数据可视化制作的书，全书彩印，并配有视频和示例。各大网店均有售。中国传媒大学教授博导 @沈浩老师 、北大博导袁老师 @晓如微博(名字不分先后)写序推荐！ [ [微博](http://www.weibo.com/3196853784/BsrPrEzlu) ]
+
+2014-10-31 感谢 @ICTCLAS张华平博士 @十月伤感wb @中国云计算论坛 @差哥 @AixinSG 今天的长版里注意到@齐梁后尘 和@殆知阁 起的一个话题 http://t.cn/R7NL4l2 涉及到古籍整理中的自然语言处理，貌似可以发展成有趣的话题，大家可以去那里各抒己见 [ [微博](http://www.weibo.com/5220650532/Bu2sdneLn) ]
+
+> 2014-10-31 @好东西传送门: 机器学习头条 2014-10-30 http://t.cn/R7NLzFG 1)SMP2014第三届全国社会媒体处理大会手册 2)100个推荐系统相关的视频 3)数据挖掘基础：分词入门 4)四种传统的自然语言生成技术及其优缺点 5)非常直观的文本可视化综述 加长版30条 http://t.cn/R7NLzFq [ [微博](http://www.weibo.com/5220650532/Bu2qiyeBs) ]
+
+2014-10-31 机器学习头条 2014-10-30 http://t.cn/R7NLzFG 1)SMP2014第三届全国社会媒体处理大会手册 2)100个推荐系统相关的视频 3)数据挖掘基础：分词入门 4)四种传统的自然语言生成技术及其优缺点 5)非常直观的文本可视化综述 加长版30条 http://t.cn/R7NLzFq [ [微博](http://www.weibo.com/5220650532/Bu2qiyeBs) ]
+
+2014-10-30 SO上一篇很好的问答：SQL和Prolog的异同。很多人可能没有意识到，SQL其实是一种logic program(逻辑程序)。它和Prolog这类逻辑程序的区别则在于SQL主要是事实和集合(关系)引擎，而prolog是规则和推理引擎（所以可以处理“语义”）。SQL主要是服务器端语言，Prolog主要是客户端语言。http://t.cn/zjUlI3G [ [微博](http://www.weibo.com/5220650532/BtWTh7TJU) ]
+
+2014-10-30 先记这issue 311 http://t.cn/R7Ch44x 参老问题108“求推荐靠谱的自动摘要软件/服务”的初步答案http://t.cn/RPgzu6p 另外snownlp内置了一个简单的中文摘要模块http://t.cn/8kf1c3p （TextRank算法） [ [微博](http://www.weibo.com/5220650532/BtVWPeDpX) ]
+
+> 2014-10-30 @流川和他的偏见: #求助#@好东西传送门  有木有什么自动摘要的工具 我真的找了好久 …… http://t.cn/R79MNO8 [ [微博](http://www.weibo.com/2560968763/BtRjqbaiC) ]
+
+2014-10-30 W3C主席，Web发明人Tim Berners-Lee今天在w3c 20年庆典上的主题演讲http://t.cn/R79rwZe ，系统阐述了历史回顾，万维网协作，新一代的社交网络，为什么开放性极其重要和W3C的使命。@lidingpku 做了简明摘要 http://t.cn/R79rwZF [ [微博](http://www.weibo.com/5220650532/BtVkJkDXU) ]
+
+2014-10-30 很好的可视化。写篇文章讲讲是怎么做的吧 [ [微博](http://www.weibo.com/5220650532/BtVg0dxAd) ]
+
+> 2014-10-30 @规勒个划: 基于位置微博的人口流动分析（草图），原始数据约1000余万条（6天），一个星期搭建好计算框架，跑一次2小时，不过可以分步执行，哈哈 [ [微博](http://www.weibo.com/1012425625/BtUOP2e05) ]
+
+2014-10-30 感谢 @Copper_PKU @杨静Lillian @hashjoin @BigData大数据 [ [微博](http://www.weibo.com/5220650532/BtUzz9yNL) ]
+
+> 2014-10-30 @好东西传送门: 机器学习头条 2014-10-29 http://t.cn/R79Tsst 1)A Fast And Scalable Topic-Modeling Toolbox 2)交互式搜索：改变世界的百度智能界面 3)腾讯TDW千台Spark千亿节点对相似度计算 4)Jeff Dean在RecSys上主题讲演 5)Geoff Hinton演讲视频，指点DL未来走势 加长版48条 http://t.cn/R79Tssc [ [微博](http://www.weibo.com/5220650532/BtUzqAyu5) ]
+
+2014-10-30 机器学习头条 2014-10-29 http://t.cn/R79Tsst 1)A Fast And Scalable Topic-Modeling Toolbox 2)交互式搜索：改变世界的百度智能界面 3)腾讯TDW千台Spark千亿节点对相似度计算 4)Jeff Dean在RecSys上主题讲演 5)Geoff Hinton演讲视频，指点DL未来走势 加长版48条 http://t.cn/R79Tssc [ [微博](http://www.weibo.com/5220650532/BtUzqAyu5) ]
+
+2014-10-30 五种LDA方法Distributed collapsed Gibbs sampling DCGS， Asynchronous DCGS， Fast collapsed Gibbs sampling，Fast collapsed variational inference， Efficient collapsed Gibbs sampling [ [微博](http://www.weibo.com/5220650532/BtUi478w4) ]
+
+> 2014-10-29 @Copper_PKU: 重新学习Topic Model鸟 找个一个不错的合集 “A Fast And Scalable Topic-Modeling Toolbox” http://t.cn/R7KkI9O [ [微博](http://www.weibo.com/1758509357/BtPotfW08) ]
+
+2014-10-30 转发微博 [ [微博](http://www.weibo.com/5220650532/BtUbkjBNK) ]
+
+> 2014-10-29 @BigData大数据: #Jeff Dean视频#高富帅Dean，MR, Spanner, Pregel等顶级系统的首席&Google Fellow，已全面转向做深度学习，刚传了一个去年斯坦福的视频做开胃小菜，本视频是Jeff本月在RecSys上主题讲演，因时间冲突Jeff罕见缺席OSDI而去RecSys，http://t.cn/R7KyzrC @数盟社区 @好东西传送门 @杨静Lillian @龙星镖局 [ [微博](http://www.weibo.com/2870219257/BtMlfDJal) ]
+
+2014-10-29 嗯，很好的PostgreSQL网页管理工具 //@网路冷眼: 是简约，简约而不简单[酷] //@2gua: 很简洁啊 [ [微博](http://www.weibo.com/5220650532/BtL86ALD4) ]
+
+> 2014-10-28 @网路冷眼: #工具分享#【pgweb：基于Web的PostgreSQL数据管理工具】http://t.cn/R7SvBMV pgweb采用Go语言编写，能运行在Mac OS，Linux和Windows等主流平台，和MySQL数据库的管理工具phpmyadmin有异曲同工之妙。@Linux中国 @好东西传送门 @伯乐头条 [ [微博](http://www.weibo.com/1715118170/BtH3U7sa4) ]
+
+2014-10-29 感谢 @36大数据网 @李沐M @hsunway @Python开发者 @龙星镖局 @人见人爱花见花开的土豆 。昨天回答了特征学习学习资料和深度学习用于语音识别的资料的两个问题。这些问题以前都被问过，见我们的Github http://t.cn/R7oBpCz 以后我们也会提供更方便的旧文检索方式 [ [微博](http://www.weibo.com/5220650532/BtL7Q5nl3) ]
+
+> 2014-10-29 @好东西传送门: 机器学习头条 2014-10-28 http://t.cn/R7oBq2I 1)@李沐M “人工特征工程+线性模型”的尽头 2)谣言的判别方法 3)Twitter开源云环境时间序列数据断层检测工具 4)50行Python代码写一个语言检测器 5)Wiki上的人工智能史 加长版39条 http://t.cn/R7oBq2x [ [微博](http://www.weibo.com/5220650532/BtL5Xl0LK) ]
+
+2014-10-29 机器学习头条 2014-10-28 http://t.cn/R7oBq2I 1)@李沐M “人工特征工程+线性模型”的尽头 2)谣言的判别方法 3)Twitter开源云环境时间序列数据断层检测工具 4)50行Python代码写一个语言检测器 5)Wiki上的人工智能史 加长版39条 http://t.cn/R7oBq2x [ [微博](http://www.weibo.com/5220650532/BtL5Xl0LK) ]
+
+2014-10-29 #求助# 有门友问，有什么关于中文文章情感分析的资料或者工具吗？ [ [微博](http://www.weibo.com/5220650532/BtHYlzMWm) ]
+
+2014-10-29 text detection是经典图像处理问题，文章很多http://t.cn/R7o9Xmh 一个常用方法是maximally stable extremal regions (MSER) http://t.cn/R7o9Xm7 http://t.cn/R7o9Xmz Andrew Ng等最近也用无监督学习方法http://t.cn/R7o9XmA [ [微博](http://www.weibo.com/5220650532/BtHRH5OWE) ]
+
+> 2014-10-28 @--_木_--: 有什么方法可以把图片上的文字区域识别出来么？ 不需要文字具体内容。 主要目的是想把图片上的文字都删除或者能删多少是多少。例如这个例子。有人有思路吗？ @好东西传送门 @余轶南 @星空下的巫师 @西瓜大丸子汤 [ [微博](http://www.weibo.com/1826623915/BtHcV878K) ]
+
+2014-10-28 @xccds 以前推荐过Discover Feature Engineering, How to Engineer Features and How to Get Good at It http://t.cn/RhumtBN 这篇综述了特征工程的方方面面，作为基础很不错。另外一片@breezedeus 推荐的An Introduction to Feature Selection http://t.cn/R7PEiL5 也不错，列有进阶阅读参考文献 [ [微博](http://www.weibo.com/5220650532/BtDYzeALm) ]
+
+> 2014-10-28 @蜗牛爬nj: @好东西传送门 能推荐一下关于 特征学习方面的学习资料吗？最好全面一点的 [ [微博](http://www.weibo.com/2502391724/BtDWqfPxu) ]
+
+2014-10-28 文章的Bibtex等请看issue 307 http://t.cn/R7aUymw [ [微博](http://www.weibo.com/5220650532/BtDGn3DcG) ]
+
+> 2014-10-28 @好东西传送门: @姚启鹏要茁壮 问：现在关于谣言的判别有哪些方法，有没有一些机用器学习的方法来判别？ @AixinSG 推荐Mei Qiaozhu在EMNLP 2011上的文章Rumor has it: Identifying Misinformation in Microblogs http://t.cn/R7ST9Xj @QPCN 推荐过www上的识别垃圾与虚假信息的教程 http://t.cn/R7ST9XW [ [微博](http://www.weibo.com/5220650532/BtDFWrFPY) ]
+
+2014-10-28 @姚启鹏要茁壮 问：现在关于谣言的判别有哪些方法，有没有一些机用器学习的方法来判别？ @AixinSG 推荐Mei Qiaozhu在EMNLP 2011上的文章Rumor has it: Identifying Misinformation in Microblogs http://t.cn/R7ST9Xj @QPCN 推荐过www上的识别垃圾与虚假信息的教程 http://t.cn/R7ST9XW [ [微博](http://www.weibo.com/5220650532/BtDFWrFPY) ]
+
+2014-10-28 基于E-Divisive with Medians（EDM）的时间序列数据断层检测工具BreakoutDetection。Twitter的原文 Breakout detection in the wild http://t.cn/R7xmnGj Github项目主页http://t.cn/R7SI17A [ [微博](http://www.weibo.com/5220650532/BtDBEwcfm) ]
+
+> 2014-10-28 @hsunway: Twitter开源云环境时间序列数据断层检测工具BreakoutDetection http://t.cn/R7SVnjt http://t.cn/R7SI17A [ [微博](http://www.weibo.com/1733873534/BtCpLeb49) ]
+
+2014-10-28 请看这条老微博：2014-08-19 [资料整理] 深度学习在语音识别的应用，入门篇: http://t.cn/RP8ll1s 向 @李开复 在CMU做的Sphinx(1988)致敬。介绍几个牛人和顶级团队： 微软 (邓力 Li Deng )和谷歌 (Vincent Vanhoucke, Geoffrey E. Hinton) http://t.cn/R7SfRJ1 [ [微博](http://www.weibo.com/5220650532/BtClC82OQ) ]
+
+> 2014-10-28 @Syndrome_suf: @好东西传送门 @我爱机器学习 @微软亚洲研究院 各位亲爱的大大，请问deep learning应用于语音识别的经典论文有哪些啊？[得意地笑][得意地笑] [ [微博](http://www.weibo.com/1762713024/BtCcgEH8a) ]
+
+2014-10-28 推荐。如果要看短的有AI Landscape http://t.cn/RhTXnDF 和AI Timeline http://t.cn/R7asDqM [ [微博](http://www.weibo.com/5220650532/BtzS9jxNo) ]
+
+> 2014-10-28 @龙星镖局: Wiki上的人工智能史  稍长一些 并且是中文的 更适合大家读 读后不得不叹 人工智能激荡几十年啊  有一句词评价AI很适合：向来回首萧瑟处，归去，也无风雨也无晴 | 我爱计算机 @52cs @好东西传送门 @老师木 http://t.cn/R7ag4f6  [ [微博](http://www.weibo.com/1830516311/BtyUMDJJD) ]
+
+2014-10-28 传送门看了一遍，表示同意右边意见。作者（Eren Golge）的机器学习工作流系列文章都不错 http://t.cn/R7asuLU //@phunter_lau: 很好，比较细致全面涵盖了特征工程这一脏活累活的诸多方面 [ [微博](http://www.weibo.com/5220650532/BtzQgiLY3) ]
+
+> 2014-10-27 @星空下的巫师: ML Work-Flow (Part 3) - Feature Extraction - A Blog From a Human-engineer-being http://t.cn/R7aQPbR [ [微博](http://www.weibo.com/1785748853/BtxMWwGjQ) ]
+
+2014-10-28 感谢 @研究者July @王利锋Fandy @火光摇曳Flickering @BigData大数据 @刘洋THU 头条之外今天还有不少好内容，如52nlp推荐的几种语言常用的机器学习工具包，Kenneth Kuttler的电子书线性代数理论与应用， 李航老师的《Learning to Rank》第二版等 [ [微博](http://www.weibo.com/5220650532/BtzNItsjg) ]
+
+> 2014-10-28 @好东西传送门: 机器学习头条 2014-10-27 http://t.cn/R7asKVK 1)最大熵模型中的数学推导 2)word2vec笔记之基础篇、算法篇和应用篇(falao_beiliu) 3)SparseLDA算法 4)Mining Big Data with Apache Spark - Reynold Xin 5)中文计算语言学会议CCL& NLP-NABD 2014论文集可下载 加长版52条 http://t.cn/R7asKV9 [ [微博](http://www.weibo.com/5220650532/BtzMgCKRI) ]
+
+2014-10-28 机器学习头条 2014-10-27 http://t.cn/R7asKVK 1)最大熵模型中的数学推导 2)word2vec笔记之基础篇、算法篇和应用篇(falao_beiliu) 3)SparseLDA算法 4)Mining Big Data with Apache Spark - Reynold Xin 5)中文计算语言学会议CCL& NLP-NABD 2014论文集可下载 加长版52条 http://t.cn/R7asKV9 [ [微博](http://www.weibo.com/5220650532/BtzMgCKRI) ]
+
+2014-10-28 常见语言的机器学习包一览 [ [微博](http://www.weibo.com/5220650532/BtzeKcm2I) ]
+
+> 2014-10-27 @52nlp: Open source tools make it easier to integrate machine learning into apps written in Java, 5 ways to add machine learning to Java, JavaScript, and more http://t.cn/R7a0FKR 提到了几种语言常用的机器学习工具包, 譬如scikit-learn, PyBrain, GoLearn, Mahout, Weka, Java-ML, ConvNetJS等 [ [微博](http://www.weibo.com/2104931705/Btxj9mJOe) ]
+
+2014-10-27 回复@新蝾螈:不能下载的可以试试右边提到的链接//@新蝾螈:貌似不能下载。但这个行：http://t.cn/R7aVqCp， 有这本书，课程大纲还有习题答案... [ [微博](http://www.weibo.com/5220650532/BtxQs1X0O) ]
+
+> 2014-10-27 @好东西传送门: Brigham Young University的Kenneth Kuttler把自己的《Linear Algebra, Theory And Applications》（线性代数理论与应用）全书pdf放在网上了， 500页，很数学，比Strang那本Introduction to Linear Algebra要深一些 [ [微博](http://www.weibo.com/5220650532/BtvFKbzLD) ]
+
+2014-10-27 这是链接 http://t.cn/R7aGZ0H [ [微博](http://www.weibo.com/5220650532/BtvH5etwv) ]
+
+> 2014-10-27 @好东西传送门: Brigham Young University的Kenneth Kuttler把自己的《Linear Algebra, Theory And Applications》（线性代数理论与应用）全书pdf放在网上了， 500页，很数学，比Strang那本Introduction to Linear Algebra要深一些 [ [微博](http://www.weibo.com/5220650532/BtvFKbzLD) ]
+
+2014-10-27 Brigham Young University的Kenneth Kuttler把自己的《Linear Algebra, Theory And Applications》（线性代数理论与应用）全书pdf放在网上了， 500页，很数学，比Strang那本Introduction to Linear Algebra要深一些 [ [微博](http://www.weibo.com/5220650532/BtvFKbzLD) ]
+
+2014-10-27 又想起来@QPCN 香港城市大学的教授，社交网络研究新星 @立委_米拉 在美国工作的自然语言处理老兵，常能从统计角度之外提出有营养的看法。 [ [微博](http://www.weibo.com/5220650532/BtvyDjiKf) ]
+
+> 2014-10-25 @好东西传送门: 中文计算机领域几个潜力股微博帐号: @Gary南京 知识和逻辑国内最重要的教授之一 @昊奋 学贯统计与知识两界，研究与工程经验都十分扎实 @AixinSG 执教新加坡，机器学习社交网络信息检索 @phunter_lau 推荐系统专家，而且有趣。当然其他大牛很多，这几个是关注的人还不算多，但绝对不该错过的。 [ [微博](http://www.weibo.com/5220650532/BtdjfEuRo) ]
+
+2014-10-27 转发这条是真的觉得《Python计算机视觉编程》不错。英文版原书Programming Computer Vision with Python http://t.cn/zWUbqfY 作者放出来的电子版 http://t.cn/R7a2D3Y [ [微博](http://www.weibo.com/5220650532/Btvlif0OY) ]
+
+> 2014-10-27 @图灵社区: #电子书本周半价# 《Python计算机视觉编程》http://t.cn/RvnpQRY 《世界顶级创业导师的洞见》http://t.cn/RvejK6O [ [微博](http://www.weibo.com/2526195981/BtviMxPdU) ]
+
+2014-10-27 初学者问题：如何在机器学习的语境下能达到有坚实的数学基础? 讨论见 http://t.cn/RPlPk6o @刘赛的中国梦 提到《数据挖掘中的新方法-支持向量机》(邓乃扬) 读了这本书再读 @李航博士 《统计学习方法》就会比较容易了。此外CMU等名校的机器学习课程都列有前提要求，可资参考 [ [微博](http://www.weibo.com/5220650532/Btv9Nuvqd) ]
+
+2014-10-27 Learning to Rank 第二版。这里以前我们收集的40多条LTR的资料，包括第一版的Google Books预览 http://t.cn/RP5WYnc [ [微博](http://www.weibo.com/5220650532/Btv3M3Yeh) ]
+
+> 2014-10-27 @刘知远THU: @李航博士 老师的专著《Learning to Rank for Information Retrieval and Natural Language Processing》出第二版了，关注。http://t.cn/R7ahdDU [ [微博](http://www.weibo.com/1464484735/BtuXxvnVG) ]
+
+2014-10-27 Reynold Xin @hashjoin http://t.cn/R7Xrqqa http://t.cn/zjLlNrX "大胡子小弟" Aaron Davidson http://t.cn/R7XrqqS [ [微博](http://www.weibo.com/5220650532/BtufWmvMc) ]
+
+> 2014-10-27 @BigData大数据: #Spark视频#Reynold Xin公开演讲视频，作为DataBricks的联合FOUNDER，很少接受演讲邀请，甚至在Spark Summit China 2014 和Spark Summit 2014都不发声，这次在Data Mining Meetup中终于闻其声，带着一个大胡子小弟一起演示，有兴趣的听一下。视频地址：http://t.cn/R7X00Ns @hashjoin @好东西传送门 [ [微博](http://www.weibo.com/2870219257/BttdteqpM) ]
+
+2014-10-27 感谢 @Jay_GraphLab @王威廉 @研究者July @高松-GISer @KissDev [ [微博](http://www.weibo.com/5220650532/BtsJM0psi) ]
+
+> 2014-10-27 @好东西传送门: 机器学习头条 2014-10-26 http://t.cn/R7XaMxI 1)什么R和Python的用户值得尝试GraphLab Create 2)中文微博的依存句法分析 3)邹博的PPT教程：回归与最优化，最大熵模型 4)用条件概率模型估计全球机场埃博拉病毒传染风险 5)计算广告学斯坦福和 @北冥乘海生 的入门课程 加长版41条 http://t.cn/R7XaMxx [ [微博](http://www.weibo.com/5220650532/BtsI5oBIJ) ]
+
+2014-10-27 机器学习头条 2014-10-26 http://t.cn/R7XaMxI 1)什么R和Python的用户值得尝试GraphLab Create 2)中文微博的依存句法分析 3)邹博的PPT教程：回归与最优化，最大熵模型 4)用条件概率模型估计全球机场埃博拉病毒传染风险 5)计算广告学斯坦福和 @北冥乘海生 的入门课程 加长版41条 http://t.cn/R7XaMxx [ [微博](http://www.weibo.com/5220650532/BtsI5oBIJ) ]
+
+2014-10-27 握手！Linux下的矢量编辑，Skencil也很好用，而且是用Python写的 http://t.cn/h4Fphj EPS转化的话，Linux下最好用的是convert命令（ImageMagick的一部分）： convert foo.png foo.eps http://t.cn/aouUYB [ [微博](http://www.weibo.com/5220650532/BtqEB2Tb4) ]
+
+> 2014-10-26 @AixinSG: 多谢@好东西传送门 推荐，见识了社交媒体上推荐的力量，一下子涨了几百粉。下一步好好看看推荐系统的东西。 顺便推荐 Inkscape， 一个很强大的开源矢量图编辑软件，我只用它一个功能，把各种图片转成EPS， 用Latex写文章的可能会用得着 [ [微博](http://www.weibo.com/1025887594/Btk4l8YKQ) ]
+
+2014-10-27 12年UCLA Summer School《深度学习和特征学习》 [ [微博](http://www.weibo.com/5220650532/BtpPH83mm) ]
+
+> 2014-10-26 @龙星镖局: 12年UCLA Summer School的主题是《深度学习和特征学习》，报告者有Hinton、LeCun、 Ng 、 Bengio、Weston 和@余凯_西二旗民工 等一线大牛。讲座PPT和视频都可以在http://t.cn/R7JRbhv 下载观看。@breezedeus @好东西传送门 @developerWorks [ [微博](http://www.weibo.com/1830516311/BtmYiB4cO) ]
+
+2014-10-26 回复@kingkg28-zhou: 不需要，有一点设计网页的经验最好，帮网站参谋一下网页的排版设计，然后每周在周报发出去之前帮着看一眼是不是有不妥或重复，应该10-20分钟就够了。内容都会在Github上发布 http://t.cn/RPfAgNg //@kingkg28-zhou:需要专业基础吗？ [ [微博](http://www.weibo.com/5220650532/BtlH451OK) ]
+
+> 2014-10-26 @好东西传送门: http://t.cn/R76cfVx 刚刚发了上周的《好东西周报》。上周我们共推荐了87次好东西，最热门前十条见长微博。BTW， 《好东西周报》的网站需要一个志愿者，这个工作会是开源的，有门友感兴趣吗？在这条微博下留言或私信都可以 [ [微博](http://www.weibo.com/5220650532/BtlELCfsn) ]
+
+2014-10-26 http://t.cn/R76cfVx 刚刚发了上周的《好东西周报》。上周我们共推荐了87次好东西，最热门前十条见长微博。BTW， 《好东西周报》的网站需要一个志愿者，这个工作会是开源的，有门友感兴趣吗？在这条微博下留言或私信都可以 [ [微博](http://www.weibo.com/5220650532/BtlELCfsn) ]
+
+2014-10-26 //@龙星镖局: @刘知远THU @刘挺 @AixinSG @白硕SH @Bing_Liu_25 @黄亮-算法时代 这个材料值得nlp的童鞋看看，请大家扩散一下[呵呵] [ [微博](http://www.weibo.com/5220650532/Btlt4vaEl) ]
+
+> 2014-10-25 @龙星镖局: 做自然语言处理和语音识别的都应该看看大牛 Kevin Duh 的这个资料《语言的世界》（英文题目是 Languages of the World)，http://t.cn/R7i2Jvj 。他从语言的定义、起源、发展、各语系的分类、特点、差异等方面对要“语言”进行了认识。如果你对所要解决的问题都没有认识，何谈研究呢？ [ [微博](http://www.weibo.com/1830516311/BteMrhtLx) ]
+
+2014-10-26 http://t.cn/R76vke8 @龙星镖局 推荐：Kevin Duh 《Languages of the World》（语言的世界）。Duh是奈良尖端科学技术大学院大学助理教授，从事自然语言处理与机器学习。这个PPT里他简要介绍了世界各大语言的谱系，和它们的一些语言特征。交互式世界语言地图网站请看WALS http://t.cn/zOJbnFn [ [微博](http://www.weibo.com/5220650532/BtkuG1txH) ]
+
+2014-10-26 推荐coursera上现在的一门课Automata（自动机），主讲人斯坦福Jeff Ullman（名教材Dragon Book和Cinderella book的作者）讲了计算复杂性和可计算性的一些入门基础问题，如图灵机，上下文无关文法，NP完全问题等 http://t.cn/zOSSPKE [ [微博](http://www.weibo.com/5220650532/Btjv1xmpx) ]
+
+2014-10-26 论文直达传送门 http://t.cn/R7iEt4z 交互式demo传送门 http://t.cn/R7iEt4h 用的是很基础的贝叶斯概率。 [ [微博](http://www.weibo.com/5220650532/BtjplisEg) ]
+
+> 2014-10-26 @高松-GISer: #关注埃博拉# 德国复杂系统研究小组Brockmann Lab利用全球航空网络和航空客流数据、根据条件概率模型估计了各机场和全球各大区域的病毒传染风险指数。把结果利用D3+JS Web可视化表达出来 http://t.cn/R7iXyFU [ [微博](http://www.weibo.com/1638623287/BtgEylClD) ]
+
+2014-10-26 这本书的v1有简体中文版 http://t.cn/R7iHHIa 解释繁略得当，例子实用。第二版大大扩展了Git Tools，新增Github一章，比第一版更能帮助大家少走弯路 [ [微博](http://www.weibo.com/5220650532/Btj5Sdr1t) ]
+
+> 2014-10-25 @网路冷眼: #干货分享#【免费的电子书Pro Git发布2.0】http://t.cn/R7izIzo Git方面最重要采用共享协议的电子书发布英文第2版，提供PDF, mobi和ePub三种格式免费下载 。1.0有中文在线版本。[doge]@2gua 请收深夜福利！cc @好东西传送门 @伯乐头条 @孢子响马 @极客头条 @developerWorks  [ [微博](http://www.weibo.com/1715118170/Btfo60pID) ]
+
+2014-10-26 感谢 @KissDev @包云岗 @bruinxiong 特别是 @龙星镖局 昨天一口气推荐了好几个好资源，除了头条里这条还有深度学习干货集，Mehryar Mohri《Foundations of Machine Learning》Jordan《On the Computational and Statistical Interface and Big Data》 [ [微博](http://www.weibo.com/5220650532/Btj2cpiJo) ]
+
+> 2014-10-26 @好东西传送门: 机器学习头条 2014-10-25 http://t.cn/R7iTf3f 1)Kevin Duh 《语言的世界》 2)数据科学领域酷的免费数据集 3)LinkedIn工程师：面向搜索的大规模机器学习 4)@陈云霁 等：机器学习超级计算机DaDianNao 5)胡哲：从CVPR 2014看计算机视觉领域的最新热点 加长版56条 http://t.cn/R7iTf3V [ [微博](http://www.weibo.com/5220650532/BtiYktmcm) ]
+
+2014-10-26 机器学习头条 2014-10-25 http://t.cn/R7iTf3f 1)Kevin Duh 《语言的世界》 2)数据科学领域酷的免费数据集 3)LinkedIn工程师：面向搜索的大规模机器学习 4)@陈云霁 等：机器学习超级计算机DaDianNao 5)胡哲：从CVPR 2014看计算机视觉领域的最新热点 加长版56条 http://t.cn/R7iTf3V [ [微博](http://www.weibo.com/5220650532/BtiYktmcm) ]
+
+2014-10-26 潜力股+1 最右PayPal数据科学负责人。欢迎大家继续推荐！ //@phunter_lau: 我推荐右边，你点了这片文章就会乖乖回来关注他的 http://t.cn/RhDrpIl //@丁磊-data: 膜拜 [ [微博](http://www.weibo.com/5220650532/Btge5tkSC) ]
+
+> 2014-10-25 @好东西传送门: 中文计算机领域几个潜力股微博帐号: @Gary南京 知识和逻辑国内最重要的教授之一 @昊奋 学贯统计与知识两界，研究与工程经验都十分扎实 @AixinSG 执教新加坡，机器学习社交网络信息检索 @phunter_lau 推荐系统专家，而且有趣。当然其他大牛很多，这几个是关注的人还不算多，但绝对不该错过的。 [ [微博](http://www.weibo.com/5220650532/BtdjfEuRo) ]
+
+2014-10-25 摘要：Devavrat Shah和Kang Zhang从各大Bitcoin交易所收集了五个月的价格数据，利用“Bayesian regression”来预测价格  [ [微博](http://www.weibo.com/5220650532/Btfknv8Jm) ]
+
+> 2014-10-25 @网路冷眼: 【麻省理工学院科学家能够预测比特币价格】http://t.cn/R7xOxQt  麻省理工学院计算机科学和人工智能实验室和信息和决策系统实验室研究人员最近开发出机器学习算法，可以预测比特币的价格波动，50天时间内这个团队使投资翻番。 [威武] @好东西传送门  [ [微博](http://www.weibo.com/1715118170/Bt9lDdkpp) ]
+
+2014-10-25 Dileep Bhandarkar, IEEE Fellow. Amazing Journey From Mainframes To Smartphones 原文是pdf [ [微博](http://www.weibo.com/5220650532/BtfiIlprC) ]
+
+> 2014-10-25 @effectivewang: Computer History这个不错 http://t.cn/R7i2b13 高通VP讲芯片历史 @好东西传送门 [ [微博](http://www.weibo.com/1801673705/BteLInxSS) ]
+
+2014-10-25 中文计算机领域几个潜力股微博帐号: @Gary南京 知识和逻辑国内最重要的教授之一 @昊奋 学贯统计与知识两界，研究与工程经验都十分扎实 @AixinSG 执教新加坡，机器学习社交网络信息检索 @phunter_lau 推荐系统专家，而且有趣。当然其他大牛很多，这几个是关注的人还不算多，但绝对不该错过的。 [ [微博](http://www.weibo.com/5220650532/BtdjfEuRo) ]
+
+2014-10-25 //@昊奋:要了解更多schema.org的质量和语义等，可以挪步iswc2014 peter的analyzing schema.org，以及chris bizer对于lod和schema.org的全面比较 [ [微博](http://www.weibo.com/5220650532/BtdfehmmW) ]
+
+> 2014-10-24 @Gary南京: google跟facebook在KDD2014关于知识图谱的一个比较全面的介绍，值得看看：http://t.cn/R7IDq3E [ [微博](http://www.weibo.com/2784224080/BsZkfdlQD) ]
+
+2014-10-25 Python日报 2014-10-24 http://t.cn/R7JEphe 比较新颖的有@ARGV 推荐的pygrok正则表达式包 @Python开发者 推荐的pycrumbs 可以和更新的Awesome Python参照着看 http://t.cn/RvmZMyi Pypi更新里有一个新的任务队列工具WorQ。Python日报近期还会改版，增加更丰富的内容。 [ [微博](http://www.weibo.com/5220650532/Btdaok9SC) ]
+
+2014-10-25 @陆浑戎 @设定控 @殆知阁 几位文史类的资源帝，有人问能不能找到49年以前的《南洋学报》，你们有没有印象或者线索？ [ [微博](http://www.weibo.com/5220650532/BtcahsUR2) ]
+
+2014-10-25 //@李航博士: 强烈推荐#WSDM2015#的主题报告。你可能不知道Michael Franklin，但了解Spark；你可能没听说过Thorsten Joachims，但用过SVMLight；你也许不知晓Lada Adamic，但耳闻过Information Diffusion。尚有更过精彩的内容即将公布。 [ [微博](http://www.weibo.com/5220650532/Btc6WjbEi) ]
+
+> 2014-10-25 @WSDM2015: WSDM 2015邀请了数据科学领域的三位大牛来做主题报告：分别是Facebook的Lada Adamic，UC Berkeley的Michael Franklin，和Cornell的Thorsten Joachims。详细介绍：http://t.cn/R7Jyy0g [ [微博](http://www.weibo.com/5144018575/BtaF5pIgr) ]
+
+2014-10-25 请看以前的两条问答：《智能问答系统：心得点评与文献列表》 http://t.cn/R7JfGkY 《现今有哪些成功的智能问答系统》http://t.cn/R7JfGkQ 还有最近 @沈李斌NLP 的《问答系统中的知识图谱》http://t.cn/R7JfGkT [ [微博](http://www.weibo.com/5220650532/Btbkbbjx3) ]
+
+> 2014-10-25 @tornadomeet: @好东西传送门 帮找一些问答系统的好资料，ths. [ [微博](http://www.weibo.com/1750766782/Btb9mnFZt) ]
+
+2014-10-25 感谢 @星空下的巫师 @52nlp @Surah_Li @数盟社区 @Gary南京 今天的邮件继续测试发送了长版。不知道大家在阅读时间，打开速度，排版方面有什么意见？欢迎在下面留言告诉我。 [ [微博](http://www.weibo.com/5220650532/Bt8Rjy80c) ]
+
+> 2014-10-25 @好东西传送门: 机器学习头条 2014-10-24 http://t.cn/R7xuJTA 1)R语言的SVM教程 2)用 IBM Watson和Bluemix构造问答系统的详解 3)Robert Tibshirani讲Lasso应用于癌症检测PPT 4)机器学习中的范数规则化：L0、L1与L2范数 5)KDD2014上的知识图谱介绍 加长版45条 http://t.cn/R7xuJT2 [ [微博](http://www.weibo.com/5220650532/Bt8QEshPl) ]
+
+2014-10-25 机器学习头条 2014-10-24 http://t.cn/R7xuJTA 1)R语言的SVM教程 2)用 IBM Watson和Bluemix构造问答系统的详解 3)Robert Tibshirani讲Lasso应用于癌症检测PPT 4)机器学习中的范数规则化：L0、L1与L2范数 5)KDD2014上的知识图谱介绍 加长版45条 http://t.cn/R7xuJT2 [ [微博](http://www.weibo.com/5220650532/Bt8QEshPl) ]
+
+2014-10-25 问：有没有好用的python的excel工具库？答：功能文档都较全的有python-pptx 和openpyxl 这两个支持读写，创建电子表格。另外以读为主的有python-xlsx pyXLSX 转化excel为csv的有xlsx2csv 。当然也可以先转化excel为csv，用csv或unicodecsv包来处理。链接都在 http://t.cn/R7x8C4y [ [微博](http://www.weibo.com/5220650532/Bt851Bj3Q) ]
+
+2014-10-25 补充Michael Jordan原文 Why Big Data Could Be a Big Fail -- IEEE Spectrum http://t.cn/R7tmf96 . 乐村吐槽说Hinton是那种人，总想从生物学合理的角度理解大脑怎么工作，最后总是搞出来有点用但其实生物上并不靠谱的东西 [ [微博](http://www.weibo.com/5220650532/Bt7TPdJDj) ]
+
+> 2014-10-24 @张本宇: Yann LeCun关于Michael Jordan关于deep learning的IEEE访谈的Facebook长贴：http://t.cn/R7x6OAF，有访谈编辑的反驳，有大神Hilton的躺枪，有Jordan新博客的传送门。各种欢乐。@好东西传送门 [ [微博](http://www.weibo.com/1947318904/Bt5I2l1TL) ]
+
+2014-10-25 不错 [ [微博](http://www.weibo.com/5220650532/Bt7380fc7) ]
+
+> 2014-10-24 @whiteath: 一个小时的演讲，涵盖了很多python的特性 // A Few of My Favorite [Python] Things http://t.cn/R7xP6gQ  [ [微博](http://www.weibo.com/1913607345/Bt3YZCowT) ]
+
+2014-10-24 osdi(操作系统设计与实现大h大会)全部视频 [ [微博](http://www.weibo.com/5220650532/Bt2iJpUNZ) ]
+
+> 2014-10-24 @BigData大数据: #OSDI2014#OSID http://t.cn/RPNqTrv 已经放出来全部讲演的视频，这次效率无比高，第一先推荐 Parameter Server 真心话讲，这次@李沐M 的英文比上次刚回美国暑期学校的英文听起来舒服多了，正如自己说的：还是北京待久了不会说英文了[嘻嘻] [ [微博](http://www.weibo.com/2870219257/Bt24N6fBl) ]
+
+2014-10-24 转发微博 [ [微博](http://www.weibo.com/5220650532/Bt2eKmeNU) ]
+
+> 2014-10-24 @陈天奇怪: 推荐一下之我们和@李航博士 @鲁东东胖 的ICDM论文:) A Parallel and Efficient Algorithm for Learning to Match http://t.cn/R7MolL6 。一般推荐等匹配问题的state-of-art都是基于特征的矩阵分解模型，但是这类模型很难并行化。我们的工作解决了基于特征的匹配模型的并行化问题 [ [微博](http://www.weibo.com/2397265244/Bt1SS4UZi) ]
+
+2014-10-24 机器学习头条 2014-10-23 http://t.cn/R7MPNz6 1)gradient boosting的tutorial 2)知识图谱PPT: 语义网上的本体推理by漆桂林 3)知识图谱PPT: 垂直知识图谱构造工具与行业应用by阮彤 4)Java NLP工具包RainbowNLP 5)Python的从文本学习模板的小工具templatemaker 加长版29条 http://t.cn/R7MPNza [ [微博](http://www.weibo.com/5220650532/Bt2dRolim) ]
+
+2014-10-24 回复@战术核显英伟达: 是的，所有的微博都回来了。而且我们以后会更积极地备份历史数据到Github上。只要是好东西，就永远不能让它消失 http://t.cn/RPfAgNg //@战术核显英伟达:问下所有微博都恢复了么？ [ [微博](http://www.weibo.com/5220650532/Bt26uih0q) ]
+
+> 2014-10-24 @好东西传送门: 朋友们，我回来了！过去这一天多谢好多朋友关心和帮助，在此一并谢过！ [ [微博](http://www.weibo.com/5220650532/Bt239afdZ) ]
+
+2014-10-24 朋友们，我回来了！过去这一天多谢好多朋友关心和帮助，在此一并谢过！ [ [微博](http://www.weibo.com/5220650532/Bt239afdZ) ]
 
 2014-10-23 感谢 @网路冷眼 @张颖峰 @龙星镖局 @梁斌penny @王威廉 今天继续做了版式的调整，以平衡不同读者对短版和长版需求的差异。以前的短版现在作为今日焦点放在最前面。没有时间的读者可以只看这5条。如果对目前的长版有更多建议，欢迎大家回信hao@memect.com， 谢谢！ [ [微博](http://www.weibo.com/5220650532/BsRphENEq) ]
 
