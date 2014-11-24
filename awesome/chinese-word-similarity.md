@@ -80,6 +80,10 @@ http://www.weibo.com/1895401411/BhVDWofI5
 http://www.weibo.com/5220650532/BnmMGBraU
 
 
+@刘知远THU 转发于2014-11-23 10:09
+不少同学都在关注GloVe和word2vec并好奇它们的异同。贵系本科生史天泽利用NIPS上neural word embedding as implicit matrix factorization的结论，对两者优化目标做了简单分析和实验验证，结论整理成Linking GloVe with word2vec放在arxiv上，供大家参考，欢迎讨论和建议。http://t.cn/RzyMrkm [呵呵]
+
+
 ### ESA (Explicit Semantic Analysis)
 
 http://en.wikipedia.org/wiki/Explicit_semantic_analysis
