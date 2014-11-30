@@ -1,3 +1,5 @@
+讨论与进展 issue 26 https://github.com/memect/hao/issues/26
+
 ## Introduction
 
 http://blog.sina.com.cn/s/blog_eccca60e0101h1d6.html @cmdyz 流形学习 (Manifold Learning)
