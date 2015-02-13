@@ -23,7 +23,7 @@
 
 <img width=150 height=150 src="http://u.memect.com/shared/image/hao-wechat.jpeg"/>
 
-2. [订阅好东西周报](http://memect.co/n4BNxmj) (邮件列表，每周的问答与资源推荐合集，大约每周五发）
+2. [订阅好东西周报](http://haoweekly.memect.com/) (邮件列表，每周的问答与资源推荐合集，大约每周五发）
 
 ### 使用许可
 
